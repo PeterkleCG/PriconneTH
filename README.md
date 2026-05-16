@@ -1,10 +1,10 @@
 <img width="706" height="184" alt="Title" src="https://github.com/user-attachments/assets/e3143983-250f-4151-b0af-65ad0adcfa62" />
 
 # PriconneTH
-เป็นการเอา [Patch Eng](https://github.com/ImaterialC/PriconneRe-TL) กับ FixTL มาปรับให้เข้ากับภาษาไทย
+เป็นการเอา Patch Eng มาปรับให้เข้ากับภาษาไทย
 ## เครดิต
 
-โปรเจกต์นี้พัฒนาต่อยอดมาจากโปรเจกต์แปลภาษาอังกฤษของ [ImaterialC](https://github.com/ImaterialC)
+โปรเจกต์นี้พัฒนาต่อยอดมาจากโปรเจกต์แปลภาษาอังกฤษของ [PriconneRe-TL](https://github.com/ImaterialC)
 
 โค้ดและโครงสร้างหลักบางส่วนอ้างอิงมาจาก:
 https://github.com/ImaterialC/PriconneRe-TL
