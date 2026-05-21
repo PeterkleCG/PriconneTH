@@ -117,3 +117,6 @@ Root/ViewsArea/View/ViewSharedItemList(Clone)/SlideObj/Main/SortButtons/SortFilt
 
 ##Caravan Shop Item Name##
 /_Game(Clone)/UI Root/ViewsArea/View/ViewCaravanShop(Clone)/Main/SlideRight/AnchorRight/Contents/ScrollNodeBulk/ScrollContent/ScrollView/WrapContent/PartsCaravanCoinShopRow(Clone)/Grid/ShopList(Clone)/Label_item_name=ChangeFontSize(20)
+
+##Character Story##
+/_Game(Clone)/UI Root/ViewsArea/View/ViewStoryCharacterTop(Clone)/WidgetOff(Clone)/Right/AnchorRight/ScrollContentParent/ScrollContent/ScrollView/WrapContent/PartsStoryCharacterPlate(Clone)/selectObject/GUIGroup_Text/catchCopyLabel=ChangeFontSize(16)
