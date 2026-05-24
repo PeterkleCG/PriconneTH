@@ -1,0 +1,43 @@
+name: Release
+
+# Push a tag like v2.0.0 to build the patch into a .rar and publish a GitHub release.
+on:
+  push:
+    tags:
+      - 'v*'
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout (full, with tags)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Install rar
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y rar || (sudo add-apt-repository -y multiverse && sudo apt-get update && sudo apt-get install -y rar)
+
+      - name: Package patch -> Patch.TH.V<ver>.rar
+        run: |
+          VER="${GITHUB_REF_NAME#v}"
+          ( cd src && rar a -r "../Patch.TH.V${VER}.rar" . )
+          ls -lh Patch.TH.V*.rar
+
+      - name: Build release notes from tag message
+        run: |
+          git tag -l --format='%(contents)' "${GITHUB_REF_NAME}" > RELEASE_BODY.md
+          echo "----- release body -----"
+          cat RELEASE_BODY.md
+
+      - name: Publish release
+        uses: softprops/action-gh-release@v2
+        with:
+          name: "PriconneTH ${{ github.ref_name }}"
+          body_path: RELEASE_BODY.md
+          files: Patch.TH.V*.rar
