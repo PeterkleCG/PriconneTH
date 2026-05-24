@@ -1,20 +1,75 @@
 <img width="706" height="184" alt="Title" src="https://github.com/user-attachments/assets/e3143983-250f-4151-b0af-65ad0adcfa62" />
 
 # PriconneTH
-เป็นการเอา Patch Eng มาปรับให้เข้ากับภาษาไทย
-## เครดิต
 
-โปรเจกต์นี้พัฒนาต่อยอดมาจากโปรเจกต์แปลภาษาอังกฤษของ [PriconneRe-TL](https://github.com/ImaterialC)
+แพตช์แปล UI **ภาษาไทย** (ไม่เป็นทางการ) สำหรับ [Princess Connect! Re:Dive เซิร์ฟเวอร์ญี่ปุ่น](https://dmg.priconne-redive.jp/)
+ต่อยอดจาก English patch ของ [PriconneRe-TL](https://github.com/ImaterialC/PriconneRe-TL) แล้วเติมคำแปลไทยทางการจากฐานข้อมูลเซิร์ฟเวอร์ไทยเดิม
 
-โค้ดและโครงสร้างหลักบางส่วนอ้างอิงมาจาก:
-https://github.com/ImaterialC/PriconneRe-TL
+จุดประสงค์หลักของโปรเจกต์นี้คือการแปลส่วนติดต่อผู้ใช้ของเกมให้เป็นภาษาไทย เพื่อให้ผู้ที่ไม่เข้าใจภาษาญี่ปุ่นสามารถเล่นเกมได้ง่ายขึ้น
+
+> ⚠️ **คำเตือน:** โปรดใช้งานด้วยความรับผิดชอบของตนเอง ทางเราไม่รับผิดชอบต่อการดำเนินการใด ๆ กับบัญชีของคุณ หากคุณใช้เครื่องมือแปลนี้
+
+---
+
+## 💬 Community
+
+สงสัยอะไรเรื่องในเกมกับ Patch ไปสอบถามกันได้ใน Discord
+เข้ามาเป็นส่วนหนึ่งของ Community กับพวกเราได้ที่ลิงก์ด้านล่างเลย
+
+[![Discord](https://img.shields.io/badge/Discord-เข้าร่วม-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/AtmAsm8pwv)
 
 ---
 
-⚠️ คำเตือน: โปรดใช้งานด้วยความรับผิดชอบของตนเอง!! ทางเราไม่รับผิดชอบต่อการดำเนินการใด ๆ กับบัญชีของคุณ หากคุณใช้เครื่องมือแปลนี้
+## ✨ ฟีเจอร์
 
-Priconne Re: TLTH คือแพตช์แปล UI ภาษาไทยแบบไม่เป็นทางการสำหรับเกม [Princess Connect! Re:Dive เซิฟ JP](https://dmg.priconne-redive.jp/) โดยจุดประสงค์หลักของโปรเจกต์นี้คือการแปลส่วนติดต่อผู้ใช้ของเกมให้เป็นภาษาไทย เพื่อให้ผู้ที่ไม่เข้าใจภาษาญี่ปุ่นสามารถเล่นเกมได้ง่ายขึ้น
-
-ยินดีต้อนรับทุกความช่วยเหลือและการมีส่วนร่วมกับโปรเจกต์นี้!
+- **คำแปลไทยทางการ** จาก master DB เซิร์ฟเวอร์ไทยเดิม — สกิล, ชื่อ/โปรไฟล์ตัวละคร, ไอเทม, อุปกรณ์, ชื่อตอนเนื้อเรื่อง, อภิธานศัพท์, ภารกิจ, ศัตรู ฯลฯ
+- **ลำดับความสำคัญการแปล:** ไทยทางการ → ไทย fan-TL → English → ญี่ปุ่น
+- **ส่วนที่ยังไม่มีไทย แสดงเป็น English (ไม่ใช่ญี่ปุ่น)** — อ่านเข้าใจได้แม้ยังแปลไม่ครบ
+- **รูปภาพ (Texture):** ใช้ของไทยที่มี ทับบนฐานภาษาอังกฤษ
+- **ตัวติดตั้ง (.exe):** ติดตั้ง/อัปเดตแพตช์อัตโนมัติในคลิกเดียว
 
 ---
+
+## 💾 ติดตั้ง
+
+ดาวน์โหลดล่าสุดที่ [**Releases**](https://github.com/PeterkleCG/PriconneTH/releases/latest)
+
+### วิธีที่ 1 — ตัวติดตั้งอัตโนมัติ (แนะนำ)
+1. โหลดไฟล์ตัวติดตั้ง (`.exe`)
+2. เปิดโปรแกรม → กดติดตั้ง (ตรวจหาเกมให้อัตโนมัติ ติดตั้ง/อัปเดตให้เอง)
+
+### วิธีที่ 2 — ติดตั้งเอง
+1. โหลดไฟล์แพตช์ (`.zip`)
+2. แตกไฟล์ทั้งหมดลงในโฟลเดอร์เกม `priconner`
+3. รันครั้งแรกจะค้างสักครู่ ครั้งต่อไปปกติ
+
+> ติดตั้งเกมจาก DMM Game Player เท่านั้น (ไม่ใช่ผ่าน emulator)
+
+---
+
+## 🤝 ร่วมแปล
+
+ยินดีต้อนรับทุกการมีส่วนร่วม! ไฟล์แปลอยู่ใน `src/BepInEx/Translation/th/Text/` (รูปแบบ `ญี่ปุ่น=ไทย` หนึ่งคู่ต่อบรรทัด) เพิ่มรูปภาพไทยได้เช่นกัน — มาคุยกันได้ใน Discord
+
+---
+
+## 🙏 เครดิต
+
+### คนแปลไทย
+- Peterkle
+- HetCreep
+- ลุงนิพ
+
+### AI Co-Engineers
+- **Antigravity** (Google DeepMind)
+- **Claude Code** (Anthropic)
+
+### ต้นฉบับ & เครื่องมือ
+- English patch: [PriconneRe-TL](https://github.com/ImaterialC/PriconneRe-TL) โดย ImaterialC
+- ฐานข้อมูล master.db ทุกเซิร์ฟเวอร์: [Expugn/priconne-database](https://github.com/Expugn/priconne-database)
+- ตัวติดตั้ง: ต่อยอดจาก [tynave/PriconneReTL-Installer](https://github.com/tynave/PriconneReTL-Installer)
+- [BepInEx](https://github.com/BepInEx/BepInEx) + [XUnity.AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator)
+
+---
+
+ทรัพย์สินทั้งหมดเป็นของ Cygames, Inc. และผู้สร้างต้นฉบับ โปรเจกต์นี้เป็น fan project ไม่แสวงหากำไร
