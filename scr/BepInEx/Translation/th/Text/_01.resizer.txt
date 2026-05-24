@@ -1,0 +1,122 @@
+##ปุ่มพื้นฐาน ด้านล่าง##
+/_Game(Clone)/UI Root/ViewsArea/PartsFooter(Clone)/SlideBottom/ButtonHome/Normal/Label=ChangeFontSize(18)
+/_Game(Clone)/UI Root/ViewsArea/PartsFooter(Clone)/SlideBottom/ButtonHome/Selected/Label=ChangeFontSize(18)
+/_Game(Clone)/UI Root/ViewsArea/PartsFooter(Clone)/SlideBottom/ButtonHome/Disable/Label=ChangeFontSize(18)
+/_Game(Clone)/UI Root/ViewsArea/PartsFooter(Clone)/SlideBottom/ButtonUnit/Normal/Label=ChangeFontSize(18)
+/_Game(Clone)/UI Root/ViewsArea/PartsFooter(Clone)/SlideBottom/ButtonUnit/Selected/Label=ChangeFontSize(18)
+/_Game(Clone)/UI Root/ViewsArea/PartsFooter(Clone)/SlideBottom/ButtonUnit/Disable/Label=ChangeFontSize(18)
+/_Game(Clone)/UI Root/ViewsArea/PartsFooter(Clone)/SlideBottom/ButtonKnightEnhance/Normal/Label=ChangeFontSize(18)
+/_Game(Clone)/UI Root/ViewsArea/PartsFooter(Clone)/SlideBottom/ButtonKnightEnhance/Selected/Label=ChangeFontSize(18)
+/_Game(Clone)/UI Root/ViewsArea/PartsFooter(Clone)/SlideBottom/ButtonKnightEnhance/Disable/Label=ChangeFontSize(18)
+/_Game(Clone)/UI Root/ViewsArea/PartsFooter(Clone)/SlideBottom/ButtonStory/Normal/Label=ChangeFontSize(18)
+/_Game(Clone)/UI Root/ViewsArea/PartsFooter(Clone)/SlideBottom/ButtonStory/Selected/Label=ChangeFontSize(18)
+/_Game(Clone)/UI Root/ViewsArea/PartsFooter(Clone)/SlideBottom/ButtonStory/Disable/Label=ChangeFontSize(18)
+/_Game(Clone)/UI Root/ViewsArea/PartsFooter(Clone)/SlideBottom/ButtonQuest/Normal/Label=ChangeFontSize(18)
+/_Game(Clone)/UI Root/ViewsArea/PartsFooter(Clone)/SlideBottom/ButtonQuest/Selected/Label=ChangeFontSize(18)
+/_Game(Clone)/UI Root/ViewsArea/PartsFooter(Clone)/SlideBottom/ButtonQuest/Disable/Label=ChangeFontSize(18)
+/_Game(Clone)/UI Root/ViewsArea/PartsFooter(Clone)/SlideBottom/ButtonRoom/Normal/Label=ChangeFontSize(18)
+/_Game(Clone)/UI Root/ViewsArea/PartsFooter(Clone)/SlideBottom/ButtonRoom/Selected/Label=ChangeFontSize(18)
+/_Game(Clone)/UI Root/ViewsArea/PartsFooter(Clone)/SlideBottom/ButtonRoom/Disable/Label=ChangeFontSize(18)
+/_Game(Clone)/UI Root/ViewsArea/PartsFooter(Clone)/SlideBottom/ButtonGacha/Normal/Label=ChangeFontSize(18)
+/_Game(Clone)/UI Root/ViewsArea/PartsFooter(Clone)/SlideBottom/ButtonGacha/Selected/Label=ChangeFontSize(18)
+/_Game(Clone)/UI Root/ViewsArea/PartsFooter(Clone)/SlideBottom/ButtonGacha/Disable/Label=ChangeFontSize(18)
+/_Game(Clone)/UI Root/ViewsArea/PartsFooter(Clone)/SlideBottom/ButtonMenu/Normal/Label=ChangeFontSize(18)
+/_Game(Clone)/UI Root/ViewsArea/PartsFooter(Clone)/SlideBottom/ButtonMenu/Selected/Label=ChangeFontSize(18)
+/_Game(Clone)/UI Root/ViewsArea/PartsFooter(Clone)/SlideBottom/ButtonMenu/Disable/Label=ChangeFontSize(18)
+
+##ปุ่ม Shopฯ##
+/_Game(Clone)/UI Root/ViewsArea/View/ViewHome(Clone)/OtherNode/WidgetOff(Clone)/Right/BottomRightAnchor/ButtonShopIcon/Label=ChangeFontSize(14)
+/_Game(Clone)/UI Root/ViewsArea/View/ViewHome(Clone)/OtherNode/WidgetOff(Clone)/Right/BottomRightAnchor/ButtonDailyTaskIcon/Label=ChangeFontSize(14)
+/_Game(Clone)/UI Root/ViewsArea/View/ViewHome(Clone)/OtherNode/WidgetOff(Clone)/Right/BottomRightAnchor/ButtonMissionIcon/Label=ChangeFontSize(14)
+/_Game(Clone)/UI Root/ViewsArea/View/ViewHome(Clone)/OtherNode/WidgetOff(Clone)/Right/BottomRightAnchor/ButtonPresentIcon/Label=ChangeFontSize(14)
+/_Game(Clone)/UI Root/ViewsArea/View/ViewHome(Clone)/OtherNode/WidgetOff(Clone)/Right/BottomRightAnchor/ButtonAlces/Label=ChangeFontSize(14)
+
+
+##EX Equip [01]##
+_Game(Clone)/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonPartyEdit(Clone)/Main/ButtonShort/ButtonExEquip/ExEquipLabel=ChangeFontSize(12)
+
+##Filter ธาตุ [01]##
+/_Game(Clone)/UI Root/ViewsArea/View/ViewUnitTop(Clone)/WidgetOff(Clone)/contents/FilterTab/TabButton_Talent_1/Label=ChangeFontSize(20)
+/_Game(Clone)/UI Root/ViewsArea/View/ViewUnitTop(Clone)/WidgetOff(Clone)/contents/FilterTab/TabButton_Talent_2/Label=ChangeFontSize(20)
+/_Game(Clone)/UI Root/ViewsArea/View/ViewUnitTop(Clone)/WidgetOff(Clone)/contents/FilterTab/TabButton_Talent_3/Label=ChangeFontSize(20)
+/_Game(Clone)/UI Root/ViewsArea/View/ViewUnitTop(Clone)/WidgetOff(Clone)/contents/FilterTab/TabButton_Talent_4/Label=ChangeFontSize(20)
+/_Game(Clone)/UI Root/ViewsArea/View/ViewUnitTop(Clone)/WidgetOff(Clone)/contents/FilterTab/TabButton_Talent_5/Label=ChangeFontSize(20)
+
+##รายการItem [01]##
+/_Game(Clone)/UI Root/ViewsArea/View/ViewSharedItemList(Clone)/WidgetOff(Clone)/SlideObj/Main/TabObject/MemoryPieceTab/State_Active/Label=ChangeFontSize(16)
+/_Game(Clone)/UI Root/ViewsArea/View/ViewSharedItemList(Clone)/WidgetOff(Clone)/SlideObj/Main/TabObject/MemoryPieceTab/State_Normal/Label=ChangeFontSize(16)
+
+##Shop [01]##
+/_Game(Clone)/UI Root/ViewsArea/View/ViewShop(Clone)/Main/SlideRight/AnchorRight/TabPos/PartsShopTab04(Clone)/NormalShopTab/TabButton_1/State_Normal/Label=ChangeFontSize(18)
+/_Game(Clone)/UI Root/ViewsArea/View/ViewShop(Clone)/Main/SlideRight/AnchorRight/TabPos/PartsShopTab04(Clone)/NormalShopTab/TabButton_1/State_Active/Label=ChangeFontSize(18)
+/_Game(Clone)/UI Root/ViewsArea/View/ViewShop(Clone)/Main/WidgetOff(Clone)/SlideRight/AnchorRight/TabPos/PartsShopTab04(Clone)/NormalShopTab/TabButton_1/State_Normal/Label=ChangeFontSize(18)
+/_Game(Clone)/UI Root/ViewsArea/View/ViewShop(Clone)/Main/WidgetOff(Clone)/SlideRight/AnchorRight/TabPos/PartsShopTab04(Clone)/MemoryPieceShopTab/TabButton_9/State_Normal/Label=ChangeFontSize(18)
+/_Game(Clone)/UI Root/ViewsArea/View/ViewShop(Clone)/Main/WidgetOff(Clone)/SlideRight/AnchorRight/TabPos/PartsShopTab04(Clone)/MemoryPieceShopTab/TabButton_9/State_Active/Label=ChangeFontSize(18)
+/_Game(Clone)/UI Root/ViewsArea/View/ViewShop(Clone)/Main/SlideRight/AnchorRight/TabPos/PartsShopTab04(Clone)/MemoryPieceShopTab/TabButton_9/State_Active/Label=ChangeFontSize(18)
+/_Game(Clone)/UI Root/ViewsArea/View/ViewShop(Clone)/Main/WidgetOff(Clone)/SlideRight/AnchorRight/TabPos/PartsShopTab04(Clone)/LimitedShopTab/TabButton_10/State_Active/Label=ChangeFontSize(18)
+/_Game(Clone)/UI Root/ViewsArea/View/ViewShop(Clone)/Main/SlideRight/AnchorRight/TabPos/PartsShopTab04(Clone)/LimitedShopTab/TabButton_10/State_Normal/Label=ChangeFontSize(18)
+/_Game(Clone)/UI Root/ViewsArea/View/ViewShop(Clone)/Main/SlideRight/AnchorRight/TabPos/PartsShopTab04(Clone)/LimitedShopTab/TabButton_10/State_Active/Label=ChangeFontSize(18)
+/_Game(Clone)/UI Root/ViewsArea/View/ViewShop(Clone)/Main/WidgetOff(Clone)/SlideRight/AnchorRight/TabPos/PartsShopTab04(Clone)/LimitedShopTab/TabButton_10/State_Normal/Label=ChangeFontSize(18)
+/_Game(Clone)/UI Root/ViewsArea/View/ViewShop(Clone)/Main/WidgetOff(Clone)/SlideRight/AnchorRight/TabPos/PartsShopTab04(Clone)/ExEquipmentShopTab/TabButton_7/State_Normal/Label=ChangeFontSize(14)
+/_Game(Clone)/UI Root/ViewsArea/View/ViewShop(Clone)/Main/SlideRight/AnchorRight/TabPos/PartsShopTab04(Clone)/ExEquipmentShopTab/TabButton_7/State_Normal/Label=ChangeFontSize(14)
+/_Game(Clone)/UI Root/ViewsArea/View/ViewShop(Clone)/Main/SlideRight/AnchorRight/TabPos/PartsShopTab04(Clone)/ExEquipmentShopTab/TabButton_7/State_Active/Label=ChangeFontSize(14)
+/_Game(Clone)/UI Root/ViewsArea/View/ViewShop(Clone)/Main/SlideRight/AnchorRight/TabPos/PartsShopTab04(Clone)/ConnectShopTab/TabButton_8/State_Active/Label=ChangeFontSize(18)
+/_Game(Clone)/UI Root/ViewsArea/View/ViewShop(Clone)/Main/SlideRight/AnchorRight/TabPos/PartsShopTab04(Clone)/ConnectShopTab/TabButton_8/State_Normal/Label=ChangeFontSize(18)
+/_Game(Clone)/UI Root/ViewsArea/View/ViewShop(Clone)/Main/WidgetOff(Clone)/SlideRight/AnchorRight/TabPos/PartsShopTab04(Clone)/ConnectShopTab/TabButton_8/State_Normal/Label=ChangeFontSize(18)
+
+##UI เพิ่มพลัง [01] ##
+/_Game(Clone)/UI Root/ViewsArea/View/ViewUnitDetail(Clone)/Right/PartsViewUnitDetailTab/EvolutionTab/EvolutionTabActiveNode/tab_text_rarity_selected=ChangeFontSize(18)
+/_Game(Clone)/UI Root/ViewsArea/View/ViewUnitDetail(Clone)/WidgetOff(Clone)/Right/PartsViewUnitDetailTab/EvolutionTab/EvolutionTabInactiveNode/tab_text_rarity=ChangeFontSize(18)
+/_Game(Clone)/UI Root/ViewsArea/View/ViewUnitDetail(Clone)/WidgetOff(Clone)/Right/PartsViewUnitDetailTab/UniqueEquipmentTab/UniqueEquipmentTabInactiveNode/tab_text_rarity=ChangeFontSize(15)
+/_Game(Clone)/UI Root/ViewsArea/View/ViewUnitDetail(Clone)/Right/PartsViewUnitDetailTab/UniqueEquipmentTab/UniqueEquipmentTabActiveNode/tab_text_unique_equip_selected=ChangeFontSize(15)
+
+
+##Story UI##
+/_Game(Clone)/UI Root/ViewsArea/View/ViewStoryTop(Clone)/FadeOut/Buttons/WidgetOff(Clone)/MainStoryButton/MainStoryTitleLabel=ChangeFontSize(40)
+/_Game(Clone)/UI Root/ViewsArea/View/ViewStoryTop(Clone)/FadeOut/Buttons/WidgetOff(Clone)/CharacterStoryButton/CharacterStoryTitleLabel=ChangeFontSize(40)
+/_Game(Clone)/UI Root/ViewsArea/View/ViewStoryTop(Clone)/FadeOut/Buttons/WidgetOff(Clone)/GuildStoryButton/GuildStoryTitleLabel=ChangeFontSize(40)
+/_Game(Clone)/UI Root/ViewsArea/View/ViewStoryTop(Clone)/FadeOut/Buttons/WidgetOff(Clone)/ExtraStoryButton/ExtraStoryTitleLabel=ChangeFontSize(40)
+
+--Desc.--
+/_Game(Clone)/UI Root/ViewsArea/View/ViewStoryTop(Clone)/FadeOut/Buttons/WidgetOff(Clone)/MainStoryButton/MainStoryDetailLabel=ChangeFontSize(22)
+/_Game(Clone)/UI Root/ViewsArea/View/ViewStoryTop(Clone)/FadeOut/Buttons/WidgetOff(Clone)/CharacterStoryButton/CharacterStoryDetailLabel=ChangeFontSize(22)
+/_Game(Clone)/UI Root/ViewsArea/View/ViewStoryTop(Clone)/FadeOut/Buttons/WidgetOff(Clone)/GuildStoryButton/GuildStoryDetailLabel=ChangeFontSize(22)
+/_Game(Clone)/UI Root/ViewsArea/View/ViewStoryTop(Clone)/FadeOut/Buttons/WidgetOff(Clone)/ExtraStoryButton/ExtraStoryDetailLabel=ChangeFontSize(22)
+
+##ศึกความทรางจำ##
+/_Game(Clone)/UI Root/ViewsArea/View/ViewMirageTop(Clone)/WidgetOff(Clone)/RightNode/NemesisQuestButton/Label=ChangeFontSize(24)
+
+##Arena History##
+/_Game(Clone)/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize(Clone)/Main/PartsParent/PartsDialogArenaBattleHistory(Clone)/ScrollContent/ScrollView/WrapContent/PartsNormalArenaBattleHistoryList(Clone)/DetailButton/Text=ChangeFontSize(14)
+
+##Clan##
+/_Game(Clone)/UI Root/ViewsArea/View/ViewClanTop(Clone)/WidgetOff(Clone)/ClanUI/UI_Left/GUIGroup_leftInfo/GUIGroup_ReleaseSingleMode/GUIGroup_Ranking/UIButton_RankingDetail/Label(font=HummingStd-E)=ChangeFontSize(14)
+
+##Event BOX##
+/_Game(Clone)/UI Root/ViewsArea/View/ViewSevenGacha(Clone)/WidgetOff(Clone)/RightObj/GUIGroup_Ticket/Label_ticket=ChangeFontSize(18)
+/_Game(Clone)/UI Root/ViewsArea/View/ViewSevenQuest(Clone)/WidgetOff(Clone)/RightObj/Gacha/GUIGroup_Ticket/Label=ChangeFontSize(18)
+
+##Item Desciption##
+/_Game(Clone)/UI Root/ViewsArea/View/ViewSharedItemList(Clone)/SlideObj/Main/NodeItemDetail/ExEquip/ExEquipStatus/Scroll/ScrollView/EquipmentInfo/UITable/Head/ItemDescription/ItemDescriptionLabel=ChangeFontSize(16)
+/_Game(Clone)/UI Root/ViewsArea/View/ViewSharedItemList(Clone)/SlideObj/Main/NodeItemDetail/NormalItem/NodeItemInfo/ItemDescription/ItemDescriptionLabel=ChangeFontSize(16)
+
+##EX Equip จำนวนที่มี+Item Desciption##
+/_Game(Clone)/UI 
+Root/ViewsArea/View/ViewSharedItemList(Clone)/SlideObj/Main/SortButtons/SortFilterButton/Label=ChangeFontSize(14)
+/_Game(Clone)/UI Root/ViewsArea/View/ViewSharedItemList(Clone)/SlideObj/Main/NodeItemDetail/ExEquip/ExEquipStatus/Head/ItemDescriptionLabel=ChangeFontSize(16)
+
+##Shop Item Name##
+/_Game(Clone)/UI Root/ViewsArea/View/ViewShop(Clone)/Main/SlideRight/AnchorRight/Contents/ScrollNode/ScrollContent/ScrollView/WrapContent/ShopLists(Clone)/Grid/ShopList(Clone)/Label_item_name=ChangeFontSize(20)
+/_Game(Clone)/UI Root/ViewsArea/View/ViewShop(Clone)/Main/WidgetOff(Clone)/SlideRight/AnchorRight/Contents/ScrollNode/ScrollContent/ScrollView/WrapContent/ShopLists(Clone)/Grid/ShopList(Clone)/Label_item_name=ChangeFontSize(20)
+
+##Shop ปุ่มขวาล่าง##
+/_Game(Clone)/UI Root/ViewsArea/View/ViewShop(Clone)/Main/SlideRight/AnchorRight/FooterDefault/ButtonMove/Label_target=ChangeFontSize(18)
+
+##Adventure##
+/_Game(Clone)/UI Root/ViewsArea/View/ViewTravelTop(Clone)/FrontPanel/TravelTopParts/LeftAnchor/TravelAreaSelectMenu/OpenCloseButton/travel_btnicon_map_close/Label=ChangeFontSize(18)
+
+##Caravan Shop Item Name##
+/_Game(Clone)/UI Root/ViewsArea/View/ViewCaravanShop(Clone)/Main/SlideRight/AnchorRight/Contents/ScrollNodeBulk/ScrollContent/ScrollView/WrapContent/PartsCaravanCoinShopRow(Clone)/Grid/ShopList(Clone)/Label_item_name=ChangeFontSize(20)
+
+##Character Story##
+/_Game(Clone)/UI Root/ViewsArea/View/ViewStoryCharacterTop(Clone)/WidgetOff(Clone)/Right/AnchorRight/ScrollContentParent/ScrollContent/ScrollView/WrapContent/PartsStoryCharacterPlate(Clone)/selectObject/GUIGroup_Text/catchCopyLabel=ChangeFontSize(16)
