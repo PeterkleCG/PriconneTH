@@ -1,6 +1,7 @@
 name: Release
 
-# Push a tag like v2.0.0 to build the patch into a .rar and publish a GitHub release.
+# Push a tag like v2.0.1 to package the patch (.zip) + bundle the installer (.exe)
+# and publish a GitHub release. Release notes come from release-notes/<tag>.md.
 on:
   push:
     tags:
@@ -18,26 +19,39 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Install rar
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y rar || (sudo add-apt-repository -y multiverse && sudo apt-get update && sudo apt-get install -y rar)
-
-      - name: Package patch -> Patch.TH.V<ver>.rar
+      - name: Package patch -> Patch.TH.V<ver>.zip
         run: |
           VER="${GITHUB_REF_NAME#v}"
-          ( cd src && rar a -r "../Patch.TH.V${VER}.rar" . )
-          ls -lh Patch.TH.V*.rar
+          ( cd src && zip -r -q "../Patch.TH.V${VER}.zip" BepInEx dotnet changelog.txt doorstop_config.ini dxgi.dll .doorstop_version )
+          ls -lh Patch.TH.V*.zip
 
-      - name: Build release notes from tag message
+      - name: Fetch installer .exe (latest from HetCreep/PriconneReTL-Installer)
         run: |
-          git tag -l --format='%(contents)' "${GITHUB_REF_NAME}" > RELEASE_BODY.md
-          echo "----- release body -----"
-          cat RELEASE_BODY.md
+          URL=$(curl -s https://api.github.com/repos/HetCreep/PriconneReTL-Installer/releases/latest \
+                | grep -o '"browser_download_url": *"[^"]*\.exe"' | head -1 \
+                | sed 's/.*"\(https[^"]*\)"/\1/')
+          echo "installer url: $URL"
+          if [ -n "$URL" ]; then
+            curl -L -o "PriconneTH-Installer.exe" "$URL"
+            ls -lh PriconneTH-Installer.exe
+          else
+            echo "WARNING: no installer .exe found in HetCreep latest release"
+          fi
+
+      - name: Build release notes
+        run: |
+          if [ -f "release-notes/${GITHUB_REF_NAME}.md" ]; then
+            cp "release-notes/${GITHUB_REF_NAME}.md" RELEASE_BODY.md
+          else
+            git tag -l --format='%(contents)' "${GITHUB_REF_NAME}" > RELEASE_BODY.md
+          fi
+          echo "----- release body -----"; cat RELEASE_BODY.md
 
       - name: Publish release
         uses: softprops/action-gh-release@v2
         with:
           name: "PriconneTH ${{ github.ref_name }}"
           body_path: RELEASE_BODY.md
-          files: Patch.TH.V*.rar
+          files: |
+            Patch.TH.V*.zip
+            PriconneTH-Installer.exe
