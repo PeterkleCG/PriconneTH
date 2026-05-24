@@ -1,0 +1,7 @@
+【物理】中衛で味方を支援し、守護する聖夜の牧場主。範囲内の敵をノックバックさせることで相手の隊列を崩し全体物理バリア展開と単体ＨＰ回復で激戦を勝利に導く。=[Physical] A ranch owner of the holy night who supports and protects allies in midlines. By knocking back enemies in range, she disrupts their formation and leads the battle to victory with a wide-range physical barrier deployment and single-target HP recovery.
+r:"^味方全体の物理防御力を(\d+)アップ(\d+)ダメージ分の物理無効バリアを展開する$"=►Boosts allies' P.DEF by $1 for 18s.\n►Deploys Barrier over all allies that negates $2 P.DMG for 18s.
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵の行動速度を一定時間低下させる$"=►Deals $1 P.DMG to enemies in 150 range.\n►Reduces enemies' action speed in 150 range to 60% for 12s.\n►Knockbacks enemies by 600 units.
+セイントハーベスト+=Saint Harvest+
+最もＨＰが低い味方１キャラのＨＰを大回復させ、さらに物理防御力を中アップする。さらに味方全体の物理攻撃力を大アップし、ＨＰとＴＰを小回復する。=Greatly recovers an ally's HP with the lowest HP and boosts its P.DEF by a moderate amount. Also, boosts all allies' P.ATK by a large amount, and slightly recovers their HP and TP.
+r:"^味方単体のＨＰを(\d+)回復味方単体の物理防御力を(\d+)アップ味方全体の物理攻撃力を(\d+)アップ味方全体のＴＰを(\d+)回復味方全体のＨＰを(\d+)回復$"=►Recovers an ally's HP by $1.\n►Boosts an ally's P.DEF by $2 for 12s.\n►Boosts all allies' P.ATK by $3 for 12s.\n►Recovers all allies' TP by $4.\n►Recovers all allies' HP by $5.
+大聖牧杖エリザベス=Great Holy Staff Elizabeth

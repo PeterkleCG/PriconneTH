@@ -1,0 +1,13 @@
+【物理】中衛で、どたばたと敵をかく乱する、純情少女。敵をスタンさせるスキルのほか、ユニオンバーストでは暗闇と混乱を付与することで敵を邪魔することができる。=[Physical] A purehearted girl who wildly disrupts the enemy from the midlines. Aside from stunning foes with her skills, she can also inflict Blind and Confusion with her Union Burst to prevent their attacks from finding their mark.
+超個性派ヒロイン、誕生？=Birth of an Ultra-Unique Heroine?
+前方範囲内の敵すべてに物理中ダメージを与え、さらに暗闇=Deals moderate P.DMG to all enemies in range and inflicts Blind.
+混乱状態にする。=and confusion.
+けんぞくにしてあげる！=I'll kick your ass!
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵を暗闇状態にする範囲内の敵を混乱させる$"=►Deals $1 P.DMG to all enemies in 1200 range to enemies.\n►Inflicts Blind to enemies in range for 6s (-70% hit rate).\n►Confuses enemies in range for 4s.
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵の物理攻撃力を(\d+)ダウン$"=►Deals $1 P.DMG to all enemies.\n►Lowers all enemies' P.ATK by $2 for 12s.
+r:"^自分の物理防御力を(\d+)アップ$"=►Boosts own P.DEF by $1.
+はわわわ、大変です～！？=Hawawa, Isn't this a Disaster~!?
+前方範囲内の敵すべてに物理大ダメージを与え、暗闇・混乱状態にし、さらにＴＰ上昇を大ダウンさせる。このスキルを使用するたび、最大３回までダメージが増加する。=Deals massive P.DMG to all enemies within range, inflicts darkness and confusion, and greatly reduces TP Boost. Each time you use this skill, damage increases up to 3 times.
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵を暗闇状態にする範囲内の敵を混乱させる範囲内の敵のＴＰ上昇を(\d+)ダウン$"=►Deals $1 P.DMG to all enemies in 1200 range to enemies.\n►Inflicts Blind to enemies in range for 12s (-70% hit rate).\n►Confuses enemies in range for 8s.\n►Lowers enemies TP Boost in range by $2 for 12s.
+混乱状態にし、さらにＴＰ上昇を大ダウンさせる。このスキルを使用するたび、最大３回までダメージが増加する。=Inflicts Confusion and greatly lowers TP Boost. Each time this skill is used, its damage increases, up to a maximum of 3 times.
+前方範囲内の敵すべてに物理大ダメージを与え、暗闇=Deals large P.DMG to all enemies in a frontal area and inflicts Blind.

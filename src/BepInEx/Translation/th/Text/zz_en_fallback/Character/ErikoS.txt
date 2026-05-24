@@ -1,0 +1,7 @@
+【物理】中衛で、火花を纏い夕闇を彩る真夏の壊し屋。二つのスキルで物理防御力を下げ、ダメージ量に応じてクリティカル上昇が延長するＵＢで眼前の敵を粉砕する。=[Physical] A midsummer Destroyer that colors the evening with sparks in midlines. She uses two skills to lower her physical defense and crush enemies in front of her with a UB that extends critical boosts based on the amount of damage she takes.
+目の前の敵１キャラの物理防御力を大ダウンさせる。さらに、自分のＴＰを小回復する。=Greatly lowers a frontmost enemy's P.DEF. Additionally, slightly recovers own TP.
+r:"^敵単体の物理防御力を(\d+)ダウン自分のＴＰを(\d+)回復$"=►Lowers an enemy's P.DEF by $1 for 12s.\n►Recovers own TP by $2.
+アルケミックサマー+=Alchemic Summer+
+目の前の敵１キャラのクリティカルを受けた際のダメージを小アップ、毒状態と猛毒状態にし、物理防御力を大ダウンさせる。さらに、自分のＴＰを中回復する。対象の敵が毒状態だった場合、毒のダメージがアップ、猛毒状態だった場合、猛毒のダメージがアップする。=Slightly increases critical damage taken, inflicts Poison and Venom, and greatly lowers P.DEF of the enemy directly ahead. Also moderately recovers own TP. If the target is already Poisoned, boosts Poison damage. If the target is already Venomed, boosts Venom damage.
+r:"^敵単体の物理防御力を(\d+)ダウン敵単体の被クリダメを(\d+)％アップ(\d+)ダメージを与える毒状態にする敵が毒状態の時、(\d+)ダメージを与える毒状態にする(\d+)ダメージを与える猛毒状態にする敵が猛毒状態の時、(\d+)ダメージを与える猛毒状態にする自分のＴＰを(\d+)回復$"=►Lowers a single enemy's P.DEF by $1.\n►Boosts a single enemy's CRIT DMG taken by $2%.\n►Inflicts Poison, dealing $3 P.DMG.\nIf enemy is Poisoned:\n►Inflicts Poison, dealing $4 P.DMG.\n►Inflicts Venom, dealing $5 P.DMG.\nIf enemy is Venomed:\n►Inflicts Venom, dealing $6 P.DMG.\n►Recovers own TP by $7.
+ロマンスポーション=Romance Potion

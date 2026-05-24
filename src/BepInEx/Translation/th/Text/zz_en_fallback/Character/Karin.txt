@@ -1,0 +1,4 @@
+【魔法】後衛で皆を支える、ギルド管理協会の職員さん。通常攻撃の代わりに味方の能力を高める魔法を掛け、味方の守護や敵への妨害など、完璧なサポートをこなす。=[Magic] A staff member of the Guild Management Association who supports everyone from rearguard. Instead of normal attacks, she casts magic to enhance allies' abilities and provides perfect support such as protection for allies and interference against enemies.
+r:"^味方全体のクリティカル時のダメージを10%アップ敵全体のクリティカル時のダメージを25%ダウン(\d+)ダメージ分の物理魔法無効バリアを展開する$"=►Boosts all allies' P/M.CRIT DMG by 10% for 18s.\n►Lowers all enemies' P/M.CRIT DMG by 25% for 18s.\n►Deploys Barrier over all allies that negates $1 P/M.DMG for 18s.
+このスキルのスキルレベルは「コールオブギ\nルド」と連動しています=This skill's level is linked to "Call of Guild"
+味方全体の物理攻撃力を初期値の20%アップ\n味方全体の魔法攻撃力を初期値の20%アップ\n味方全体の物理防御力を初期値の20%アップ\n味方全体の魔法防御力を初期値の20%アップ=Cast time: 1.75s.\n►Boosts all allies' P.ATK by 20% for 12s.\n►Boosts all allies' M.ATK by 20% for 12s.\n►Boosts all allies' P.DEF by 20% for 12s.\n►Boosts all allies' M.DEF by 20% for 12s.

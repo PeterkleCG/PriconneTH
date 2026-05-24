@@ -1,0 +1,7 @@
+【物理】中衛で、相手の動きを乱す牧場主。敵前衛をノックバックさせることで、隊列を崩し、他のキャラが使う範囲攻撃の対象に敵を押し込む。=[Physical] A farmer that disrupts enemy movement from the midguard. Knocks foes in the front row back, putting them in range of allies' area attacks.
+r:"^敵単体に(\d+)の物理ダメージ敵単体を一定時間行動不能にする範囲内の敵に(\d+)の物理ダメージ範囲内の敵を混乱させる$"=►Deals $1 P.DMG to an enemy.\n►Inflicts Stun to an enemy for 5s.\n►Knockbacks an enemy by 300 units.\n►Deals $2 P.DMG to enemies in 300 range.\n►Inflicts Confuse to enemies in 300 range for 4s.
+r:"^敵単体に(\d+)の物理ダメージ敵単体を混乱させる$"=►Deals $1 P.DMG to an enemy.\n►Inflicts Confuse to an enemy.
+フォークスラッシュ+=Pitchfork Pummel+
+目の前の敵１キャラに物理大ダメージを与え、スタンさせる。さらに自分の物理攻撃力を大アップさせる。=Dealt physical damage to a character in front of you and stun them. Additionally, increases your own physical attack power.
+r:"^敵単体に(\d+)の物理ダメージ敵単体を一定時間行動不能にする自分の物理攻撃力を(\d+)アップ$"=Cast Time: 1.4s.\n►Deals $1 P.DMG to an enemy.\n►Inflicts Stun to an enemy for 1s.\n►Boosts own P.ATK by $2 for 12s.
+特濃【牧場】ミルク=Extra-thick [b]Ranch[/b] Milk

@@ -1,0 +1,16 @@
+【魔法】中衛で森羅万象を究め味方を支援する錬金術師。物理、魔法の属性を問わない敵の弱体化と味方の強化に加え、スキルによる高頻度のＨＰ回復で盤石な戦局を築く。=[Magic] An alchemist who has mastered all creation to support allies from the midline. In addition to buffs regardless of the enemy being physical or magic, she builds solid foundation for battle with her high frequency of HP heals. 
+鬼神の丸薬=Divine Medicine
+前方の味方すべての物理攻撃力と魔法攻撃力を特大アップさせ、継続ＨＰ回復状態を付与する。=Greatly boosts all vanguard allies' (including self) P.ATK and M.ATK and grants them continuous HP recovery.
+r:"^範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の魔法攻撃力を(\d+)アップ毎秒ＨＰを(\d+)回復する$"=►Boosts all vanguard allies' P.ATK in range by $1 for 18s.\n►Boosts all vanguard allies M.ATK in range by $2 for 18s.\n►Recovers all vanguard allies' HP in range by $3/s for 10s.
+ミゼラブルミスト=Miserable Mist
+前方の敵すべての物理攻撃力と魔法攻撃力を大ダウンさせ、物理防御力と魔法防御力を小ダウンさせる。=Greatly lowers all vanguard enemies' P.ATK and M.ATK and slightly lowers their P.DEF and M.DEF.
+r:"^範囲内の敵の物理攻撃力を(\d+)ダウン範囲内の敵の魔法攻撃力を(\d+)ダウン範囲内の敵の物理防御力を(\d+)ダウン範囲内の敵の魔法防御力を(\d+)ダウン$"=►Lowers all vanguard enemies' P.ATK by $1 for 12s.\n►Lowers all vanguard enemies' M.ATK by $2 for 12s.\n►Lowers all vanguard enemies' P.DEF by $3 for 12s.\n►Lowers all vanguard enemies' M.DEF by $4 for 12s.
+メディク=Medic
+前方の味方すべてのＨＰを中回復させ、物理防御力と魔法防御力を中アップさせる。=Moderately recovery all vanguard allies' (including self) HP and boosts their P.DEF and M.DEF.
+r:"^範囲内の味方のＨＰを(\d+)回復範囲内の味方の物理防御力を(\d+)アップ範囲内の味方の魔法防御力を(\d+)アップ$"=►Recovers all vanguard allies' HP by $1.\n►Boosts all vanguard allies' P.DEF by $2 for 12s.\n►Boosts all vanguard allies' M.DEF by $3 for 12s.
+アルケミックハーモニー=Alchemic Harmony
+アルケミックハーモニー+=Alchemic Harmony+
+ポーションボトル=Potion Bottle
+ミゼラブルミスト+=Miserable Mist+
+前方の敵すべての物理攻撃力と魔法攻撃力を大ダウンさせ、物理防御力と魔法防御力と行動速度を小ダウンさせる。=Greatly lowers all vanguard enemies' P.ATK and M.ATK and slightly lowers their P.DEF, M.DEF, and action speed.
+r:"^範囲内の敵の物理攻撃力を(\d+)ダウン範囲内の敵の魔法攻撃力を(\d+)ダウン範囲内の敵の物理防御力を(\d+)ダウン範囲内の敵の魔法防御力を(\d+)ダウン範囲内の敵の行動速度を一定時間低下させる$"=►Lowers all vanguard enemies' P.ATK by $1 for 12s.\n►Lowers all vanguard enemies' M.ATK by $2 for 12s.\n►Lowers all vanguard enemies' P.DEF by $3 for 12s.\n►Lowers all vanguard enemies' M.DEF by $4 for 12s.\n►Reduce all vanguard enemies' action speed to 90% for 12s.

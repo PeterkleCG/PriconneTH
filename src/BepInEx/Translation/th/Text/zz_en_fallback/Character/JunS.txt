@@ -1,0 +1,7 @@
+【物理】前衛で、業火を従え悪を討つ真夏の騎士団長。敵単体にダメージを与えつつ、攻撃力を高めるユニオンバーストや、火傷を与えるスキルを操り敵を焼き尽くす。=[Physical] Captain of the Midsummer Knights who is in the vanguard and defeats evil with hellfire. She uses Union Burst, which deals damage to a single enemy, and increases attack power, and burns the enemy with skills that inflict Burn.
+r:"^敵単体に(\d+)の物理ダメージ(\d+)ダメージを与える火傷状態にする$"=►Deals $1 P.DMG to an enemy.\n►Inflicts Burn to an enemy that deals $2/s for 7s.
+r:"^自分の物理攻撃力を(\d+)アップ敵単体に(\d+)の物理ダメージ(\d+)ダメージを与える火傷状態にする$"=►Boosts own P.ATK by $1 for 180s.\n►Deals $2 P.DMG to an enemy.\n►Inflicts Burn to an enemy that deals $3/s for 7s.
+サマーシュバリエスーツ=Summer Chevalier Suit
+サンライトブレイク+=Sunlight Break+
+自分の物理攻撃力を特大アップし、目の前の敵１キャラに物理特大ダメージを与え、スタンさせる。対象の敵が火傷状態だった場合、さらにそのキャラの最大ＨＰに応じて最大200万の物理割合ダメージを与える。=Massively boosts own P.ATK, deals massive P.DMG to an enemy in front, and stuns them. If the target enemy is in burn state, additionally deals physical proportional damage up to a maximum of 2,000,000 based on that character's max HP.
+r:"^自分の物理攻撃力を(\d+)アップ敵単体に(\d+)の物理ダメージ敵単体を一定時間行動不能にする敵が火傷状態の時、敵単体に最大200万の物理割合ダメージを与える$"=►Boosts own P.ATK by $1.\n►Deals $2 P.DMG to a single enemy.\n►Inflicts Stun to a single enemy.\n►If enemy is [Burned]: Deals proportional P.DMG up to 2,000,000 to a single enemy.

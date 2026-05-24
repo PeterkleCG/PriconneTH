@@ -1,0 +1,1 @@
+r:"^敵単体に(\d+)の物理ダメージ範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の行動速度アップ自分にレイスボディを３つ付与する$"=►Deals $1 P.DMG to an enemy.\n►Boosts allies' P.ATK in range by $2 for 18s.\n►Boosts allies' action speed in range into 200% for 18s.\n►Gains 3 [Wraith Body] stacks.

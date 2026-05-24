@@ -1,0 +1,3 @@
+【物理】前衛で疾風の如く駆け抜ける、ダウナー女子。特定回数ダメージを与えるたびＴＰを全回復するスキルと発動ごとに攻撃力アップのスキルで勝利のテープを掴む。=[Physical] An apathetic elf who darts across the frontlines like a hurricane. Every 49 times that she does damage, she gains max TP. She also has a skill that raises her P.ATK with each activation. Using these abilities, she dashes towards the finish line.
+r:"^自分の物理攻撃力を(\d+)アップ敵単体の物理防御力を(\d+)ダウン49回ダメージを与えるたびに、自分のＴＰを1000回復$"=►Boosts own P.ATK by $1 for 180s.\n►Lowers an enemy's P.DEF by $2 for 18s.\n►Recovers own TP by 1000 for every 49 hits dealt.
+r:"^自分の物理攻撃力を(\d+)アップ敵単体の物理防御力を(\d+)ダウン13回ダメージを与えるたびに、自分のＴＰを1000回復$"=►Boosts own P.ATK by $1 for 180s.\n►Lowers an enemy's P.DEF by $2 for 18s.\n►Recovers own TP by 1000 for every 13 hits dealt.

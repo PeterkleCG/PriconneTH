@@ -1,0 +1,2 @@
+r:"^毎秒ＨＰを(\d+)回復する味方全体の行動速度アップ(\d+)ダメージ分の物理魔法無効バリアを展開する$"=►Recovers all allies' HP by $1/s for 18.5s.\n►Boosts all allies' action speed to 200% for 18s.\n►Deploys Barrier over all allies that negates $2 P/M.DMG for 18s.
+このスキルのスキルレベルは「マクリア・エリュシオン」と連動しています=This skill's level is linked to "Macaria Elysium"

@@ -1,0 +1,8 @@
+返し=Return
+[f7550e,ffae21]1位[-]=[f7550e,ffae21]1st[-]
+[4f5c75,62b6dd]2位[-]=[4f5c75,62b6dd]2nd[-]
+[793c24,ef872b]3位[-]=[793c24,ef872b]3rd[-]
+[304090,608dc0]4位[-]=[304090,608dc0]4th[-]
+順位別報酬=Reward by Ranking
+レーススタート=Racing Start
+繋がり描いた記念の日=A memorial day that draws connections

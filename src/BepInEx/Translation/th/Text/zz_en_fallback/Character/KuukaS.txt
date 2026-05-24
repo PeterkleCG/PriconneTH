@@ -1,0 +1,16 @@
+【物理】前衛で新たな刺激を追い求める水着姿のドＭ娘。自分のＨＰが下がるほど効果量が上昇するスキルの物理攻撃力アップとＵＢのダメージで、勝利の大海へ飛び込む。=[Physical] A masochist girl in a swimsuit who seeks new excitement and thrills. With a skill that increases the physical attack power based on her decreasing HP and an UB that deals damage, she leaps into the victorious ocean.
+エレクトリカルサマープレイ=Electrical Summer Play
+前方範囲内の敵すべてに物理中ダメージを与える。自分のＨＰが低いほど、このスキルで与えるダメージがアップする。さらに自分のＨＰを小回復させる。=Deals moderate P.DMG to enemies in range. The P.DMG dealt increases according to own lost HP. Additionally, slightly recovers own HP.
+r:"^範囲内の敵に(\d+)の物理ダメージ自分のＨＰを(\d+)回復$"=►Deals $1 (+0.0001×HP-Lost) P.DMG to enemies in 750 range.\n►Recovers own HP by $2.
+アクアダンシング=Aqua Dancing
+前方範囲内の敵すべてに物理中ダメージを与え、物理攻撃力と魔法攻撃力を大ダウンさせる。=Deals moderate P.DMG to enemies in range and greatly lowers their P/M.ATK.
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵の物理攻撃力を(\d+)ダウン範囲内の敵の魔法攻撃力を(\d+)ダウン$"=►Deals $1 P.DMG to enemies in 750 range.\n►Lowers enemies' P.ATK in 750 range by $2 for 12s.\n►Lowers enemies' M.ATK in 750 range by $3 for 12s.
+夏は体が熱くなります～！=Summer Makes Your Body Hot~!
+自分の物理攻撃力と物理防御力と魔法防御力を小アップさせ、ＴＰを中回復する。自分のＨＰが低いほど、物理攻撃力の上昇量がアップする。=Slightly boosts her P.ATK, P.DEF and M.DEF, and moderately recovers own TP. The lower own HP, the higher P.ATK boost.
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理防御力を(\d+)アップ自分の魔法防御力を(\d+)アップ自分のＴＰを150回復$"=►Boosts own P.ATK by $1 (+0.25×HP-Lost) for 12s.\n►Boosts own P.DEF by $2 for 12s.\n►Boosts own M.DEF by $3 for 12s.\n►Recovers own TP by 150.
+サマーエクスタシー=Summer Ecstasy
+サマーエクスタシー+=Summer Ecstasy+
+アクアダンシング+=Aqua Dancing+
+前方範囲内の敵すべてに物理中ダメージを与えてスタンさせ、物理攻撃力と魔法攻撃力を大ダウンさせる。自分のＨＰが低いほど、このスキルで与えるダメージがアップする。=Deals moderate P.DMG to enemies in range, inflicts Stun to them, and greatly lowers their P/M.ATK. The P.DMG dealt increases according to own lost HP. 
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵を一定時間行動不能にする範囲内の敵の物理攻撃力を(\d+)ダウン範囲内の敵の魔法攻撃力を(\d+)ダウン$"=►Deals $1 (+0.00005×HP-Lost) P.DMG to enemies in 750 range.\n►Lowers enemies' P.ATK in 750 range by $2 for 12s.\n►Lowers enemies' M.ATK in 750 range by $3 for 12s.\n►Inflicts Stun to enemies in 750 range for 1.5s.
+クウカメイクドミネーション=Kuuka Makeup Domination

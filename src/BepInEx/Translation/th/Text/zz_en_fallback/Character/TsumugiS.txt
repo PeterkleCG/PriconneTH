@@ -1,0 +1,5 @@
+【物理】中衛で敵を引き寄せ陣形を崩す夕凪のテーラー。最も攻撃力の高い敵を、敵陣から自陣に引き寄せつつ束縛や行動速度ダウンを絡めたスキルで敵の自由を縛る。=[Physical] A summer's tailor who draws in the enemy and destroys the formation at midlines. Draws the enemy with the highest attack power to near oneself and immobilize the enemy with skills that involve binding or slowing down its action speed.
+スプラッシュストリング+=Splash String+
+前方の敵の中で物理攻撃力、魔法攻撃力いずれかで最も攻撃力が高い敵１キャラに物理大ダメージを与えて束縛し、さらにＴＰを中ダウンさせる。=Deals massive P.DMG to an enemy in front with the highest P/M.ATK, binds it, and moderately reduces its TP.
+r:"^敵単体に(\d+)の物理ダメージ敵単体を一定時間行動不能にする敵単体のＴＰを(\d+)失わせる$"=►Deals $1 P.DMG to an enemy.\n►Inflicts Bind to an enemy for 3.5s.\n►Reduces an enemy's TP by $2.
+サマーテーラーグローブ=Summer Tailor Glove

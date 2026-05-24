@@ -1,0 +1,5 @@
+r:"^自分のＨＰを(\d+)消費自分の物理攻撃力を(\d+)アップ$"=►Reduces own HP by $1.\n►Boosts own P.ATK by $2 for 12s.
+スウィートサクリファイス+=Sweet Sacrifice+
+自分の残りＨＰの50％を消費し、一定時間無敵状態になり、物理攻撃力と物理クリティカルを特大アップ、物理攻撃クリティカル時のダメージを中アップする。さらに自分のＴＰを大回復する。エリコのＨＰが低いほど、物理攻撃力と物理クリティカルと物理攻撃クリティカル時のダメージアップの効果量が上昇する。=Reduces own HP to 50% of remaining HP, becomes invincible for a certain period of time. Boosts P.ATK and P.CRIT Rate by a massive amount, boosts P.CRIT DMG by a moderate amount. The lower Eriko's HP the greater all aforementioned effects. Additionally, recovers own TP by a massive amount. 
+r:"^自分の残りＨＰの50%を消費一定時間無敵状態になる自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを(\d+)アップ自分の物理攻撃クリティカル時のダメージを25％アップ自分のＴＰを(\d+)回復$"=►Consumes 50% of own remaining HP.\n►Becomes immune to all damage for 6s.\n►Boosts own P.ATK by $1.\n►Boosts own P.CRIT Rate by $2.\n►Boosts own P.CRIT DMG by 25%.\n►Recovers own TP by $3.
+クレイジーラブ=Crazy Love

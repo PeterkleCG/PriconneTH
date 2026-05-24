@@ -1,0 +1,2 @@
+表示速度設定=Display speed setting
+r:"^第(\d+)話(R)?$"=Episode $1$2

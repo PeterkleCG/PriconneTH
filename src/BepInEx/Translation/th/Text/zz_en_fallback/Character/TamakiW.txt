@@ -1,0 +1,3 @@
+【物理】前衛でたい焼き器片手に悪を討つ売り子の猫娘。味方全体を物理攻撃力アップとＴＰ回復させ、ＵＢでさらに自分の攻撃力を特大強化し、驚異の威力を発揮する。=[Physical] A cat girl who wields a taiyaki griddle as she fights against evil as a vendor. She boosts the P.ATK power and recovers TP of all allies, and during UB, further strengthens her own P.ATK to unleash incredible power.
+味方全体のＴＰを小回復させ、さらに物理攻撃力を大アップさせる。=Recovers all allies' TP by a small amount, and greatly boosts their P.ATK.
+r:"^敵単体に(\d+)の物理ダメージ味方全体の物理攻撃力を(\d+)アップ自分のＴＰ上昇を(\d+)アップ自分のＴＰを(\d+)回復$"=►Deals $1 P.DMG to an enemy.\n►Boosts all allies' P.ATK by $2 for 12s.\n►Boosts own TP Boost by $3 for 12s.\n►Recovers own TP by $4.

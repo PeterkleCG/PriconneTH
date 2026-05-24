@@ -1,0 +1,6 @@
+【物理】前衛で、敵前線を押し返す笑顔の元気娘。前衛に対して大ダメージを与えるユニオンバーストと、自身の攻撃力を強化するスキルを持つ攻撃役。=[Physical] An energetic girl who fights in the frontlines to push back the enemy's guard. She's an attaker with a Union Burst that inflicts heavy damage on the frontlines, which can be bolstered further with skills that boost her P.ATK.
+目の前の敵１キャラに物理中ダメー\nジを与える。=Deals moderate P.DMG to an enemy directly in front.
+##OLD r:"^敵単体に(\d+)の物理ダメージ範囲内の敵に(\d+)の物理ダメージ$"=This value is ignored because it's the same as UB. Cast time can't be include.
+##OLD r:"^敵単体に(\d+)の物理ダメージ自分の物理攻撃力を(\d+)アップ$"=This value is ignored because it's the same as Djeeta UB. Cast time can't be include.
+##OLD r:"^敵単体に(\d+)の物理ダメージ範囲内の敵に(\d+)の物理ダメージ$"=This value is ignored because it's the same as UB. Cast time can't be include.
+みんなが笑顔でいられるように！\nヒヨリ、頑張りまーっす！　いぇい！=So everyone can smile!\nHiyori'll do her best! Yay!

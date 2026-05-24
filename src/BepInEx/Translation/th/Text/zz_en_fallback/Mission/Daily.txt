@@ -1,0 +1,7 @@
+共通 =Common
+獲得したプレイヤー経験値はダンジョンコインに変換されました。=Player Exp points earned have been converted\ninto Dungeon Coins.
+スタミナ上限に達しています。報酬を受け取ることができません。=Max Stamina reached. You cannot claim your rewards.
+[3C404E]イベントクエストを10回クリアしよう[-]=[3C404E]Clear "Event Quest" 10 times[-]
+キャラのスキル・装備の★・コネクトRANK・プリンセスナイト強化のどれか1回を行おう=Strengthen a character's skills, equipment, Connect RANK, or Princess Knight at least once.
+[FFFFFF]イベントクエストを10回クリアしよう[-]=[FFFFFF]Clear "Event Quest" 10 times[-]
+r:"^\[FFBB00,CE4F00\]([0-9,.]+)\[-\]\[3C404E\]プレイヤー経験値\[-\]$"=[3C404E]Player Experience × [FFBB00,CE4F00]$1[-].[-]

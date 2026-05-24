@@ -1,0 +1,4 @@
+【魔法】後衛から、優雅に味方を支援するマホ先生。物理攻撃をする味方の攻撃力アップや、最遠の味方のＴＰを回復するスキルで、しゃなりしゃなりと戦況を変える。=[Magic] Maho-sensei gracefully supports her allies from the rearguard. With skills that boost physical attack power of P-type allies and recover TP of an ally farthest away, she dramatically changes the tide of battle.
+r:"^対象の味方の物理攻撃力を(\d+)アップ自分の魔法攻撃力を(\d+)アップ魔法攻撃をする敵の物理防御力を(\d+)ダウン魔法攻撃をする敵の魔法攻撃力を(\d+)ダウン$"=►Boosts all P-type allies' P.ATK by $1 for 18s.\n►Boosts own M.ATK by $2 (+0.27×M.ATK) for 18s.\n►Lowers all M-type enemies' P.DEF by $3 for 18s.\n►Lowers all M-type enemies' M.ATK by $4 for 18s.
+最も遠くの味方1キャラのＴＰを小回復し、物理攻撃力を小アップさせる。=Slightly recovers a farthest away ally's TP and slightly boosts its P.ATK.
+r:"^味方単体の物理攻撃力を(\d+)アップ味方単体のＴＰ上昇を(\d+)アップ$"=►Boosts an ally's P.ATK by $1 (+0.375×M.ATK) for 12s.\n►Boosts an ally's TP Boost by $2 for 12s.

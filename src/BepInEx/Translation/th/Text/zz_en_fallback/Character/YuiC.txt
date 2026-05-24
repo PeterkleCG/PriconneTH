@@ -1,0 +1,6 @@
+【魔法】中衛で精霊術を操り味方を支える儀装の魔法士。複数の物理攻撃力の強化スキルで味方を攻撃支援しつつ強力な回復スキルで、前線を整えバトルを掌握する。=[Magic] A mage in ceremonial attire who uses spiritual techniques to support allies from midlines. With multiple P.ATK enhancement skills to supports her allies, and powerful recovery skills to prepare the front lines, she takes control of the battle.
+r:"^味方全体のＨＰを(\d+)回復味方全体の物理攻撃力を(\d+)アップ毎秒ＨＰを(\d+)回復する$"=►Recovers all allies' HP by $1.\n►Boosts all allies' P.ATK by $2 for 18s.\n►Recovers an ally's HP by $3/s for 6s.
+r:"^範囲内の味方のＴＰを(\d+)回復$"=►Recovers allies' TP in range by $1.
+最も物理攻撃力が高い味方１キャラを中心とした範囲内の味方すべてのＴＰを小回復させ、物理攻撃力を小アップさせる。=Slightly recovers allies' TP in range, centering on an ally with the highest P.ATK, also boosts their P.ATK by a small amount.
+r:"^範囲内の味方のＴＰを(\d+)回復範囲内の味方の物理攻撃力を(\d+)アップ$"=►Recovers allies' TP in 50 range by $1.\n►Boosts allies' P.ATK in 50 range by $2 for 12s.
+r:"^範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理クリティカルを(\d+)アップ範囲内の味方のＴＰ上昇を(\d+)アップ$"=►Boosts allies' P.ATK in 50 range by $1 for 12s.\n►Boosts allies' P.CRIT Rate in 50 range by $2 for 12s.\n►Boosts allies' TP Boost in 50 range by $3 for 12s.

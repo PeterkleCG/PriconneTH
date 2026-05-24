@@ -1,0 +1,3 @@
+【物理】前衛で威勢よく、まくしたてる口撃系ドラゴン。全体物理攻撃力アップのＵＢは、味方の防御力を下げる代わりにＨＰが多いほど効果を高め、味方を勝利に導く。=[Physical] A vanquishing, mouth-splitting dragon in the vanguard. The UB boosts all allies' physical attack power in the cost of their defense, the more HP they have, the better the effect, leading her allies to victory.
+r:"^味方全体の物理攻撃力を(\d+)アップ自分以外の味方の物理防御力を初期値の20%ダウン自分以外の味方の魔法防御力を初期値の20%ダウン$"=►Boosts all allies' P.ATK by $1(+0.225×HP) for 18s.\n►Lowers all other allies' P.DEF by 20% for 18s.\n►Lowers all other allies' M.DEF by 20% for 18s.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン味方全体の物理攻撃力を(\d+)アップ$"=►Deals $1(+4×HP) P.DMG to an enemy.\n►Lowers an enemy's P.DEF by $2 for 12s.\n►Boosts all allies' P.ATK by $3 for 12s.

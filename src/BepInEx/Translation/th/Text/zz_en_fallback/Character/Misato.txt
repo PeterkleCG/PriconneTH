@@ -1,0 +1,5 @@
+【魔法】後衛で魔法キャラを支援する、みんなの先生。ユニオンバーストのＨＰ回復＆魔防アップ、先頭キャラの継続ＨＰ回復スキルは、味方の耐久力を大幅に高める。=[Magic] A beloved teacher who supports magic characters from the rearguard. Between her Union Burst that heals HP and boosts magical defense, and her HP Regen skill for vanguard allies, she greatly enhances party durability.
+r:"^味方全体のＨＰを(\d+)回復味方全体の魔法防御力を(\d+)アップ$"=►Recovers allies' HP by $1.\n►Boosts allies' M.DEF by $2 for 18s.
+r:"^毎秒ＨＰを(\d+)回復する$"=Cast time: 1.6s.\n►Recovers HP by $1/s.
+r:"^味方全体のＨＰを(\d+)回復味方全体の魔法防御力を(\d+)アップ味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法クリティカルを(\d+)アップ味方全体の魔法攻撃クリティカル時のダメージを25％アップ毎秒ＨＰを(\d+)回復する$"=►Recovers allies' HP by $1.\n►Boosts allies' M.DEF by $2 for 18s.\n►Boosts allies' M.ATK by $3 for 18s.\n►Boosts allies' M.CRIT Rate by $4 for 18s.\n►Boosts allies' M.CRIT DMG by 25% for 18s.\n►Recovers allies' HP by $5/s for 18s.
+r:"^範囲内の味方の魔法攻撃力を(\d+)アップ範囲内の味方の魔法クリティカルを40アップ$"=Cast time: 1.17s.\n►Boosts allies' M.ATK in 300 range by $1 for 12s.\n►Boosts allies' M.CRIT Rate in 300 range by 40 for 12s.

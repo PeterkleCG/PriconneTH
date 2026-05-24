@@ -1,0 +1,3 @@
+sr:"^「(.*)ログインボーナス」(\d+日)目「(.+)」で獲得したアイテムです。$"="Item obtained on $2 day($3) "$1 Login Bonus"."
+sr:"^「(.+)ログインボーナス」(\d+日)目で獲得したアイテムです。$"="Item obtained on $2 day of "$1 Login Bonus"."
+sr:"^「ログインボーナス」(\d+日)目で獲得したアイテムです。$"="Item obtained on $1 day of "Login Bonus"."

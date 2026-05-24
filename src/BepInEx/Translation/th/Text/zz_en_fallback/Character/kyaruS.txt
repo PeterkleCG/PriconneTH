@@ -1,0 +1,1 @@
+r:"^敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン対象が魔法防御力ダウン状態の時、敵単体に(\d+)の魔法ダメージ$"=►Deals $1 M.DMG to an enemy.\n►Lowers an enemy's M.DEF by $2.\n\nIf enemy's M.DEF is already lowered:\n►Deals $3 M.DMG to an enemy.

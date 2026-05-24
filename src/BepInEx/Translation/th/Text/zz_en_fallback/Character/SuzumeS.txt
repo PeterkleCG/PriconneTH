@@ -1,0 +1,16 @@
+【魔法】後衛の防衛能力に秀でた、夏のドジっ娘メイド。味方全体に防御力アップと継続ＨＰ回復をかけ、さらに壁になるゴーレムを呼んで、戦線を支える。=[Magical] A clumsy maid who offers support from the rearguard. She boosts allies' defenses and provides HP Regen, while also summoning golems to protect them.
+r:"^味方全体の物理防御力を(\d+)アップ味方全体の魔法防御力を(\d+)アップ毎秒ＨＰを(\d+)回復する$"=►Boosts allies' P.DEF by $1.\n►Boosts allies' M.DEF by $1.\n►Recovers HP by $2/s.
+味方全体の物理・魔法攻撃力を特大アップ、物理・魔法防御力を小アップさせ、継続ＨＰ回復状態を付与し、物理/魔法無効バリアを展開する。=Massively boosts all allies’ P.ATK and M.ATK, slightly boosts their P.DEF and M.DEF, grants a continuous HP recovery effect, and deploys P.DMG/M.DMG-nullifying barriers.
+r:"^味方全体の物理・魔法攻撃力を(\d+)アップ味方全体の物理・魔法防御力を(\d+)アップ毎秒ＨＰを(\d+)回復する(\d+)ダメージ分の物理魔法無効バリアを展開する$"=►Boosts allies' P.ATK and M.ATK by $1 for 18s.\n►Boosts allies' P.DEF and M.DEF by $2 for 18s.\n►Restores $3 HP per second to all allies for 10s.\n►Deploys a physical & magic null barrier absorbing $4 damage for 18s.
+r:"^ぷちゴーレムを召喚する$"=Cast: 0.85s.\n►Summons Mini-Golem.
+r:"^範囲内の味方の魔法防御力を(\d+)アップ$"=Cast: 0.92s.\n►Boosts allies' M.DEF in 200 range by $1 for 12s.
+r:"^自分の魔法防御力を(\d+)アップ$"=►Boosts own M.DEF by $1.
+r:"^自分の魔法防御力を(\d+)アップ自分の物理防御力を(\d+)アップ$"=►Boosts own M.DEF by $1.\n►Boosts own P.DEF by $2.
+r:"^ぷちゴーレムを召喚する物理防御力を(\d+)アップさせるフィールドを展開する魔法防御力を(\d+)アップさせるフィールドを展開する$"=Cast: 0.85s.\n►Summons Mini-Golem.\n►Deploys a field in 250 that boosts allies' P.DEF by $1 for 12s.\n►Deploys a field in 250 that boosts allies' M.DEF by $2 for 12s.
+ソーダエール+=Soda Support+
+自分を中心とした範囲内の味方すべての魔法防御力、物理・魔法攻撃力を特大アップさせ、ＨＰを中回復して魔法吸収バリアを展開する。=Massively boosts the M.DEF and P.ATK/M.ATK of all allies in range centered on self, moderately recovers their HP, and deploys an M.DMG absorption barrier.
+r:"^範囲内の味方の魔法防御力を(\d+)アップ範囲内の味方の物理・魔法攻撃力を(\d+)アップ範囲内の味方のＨＰを(\d+)回復(\d+)ダメージ分の魔法吸収バリアを展開する$"=Cast: 0.92s.\n►Boosts allies' M.DEF in 600 range by $1 for 18s.\n►Boosts allies' P.ATK and M.ATK in 600 range by $2 for 18s.\n►Recovers HP of allies in 600 range by $3 for 18s.\n►Deploys a magic absorb barrier in 600 range that absorbing $4 M.DMG for 18s.
+思い出の麦わら帽子=Straw Hat of Memories
+ぷちゴーレムサモン++=Summon Mini-Golem++
+【召喚】スズメ（サマー）が召喚したぷちゴーレムが味方にいる場合、ぷちゴーレムのＨＰを中回復させ、そうでない場合、前方にぷちゴーレムを召喚する。さらに、自分を中心とした範囲内の味方すべての物理・魔法防御力を大アップ、ＨＰとＴＰを小回復するフィールドを展開する。=[Summon] If a Petit Golem summoned by Suzume (Summer) is present among allies, moderately recovers the Petit Golem’s HP; otherwise, summons a Petit Golem in front. Additionally, deploys a field centered on self that greatly boosts the P.DEF and M.DEF of all allies in range, and slightly recovers their HP and TP.
+r:"^ぷちゴーレムのＨＰを(\d+)回復ぷちゴーレムを召喚する物理・魔法防御力を(\d+)アップさせるフィールドを展開する毎秒ＨＰを(\d+)回復するフィールドを展開する毎秒ＴＰを10回復するフィールドを展開する$"=Cast: 0.85s.\n►Recovers HP of [Mini Golem] by $1.\n►Summons a [Mini Golem].\n►Deploys a field that boosts P.DEF and M.DEF by $2.\n►Deploys a field that recovers $3 HP per second.\n►Deploys a field that restores 10 TP per second.

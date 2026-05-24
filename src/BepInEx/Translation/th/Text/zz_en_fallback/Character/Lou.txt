@@ -1,0 +1,4 @@
+【魔法】後衛で、オメメちゃんと戦う、ノーテンキ少女。スキルで呼び出すオメメちゃんは敵の攻撃を防ぐほか、その数が多いほどユニオンバーストの威力を増加させる。=[Magic] An airheaded young girl who fights from the rearguard together with her companion Mr. Gawker. Each little friend she summons can protect her from attacks, and their number boosts the power of her Union Burst.
+r:"^範囲内の敵に(\d+)の魔法ダメージを５回与える$"=►Deals $1 M.DMG to enemies within 200 range 5 times.
+r:"^攻撃してきた敵に(\d+)ダメージを与えて消失するオメメちゃんを最大5体呼び出す$"=Cast time: 1.7325s\n►Summons a Mr. Gawker that deals $1 damage to an enemy that attacks Lou, then disappears. (Up to 5)
+r:"^攻撃してきた敵に(\d+)ダメージを与えて消失するオメメちゃんを最大５体呼び出す自分の魔法攻撃力を(\d+)アップ$"=Cast time: 1.7325s\n►Summons up to 5 [Mr. Gawkers] that deal $1 damage to attacking enemies and then disappear.\n►Boosts own M.ATK by $2.

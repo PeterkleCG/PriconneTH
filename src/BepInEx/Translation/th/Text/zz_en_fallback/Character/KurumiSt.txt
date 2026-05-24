@@ -1,0 +1,8 @@
+【物理】後衛で、皆のため意を決し奮起する小さな女優。残りＨＰが多いほど物理攻撃力がアップし、物理攻撃無効バリアのスキルやＨＰ・ＴＰ継続回復で味方を支援する。=[Physical] As a backliner, she is a small actress who gathers her courage and rises up for everyone's sake. Her physical attack power increases the more HP she has left, and she supports her allies with skills such as a physical attack nullifying barrier and continuous HP/TP recovery.
+r:"^対象の味方の物理攻撃力を(\d+)アップ$"=►Boosts all P-type allies' P.ATK by $1 (+0.14×HP) for 18s.
+r:"^自分のＴＰを(\d+)回復毎秒ＨＰを(\d+)回復する毎秒ＴＰを10回復する$"=Cast time: 1.27s.\n►Recovers own TP by $1.\n►Recovers all P-type allies' HP by $2/s for 10.5s.\n►Recovers all P-type allies' TP by 10/s for 10.5s.
+r:"^(\d+)ダメージ分の物理無効バリアを展開する対象の味方の物理攻撃力を(\d+)アップ$"=►Deploys Barrier over all P-type allies that negates $1(+0.14×HP) P.DMG for 12s.\n►Boosts all P-type allies' P.ATK by $2(+14%×HP) for 12s.
+タイニーエール+=Tiny Cheer+
+物理攻撃を行うすべての味方キャラの物理クリティカルを中アップさせ、継続ＨＰ回復状態と継続ＴＰ回復状態を付与する。自分の残りＨＰが多いほど、継続ＨＰ回復量がアップし、継続ＴＰ回復量が最大1.4倍までアップする。さらに、自分のＴＰを中回復する。=Boosts all P-type allies' P.CRIT Rate, and grants continuous HP and TP to them. The higher own remaining %HP, the greater HP/TP Regen is. Additionally, recovers own TP by a moderate amount.
+r:"^自分のＴＰを200回復毎秒ＨＰを(\d+)回復する毎秒ＴＰを10回復する対象の味方の物理クリティカルを50アップ$"=Cast time: 1.27s.\n►Recovers own TP by 200.\n►Recovers all P-type allies' HP by $1(+0.005×HP)/s for 10.5s.\n►Recovers all P-type allies TP' by 10(+0.00006×HP)/s for 10.5s.\n►Boosts all P-type allies' P.CRIT Rate by 50 for 12s.
+リトルアクトドレス=Little Act Dress

@@ -1,0 +1,9 @@
+【物理】後衛で高威力の弓技を放つ夏のカリスマモデル。バトル中に一度だけ放つ「サマーランウェイ♪」でＴＰを全回復し、以降ユニオンバーストがクリティカルになる。=[Physical] A charismatic model whose archery skills shine from the rearguard. Though her Summer Catwalk can only be used once per battle, it restores her TP entirely and causes her Union Burst to always result in a critical hit.
+後衛で高威力の弓技を放つ夏のカリスマモデル。バトル中に放つ「サマーランウェイ♪」でＴＰを全回復して、発動後のユニオンバーストがクリティカルになる。=A charismatic model whose archery skills shine from the rearguard. Though her Summer Catwalk can only be used once per battle, it restores her TP entirely and causes her Union Burst to always result in a critical hit.
+r:"^敵単体に(\d+)の物理ダメージを３回与える$"=►Deals $1 P.DMG to an enemy 3 times.
+r:"^自分の物理攻撃力を(\d+)アップ自分のＴＰを全回復$"=►Boosts own P.ATK by $1 for 180s.\n►Recovers own TP by 1000.
+r:"^敵単体に(\d+)の物理ダメージを３回与える自分の物理攻撃力を(\d+)アップ$"=►Deals $1 P.DMG to an enemy 3 times.\n►Boosts own P.ATK by $2 for 12s.
+サマーランウェイ♪+=Summer Runway♪+
+自分の物理攻撃力を特大アップ、物理攻撃クリティカル時のダメージを中アップし、ＴＰを特大回復させる。このスキルの初回使用後、行動パターンが変化する。=Massively boosts own P.ATK, moderately boosts own P.CRIT DMG, and recovers TP by a massive amount. After 1st skill usage, changes attack pattern.
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理攻撃クリティカル時のダメージを28％アップ自分のＴＰを全回復$"=►Boosts own P.ATK by $1 for 180s.\n►Boosts own P.CRIT DMG by 28% for 180s.\n►Recovers own TP by 1000.\n\nFor the 1st skill usage:\n►Switches to Attack Pattern 2 for 180s.
+ヤバ盛りフルーツパフェ=Dope Fruit Parfait

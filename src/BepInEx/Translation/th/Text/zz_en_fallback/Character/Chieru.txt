@@ -1,0 +1,5 @@
+【物理】前衛でパンチを放つちぇる盛りＭＡＸな女の子。クリティカルを出すたびに【ちぇる】を溜め、自己を強化し続け、後半になるほど敵をちぇるっとじぇのさいする。=[Physical] A chellerific cutie who takes to the vanguard to punch the enemy. Each critical hit she deals serves to increase her Cheru count, boosting her abilities until she can wreak chellish carnage in the late stages of battle.
+r:"^敵単体に(\d+)の物理ダメージ自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを(\d+)アップ$"=►Deals $1 P.DMG to an enemy.\n►Boosts own P.ATK by $2.\n►Boosts own P.CRIT Rate by $3.
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを(\d+)アップ自分の行動速度アップクリティカルでダメージを与えるたびにちぇるを付与する状態になる$"=►Boosts own P.ATK by $1 for 20s.\n►Boosts own P.CRIT Rate by $2 for 20s.\n►Boosts own action speed into 200% for 20s.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の物理攻撃力を(\d+)ダウン自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを(\d+)アップ$"=►Deals $1 P.DMG to an enemy.\n►Lowers an enemy's P.ATK by $2 for 12s.\n►Boosts own P.ATK by $3 (+148×[Cheru]) for 12s.\n►Boosts own P.CRIT Rate by $4 (+7×[Cheru]) for 12s.
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを(\d+)アップ自分の行動速度アップちぇるを30追加クリティカルでダメージを与えるたびにちぇるを付与する状態になる$"=►Boosts own P.ATK by $1 for 180s.\n►Boosts own P.CRIT Rate by $2 for 180s.\n►Boosts own action speed into 225% for 180s.\n►Grants 30 [Cheru] to self.

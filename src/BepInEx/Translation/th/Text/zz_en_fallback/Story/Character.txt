@@ -1,0 +1,1 @@
+r:"^第(\d+)部 第(\d+)章 幕間(.+)?を閲覧$"=Watch Main Story: Part $1 Chapter $2 Epilogue

@@ -1,0 +1,10 @@
+【魔法】後衛で物理パーティを補助する、歩く芸術作品。味方のユニオンバースト発動を早めるスキルのほか、暗闇状態にするスキルで敵の物理攻撃を封じる。=[Magic] A living work of art that buffs physical parties from the rearguard. Uses skills that allow allies to use Union Bursts more quickly, and hampers enemy offense with blinding status effects.
+r:"^敵全体に(\d+)の魔法ダメージ敵全体の物理防御力を(\d+)ダウン$"=►Deals $1 M.DMG to all enemies.\n►Lowers all enemies' P.DEF by $2 for 18s.
+r:"^敵単体に(\d+)の魔法ダメージ敵単体を暗闇状態にする$"=Cast Time: 1.93s.\n►Deals $1 M.DMG to an enemy.\n►Inflicts Blind (60% miss) for 8s.
+r:"^自分の魔法攻撃力を(\d+)アップ自分の物理防御力を(\d+)アップ$"=►Boosts own M.ATK by $1.\n►Boosts own P.DEF by $2.
+美の神の降臨をご覧よ！=Behold the Descent of the Beauty Goddess!
+敵全体に対象の物理防御力が魔法防御力より低い場合、物理ダメージ扱いになる魔法中ダメージを与え、物理防御力を中ダウンさせ、さらに誘惑状態にする。=If the target's P.DEF is lower than their M.DEF, deals moderate M.DMG as P.DMG to all enemies, reduces their P.DEF, and inflicts Charm status.
+r:"^敵全体に(\d+)の低い側の防御力で防御する魔法ダメージ敵全体の物理防御力を(\d+)ダウン敵全体を誘惑する$"=►Deals $1 M/P.DMG to all enemies based on their lowest defense between P/M.DEF.\n►Lowers all enemies' P.DEF by $2 for 18s.\n►Inflicts Charm to all enemies for 4s.
+r:"^敵単体に(\d+)の魔法ダメージ敵単体を暗闇状態にする敵単体を誘惑する$"=Cast Time: 1.93s.\n►Deals $1 M.DMG to an enemy.\n►Inflicts Blind (60% miss) to an enemy for 8s.\n►Inflicts Charm to an enemy for 8s.
+最もＴＰが多い味方１キャラのＴＰを中回復し、物理攻撃力を小アップさせる。=Recovers an ally's TP with the most TP by a moderate amount and slightly boosts its P.ATK.
+r:"^味方単体のＴＰを(\d+)回復味方単体の物理攻撃力を(\d+)アップ$"=►Recovers an ally's TP by $1.\n►Boosts an ally's P.ATK by $2 for 12s.

@@ -1,0 +1,7 @@
+【物理】中衛で、鬼の力で敵を粉砕する、双子の妹。回復スキルの他にも、温度を操るスキルを得意とし、敵を凍結させた上でユニオンバーストで薙ぎ払う。=[Physical] A younger twin who crushes enemies from the midguard with demonic strength. Aside from healing, she can also control temperature, allowing her to freeze enemies in place before obliterating them with her Union Burst.
+r:"^範囲内の行動不能の敵すべてに(\d+)の物理ダメージ範囲内のその他の敵すべてに(\d+)の物理ダメージ$"=►Deals $1 P.DMG to all immobile enemies in range.\n►Deals $2 P.DMG to all other enemies in range.
+鬼がかったアル・ヒューマ=Oni Mode: Al Huma
+前方の敵すべてに物理大ダメージを与える。行動不能状態の敵に対してはこのダメージが上昇する。さらに、最も遠くの敵１キャラを中心とした範囲内の敵すべてに物理大ダメージを与える。=Deals large P.DMG to enemies in range. P.DMG dealt increases for enemies that are unable to move. Also deals an additional instance of P.DMG to enemies in range of furthest enemy.
+r:"^範囲内の行動不能の敵すべてに(\d+)の物理ダメージ範囲内のその他の敵すべてに(\d+)の物理ダメージ範囲内の敵すべてに(\d+)の物理ダメージ$"=►Deals $1 P.DMG to all immobile enemies in 800 range.\n►Deals $2 P.DMG to all other enemies in 800 range.\n►Deals $3 P.DMG to enemies in 50 range of furthest enemy.
+r:"^範囲内の敵すべてに(\d+)の物理ダメージ範囲内の敵を一定時間行動不能にする$"=►Deals $1 P.DMG to enemies in range.\n►Renders enemies in range immobile for a set period of time.
+レムの髪飾り=Rem's Hair Ornament

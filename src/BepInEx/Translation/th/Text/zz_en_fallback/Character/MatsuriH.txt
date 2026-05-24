@@ -1,0 +1,4 @@
+【物理】前衛で鋭爪を突き立てるハロウィン騎士見習い。ユニオンバーストの使用回数に応じて強化されるスキルで与えるダメージと行動速度をアップさせ、敵を斬り裂く。=[Physical] A frontline Halloween apprentice knight who thrusts with sharp claws. A skill that strengthens with the number of Union Burst uses, increasing damage dealt and action speed, slashing through enemies.
+r:"^敵単体に(\d+)の物理ダメージ自分の行動速度アップ$"=►Deals $1 P.DMG to an enemy.\n►Boosts own action speed to 150% for 12s.
+r:"^敵単体に(\d+)の物理ダメージ自分の残りＨＰの20%を消費$"=►Deals $1 P.DMG to an enemy.\n►Consumes 20% of own remaining HP.
+r:"^敵単体に(\d+)の物理ダメージ自分の物理攻撃力を(\d+)アップ自分のＴＰを(\d+)回復$"=►Deals $1 P.DMG to an enemy.\n►Boosts own P.ATK by $2 for 12s.\n►Recovers own TP by 50.

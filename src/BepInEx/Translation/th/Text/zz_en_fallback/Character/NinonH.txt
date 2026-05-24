@@ -1,0 +1,8 @@
+【物理】中衛で物理攻撃タイプの味方を強化するシノビ。味方の物理攻撃力アップや行動速度アップのスキル効果で味方全体の攻撃力を底上げし、勝利の笛を吹きならす。=[Physical] A shinobi who strengthens P-type allies in the midlines. With skill effects that boost allies' P.ATK and action speed, she blows the whistle of victory.
+r:"^対象の味方の物理攻撃力を(\d+)アップ\n対象の味方の物理クリティカルを(\d+)アップ$"=►Boosts all P-type allies' P.ATK by $1 for 18s.\n►Boosts all P-type allies' P.CRIT Rate by $2 for 18s.
+r:"^対象の味方の物理攻撃力を(\d+)アップ\n対象の味方の行動速度アップ$"=Cast time: 0.465s.\n►Boosts all P-type allies' P.ATK by $1 for 12s.\n►Boosts all P-type allies' action speed to 155% for 12s.
+r:"^対象の味方の物理攻撃力を(\d+)アップ\n範囲内の敵に(\d+)の物理ダメージ$"=Cast time: 0.465s.\n►Boosts all P-type allies' P.ATK by $1 for 12s.\n►Deals $2 P.DMG to enemies in 865 range.
+妖忍法・マボロシ影絵の術+=Ayakashi Ninpo: Shadow Illusion Clone Art+
+物理攻撃を行うすべての味方キャラの物理攻撃力を特大アップ、行動速度を大アップさせ、物理クリティカルを中アップさせる。=Greatly boosts all P-type allies' P.ATK, action speed, and P.CRIT Rate.
+r:"^対象の味方の物理攻撃力を(\d+)アップ\n対象の味方の行動速度アップ\n対象の味方の物理クリティカルを(\d+)アップ$"=Cast time: 0.465s.\n►Boosts all P-type allies' P.ATK by $1 for 12s.\n►Boosts all P-type allies' action speed to 155% for 12s.\n►Boosts all P-type allies' P.CRIT Rate by $2 for 12s.
+南瓜頭響太郎=Pumpkin Head Kyotaro

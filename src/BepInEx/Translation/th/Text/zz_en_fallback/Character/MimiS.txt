@@ -1,0 +1,16 @@
+【物理】中衛で巨大バルーンと跳ね回る夏色うさぎっこ。ＵＢやスキルで全てのマルチターゲットに追加ダメージを与え、自己強化と防御力ダウンで強敵のブレイクを狙う。=[Physical] A summer-bunny who bounces around with a huge balloon in midlines. Deals damage to all multi-targets with UB and skills, and aim to break strong enemies with self-buff and defense reduction.
+うさぎさんサマーインパクト=Bunny Summer Impact
+自分の物理攻撃力を特大アップし、敵全体に物理小ダメージを与える。さらに、マルチターゲットのターゲットすべてに物理大ダメージを与え、物理防御力を中ダウンさせる。=Massively boosts own P.ATK and deals small P.DMG to all enemies. Additionally, deals large P.DMG to all multi-target enemy's targets and moderately lowers their P.DEF.
+r:"^自分の物理攻撃力を(\d+)アップ敵全体に(\d+)の物理ダメージ対象の敵のターゲットに(\d+)の物理ダメージ対象の敵のターゲットの物理防御力を(\d+)ダウン$"=►Boosts own P.ATK by $1 for 18s.\n►Deals $2 P.DMG to all enemies.\n►Deals $3 P.DMG to all multi-target enemy's targets.\n►Lowers all multi-target enemy's targets P.DEF by $4 for 18s.
+ぴょんぴょんサマー=Hop-Hop Summer
+目の前の敵１キャラに物理中ダメージを与え、さらに自分のＴＰを中回復する。目の前の敵がマルチターゲットの場合、ターゲットすべてに物理中ダメージを与える。=Deals moderate P.DMG to an enemy in front, and moderately recovers own TP. If an enemy in front is a multi-target, deals moderate P.DMG to all its targets.
+r:"^敵単体に(\d+)の物理ダメージ対象の敵のターゲットに(\d+)の物理ダメージ自分のＴＰを(\d+)回復$"=Cast time: 0.59s.\n►Recovers own TP by $3.\n►Deals $1 P.DMG to an enemy.\n\nIf enemy is a multi-target:\n►Deals $2 P.DMG to all its targets.
+うさぎさんサマーアタック=Bunny Summer Bash
+目の前の敵１キャラを中心とした範囲内の敵すべてに物理中ダメージを与え、物理防御力を小ダウンさせる。目の前の敵がマルチターゲットの場合、自分の物理攻撃力と物理クリティカルを中アップする。=Deals P.DMG to enemies in range, and slightly lowers their P.DEF. If an enemy in front is a multi-target, moderately boosts own P.ATK and P.CRIT Rate.
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵の物理防御力を(\d+)ダウン対象がマルチターゲットの場合、自分の物理攻撃力を(\d+)アップ対象がマルチターゲットの場合、自分の物理クリティカルを(\d+)アップ$"=Cast time: 0.59s.\n►Deals $1 P.DMG to enemies in range.\n►Lowers enemies' P.DEF in range by $2 for 18s.\nIf enemy is a multi-target:\n►Boosts own P.ATK by $3 for 18s.\n►Boosts own P.CRIT Rate by $4 for 18s.
+夏の海もうさぎさんパワー=Summer Sea Bunny Power
+夏の海もうさぎさんパワー+=Summer Sea Bunny Power+
+ぴょんぴょんサマー+=Hop-Hop Summer+
+目の前の敵１キャラに物理中ダメージを与え、さらに自分のＴＰを大回復する。目の前の敵がマルチターゲットの場合、ターゲットすべてに物理中ダメージを与え、物理攻撃力と魔法攻撃力を大ダウンさせ、クリティカルを受けた際のダメージを小アップさせる。=Deals moderate P.DMG to an enemy in front, and moderately recovers own TP. If an enemy in front is a multi-target, deals moderate P.DMG to all its targets, greatly lowering their P.ATK and M.ATK, and slightly boosts their P.CRIT DMG taken.
+r:"^敵単体に(\d+)の物理ダメージ対象の敵のターゲットに(\d+)の物理ダメージ対象の敵のターゲットがクリティカルを受けた際のダメージを13％アップ自分のＴＰを(\d+)回復対象の敵がマルチターゲットの場合、物理攻撃力を(\d+)ダウン対象の敵がマルチターゲットの場合、魔法攻撃力を(\d+)ダウン$"=Cast time: 0.59s.\n►Recovers own TP by $3.\n►Deals $1 P.DMG to an enemy.\nIf enemy is a multi-target:\n►Deals $2 P.DMG to all its targets.\n►Boosts its P.CRIT DMG taken by 13% for 12s.\n►Lowers its P/M.ATK by $4 for 12s.
+うさぎさんスイムウェア=Bunny Swimwear

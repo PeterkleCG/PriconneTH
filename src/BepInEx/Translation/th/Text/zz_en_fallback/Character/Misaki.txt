@@ -1,0 +1,5 @@
+【魔法】後衛から、範囲攻撃を行う、レディ・ウィッチ。複数回の範囲攻撃を放つスキルや、目の前の敵全てを攻撃するユニオンバーストを持ち、範囲殲滅に特化する。=[Magic] A witch that launches area attacks from the rearguard. Specializes in mass destruction using multi-hit area effect skills along with a Union Burst that strikes all foes before her.
+r:"^敵単体に(\d+)の魔法ダメージ敵単体の行動速度を一定時間低下させる$"=►Deals $1 M.DMG to an enemy.\n►Reduces an enemy's action speed for a set period of time.
+r:"^範囲内の敵にそれぞれ(\d+)の魔法ダメージ$"=►Deals $1 M.DMG per hit to enemies in range.
+r:"^呪いまたは呪詛状態ではない敵に(\d+)の魔法ダメージ呪いまたは呪詛状態の敵に(\d+)の魔法ダメージ敵が呪いまたは呪詛状態の場合、誘惑する毎秒ダメージが初期値(\d+)の30％ずつアップするダメージを与える呪詛状態にする(\d+)ダメージを与える呪い状態にする$"=If the enemies are not cursed/hexed:\n►Deals $1 M.DMG to enemies.\n►Inflicts Curse $3 M.DMG/s.\n\nIf the enemies are cursed/hexed:\n►Deals $2 M.DMG to enemies.\n►Inflicts Hex $4+30% M.DMG/s.\n►Inflicts Charm for 5s.
+r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵の行動速度を一定時間低下させる$"=►Deals $1 M.DMG to enemies in range.\n►Reduces enemies' action speed in range.

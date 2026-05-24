@@ -1,0 +1,2 @@
+前方3キャラに物理中ダメージを与え、物理防御力を下げる。=Deals moderate P.DMG to the front 3 characters, lowering P.DEF.\n
+ユニオンバーストは、物理攻撃力もしくは魔法攻撃力が最も高い敵１キャラのステータスアップ効果を解除した後、魔法特大ダメージを与え、ＴＰを特大ダウンさせる。このスキルはダメージを無効化してもＴＰをダウンさせる。=Union Burst: After removing status enhancements from the enemy with the highest physical or attack, inflicts massive M.DMG and greatly reduces TP. This skill reduces TP even if the M.DMG is nullified.\n

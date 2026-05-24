@@ -1,0 +1,5 @@
+【物理】中衛で、戦場の動向を自在に操る白兎の乙女。敵の行動速度をダウンさせ、味方の速度をアップさせるスキルと敵の時を止めるスキルで、常に味方を支える。=[Physical] A midliner White Rabbit Maiden who can freely control the movements of the battlefield. She always supports her allies with skills that slowdown the enemy's movements and increase the speed of her allies, as well as skills that stop them from time.
+r:"^味方全体の行動速度アップ味方全体の物理防御力を(\d+)アップ$"=►Boosts all allies' action speed to 200% for 18s.\n►Boosts all allies' P.DEF by $1 for 18s.
+r:"^敵全体の行動速度を一定時間低下させる敵全体の物理攻撃力を(\d+)ダウン敵全体の命中を(\d+)ダウン$"=►Reduces all enemies' action speed to 90% for 12s.\n►Lowers all enemies' P.ATK by $1 for 12s.\n►Lowers all enemies' Accuracy by $2 for 12s.
+r:"^敵単体を一定時間行動不能にする$"=►Inflicts Time Stop to an enemy for 1.75s.
+r:"^敵全体の行動速度を一定時間低下させる敵全体の物理攻撃力を(\d+)ダウン敵全体の命中を(\d+)ダウン敵全体の物理クリティカルを(\d+)ダウン$"=►Reduces all enemies' action speed to 60% for 12s.\n►Lowers all enemies' P.ATK by $1 for 12s.\n►Lowers all enemies' Accuracy by $2 for 12s.\n►Lowers all enemies' P.CRIT Rate by $3 for 12s.

@@ -1,0 +1,9 @@
+【物理】最前衛で、ひたすら敵の攻撃を避ける幽霊少女。スキルで幽霊に変身することで敵の攻撃を躱し、ユニオンバーストでは敵をプリンにして食べてしまう。=[Physical] A ghostly girl who stands on the front lines and dodges enemy attacks. When she transforms into a ghost, no attacks can hit her, and her Union Burst lets her turn the enemy into pudding and eat them!
+r:"^敵単体に(\d+)の物理ダメージ自分のＨＰを(\d+)回復$"=►Deals $1 P.DMG to an enemy.\n►Recovers own HP by $2.
+r:"^一定時間無敵状態になる$"=►Becomes immune to all damage for 3+(0.01Lv)s.
+【変身】幽霊に変身し、しばらくの間無敵状態になり、自分の物理防御力を小アップさせる。=[Transform] Transforms into a ghost, becoming invincible for a short time. Also slight boost to own P.DEF.
+r:"^一定時間無敵状態になる自分の物理防御力を(\d+)アップ$"=►Becomes immune to all damage for 3+(0.01Lv)s.\n►Boosts own P.DEF by $1 for 12s.
+r:"^自分のＨＰを(\d+)回復$"=►Recovers own HP by $1.
+r:"^敵単体に(\d+)の物理ダメージ自分のＨＰを(\d+)回復自分の回避を(\d+)アップ$"=►Deals $1 physical damage to a single enemy.\n►Recovers own HP by $2.\n►Boosts own dodge by $3 for 180s.
+r:"^一定時間無敵状態になる自分の回避を(\d+)アップ自分の物理防御力を(\d+)アップ$"=►Becomes immune to all damage for 3+(0.01Lv)s.\n►Boosts own dodge by $1 for 12s.\n►Boosts own P.DEF by $2 for 12s.
+目の前の敵１キャラに物理特大ダメージを与え、物理防御力を大ダウンさせる。さらに自分のＨＰを中回復し、回避を特大アップさせる。=Deals massive P.DMG to an enemy in front, greatly lowers their P.DEF, moderately recovers own HP, and massively boosts own evasion.

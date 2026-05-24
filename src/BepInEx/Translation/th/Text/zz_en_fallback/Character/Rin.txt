@@ -1,0 +1,5 @@
+【物理】中衛で物理パーティを強化するものぐさ少女。味方の物理攻撃力をアップしつつ、味方の魔法防御を高めることで攻守ともにパーティをサポートする。=[Physical] A lazy girl who enhances physical-based parties from the midguard. Offers all-around support by increasing allies' physical attack and magical defense.
+r:"^味方全体のＨＰを(\d+)回復味方全体の物理攻撃力を(\d+)アップ味方全体の魔法防御力を(\d+)アップ$"=►Recovers allies' HP by $1.\n►Boosts allies' P.ATK by $2 for 18s.\n►Boosts allies' M.DEF by $3 for 18s.
+r:"^範囲内の味方の魔法防御力を(\d+)アップ$"=►Boosts allies' M.DEF in 150 range by $1 for 12s.
+r:"^味方全体のＨＰを(\d+)回復味方全体の物理攻撃力を(\d+)アップ味方全体の魔法防御力を(\d+)アップ味方全体の物理クリティカルを(\d+)アップ味方全体のＴＰ上昇を(\d+)アップ$"=►Recovers allies' HP by $1.\n►Applies HP Drain effect to next 1 attack of all allies.\n►Boosts allies' P.ATK by $2 for 18s.\n►Boosts allies' M.DEF by $3 for 18s.\n►Boosts allies' P.CRIT Rate by $4 for 18s.\n►Boosts allies' TP Boost by $5 for 18s.
+r:"^範囲内の味方の魔法防御力を(\d+)アップ範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理クリティカルを(\d+)アップ$"=Cast Time: 0.59s.\n►Boosts allies' M.DEF in 250 range by $1 for 12s.\n►Boosts allies' P.ATK in 250 range by $2 for 12s.\n►Boosts allies' P.CRIT Rate in 250 range by $3 for 12s.

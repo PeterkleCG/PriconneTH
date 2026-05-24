@@ -1,0 +1,4 @@
+エスト=Quests 
+ク= 
+受け取れるスタミナがありません。=There is no Stamina available to claim.
+対象=subject

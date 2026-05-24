@@ -1,0 +1,4 @@
+ボスバトル（NORMAL）=บอสแบทเทิล (NORMAL)
+ボスバトル（HARD）=บอสแบทเทิล (HARD)
+ボスバトル（VERYHARD）=บอสแบทเทิล (VERY HARD)
+ボスバトル（VERY HARD）=บอสแบทเทิล (VERY HARD)
