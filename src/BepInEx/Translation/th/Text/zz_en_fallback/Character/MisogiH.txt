@@ -1,7 +1,6 @@
 r:"^敵全体に(\d+)の物理ダメージ$"=►Deals $1 P.DMG to all enemies.
 r:"^範囲内の敵すべてに(\d+)の物理ダメージ$"=►Deals $1 P.DMG to enemies in range.
 r:"^範囲内の敵すべてに(\d+)の物理ダメージ範囲内の敵すべての物理攻撃力を(\d+)ダウン$"=►Deals $1 P.DMG to enemies in range.\n►Lowers enemies' P.ATK by $2 for 12s.
-びっくりパンプキン+=Pumpkin Surprise+
 自分の物理攻撃力を大アップさせる。さらに、前から３番目の敵を中心とした範囲内の敵すべてを長時間スタンさせ、物理大ダメージを与える。=Greatly boosts own P.ATK. Also deals moderate P.DMG and inflicts a long Stun to enemies in range of 3rd enemy.
 r:"^自分の物理攻撃力を(\d+)アップ範囲内の敵を一定時間行動不能にする範囲内の敵すべてに(\d+)の物理ダメージ$"=►Boosts own P.ATK by $1 for 18s.\n►Inflicts Stun to enemies in 300 range of 3rd enemy for 5s.\n►Deals $2 P.DMG to enemies in 300 range of 3rd enemy.
 ハロウィンお菓子ポーチ=Halloween Candy Pouch

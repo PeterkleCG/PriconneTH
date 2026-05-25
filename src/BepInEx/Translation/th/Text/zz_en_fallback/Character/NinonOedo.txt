@@ -1,5 +1,4 @@
 【物理】最前衛で、忍法を駆使して敵と戦うクノイチ。ユニオンバーストはクリティカル時のダメージを１．５倍にする特性を持ち、うまくかみ合った時の威力は抜群。=[Physical] A ninja girl who unleashes her special techniques upon the enemy from the vanguard. When her Union Burst is critical, it deals 1.5 times the damage of an ordinary critical hit, making it immensely powerful under the right circumstances.
-忍法・影分身の術+=Ninpo: Shadow Clone no Jutsu+
 自分の物理攻撃力を特大アップ、物理攻撃クリティカル時のダメージを小アップし、自分の行動速度を大アップさせ、ＴＰを大回復する。=Greatly boosts own P.ATK, slightly boosts own P.CRIT DMG, greatly boosts own action speed, and recovers own TP by a large amount.
 r:"^自分の物理攻撃力を(\d+)アップ自分の物理攻撃クリティカル時のダメージを10％アップ自分の行動速度アップ自分のＴＰを500回復$"=►Boosts own P.ATK by $1 for 180s.\n►Boosts own P.CRIT DMG by 10% for 180s.\n►Boosts own action speed to 200%.\n►Restores own TP by 500.
 スゴウデクノイチセット=Awesome Dekunoichi Set

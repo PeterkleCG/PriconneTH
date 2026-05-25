@@ -2,7 +2,6 @@
 r:"^対象の味方の魔法攻撃力を(\d+)アップ(\d+)ダメージ分の物理魔法無効バリアを展開する毎秒ＨＰを(\d+)回復する$"=►Boosts all M-type allies' M.ATK by $1 for 180s.\n►Deploys Barrier over all M-type allies' that negates $2 P/M.DMG for 18s.\n►Recovers all M-type allies' HP by $3/s for 18s.
 r:"^対象の味方の魔法攻撃力を(\d+)アップ対象の味方の魔法クリティカルを30アップ対象の味方の魔法攻撃クリティカル時のダメージを1％アップ$"=►Boosts all M-type allies' M.ATK by $1 for 180s.\n►Boosts all M-type allies' M.CRIT Rate by 30 for 180s.\n►Boosts all M-type allies' M.CRIT DMG by 1% for 180s.
 r:"^対象の味方のＴＰを100回復自分のＨＰを(\d+)回復$"=Cast time: 0.66s.\n►Recovers all M-type allies' TP by 100.\n►Recovers own HP by $1.
-マリンコンフィデンス+=Marine Confidence+
 魔法攻撃を行うすべての味方キャラの魔法攻撃力と魔法クリティカルを中アップし、魔法攻撃クリティカル時のダメージを小アップさせる。このスキルの魔法攻撃力の上昇量は自分の残りＨＰに応じて最大２倍までアップする。=Moderately boosts all M-type allies' M.ATK and M.CRIT Rate, and slightly boosts their M.CRIT DMG. The M.ATK boost increases up to double, based on own remaining HP.
 r:"^対象の味方の魔法攻撃力を(\d+)アップ対象の味方の魔法クリティカルを60アップ対象の味方の魔法攻撃クリティカル時のダメージを(3|３)％アップ$"=►Boosts all M-type allies' M.ATK by $1 for 180s.\n►Boosts all M-type allies' M.CRIT Rate by 60 for 180s.\n►Boosts all M-type allies' M.CRIT DMG by 3% for 180s.
 トゥインクルサマーバンド=Twinkle Summer Band

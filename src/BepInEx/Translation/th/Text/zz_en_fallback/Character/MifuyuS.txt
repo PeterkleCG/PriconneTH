@@ -1,6 +1,5 @@
 【物理】中衛で、攻撃と補助の両方をこなす海の傭兵。ユニオンバーストの効果で味方全体の物理攻撃力を高め、物理攻撃パーティの能力アップに一役買う。=[Physical] A seaside mercenary who provides offensive power and support from the midguard. Her Union Burst boosts the physical attack of her allies, strengthening the entire party.
 r:"^敵単体に(\d+)の物理ダメージ味方全体の物理攻撃力を(\d+)アップ$"=►Deals $1 P.DMG to an enemy.\n►Boosts allies' P.ATK by $2.
-ハンティングモード+=Hunting Mode+
 自分の物理攻撃力を特大アップ、物理クリティカルを大アップさせる。さらに短時間物理クリティカルを特大アップ、物理攻撃クリティカル時のダメージを中アップさせる。=Boosts own P.ATK by a massive amount, large boost to own P.CRIT Rate. Additionally, massive boost to own P.CRIT Rate and moderate boost to own P.CRIT DMG for a short period of time.
 r:"^自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを(\d+)アップ自分の物理クリティカルを(\d+)アップ自分の物理攻撃クリティカル時のダメージを24％アップ$"=►Boosts own P.ATK by $1.\n►Boosts own P.CRIT Rate by $2.\n►Boosts own P.CRIT Rate by $3.\n►Boosts own P.CRIT DMG by 24%.
 蒼竜装ロタン=Serpentarmor Lotan

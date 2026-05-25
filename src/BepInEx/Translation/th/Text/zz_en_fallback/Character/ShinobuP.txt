@@ -3,7 +3,6 @@ r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダ
 r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン霊錨の刻印を追加で２つ付与する$"=►Deals $1 P.DMG to an enemy.\n►Lowers an enemy's P.DEF by $2 for 12s.\n►Grants 2 [Soul Anchor Mark] to an enemy.
 r:"^敵単体に(\d+)の物理ダメージ自分のＴＰを(\d+)回復自分の物理攻撃力を(\d+)アップ霊錨の刻印を３つ消費する$"=►Deals $1 (+$1×[Soul Anchor Mark]) P.DMG to an enemy.\n►Recovers own TP by $2 (+$2×[Soul Anchor Mark]).\n►Boosts own P.ATK by $3 for 180s.
 このスキルのスキルレベルは「ソウルリベ\nレーション」と連動しています=This skill's level is linked to "Soul Liberation"
-ソウルバインド+=Soul Bind+
 目の前の敵１キャラに物理大ダメージを与え、物理防御力を中ダウンさせ、自分の物理攻撃力を小アップし、物理クリティカルを中アップする。さらに、【霊錨の刻印】を２つ追加で付与する。=Deals large P.DMG to an enemy in front, moderately lowers its P.DMG, slightly boosts own P.ATK, and moderately boosts P.CRIT Rate. Additionally, grants 2 [Soul Anchor Mark] to an enemy.
 r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン霊錨の刻印を追加で２つ付与する自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを(\d+)アップ$"=►Deals $1 P.DMG to an enemy.\n►Lowers an enemy's P.DEF by $2 for 12s.\n►Grants 2 [Soul Anchor Mark] to an enemy.\n►Boosts own P.ATK by $3 for 180s.\n►Boosts own P.CRIT Rate by $4 for 180s.
 霊錨斧グリムアンカー=Spiritual Grim Anchor Axe

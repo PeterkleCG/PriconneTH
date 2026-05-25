@@ -1,7 +1,6 @@
 【魔法】中衛の多勢相手の戦いが得意な真夏の魔法少女。敵の数に応じて効果が上昇する防御力ダウンのスキルや、多彩な範囲攻撃を操り、真夏の戦いをサイカワに制する。=[Magic] A midsummer Magical Girl who is good at fighting against large numbers of midliners. Using her skill to lower magical defense, which increases in effect depending on the number of enemies, and with variety of ranged attacks, Saikawa wins the midsummer battle.
 r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の味方の魔法攻撃力を(\d+)アップ$"=►Deals1 $1 M.DMG to enemies in range.\n►Boosts allies' M.ATK in range by $2.
 r:"^敵全体の魔法防御力を(\d+)ダウン$"=►Lowers all enemies' M.DEF by $1.
-ブレイクスプラッシュ+=Break Splash+
 ナナカエモナツメモリー=Nanaka’s Midsummer Recollection
 敵全体の物理攻撃力と魔法攻撃力を大ダウン、魔法防御力を中ダウンさせ、そのキャラの最大ＨＰに応じて最大200万の魔法割合ダメージを与える。敵の数に応じて、このスキルの効果量が増加する。=Greatly lowers all enemies' P.ATK and M.ATK, and moderately lowers their M.DEF.\nDeals percentage-based M.DMG up to 2,000,000 depending on the target's max HP.\nEffect strength increases based on the number of enemies.
 r:"^敵全体の物理攻撃力を(\d+)ダウン敵全体の魔法攻撃力を(\d+)ダウン敵全体の魔法防御力を(\d+)ダウン敵全体に最大200万の魔法割合ダメージを与える$"="►Lowers all enemies' P.ATK by $1\n►Lowers all enemies' M.ATK by $2\n►Lowers all enemies' M.DEF by $3\n►Deals up to 2,000,000 M.DMG (percentage-based) to all enemies"

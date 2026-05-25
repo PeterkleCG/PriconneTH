@@ -1,7 +1,6 @@
 【物理】後衛で百千の矢を放つ、ぼっちの山籠りエルフ。物理魔法無効バリアで耐え凌ぎ、敵全体への射撃と自分の間合いに入った敵への強力な弓雨の追撃で掃討する。=[Physical] A lone mountain-dwelling elf who unleashes a barrage of arrows from the backlines. She can power on through by negating damage with her barrier, while swiftly eliminating multi enemies with her powerful volley of arrows, focused on enemies at the front.
 r:"^敵全体に(\d+)の物理ダメージ範囲内の敵に(\d+)の物理ダメージ$"=►Deals $1 P.DMG to all enemies.\n►Deals $2 P.DMG to enemies in range.
 r:"^(\d+)ダメージ分の物理魔法無効バリアを展開する自分のＴＰ上昇を(\d+)アップ$"=►Deploys Barrier over oneself that negates P/M.DMG by $1 for 12s.\n►Boosts own TP Boost by $2 for 12s.
-ブッシュショット+=Bush Shot+
 敵全体に物理中ダメージを与え、さらに前方範囲内の敵すべてに物理大ダメージを与え、スタンさせる。=Deals moderate P.DMG to all enemies, and also deals large P.DMG to enemies in range. Additionally, inflicts Stun to them.
 r:"^敵全体に(\d+)の物理ダメージ範囲内の敵に(\d+)の物理ダメージ範囲内の敵を一定時間行動不能にする$"=►Deals $1 P.DMG to all enemies.\n►Deals $2 P.DMG to enemies in range.\n►Inflicts Stun to enemies in range for 2.5s.
 ソロキャンパーボウガン=Solo Camper Bowgun

@@ -11,6 +11,5 @@ r:"^敵単体に(\d+)の物理ダメージ自分のＴＰを220回復$"=Cast tim
 r:"^敵３体に(\d+)の物理ダメージ自分の物理攻撃力を(\d+)アップ味方全体の物理攻撃力を(\d+)アップ味方全体の行動速度60％アップ$"=►Deals $1 P.DMG to 3 enemies.\n►Boosts own P.ATK by $2 for 18s.\n►Boosts allies' P.ATK by $3 for 18s.\n►Boosts allies' action speed by 60％ for 18s.
 前方範囲内の敵すべてに物理中ダメージを与える。前方範囲内の敵が２キャラ以上の場合、追加の物理小ダメージを与える。=Deals medium P.DMG to all enemies in a frontal area. If there are 2 or more enemies in the area, deals additional small P.DMG.
 r:"^範囲内の敵に(\d+)の物理ダメージ前方範囲内の敵の数が２キャラ以上の場合、範囲内の敵に(\d+)の物理ダメージ$"=Cast time: 0.76s.\n►Deals $1 P.DMG to enemies within 600 range.\n\nIf there are 2 or more enemies in the frontal area:\n►Deals $2 P.DMG to enemies within 600 range.
-ミクマ流剣術・陣風++=Mikuma style: Gale Strike++
 前方範囲内の敵すべてに物理大ダメージを与える。前方範囲内の敵が２キャラ以上の場合、追加の物理小ダメージを与える。前方範囲内の敵が３キャラ以上の場合、さらに追加の物理小ダメージを与える。=Deals large P.DMG to all enemies in a frontal area. If there are 2 or more enemies in the area, deals additional small P.DMG. If there are 3 or more enemies in the area, deals further additional small P.DMG.
 r:"^範囲内の敵に(\d+)の物理ダメージ前方範囲内の敵の数が２キャラ以上の場合、範囲内の敵に(\d+)の物理ダメージ前方範囲内の敵の数が３キャラ以上の場合、範囲内の敵に(\d+)の物理ダメージ$"=Cast time: 0.76s.\n►Deals $1 P.DMG to enemies within range.\n\nIf there are 2 or more enemies in the frontal area:\n►Deals $2 P.DMG to enemies within range.\n\nIf there are 3 or more enemies in the frontal area:\n►Deals $3 P.DMG to enemies within range.

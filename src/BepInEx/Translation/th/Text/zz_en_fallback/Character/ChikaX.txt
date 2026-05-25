@@ -4,7 +4,6 @@ r:"^味方単体の物理攻撃力を(\d+)アップ$"=►Boosts an ally's P.ATK 
 自分を中心とした範囲内の味方すべての物理防御力を大アップさせ、さらにＴＰを小回復する。=massively boost to the allies' P.DEF in range, and recovers their TP by a small amount.
 r:"^範囲内の味方の物理防御力を(\d+)アップ範囲内の味方のＴＰを(\d+)回復$"=►Boosts allies' P.DEF in range by $1.\n►Recovers allies' TP in range by $2.
 r:"^味方単体の物理攻撃力を(\d+)アップ味方単体の物理クリティカルを(\d+)アップ$"=►Boosts an ally's P.ATK by $1.\n►Boosts an ally's P.CRIT Rate by $2.
-ガーディアンメロディ+=Guardian Melody+
 自分の魔法攻撃力を特大アップさせ、自分を中心とした範囲内の味方すべての物理攻撃力を特大アップ、物理防御力を中アップし、さらにＴＰを小回復する。このキャラの魔法攻撃力に応じて最大２倍まで物理攻撃力の上昇量がアップする。=Boosts own M.ATK massively, and within a range centered around the user, boost allies' P.ATK massively , boost P.DEF moderately, and further recovers TP slightly. The boost in P.ATK is further enhanced, up to a maximum of two times, based on this character's M.ATK.
 自分の魔法攻撃力を特大アップさせ、自分を中心とした範囲内の味方すべての物理攻撃力を特大アップ、物理防御力を大アップし、さらにＴＰを小回復する。このキャラの魔法攻撃力に応じて最大２倍まで物理攻撃力の上昇量がアップする。=Boosts own M.ATK massively, and within a range centered around the user, boost allies' P.ATK massively , boost P.DEF massively, and further recovers TP slightly. The boost in P.ATK is further enhanced, up to a maximum of two times, based on this character's M.ATK.
 r:"^自分の魔法攻撃力を(\d+)アップ範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理防御力を(\d+)アップ範囲内の味方のＴＰを(\d+)回復$"=►Boosts own M.ATK by $1 for 18s.\n►Boosts allies' P.ATK in 400 range by $2 for 18s.\n►Boosts allies' P.DEF in 400 range by $3 for 18s.\n►Recovers allies' TP in 400 range by $4.

@@ -3,7 +3,6 @@ r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダ
 r:"^発動時の中心の敵が毒または猛毒状態の時、毎秒(\d+)の物理ダメージを与えるフィールドを展開する発動時の中心の敵が毒または猛毒状態でない時、毎秒(\d+)の物理ダメージを与えるフィールドを展開する$"=If target is not poisoned or venomed:\n►Deploys a field that deals $2 P.DMG/s for 8s.\n\nIf target is poisoned or venomed:\n►Deploys a field that deals $1 P.DMG/s for 8s.
 r:"^敵単体の物理防御力を(\d+)ダウン対象が毒または猛毒状態の時、敵単体に(\d+)の物理ダメージ$"=►Lowers an enemy's P.DEF by $1 for 12s.\n\nIf target is poisoned or venomed:\n►Deals $2 P.DMG to an enemy.
 r:"^発動時の中心の敵が毒または猛毒状態の時、毎秒(\d+)の物理ダメージを与えるフィールドを展開する発動時の中心の敵が毒または猛毒状態でない時、毎秒(\d+)の物理ダメージを与えるフィールドを展開するフィールド内の敵の物理防御力(\d+)ダウン$"=►Deploys a field that lowers P.DEF by $3 for 8s.\n\nIf target is not poisoned or venomed:\n►Deploys a field that deals $2 P.DMG/s for 8s.\n\nIf target is poisoned or venomed:\n►Deploys a field that deals $1 P.DMG/s for 8s.
-アシッドヴァイン+=Acid Vines+
 目の前の敵１キャラの物理防御力を大ダウンさせ、物理大ダメージを与え、自分のＴＰを大回復する。対象が毒か猛毒状態だった場合、さらに物理大ダメージを与える。=Greatly lowers an enemy's P.DEF, deals large P.DMG to it, and greatly recovers own TP. If the target is suffering from Poison or Venom, additionally deals moderate P.DMG.
 r:"^敵単体の物理防御力を(\d+)ダウン対象が毒または猛毒状態の時、敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージ自分のＴＰを450回復$"=►Lowers an enemy's P.DEF by $1 for 12s.\n►If target is poisoned or venomed, deals $2 P.DMG to an enemy.\n►Deals $3 P.DMG to an enemy.\n►Recovers own TP by 450.
 アオイのなかよし手帳=Aoi's Friendship Notebook
