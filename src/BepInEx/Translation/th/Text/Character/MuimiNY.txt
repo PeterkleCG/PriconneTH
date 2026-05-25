@@ -1,1 +1,3 @@
 冒険、思い出話=ผจญภัย, พูดเรื่องความหลัง
+【物理】前衛で、新風纏う「天楼覇断剣」を振るう少女。皆より一足遅れて突撃し、敵の前衛を吹き飛ばした後、強化した範囲物理攻撃で、ダンゴになった敵を斬り払う。=[Physical] A girl who wields Spiresbane Blade in the vanguard with a new style. She charges one step behind everyone else, blows away the enemy's vanguard, and then uses her enhanced AoE physical attacks to slay any enemies that turn into dango.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン一定時間無敵状態になる$"=►Deals $1 P.DMG to an enemy.\n►Lowers an enemy's P.DEF by $2 for 18s.\n►Knockbacks an enemy by 200 units.\n►Becomes immune to all damage for 7s.

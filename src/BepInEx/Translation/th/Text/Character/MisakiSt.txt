@@ -1,1 +1,7 @@
 ブースターアイ+=บูสเตอร์อาย+
+【魔法】後衛で後ろの味方を強化する魔法少女の看板娘。後衛の味方をバリアとＴＰ継続回復で支援し、自分の魔法攻撃力に応じ強化される攻撃力アップスキルで鼓舞する。=[Magic] A magical girl who strengthens the backline allies. She supports her backline allies with barriers and TP recovery, and encourages them with her attack boost skill that is strengthened according to her own magic attack power.
+r:"^範囲内の味方の魔法攻撃力を(\d+)アップ範囲内の味方の魔法クリティカルを180アップ$"=►Boosts allies' M.ATK in 100 range by $1(+0.25×M.ATK) for 18s.\n►Boosts allies' M.CRIT Rate in 100 range by 180 for 18s.
+r:"^毎秒ＴＰを10回復する(\d+)ダメージ分の魔法無効バリアを展開する$"=Cast time: 0.94s.\n►Recovers allies' TP in 100 range by 10/s for 12.5s.\n►Deploys Barrier over allies in 100 range that negates $1 M.DMG for 12s.
+自分を中心とした範囲内の味方すべての魔法攻撃力を小アップさせる。自分の魔法攻撃力が高い程、魔法攻撃力の上昇量が最大10倍までアップする。さらに、自分を中心とした範囲内の味方すべての魔法攻撃クリティカル時のダメージを小アップさせる。=Slightly boosts allies' M.ATK in range. M.ATK boost increases up to x10 based on own M.ATK power. Additionally, slightly boosts allies' M.CRIT DMG in range.
+r:"^範囲内の味方の魔法攻撃力を(\d+)アップ範囲内の味方の魔法攻撃クリティカル時のダメージを6%アップ$"=Cast time: 0.94s.\n►Boosts allies' M.ATK in 100 range by $1(+0.125×M.ATK) for 12s.\n►Boosts allies' M.CRIT DMG in 100 range by 6% for 12s.
+魔眼販売所アイ・ワゴン=Mystic Eye's Shop Wagon

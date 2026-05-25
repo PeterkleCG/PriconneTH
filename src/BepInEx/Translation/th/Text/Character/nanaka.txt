@@ -1,1 +1,9 @@
 エナジーインパクト+=เอเนอร์จีอิมแพค+
+【魔法】後衛から多彩な魔法を放つ、オタク魔法少女。体力が一番多い相手を狙うユニオンバーストやスキルは、敵のＨＰ状況により攻撃対象が変わる高威力の魔法攻撃。=[Magic] A nerdy magical girl who unleashes a variety of spells from the rearguard. Her Union Burst and skills feature high-powered magical attacks that strategically target the enemy with the greatest remaining HP.
+残りＨＰが最も高い敵１キャラに魔法特大ダメージを与える。=Deals massive M.DMG to an enemy with the highest remaining HP.
+残りＨＰが最も高い敵１キャラに魔法中ダメージを与え、さらにスタンさせる。=Deals moderate M.DMG to an enemy with the highest remaining HP and inflicts Stun for 1.5s.
+残りＨＰが最も高い敵１キャラに魔法特大ダメージを与え、さらに魔法防御力を小ダウンさせる。=Deals massive M.DMG to an enemy with the highest remaining HP, and also slightly lowers its M.DEF.
+r:"^範囲内の敵の魔法防御力を(\d+)ダウン$"=►Lowers enemies' M.DEF in 200 range by $1 for 12s.
+最もＨＰの割合が高い敵１キャラに魔法特大ダメージを与えてスタンさせ、さらにＨＰ回復量を特大ダウンさせる。=Deals massive M.DMG to an enemy with the highest %HP, inflicts Stun and also massively reduces its HP Recovery Rate.
+r:"^敵単体に(\d+)の魔法ダメージ敵単体を一定時間行動不能にする敵単体のＨＰ回復量を90％ダウン$"=►Deals $1 M.DMG to an enemy.\n►Inflicts Stun to an enemy for 4.5s.\n►Reduces an enemy's HP Recovery Rate to 10% for 18s.
+ナナカマジカルマスカレード=Nanaka's Magical Masquerade

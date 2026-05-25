@@ -1,4 +1,0 @@
-【物理】中衛で、強力な範囲攻撃を操る、忍術の使い手。範囲攻撃のスキルで敵を倒す事で、自分のＴＰを回復し、強力なユニオンバーストの発動頻度を上げる。=[Physical] A ninja that uses powerful area attacks from the midguard. Recovers her own TP by felling foes with her area attack skill, allowing her to use her devastating Union Burst more frequently.
-r:"^範囲内の敵に(\d+)の物理ダメージとどめを刺した時、自分のＴＰを150回復$"=Cast time: 1.85s.\n►Deals $1 P.DMG to enemies in 750 range.\n►Recovers own TP by 150 for each fallen enemy.
-r:"^範囲内の敵に(\d+)の物理ダメージ自分の物理攻撃力を(\d+)アップ自分のＴＰを100回復$"=►Deals $1 P.DMG to enemies in 815 range.\n►Boosts own P.ATK by $2 for 12s.\n►Recovers own TP by 100.\n►Recovers own TP by 200 for each fallen enemy.
-r:"^範囲内の敵に(\d+)の物理ダメージとどめを刺した時、自分のＴＰを1000回復$"=Cast time: 1.85s.\n►Deals $1 P.DMG to enemies in 750 range.\n►Recovers own TP by 1000 for each fallen enemy.

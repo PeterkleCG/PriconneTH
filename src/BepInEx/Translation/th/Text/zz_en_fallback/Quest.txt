@@ -1,3 +1,0 @@
-エスト=Quests 
-ク= 
-対象=subject

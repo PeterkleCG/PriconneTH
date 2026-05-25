@@ -1,7 +1,0 @@
-【魔法】後衛で、膨大な魔力を振るう、真夏のおとぎ姫。高火力で対象がランダムなスキルやユニオンバーストは、攻撃対象が１つの敵に対して絶大なダメージを叩き出す。=[Magic] A midsummer's fairy tale princess who supports the party from the rearguard with her immense magical reserves. Though her powerful skills and Union Burst affect random targets, they become even more devastating when focused onto a single enemy.
-自分の魔法攻撃力を大アップさせ、さらにＴＰを中回復させる。=Large boost to own M.ATK. Recovers own TP by a moderate amount.
-r:"^自分の魔法攻撃力を(\d+)アップ\n自分のＴＰを(\d+)回復$"=►Boosts own M.ATK by $1\n►Recovers own TP by $2.
-r:"^自分の魔法攻撃力を(\d+)アップ自分のＴＰを(\d+)回復自分のＴＰ上昇を(\d+)アップ$"=►Boosts own M.ATK by $1 for 15s.\n►Recovers own TP by $2.\n►Boosts own TP Boost by $3 for 15s.
-ランダムな敵１キャラに魔法大ダメージを与え、魔法防御力を中ダウンさせる。さらに、自分の魔法攻撃力を特大アップ、魔法クリティカルを大アップ、魔法攻撃クリティカル時のダメージを中アップする。=Deals large M.DMG to a random enemy, and moderately lowers its M.DEF. Also massively boosts own M.ATK, greatly boosts own M.CRIT Rate, and moderately boosts own M.CRIT DMG.
-r:"^敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン自分の魔法攻撃力を(\d+)アップ自分の魔法クリティカルを(\d+)アップ自分の魔法攻撃クリティカル時のダメージを25％アップ$"=►Deals $1 M.DMG to an enemy.\n►Lowers an enemy's M.DEF by $2 for 18s.\n►Boosts own M.ATK by $3 for 18s.\n►Boosts own M.CRIT Rate by $4 for 18s.\n►Boosts own M.CRIT DMG by 25% for 18s.
-マホマホぬいぐるみ騎士団=Maho-Maho Plush Knights

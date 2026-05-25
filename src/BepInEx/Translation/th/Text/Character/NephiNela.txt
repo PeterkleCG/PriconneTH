@@ -18,3 +18,4 @@ r:"^敵単体に(\d+)の物理ダメージ妨魔塵中、敵単体に(\d+)の物
 万化・尖鋭+=ศัสตราคมหมื่นแปรเปลี่ยน+
 妨魔塵=ละอองฝุ่นสะกดมนตรา
 魔法攻撃のダメージが小ダウンする。=ลดดาเมจเวทเล็กน้อย
+r:"^味方全体の行動速度アップ初使用時、自分に鉄気ノ護リを20追加する敵単体に最大99999の割合ダメージを与える味方全体の物理攻撃力を(\d+)アップ味方全体のＨＰを(\d+)回復$"=►Boosts all allies' action speed to 150% for 12s.\n►For 1st skill usage, gains 20 [Iron Will Guard] stacks.\n►Recovers all allies' HP by $2.\n►If [Magic Disturbance Dust] is active, boosts all allies' action speed to 200% for 12s.

@@ -1,8 +1,0 @@
-【魔法】中衛から全体魔法攻撃を放つ超能力チアガール。ユニオンバーストで敵全体に絶大な一撃を放ち、その後、超能力発動の反動で枕を抱えて夢の中へ。=[Magic] A supernatural cheerleader who unleashes an all-out magic assault from the midlines. She delivers a devastating blow to all enemies with her Union Blast, then drifts into a dreamland while clutching her pillow thanks to the recoil from her psychic powers.
-r:"^敵全体に(\d+)の魔法ダメージ自分を行動不能にする$"=►Deals $1 M.DMG to all enemies.\n►Inflicts Disable to self.
-敵全体に魔法中ダメージを与え、さらに自分のＴＰを中回復する。敵の数に応じてＴＰの回復量が増加する。=Deals moderate M.DMG to all enemies and further restores her own TP. The TP recovery amount increases based on the number of enemies.
-r:"^範囲内の味方の魔法攻撃力を(\d+)アップ範囲内の味方の魔法クリティカルを50アップ$"=►Boosts allies' M.ATK in range by $1 for 12s.\n►Boosts allies' M.CRIT Rate in range by 50 for 12s.
-r:"^敵全体に(\d+)の魔法ダメージ自分のＴＰを(\d+)回復$"=►Deals $1 M.DMG to all enemies.\n►Recovers own TP by $2.
-チアリーダー☆ミーティア=Cheerleader☆Mitia
-自分を中心とした範囲内の味方すべての魔法攻撃力を特大アップ、魔法クリティカルを大アップさせる。さらに、バトル開始後、初弾のこのスキルは自分を中心とした範囲内の味方すべてのＴＰを特大回復させる。=Massively boosts all allies in range centered on self's M.ATK, and greatly boosts M.CRIT RATE. Furthermore, after battle start, the first use of this skill massively recovers all allies in range centered on self's TP.
-r:"^範囲内の味方の魔法攻撃力を(\d+)アップ範囲内の味方の魔法クリティカルを80アップ初使用時、範囲内の味方のＴＰを500回復$"=►Boosts M.ATK of allies within range by $1.\n►Boosts M.CRIT RATE of allies within range by 80.\n►On first use, recovers TP for allies within range by 500.

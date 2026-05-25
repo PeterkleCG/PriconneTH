@@ -1,1 +1,7 @@
 エンジェルシュート+=แองเจิลชูต+
+【魔法】中衛で、魔法攻撃をお見舞いする双子の妹天使。効果時間が短い分、絶大な効果の強化魔法で自身の攻撃力を大きく高め、威力抜群の単体魔法で敵を一掃する。=[Magic] A twin sister angel who deals magical damage in the midlines. Since her effect time is short, her powerful strengthening magic greatly increases her own attack power, and she wipes out enemies with her extremely powerful single magic.
+r:"^自分の魔法攻撃力を(\d+)アップ自分の魔法クリティカルを(\d+)アップ自分の魔法攻撃クリティカル時のダメージを24％アップ$"=►Boosts own M.ATK by $1 for 6s.\n►Boosts own M.CRIT Rate by $1 for 6s.\n►Boosts own M.CRIT DMG by 24% for 6s.
+r:"^自分の魔法攻撃力を(\d+)アップ自分の魔法クリティカルを(\d+)アップ自分の魔法攻撃クリティカル時のダメージを24％アップ自分のＴＰを(\d+)回復$"=►Boosts own M.ATK by $1 for 6s.\n►Boosts own M.CRIT Rate by $1 for 6s.\n►Boosts own M.CRIT DMG by 24% for 6s.\n►Recovers own TP by $3.
+エンジェリックラブドレス=Angelic Love Dress
+自分の魔法攻撃力を短時間特大アップし、目の前の敵１キャラに魔法大ダメージを３回与える。このスキルがクリティカルした場合のダメージは、２倍ではなく３倍になる。このスキルの初回使用後、行動パターンが変化する。=Massively boosts own M.ATK for a short time and deals large M.DMG 3 times to 1 enemy in front. If this skill crits, the damage becomes 3x instead of 2x. Action pattern changes after the first use of this skill.
+r:"^自分の魔法攻撃力を(\d+)アップ敵単体に(\d+)の魔法ダメージ敵単体に(\d+)の魔法ダメージ敵単体に(\d+)の魔法ダメージ$"=►Boosts own M.ATK by $1.\n►Deals $2 M.DMG to a single enemy.\n►Deals $3 M.DMG to a single enemy.\n►Deals $4 M.DMG to a single enemy.

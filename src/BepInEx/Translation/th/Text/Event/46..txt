@@ -1,1 +1,4 @@
 r:"^ガストロス山([0-9\-\(\)\w （）]*)$"=ภูเขากาสทรอส $1
+勝利のおせち=Victory New Year
+みんなでおせちパーティー=Everyone's New Year Party
+ノーマルクエスト・ハードクエストのクリア時に出現することがあります=It may appear when the normal quest hard quest is cleared

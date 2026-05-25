@@ -1,1 +1,4 @@
 マジカルシャイニーレイピア=ดาบแมจิคัลไชน์นี่
+【物理】中衛で正義の力を魔法にのせて戦う魔法剣士。自身の物理攻撃力を魔法攻撃力に加える魔法少女の力と、たゆまぬ努力で獲得した剣技で、華麗な魔法攻撃を放つ。=[Physical] A Magical Swordswoman who uses the power of justice in her magic to fight from midlines. With magical girl powers to boost her own M.ATK with her P.ATK and sword skills she has acquired through tireless efforts, she unleashes brilliant magical attacks.
+r:"^自分の物理攻撃力を(\d+)アップ自身の行動速度を一定時間上昇させる自分の魔法クリティカルを(\d+)アップ$"=►Boosts own P.ATK by $1 for 12s.\n►Boosts own action speed to 150% for 12s.\n►Boosts own M.CRIT Rate by $2 for 180s.
+r:"^自分の物理攻撃力を(\d+)アップ自分の魔法クリティカルを(\d+)アップ敵単体に(\d+)の魔法ダメージ$"=►Boosts own P.ATK by $1 for 9s.\n►Boosts own M.ATK by $2 for 9s.\n►Deals $3 P.DMG to an enemy.

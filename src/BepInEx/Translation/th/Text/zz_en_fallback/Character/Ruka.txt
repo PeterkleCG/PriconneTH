@@ -1,8 +1,0 @@
-【物理】前衛で味方のため剣を振るう、いなせな姉御。相手へのカウンターも行う挑発や、敵の防御力を下げるユニオンバーストを持ち、攻防両面で実力を発揮する。=[Physical] An honorable swordswoman who wields her blade in the vanguard to protect her allies. Not only can she draw enemy attacks to herself while countering their strikes, her Union Burst lowers their defense, giving her a strong balance of offensive and defensive abilities.
-r:"^敵全体を挑発する範囲内の敵に(\d+)の物理ダメージ$"=►Provokes all enemies for 17s.\n►Counter if damage is taken in next 2s by $1 P.DMG in 200 range\n►Knockbacks all enemies by 200 units.
-r:"^自分のＨＰを(\d+)回復自分の物理防御力を(\d+)アップ$"=►Recovers own HP by $1.\n►Boosts own P.DEF by $2.
-r:"^自分の魔法防御力を(\d+)アップ$"=►Boosts own M.DEF by $1.
-極の太刀・止水龍吟の哮り=Ultimate Strike: Water Dragon Roar
-目の前の敵１キャラに物理特大ダメージを与え、物理防御力を特大ダウンさせる。さらに自分に【絶海の型】を１つ付与する。【絶海の型】が付与されている間に１回ダメージを受けると【絶海の型】を１つ消費してダメージを無効化し、同時に敵に物理特大ダメージを与える。このスキルによるダメージは必ずクリティカルする。=Deals massive P.DMG to an enemy in front and massively lowers its P.DEF. Also gains [Distant Sea Form] status. When taking damage with [Distant Sea Form] status active, consumes the status, nullifies incoming damage once, and deals massive P.DMG to the attacking enemy. This attack is always a critical hit.
-r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン攻撃してきた敵に(\d+)の物理ダメージを与えて消失する絶海の型を最大１つまで付与する$"=►Deals $1 P.DMG to an enemy.\n►Lowers an enemy's P.DEF by $2 for 24s.\n►Gains [Distant Sea Form] status, which nullifies incoming DMG and deals $3 P.DMG to an attacking enemy once.
-r:"^敵全体を挑発する範囲内の敵に(\d+)の物理ダメージ範囲内の敵の物理防御力を(\d+)ダウン$"=►Provokes all enemies for 17s.\n►Counter if damage is taken in next 2s by $1 P.DMG in 200 range.\n►Knockbacks all enemies by 200 units.\n►Lowers enemies' P.DEF in 200 range by $2 for 12s.

@@ -1,5 +1,0 @@
-【物理】前衛で範囲攻撃が得意な口達者のドラゴン娘。ユニオンバーストで範囲内の敵をまとめて吹き飛ばし、陣形を乱したところで、敵を一気に焼き尽くす。=[Physical] A well-spoken dragon girl who specializes in ranged attacks in the vanguard. She blows away enemies in range with her UB, burning all her enemies in one fell swoop once the formation is disturbed.
-r:"^範囲内の敵に(\d+)の物理ダメージ(\d+)ダメージを与える火傷状態にする$"=►Deals $1 P.DMG to enemies in range.\n►Inflicts Burn to enemies in range that deals $2/s for 12s.\n►Knockbacks enemies in range by 300 units.
-アウェイキングロアー=Awakening Roar
-前方範囲内の敵すべてに物理大ダメージを与え、火傷状態にし、大きく吹き飛ばす。さらに自分の物理攻撃力を特大アップ、物理クリティカルを大アップさせる。火傷のダメージは、このキャラの物理攻撃力に応じて増加する。=Deals large P.DMG to enemies in range, inflicts Burns to them, and blows them away. Additionally, massively boosts own P.ATK and P.CRIT Rate. The Burn DMG increases according to own P.ATK.
-r:"^範囲内の敵に(\d+)の物理ダメージ(\d+)ダメージを与える火傷状態にする自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを(\d+)アップ$"=►Deals $1 P.DMG to enemies in range.\n►Inflicts Burn to enemies in range that deals $2(+0.04×P.ATK)/s for 12s.\n►Knockbacks enemies in range by 300 units.\n►Boosts own P.ATK by $3 for 180s.\n►Boosts own P.CRIT Rate by $4 for 180s.

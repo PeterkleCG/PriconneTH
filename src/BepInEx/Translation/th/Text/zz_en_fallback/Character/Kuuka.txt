@@ -1,7 +1,0 @@
-【物理】前衛で囮となり、攻撃を引き付ける暴走ドＭ娘。ユニオンバーストにより、自身に魔法バリアを張り、敵の魔法攻撃を吸収してＨＰを回復する。=[Physical] A raging masochist who acts as a decoy in the vanguard to draw attacks. Her Union Burst erects a barrier that heals her by absorbing magical attacks.
-r:"^(\d+)ダメージ分の魔法吸収バリアを展開する自分のＨＰを(\d+)回復$"=►Deploys Barrier over oneself that absorbs $1 M.DMG.\n►Recovers own HP by $2.
-r:"^敵全体を挑発する自分の物理防御力を(\d+)アップ$"=►Provokes all enemies.\n►Boosts own P.DEF by $1.
-r:"^自分の魔法防御力を(\d+)アップ$"=►Boosts own M.DEF by $1.
-r:"^自分の魔法防御力を(\d+)アップ$"=►Boosts own M.DEF by $1.
-r:"^(\d+)ダメージ分の魔法吸収バリアを展開する自分のＨＰを(\d+)回復自分が受ける魔法ダメージを25％カット$"=►Deploys Barrier over oneself that absorbs $1 M.DMG for 18s.\n►Recovers own HP by $2.\n►Grants M.DMG Cut to self by 25％ for 18s.
-r:"^敵全体を挑発する自分の物理防御力を(\d+)アップ自分のＨＰを(\d+)回復$"=►Provokes all enemies for 16.6-17.1s.\n►Boosts own P.DEF by $1.\n►Recovers own HP by $2.

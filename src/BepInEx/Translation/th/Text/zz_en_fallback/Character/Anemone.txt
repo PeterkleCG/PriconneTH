@@ -1,2 +1,0 @@
-このスキルのスキルレベルは「ヴィヴィッド・ヴィジランス」と連動しています=This skill’s level is linked to "Vivid Vigilance"
-自分の行動速度アップ自分を空蝉状態にする自分のＴＰを75回復=►Boosts own action speed by 50% for 12s.\n►Gains [Cicada] status.\n►Restores own TP by 75.

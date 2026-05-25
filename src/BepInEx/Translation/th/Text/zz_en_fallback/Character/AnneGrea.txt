@@ -1,1 +1,0 @@
-r:"^ステータスアップ効果を受けるたびに【友情の魔印】を付与する状態になる自分の魔法攻撃力を(\d+)アップ自分の魔法クリティカルを200アップ自分のＴＰ上昇を15アップ$"=►When receives a boost, gains 1 [Magic Seal of Friendship].\n►Boosts own M.ATK by $1 for 180s.\n►Boosts own M.CRIT Rate by 200 for 180s.\n►Boosts own TP Boost by 15 for 180s.

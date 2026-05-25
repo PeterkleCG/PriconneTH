@@ -1,1 +1,3 @@
 r:"^辺境の地([0-9\-\(\)\w （）]*)$"=พื้นที่ชายแดน $1
+学びの楽しさ=Joy of learning
+勝利はみんなの手で=The victory is for everyone

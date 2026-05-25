@@ -1,1 +1,9 @@
 味方全体の物理防御力と魔法防御力を小アップさせる。=เพิ่มป้องกันกายภาพ/เวทเล็กของเพื่อนทั้งหมดเล็กน้อย
+r:"^味方全体の物理防御力を(\d+)アップ味方全体の魔法防御力を(\d+)アップ$"=►Boosts allies' P.DEF in range by $1.\n►Boosts allies' M.DEF in range by $1.
+r:"^自分の最大ＨＰを(\d+)アップさせる自分の魔法防御力を(\d+)アップ$"=►Boosts own max HP by $1.\n►Boosts own M.DEF by $2.
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵を一定時間行動不能にする味方全体の物理防御力を(\d+)アップ味方全体の魔法防御力を(\d+)アップ毎秒ＨＰを(\d+)回復する$"=►Deals $1 P.DMG to an enemy.\n►Renders an enemy immobile.\n►Boosts allies' P.DEF by $2.\n►Boosts allies' M.DEF by $3.\n►Recovers allies' HP by $4/s.
+r:"^味方全体の物理防御力を(\d+)アップ味方全体の魔法防御力を(\d+)アップ味方全体のＴＰを(\d+)回復$"=►Boosts allies' P.DEF by $1.\n►Boosts allies' M.DEF by $1.\n►Recovers allies' TP by $1.
+前方範囲内の敵すべてに物理大ダメージを与え、物理防御力を小ダウンさせ、長時間スタンさせる。さらに、味方全体の物理=Deals large P.DMG to all enemies in a frontal area, slightly lowers their P.DEF, and stuns them for a long duration. Additionally, all allies' P.
+前方範囲内の敵すべてに物理大ダメージを与え、物理防御力を小ダウンさせ、長時間スタンさせる。さらに、味方全体の物理・魔法防御力を大アップし、継続ＨＰ回復状態を付与する。目の前の敵が魔法防御力ダウン状態だった場合、このスキルは必ずクリティカルする。=Deals large P.DMG to all enemies in a frontal area, slightly lowers their P.DEF, and stuns them for a long duration. Additionally, greatly boosts all allies' P.DEF and M.DEF and grants a continuous HP recovery effect. If the enemy in front is under an M.DEF down effect, this skill always lands a critical hit.
+前方範囲内の敵すべてに物理中ダメージを与え、さらにスタンさせる。目の前の敵が魔法防御力ダウン状態だった場合、このスキルは必ずクリティカルする。=Deals medium P.DMG to all enemies in a frontal area and stuns them. If the enemy in front is under an M.DEF down effect, this skill always lands a critical hit。
+魔法防御力を大アップし、継続ＨＰ回復状態を付与する。目の前の敵が魔法防御力ダウン状態だった場合、このスキルは必ずクリティカルする。=Greatly boosts M.DEF and grants a continuous HP recovery effect. If the enemy in front is under an M.DEF down effect, this skill always lands a critical hit.

@@ -1,1 +1,4 @@
 r:"^ランドソル近郊([0-9\-\(\)\w （）]*)$"=แลนด์โซลชั้นนอก $1
+シズル・ノワール=Shizuru Noir
+３人=3 People
+ドMうっとりヒートアップ=Do M Enchanted Heat Up

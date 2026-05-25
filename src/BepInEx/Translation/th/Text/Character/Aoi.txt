@@ -1,1 +1,6 @@
 r:"^範囲内の敵に(\d+)の物理ダメージ$"=►ทำดาเมจกายภาพ $1 ใส่ศัตรูทั้งหมดในระยะ
+【物理】最後衛から状態異常の矢を放つ、ぼっちの射手。ダメージと共に付与する毒や麻痺の追加効果により、防御力の高い敵であっても、確実にＨＰを削りとる。=[Physical] A lonely archer firing off poisoned arrows from the backlines. The poison and paralysis she inflicts can drain health from even the most solid combatants.
+r:"^敵単体に(\d+)の物理ダメージ(\d+)ダメージを与える毒状態にする$"=►Deals $1 P.DMG to an enemy.\n►Inflicts Poison that deals $2 P.DMG/s.
+r:"^敵単体に(\d+)の物理ダメージ敵単体を一定時間行動不能にする$"=►Deals $1 P.DMG to an enemy.\n►Renders an enemy immobile.
+r:"^敵が毒状態の時、範囲内の敵に(\d+)の物理ダメージ敵が毒状態の時、(\d+)ダメージを与える猛毒状態にする敵が毒状態でない時、範囲内の敵に(\d+)の物理ダメージ敵が毒状態でない時、(\d+)ダメージを与える毒状態にする$"=If target is not poisoned or venomed:\n►Deals $3 P.DMG to all enemies in 400 range.\n►Inflicts Poison that deals $4 P.DMG/s for 24s.\n\nIf target is poisoned or venomed:\n►Deals $1 P.DMG to all enemies in 400 range.\n►Inflicts Venom that deals $2 P.DMG/s for 12s.
+r:"^敵が毒状態の時、敵単体に(\d+)の物理ダメージ敵が毒状態でない時、敵単体に(\d+)の物理ダメージ敵が毒状態の時、(\d+)ダメージを与える猛毒状態にする敵が毒状態でない時、(\d+)ダメージを与える毒状態にする$"=Cast time: 0.86s\nIf target is not poisoned or venomed:\n►Deals $2 P.DMG to an enemy.\n►Inflicts Poison that deals $4 P.DMG/s for 24s.\n\nIf target is poisoned or venomed:\n►Deals $1 P.DMG to an enemy\n►Inflicts Venom that deals $3 P.DMG/s for 12s.

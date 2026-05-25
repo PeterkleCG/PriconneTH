@@ -1,8 +1,0 @@
-【魔法】後衛で、回復と攻撃をこなすドジっ娘メイド。周りの味方のＨＰを回復しつつ物理攻撃力を高めるスキルは、中衛・後衛の攻撃役と抜群の相性。=[Magic] A clumsy maid that heals and attacks from the rearguard. Her skills that heal those around her and also boost physical attack power pair well with mid- or rearguard offense.
-r:"^範囲内の敵に(\d+)の魔法ダメージ成功時、物理防御力を(\d+)ダウン失敗時、物理防御力を(\d+)ダウン$"=►Deals $1 M.DMG to enemies in range\n►If success, lowers enemies' P.DEF in range by $2.\n►If failure, lowers enemies' P.DEF by $3.
-r:"^範囲内の味方のＨＰを(\d+)回復範囲内の味方の物理攻撃力を(\d+)アップ$"=►Recovers allies' HP in range by $1.\n►Boosts allies' P.ATK in range by $2.
-r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵の物理防御力を(\d+)ダウン範囲内の敵の魔法防御力を(\d+)ダウン$"=►Deals $1 M.DMG to enemies in range.\n►Lowers enemies' P.DEF in range by $2.\n►Lowers enemies' M.DEF in range by $3.
-r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵の物理防御力を(\d+)ダウン範囲内の敵の魔法防御力を(\d+)ダウン$"=►Deals $1 M.DMG to enemies in range.\n►Lowers enemies' P.DEF in range by $2.\n►Lowers enemies' M.DEF in range by $3.
-自分の周囲の味方すべてのＨＰを小回復させ、物理攻撃力と物理クリティカルを特大アップさせる。さらに自分に【ティーポット】を付与し、魔法攻撃力を特大アップさせ、ＴＰを大回復する。【ティーポット】が付与されている間、スウィープサイクロンとウィンドブラスト+で与えるダメージと物理防御力、魔法防御力ダウンの効果量が上昇する。=Slightly recovers allies' HP in range and massively boosts their P.ATK and P.CRIT Rate. Also gains [Teapot], massively boosts own M.ATK and greatly recovers own TP. When [Teapot] is present, boosts M.DMG dealt and lowered P/M.DEF for UB and S1. 
-r:"^範囲内の味方のＨＰを(\d+)回復範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理クリティカルを200アップ自分にティーポットを付与する自分の魔法攻撃力を(\d+)アップ自分のＴＰを300回復$"=►Recovers allies' HP in 500 range by $1.\n►Boosts allies' P.ATK in 500 range by $2 for 18s.\n►Boosts allies' P.CRIT Rate in 500 range by 200 for 18s.\n►Gains [Teapot].\n►Boosts own M.ATK by $3 for 18s.\n►Recovers own TP by 300.
-ロイヤルメイドドロップ=Royal Maid Drop

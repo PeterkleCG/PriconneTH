@@ -1,0 +1,8 @@
+r:"^敵単体に(\d+)の魔法ダメージおともだちを最大５人減らす$"=►Deals $1 M.DMG to an enemy.\n►Losses up to 5 Friends.
+最も残りＨＰが高い味方１キャラに魔法中ダメージを与え、そのキャラのＴＰを中回復しルナのおともだちが１人追加で増える。=Deals moderate M.DMG to the highest HP% ally and recovers its TP by moderate amount. Luna gains 1 extra Friend.
+r:"^味方単体に(\d+)の魔法ダメージ味方単体のＴＰを(\d+)回復おともだちを追加で１人増やす$"=►Deals $1 M.DMG to highest HP% ally.\n►Recovers an ally's TP by $2.\n►Adds 1 additional Friend.
+最も残りＨＰが高い味方１キャラに魔法中ダメージを与え、さらにそのキャラのＴＰを中回復し、魔法攻撃力を小アップさせる。ルナのおともだちが１人追加で増える。=Deals moderate M.DMG to the highest HP% ally and recovers its TP by moderate amount, boosts its M.ATK. Luna gains 1 extra Friend.
+r:"^味方単体に(\d+)の魔法ダメージ味方単体のＴＰを(\d+)回復おともだちを追加で１人増やす味方単体の魔法攻撃力を(\d+)アップ$"=►Deals $1 M.DMG to highest HP% ally.\n►Recovers an ally's TP by $2.\n►Adds 1 additional Friend.\n►Boosts an ally's M.ATK by $2 for 12s.
+r:"^おともだちが２人以上いない時敵単体に(\d+)の魔法ダメージおともだちが２人以上いる時敵単体に(\d+)の魔法ダメージおともだちが２人以上いる時おともだちを２人減らす$"=If Friends < 2:\n►Deals $1 M.DMG to an enemy.\n\nIf Friends ≥ 2:\n►Deals $2 M.DMG to an enemy.\n►Loses 2 Friends.
+最も残りＨＰが高い味方１キャラに魔法中ダメージを与え、そのキャラのＴＰを中回復し魔法攻撃力を中アップ、魔法クリティカルを大アップさせる。さらに、自分のＴＰを小回復する。ルナのおともだちが１人追加で増える。=Deals moderate M.DMG to the highest HP% ally and recovers its TP by moderate amount, boosts its M.ATK and M.CRIT Rate. Restore a small amount of own TP. Luna gains 1 extra Friend.
+r:"^味方単体に(\d+)の魔法ダメージ味方単体のＴＰを(\d+)回復おともだちを追加で１人増やす味方単体の魔法攻撃力を(\d+)アップ味方単体の魔法クリティカルを(\d+)アップ自分のＴＰを(\d+)回復$"=►Deals $1 M.DMG to highest HP% ally.\n►Recovers an ally's TP by $2.\n►Adds 1 additional Friend.\n►Boosts an ally's M.ATK by $3 for 12s.\n►Boosts M.CRIT Rate by $4 for 12s.\n►Recovers own TP by $5.

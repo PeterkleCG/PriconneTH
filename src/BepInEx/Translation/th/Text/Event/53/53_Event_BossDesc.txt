@@ -1,2 +1,11 @@
 ムーンレイゲート=มูนเรย์เกต
 r:"^ちいさな出会いの海岸([0-9\-\(\)\w （）]*)$"=ชายฝั่งแห่งการพบเจออันเล็กๆ $1
+みゅ～ちゃん すくすく日記=Myu-chan's Diary
+前へ=Back
+一覧に戻る=back to index
+みゅ～ちゃんすくすく日記その1=Myu-chan's Diary No. 1
+みゅ～ちゃんすくすく日記その2=Myu-chan's Diary No. 2
+みゅ～ちゃんすくすく日記その3=Myu-chan's Diary No. 3
+みゅ～ちゃんすくすく日記その4=Myu-chan's Diary No. 4
+絵日記解放=Unlock the picture diary
+スペシャルバトル解放チュートリアル=Special Battle Tutorial

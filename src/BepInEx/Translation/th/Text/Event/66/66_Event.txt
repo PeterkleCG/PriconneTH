@@ -1,1 +1,4 @@
 r:"^アンブローズ魔法学園([0-9\-\(\)\w （）]*)$"=โรงเรียนเวทมนตร์แอมโบรส $1
+放たれし暴魔・アルゲース=Arges the Released Demon
+称号一覧に直接追加されます=will be added directly to the title list
+ベンキョーできる系女子！=She's the kind of girl who can do it!

@@ -1,1 +1,7 @@
 カリスマオーラ♪+=คาริสม่าออร่า♪+
+【物理】後衛からクリティカル攻撃するカリスマモデル。ダメージ2倍のクリティカルダメージはスキルによる攻撃力アップでさらに破壊力を増す。=[Physical] A charming model that deals critical damage from the rearguard. Her double-damage critical hits are further enhanced by attack power-boosting skills.
+r:"^自分の物理攻撃クリティカル時のダメージを25％アップ敵単体に(\d+)の物理ダメージ$"=►Boosts own P.CRIT DMG by 25% for 18s.\n►Deals $1 P.DMG to an enemy.\nGuaranteed to crit.
+r:"^敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージ$"=►Deals $1 P.DMG to an enemy.\n►Deals $2 P.DMG to an enemy.\n►Deals $3 P.DMG to an enemy.
+自分の物理攻撃力を特大アップ、物理攻撃クリティカル時のダメージを小アップし、ＴＰを中回復する。=Boosts own P.ATK and P.CRIT DMG. Recovers own TP.
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理攻撃クリティカル時のダメージを15％アップ自分のＴＰを150回復$"=►Boosts own P.ATK by $1.\n►Boosts own P.CRIT DMG by 15%.\n►Boosts own TP by 150.
+カリスマオートクチュール=Charisma Haute Couture

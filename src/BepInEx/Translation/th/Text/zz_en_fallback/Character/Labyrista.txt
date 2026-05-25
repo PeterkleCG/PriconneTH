@@ -1,2 +1,0 @@
-r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の物理クリティカルを75アップ味方全体の行動速度をアップ$"=Cast time: 0.00s.\n►Boosts allies' P.ATK by $1 for 12s.\n►Boosts allies' P.CRIT Rate by 75 for 12s.\n►Boosts allies' action speed into 150% for 12s.
-r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の物理クリティカルを100アップ味方全体の行動速度をアップ$"=Cast time: 0.00s.\n►Boosts allies' P.ATK by $1 for 12s.\n►Boosts allies' P.CRIT Rate by 100 for 24s.\n►Boosts allies' action speed into 200% for 24s.

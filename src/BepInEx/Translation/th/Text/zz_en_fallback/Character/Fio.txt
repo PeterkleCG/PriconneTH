@@ -1,1 +1,0 @@
-r:"^バリアが展開されている味方が受ける物理ダメージを15％カットバリアが展開されている味方が受ける魔法ダメージを15％カット風属性の味方のＨＰを(\d+)回復風属性の味方の行動速度アップ$"=►Reduces P.DMG taken by allies with [Barrier] by 15％.\n►Reduces M.DMG taken by allies with [Barrier] by 15％.\n►Restores Wind allies' HP by $1.\n►Boosts Wind allies' Action Speed.

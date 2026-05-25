@@ -1,1 +1,8 @@
 ブルーハウリング+=บลูฮาวลิ่ง+
+【物理】前衛で攻撃対象が１つの敵に特化した海の狼娘。攻撃対象が１つの場合、スキルとユニオンバーストともに真価を発揮し他を圧倒する絶大な破壊力で敵をなぎ払う。=[Physical] A wolfgirl on the beach who crushes foes from the vanguard. Her skills and Union Burst achieve their full potential when only a single target remains, allowing her to overwhelm it with a flurry of devastating blows.
+r:"^残りの攻撃対象が１つの場合、敵単体に(\d+)の物理ダメージ残りの攻撃対象が２つ以上の場合、敵単体に(\d+)の物理ダメージ残りの攻撃対象が１つの場合、敵単体の物理防御力を(\d+)ダウン$"=If only one enemy remains in battle:\n►Deals $1 P.DMG to an enemy.\n►Lowers an enemy's P.DEF by $3.\n\nIf two or more enemies remain in battle:\n►Deals $2 P.DMG to an enemy.
+r:"^敵単体に(\d+)の物理ダメージ残りの攻撃対象が１つの場合、敵単体に(\d+)の追加物理ダメージ残りの攻撃対象が１つの場合、敵単体の物理防御力を(\d+)ダウン$"=If only one enemy remains in battle:\n►Deals $2 P.DMG to an enemy.\n►Lowers an enemy's P.DEF by $3.\n\nIf two or more enemies remain in battle:\n►Deals $1 P.DMG to an enemy.
+r:"^敵単体に(\d+)の物理ダメージ残りの攻撃対象が１つの場合、敵単体に(\d+)の追加物理ダメージ残りの攻撃対象が１つの場合、敵単体の物理防御力を(\d+)ダウン残りの攻撃対象が１つの場合、自分の物理攻撃力を(\d+)アップ$"=If only one enemy remains in battle:\n►Deals $2 P.DMG to an enemy.\n►Lowers an enemy's P.DEF by $3.\n►Boosts own P.ATK by $4.\n\nIf two or more enemies remain in battle:\n►Deals $1 P.DMG to an enemy.
+自分の物理攻撃力を特大アップ、物理攻撃クリティカル時のダメージを小アップし、ＴＰを中回復する。残りの攻撃対象が１つの場合、この物理攻撃力アップと物理攻撃クリティカル時のダメージアップは時間によって解除されなくなる。=Massively boosts own P.ATK, slightly boosts own P.CRIT DMG and moderately recovers own TP. If only one enemy target remains in battle, this boost remains effective indefinitely.
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理攻撃クリティカル時のダメージを9％アップ自分のＴＰを150回復$"=►Boosts own P.ATK by $1.\n►Boosts own P.CRIT DMG by 9%.\n►Recovers own TP by 150.
+ウルフェンサマービキニ=Summer Wolven Bikini

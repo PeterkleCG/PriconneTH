@@ -1,1 +1,4 @@
 幽玄足刀+=วิชาเท้าใบมีดลึกลับ+
+【物理】前衛の敵を追い詰める程、力を増す幽玄南国娘。敵の体力が少ない程、効果が高まる攻撃力アップスキルとダメージ量アップの攻撃スキルで、敵を逃さず仕留める。=[Physical] A ghostly southern country girl whose power boost to the extent that she hunts down her vanguard enemies. The few the enemy's HP, the more power up skill and boost the damage amount, so you can kill the enemy without missing it.
+目の前の敵１キャラに物理大ダメージを与え、さらに自分の物理攻撃力を小アップさせる。対象の最大ＨＰに対する残りＨＰの割合が少ない程、ダメージと攻撃力の上昇量がアップする。対象の残りＨＰが50％未満の場合、自分の物理攻撃がクリティカルした時のダメージを中アップする。=Deals large P.DMG to an enemy in front, and also slightly boosts own P.ATK. The smaller enemy's HP% is, the greater P.DMG dealt and P.ATK boost is. If an enemy's remaining HP < 50%, moderately boosts own P.CRIT DMG.
+琉球犬式・南瓜道着=Ryukyu-Ken Style: Pumpkin Uniform

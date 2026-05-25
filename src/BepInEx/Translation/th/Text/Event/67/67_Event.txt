@@ -1,1 +1,17 @@
 r:"^砂漠の国　サラサリア周辺([0-9\-\(\)\w （）]*)$"=รอบซาราซาเรีย อาณาจักรแห่งทะเลทราย $1
+砂漠を渡る旅へ=Journey Across the Desert
+オアシス奪還作戦=Oasis Retake Operation
+願いを満たす器=Vessel that Grants Wishes
+水と炎の輪舞=Dance of Water and Flame
+運命の糸を掴んで=Grasping the Threads of Fate
+砂海に眠る伝説=Legend Sleeping in the Sand Sea
+砂漠の澄んだ空に=In the Desert's Clear Sky
+両手に花は嵐の予感=A Storm of Flowers in Both Hands
+夢幻のマリッジ・シム=Illusion Marriage Sim
+夢の語り部に誘われて=Invited by the Storyteller of Dreams
+夢幻のマリッジ・シム エクストラ=Illusion Marriage Sim Extra
+二人だけの時間=Time for Just the Two of Us
+エピソード閲覧数=Episode View
+夢幻のマリッジ・シム サレンエピソード=Illusion Marriage Sim Saren Episodes
+カリド=Kalid
+古代小兵=Ancient Soldier

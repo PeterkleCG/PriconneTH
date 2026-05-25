@@ -1,4 +1,0 @@
-【物理】中衛で愛と希望の力を胸に指揮を執る魔法提督。ユニオンバーストで敵単体の物理防御力を下げ、範囲内の味方の物理攻撃力アップスキルで、一気に戦況を決める。=[Physical] A Magic Admiral who takes command with the power of love and hope in her heart from midlines. After lowering P.DEF of a single enemy with her Union Burst and boosting P.ATK of allies nearby with her skills, she decides the state of the battle all at once.
-r:"^敵単体に(\d+)の物理ダメージ自分の行動速度アップ$"=►Deals $1 P.DMG to an enemy.\n►Boosts own action speed to 150% for 12s.
-r:"^敵単体に(\d+)の物理ダメージ味方単体のＨＰを(\d+)回復$"=►Deals $1 P.DMG to an enemy.\n►Recovers an ally's HP by $2.
-r:"^範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理クリティカルを(\d+)アップ$"=►Boosts allies' P.ATK in range by $1.\n►Boosts allies' P.CRIT Rate in range by $2.

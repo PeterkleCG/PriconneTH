@@ -1,1 +1,4 @@
 r:"^キャンピングフィールド([0-9\-\(\)\w （）]*)$"=สถานที่ตั้งแคมป์ $1
+たき火の魅力=The charm of bonfire
+工場長=Factory Manager
+マイフレンドくん=My Friend-kun

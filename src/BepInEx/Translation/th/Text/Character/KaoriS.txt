@@ -1,1 +1,6 @@
 琉球犬唄+=บทเพลงแห่งสุนัขริวกิว+
+【物理】中衛で、敵をまとめてなぎ倒す、真夏の南国娘。吹き飛ばし効果を持つスキルで敵をまとめ、攻撃対象が多い程、威力が増すユニオンバーストで敵をなぎ倒す。=[Physical] A summertime tropical girl who mows down crowds from the midguard. Her ability to cause knockback and a Union Burst that deals more damage the more target there are makes crowd control her forte.
+r:"^自分の物理攻撃力を(\d+)アップ範囲内の味方の行動速度アップ$"=►Boosts own P.ATK by $1.\n►Boosts allies' action speed in range to 135% for 12s.
+自分を中心とした範囲内の味方の行動速度を大アップさせる。さらに、自分の物理攻撃力を特大アップ、物理攻撃クリティカル時のダメージを小アップ、ＴＰを中回復する。=Massively boosts own P.ATK, slightly boosts own P.CRIT DMG and moderately recovers own TP. Also greatly boosts allies' action speed in range.
+r:"^範囲内の味方の行動速度アップ自分の物理攻撃力を(\d+)アップ自分の物理攻撃クリティカル時のダメージを6％アップ自分のＴＰを150回復$"=►Boosts allies' action speed in 300 range to 155% for 12s.\n►Boosts own P.ATK by $1 for 180s.\n►Boosts own P.CRIT DMG by 6% for 180s.\n►Recovers own TP by 150.
+琉球犬式・踊三線=Ryukyu Dog Style: Dance Sanshin

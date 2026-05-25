@@ -1,1 +1,6 @@
 加護ノ破魔矢+=ศรศักดิ์สิทธิ์เทพพิทักษ์+
+【魔法】後衛で祈りによるサポートを行うドジっ娘巫女。スキルの魔法無効バリアで耐久力を高め、ユニオンバーストでＨＰ回復と行動速度アップで戦況を整える。=[Magic] A clumsy maid-turned-shrine-maiden who provides support through prayers from the rearguard. Not only can she bestow protection with a barrier that nullifies magic damage, her Union Burst heals HP while boosting her allies' speed.
+r:"^味方全体のＨＰを(\d+)回復味方全体の行動速度アップ$"=►Recovers all allies' HP by $1.\n►Boosts all allies' action speed to 160%.
+味方全体の物理攻撃力と魔法攻撃力\nを大アップさせ、物理無効バリアと\n魔法無効バリアを展開する。=Greatly increases all allies' P.ATK and M.ATK, and deploys both a phys-nullification barrier and a magic-nullification barrier to all allies.
+r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の魔法攻撃力を(\d+)アップ(\d+)ダメージ分の物理無効バリアを展開する(\d+)ダメージ分の魔法無効バリアを展開する$"=►Boosts all allies' P.ATK by $1.\n►Boosts all allies' M.ATK by $2.\n►Deploys phys-nullifying Barrier to all allies that nullifies $3 P.DMG.\n►Deploys magic-nullifying Barrier to all allies that nullifies $4 M.DMG.
+神殿巫女の装束=Shrine Maiden's Costume

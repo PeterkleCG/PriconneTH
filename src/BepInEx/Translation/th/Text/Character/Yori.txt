@@ -1,0 +1,3 @@
+【魔法】中衛から、強力な魔法で攻め立てる、双子の姉。自身のＨＰと引き換えに魔法攻撃力を増幅し、ユニオンバーストやスキルの威力を高めて攻撃する。=[Magic] An elder twin who attacks with powerful magic from the midguard. Boosts magic power at the cost of her own HP to enhance the destructive ability of her Union Burst and skills.
+r:"^自分のＨＰを(\d+)消費自分の魔法攻撃力を(\d+)アップ$"=Cast Time: 1.25s.\n►Reduces own HP by $1.\n►Boosts own M.ATK by $2.
+r:"^自分のＨＰを(\d+)消費自分の魔法攻撃力を(\d+)アップ自分のＴＰを(\d+)回復$"=Cast Time: 1.25s.\n►Reduces own HP by $1.\n►Boosts own M.ATK by $2.\n►Recovers own TP by $3.
