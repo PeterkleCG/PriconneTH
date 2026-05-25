@@ -20,3 +20,4 @@ r:"^敵単体に(\d+)の魔法ダメージ敵単体の物理攻撃力を(\d+)ダ
 頑張って！？　う、うん！　頑張るね…！\nうぅ～、応援されるとうれしいけど悲しいよぉ～…\n…待っててね騎士クン。この気持ち、必ず伝えるから！=Do your best!? O-Okay! I'll do my best...!\nUgh, I'm glad you're cheering me on,\nbut it's also sad... Just you wait, Kishi-kun.\nI will definitely tell you how I feel!
 わたしって、騎士クンからもらってばっかりだね\nでもね。勇気もこの思いも…わたしから騎士クンに\nいつかお返しできるように、少しずつでも頑張るね=I've only ever gotten it from you, haven't I?\nBut I'll do my best to repay you,\neven if it's only a little at a time.
 最近ね、騎士クンとお話する時の気持ちが\n前とは違ってきたの。一緒に夢を見たあの日に…\n騎士クンが背中を押してくれたおかげだよ=Lately, I've started to feel different when I'm\ntalking to you. The day we dreamed together...\nit's all thanks to you giving me a push.
+料理、人間観察=ทำอาหาร, สังเกตผู้คน
