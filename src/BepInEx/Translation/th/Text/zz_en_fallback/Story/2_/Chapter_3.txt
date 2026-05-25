@@ -428,6 +428,7 @@
 フン！\nテメーひとりでオレの相手をしようってのか！？\nチビエルフが！=Hmph!\nYou think you can take me on by yourself?!\nYou puny elf!
 ひとりではありません！\n主さま──わたくしに、力を！=I am not alone!\nMy lord, lend me your strength!
 うん……！=Yeah...!
+チェンジ・プリンセスフォーム！=Change: Princess Form!
 ああんっ！？\nテメーもそのカッコになれるってのか！？=Huuuh!?\nYou can do that too?!
 へっ！\nしゃあねえな！\nいけ、アーノルド！　イーノリス！=Heh!\nIt is what it is!\nGo, Arnold! Inoris!
 主さまが、完全に力を使いこなせていない現状……\n前のペコリーヌさまやユイさまのように、\n『プリンセスフォーム』でいられる時間は限られているはず──=As my lord has yet to master this power...\nSimilar to Lady Pecorine and Miss Yui, I can only maintain the Princess form for so long...
@@ -1071,6 +1072,7 @@
 ……ミネルヴァ。=...Minerva.
 想定外の経緯ではありましたが、\n結果的にこうしてあなたとコンタクトできて、幸運でした。\nバックアップはとっておくものですね。=Although the circumstances are unorthodox,\nI consider myself lucky that I'm able to contact you in this way.\nIt's important to keep backups, after all.
 ……さて。\n時間は有限です。\nそろそろ、本題に入りましょうか。=...Now then.\nTime is finite.\nLet's just get to the point.
+ミネルヴァ=Minerva
 先ほども、少し触れましたが……\nこの公園は、あなたの精神の無意識領域から呼び出した\n『現実』の光景です。=As I mentioned earlier, this park is a scene from reality that you called forth from your subconscious.
 そう……あなたが本物だと思っている世界、\nアストルムは──架空の世界。=That's right...the world you think is real: Astrum, is a world of fiction.
 七冠によって創造され、\n私の演算能力によって管理されている……\nいわば、電子の箱庭なのです。=Created by the Seven Crowns and managed with my computational prowess... It is an electronic sandbox, so to speak.

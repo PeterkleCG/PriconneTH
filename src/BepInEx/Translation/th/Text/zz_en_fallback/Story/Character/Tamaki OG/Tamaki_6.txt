@@ -1,4 +1,5 @@
 女性=Woman
+アクドーイ=Krook
 猫たち=Cats
 ねえ{playername}！=Hey, {playername}!
 捕らわれていたタマキを脱出させた{playername}。実はファントムキャッツが捕らえられた一連の事件は、悪徳商人アクドーイの陰謀だった。タマキたちはアクドーイを倒し、その金を町中にばらまく。={playername}, who had escaped with Tamaki, who had been captured. In fact, the series of incidents in which the Phantom Cat were captured was a conspiracy of the Krook'd & Co. Tamaki and her friends defeated Krook and scattered his money all over the town.

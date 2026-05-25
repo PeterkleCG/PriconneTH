@@ -4,6 +4,7 @@
 幽霊役のアクター=Ghost Actor
 ごろつき１=Punk 1
 ごろつき２=Punk 2
+ディーラー=Dealer
 突如現れたミソラに、半ば強引にデートへ連れ出された{playername}。テレポーテーションで様々なデートスポットを回った後、ミソラはその真意を語り、「騎士さんラブになりたい」と宣言する。=Misora suddenly appeared and took {playername} on a date.\nAfter teleporting through various dating spots, she revealed her true intention and declared 'I want to\nlove Kishi-san'.
 ある日。\n{playername}が、バイトから帰る途中──=One day, {playername} is going home from a part-time job.
 ふふっ★\nだ～～れだっ？=Hehe★ Whooo am I?

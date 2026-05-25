@@ -110,6 +110,8 @@
 祈梨=Inori
 鬼道=Kidou
 嘉夜=Kaya
+クレジッタ・キャッシュ=Creditta Cash
+キャッシュ=Cash
 クレア=Claire
 ボヤンシア=Voyancia
 阿賀斗善=Agato Zen
@@ -144,6 +146,7 @@
 本田未央=Honda Mio
 本田=Honda
 未央=Mio
+ラジクマール・ラジニカーント=Rajikumar Rajnikanth
 ラジクマール=Rajikumar
 ラジニカーント=Rajnikanth
 鬼道大吾=Kidou Daigo

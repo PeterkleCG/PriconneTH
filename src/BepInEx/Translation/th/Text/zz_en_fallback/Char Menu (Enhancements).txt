@@ -1,2 +1,0 @@
-ャラ強化=Enhance Characters
-以下のアイテムを消費して専用装備２を強化しますか？=Would you like to spend the following items\nto enhance Unique Equipment 2?

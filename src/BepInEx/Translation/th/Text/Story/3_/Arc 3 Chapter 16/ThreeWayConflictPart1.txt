@@ -1,14 +1,7 @@
-Arc 3 Chapter 16 Part One
-
-Name
 三つ巴の争覇=ศึกชิงชัยสามฝ่าย
-
-Chapter Names
 シェフィの特訓=Sheffy's Special Training
 竜の卵=Dragon Egg
 『憤怒』vsアストライア=Wrath vs. Astraea
-
-Chapter 1
 ──はぁっ……、はぁっ……！=Haah... haah...!
 がんばんなさい。\nがんばんなさいよ、シェフィ……！=Keep it together... Keep it together, Sheffy...!
 ……ッ！！\n（た──耐えて、私！　耐えるのよッ……！！）=...Mm!! (B-Bear with it, me! You can do this...!!)
@@ -84,8 +77,6 @@ Chapter 1
 ヤトガミさん……、ご無沙汰しています。\n『こっち』では、初めましてですけど。=Yatogami-san... It has indeed been some time. I believe our very first time meeting "here".
 『プリンセス・ユースティアナ。\nあの時は、残念ながら袖にされてしまいましたが──』="Princess Eustiana. Back then, you unfortunately rejected my offer..."
 『──あらためて。\nそちらと交渉をさせていただきたい』="Yet again. I would like to negotiate with you..."
-
-Player Prompts
 おいしそう！=Looks delicious!
 たしか、『直せないバグ』なんだっけ…=I recall it being an "unfixable bug"...
 現実のほうでも、仕掛けてくるなんて……=I can't believe her plans extend to reality...
@@ -95,11 +86,7 @@ Player Prompts
 ……ヤトガミさん！=...Yatogami-san!
 どうして僕は大丈夫なのかな？=I wonder why I am unaffected?
 そんなに悪い人には、見えなかったけど……=She didn't strike me as a bad person...
-
-New Titlecards
 台所のコッコロ=Kokkoro in the Kitchen
-
-Chapter 2
 せいっ！！=SEIII!!
 いいね、ロランド。\n──では、もう一度。=C'est ça (That's it), Roland. ...Now then, encore (once more).
 はァっ！！=HAAAAH!!
@@ -174,12 +161,8 @@ Chapter 2
 もちろん、ヴィーちゃんのミルク──=Of course...! Vee-chan's personal milk~
 ──いいえ。\nリソースは……=Wrong. Those "resources" are...
 離乳食のように細かく砕いた、『この世界』です。=This entire "world", broken into tiny pieces just like baby food.
-
-New Titlecards
 グルーヌイ・ロランド=Grenouille Roland
 ヤトガミ・グルーヌイ=Yatogami Grenouille
-
-Chapter 3
 ランドソルから離れた荒地にて──\n【美食殿】と【ウォーロック】が対峙していた。=In a wasteland far from Landosol, the "Gourmet Guild" and "Warlock" faced each other.
 やぁやぁ諸君。\n御足労いただき、恐悦至極。=Well now, greetings, everyone. I'm most grateful you took the trouble to come.
 ……ずいぶん寂しいトコに呼びだしてくれたじゃない。\n闇討ちでもしようっての？=...Quite the lonely place you called us to. Planning to stage an ambush?
@@ -275,15 +258,9 @@ Chapter 3
 みんな──=Everyone...
 ここは、わたしに任せてください。\nみんなは、あのドラゴンたちをお願いします。=Leave this matter to me. You should all take care of those dragons.
 ……わかったわ。\n気を付けて、ペコリーヌさん……！=...Got it. Be careful, Pecorine-san!
-
-New Titlecards
 ウォーロック=Warlock
-
-Player Prompts
 キャルちゃん、下がって……！=Kyaru, GET BACK...!
 （やっぱり……）=(I knew it...)
-
-Cutscene
 許さないっ！　許さないっ！　お前はっ！=ไม่ยกโทษให้! ไม่ยกโทษให้แกเด็ดขาด! แกคนเดียวเท่านั้น...
 お前だけはああああぁぁっ！！=ที่ฉันจะไม่มีวันยกโทษให้!!
 だあああああっ！！=ด๊าาาาาา!!

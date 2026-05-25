@@ -1,5 +1,6 @@
 r:"^ランドソル 繁華街([0-9\-\(\)\w （）]*)$"=Landosol Downtown $1
 混ぜるな危険=Don't mix
+ターゲット=Target
 双子エンジェルの贈り物=Twin Angel Gifts
 聖なる日のお出迎え=Holy Day Greeting
 囚われたエンジェル=A captive angel
