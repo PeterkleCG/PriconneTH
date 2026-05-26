@@ -15,3 +15,25 @@ sr:"^(\[[0-9A-F]{6}\])?(.+)と(.+)を倒そう(\[-\])?$"=$1Defeat the $2 and $3.
 絶体絶命のキャルたちを救ったのは、これまでつないできた仲間との絆だった。その力は手の届かないはずの二つの世界をもつなげ、{playername}は自分自身の力ですべての原因に終止符を打つ。=It was a bond with a friend who had been able to save the desperate characters. The power connects the two worlds that should not be reached, and {playername} ends all causes with its own power.
 戦いは終わり、大切な記憶たちと一時の別れを告げる{playername}。そしてランドソルで迎える朝、仲間たちの『おはよう』の声に囲まれながら、{playername}は心地良く目を覚ますのであった。=The battle is over, and {playername} tells the important memories of the important memories. And on the morning of Landosol, {playername} woke up comfortably, surrounded by his friends' good morning.
 迷宮女王の興味=Interest of the Labyrinth Queen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ペコリーヌたちはランドソルへの帰還。\nキャルたちは大切な人の目覚め。\nそれぞれが、お互いに手の届かない世界で自分に\nできることを探し、答えを求め続けていた。=พวกเปโกรีนกลับไปยังแลนด์โซล\nพวกแคลปลุกคนสำคัญให้ตื่นขึ้น\nแต่ละคนต่างหาสิ่งที่ตัวเองสามารถทำได้\nในโลกที่มือเอื้อมไม่ถึง และค้นหาคำตอบต่อไป
+
+現在起きている事態を解決するため、ソルの塔を\nのぼるキャルたち。その歩みに迷いはなく、\n大切な人のために進み続ける。\nたとえその先に、なにが待ち受けていようとも。=พวกแคลปีนขึ้นหอคอยโซล เพื่อคลี่คลายสถานการณ์\nที่เกิดขึ้นในปัจจุบัน ก้าวเดินนั้นปราศจากความลังเล\nพวกเธอเดินไปข้างหน้าอย่างต่อเนื่องเพื่อคนสำคัญ\nไม่ว่าจะมีอะไรกำลังรออยู่ข้างหน้าก็ตาม
