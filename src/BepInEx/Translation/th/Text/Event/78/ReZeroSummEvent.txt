@@ -837,7 +837,7 @@ Lorikの記憶を、返しやがれ──！=GIVE ME BACK LORIK'S MEMORIES... RI
 なんとかやっつけられたけど、\n油断しちゃダメよラム。\nこの子、倒しても増えて出てきちゃうんだから。=We managed to take her down, but don't let your guard down, Ram. Even if we beat her, there'll be more of her and she'll come out.
 エミリア様。\nあちらから逃げてくる人が……！=Lady Emilia. Someone is running away from that direction...!
 大変！\n急いで助けに行きましょう！=Oh no! Let's hurry and save her!
-テイスティング=Taste
+
 ここからでも見えるあの巨体、\n間違いなくシロクジラです……！=That huge body you can see from here is definitely a white whale...!
 ええ、ラムにも確認できたわ。\n……さっきよりも不快な気配がするわね。=Yes, I was able to confirm it with Ram. ...I sense something even more unpleasant than before.
 急ぎましょうラム、レム！\nパックもいい？=Let's hurry, Ram, Rem! Can I get a pack?

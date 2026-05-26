@@ -1,4 +1,4 @@
-ピクニック気分で=รู้สึกเหมือนไปปิคนิค
+
 r:"^和平活動の道のり([0-9\-\(\)\w （）]*)$"=เส้นทางแห่งกิจกรรมสันติภาพ $1
 平和の道は前途多難=The Challenging Path to Peace
 【王宮騎士団（NIGHTMARE）】の和平大使に任命されたマ\nツリとクリスティーナ。二人はヒューマンと獣人族の険悪な関\n係を改善するため、獣人族との和平交渉へと向かうことになる\nのであった。=Matsuri and Christina have been appointed Ambassador of the RPK. They were heading for peace negotiations with the beasts to improve the worse relationship between human and the beasts.

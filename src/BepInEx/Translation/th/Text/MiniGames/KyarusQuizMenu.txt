@@ -65,7 +65,7 @@ r:"^累計スコアを([0-9,.]+)pt 獲得しよう$"=$1 Scores Obtained
 採点結果=Grading results
 r:"^(\d+)問$"=$1 〇
 あ～惜しい！\nもうちょっとで満点じゃない！\n次はパーフェクトいけるわ！\n頑張りましょ！=Aww, too bad! You almost got a perfect score! Next time, it'll be perfect! Let's do our best!
-っぽいじゃない=Sounds like it
+
 手加減よろ～=Go easy on me~
 どれが正解かな～？=Which one is the right one?
 ふんふふーん♪=Heheheh♪

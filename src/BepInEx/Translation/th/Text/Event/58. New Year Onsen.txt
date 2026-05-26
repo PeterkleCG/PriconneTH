@@ -1,4 +1,4 @@
-にぎにぎ=ปั้น ๆ
+
 新春日替わり湯=New Year Daily Onsen
 新春日替湯録=New Year's Daily Bath Record
 sr:"^(\d+日)目の日替わり湯$"="$1 day of Daily Onsen"

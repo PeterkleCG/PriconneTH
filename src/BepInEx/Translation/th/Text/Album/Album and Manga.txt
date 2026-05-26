@@ -812,15 +812,15 @@ Ohoho=Ohoho  ##134901_01## ##kanon_カノン##
 テイスティング=การชิมรสชาติ  ##181201_01## ##sheffy(princess)_シェフィ（プリンセス）##
 
 
-ぺこぺこ=Growling Belly
+ぺこぺこ=จ๊อกๆ
 
 Rei
-守る力=Power to Protect
+守る力=พลังที่ใช้ปกป้อง
 
 
 
 Misogi
-３人いつも=Always Three
+３人いつも=3 คนด้วยกันเสมอ
 
 
 Matsuri
@@ -840,7 +840,7 @@ Matsuri
 
 
 ●ヒミツ図鑑● ①マツリちゃん=*Secret encyclopedia* 1 Matsuri-chan
-きょうみしんしん=น่าสนใจ
+
 
 キャラ選択=Character Select
 

@@ -1,4 +1,4 @@
-アラクネvsミサキ=อารัคเน่ vs. มิซากิ
+
 メイド姉 in ランドソル=Maid Sister in Landosol
 洗濯仕事とメイドの日常=Laundry Work and a Maid's Daily Life
 待ちぼうけメイドガール=The Stood-Up Maid Girl
@@ -21,7 +21,7 @@
 あ、そうでしたか失礼しました！ということはお二人は３頭身ですね！=Oh, my apologies! Then you two are three heads tall!
 ……３親等のことかしら？=...Does she mean three degrees of kinship?
 七々香はアニメショップで出会った外国人客との交流中、叔父を捜すニノンに出会う。人捜しのため店を出る二人。しかし捜すその人こそ七々香が直前に話していた男──グルーヌイだと二人は知らないのだった。=At the anime shop, Nanaka meets Ninon searching for her uncle while talking with foreign customers. They leave the shop to search, unaware the man they seek is the same man Nanaka just spoke with—Gurunui.
-鬼に衣=Even Devils Need Disguises
+
 はい、{playername}くんにもアイテム分けてあげる。ソノさんが『錬金堂店主マル秘交渉術』で安く仕入れたって。……うーん、どんな交渉術か気になるわ……=Here, I'll share items with you too, {playername}-kun. Sonoko-san got them cheap with "Alchemy Shop Owner's Secret Negotiation Tactics"... Hmm, wonder what those tactics were...
 いつも大変な仕事をこなしてくれてる【王宮騎士団（NIGHTMARE）】のみなさんにプレゼントを！とびきりよく効くポーション、ありますか？=A gift for the hardworking 【Royal Guard (NIGHTMARE)】 members! Got any extra-effective potions?
 わ～、ありがとうございます☆ではこちらの名簿の方全員分！定期購入でお願いしまーす☆=Wow, thank you☆ Then enough for everyone on this list! Set up a subscription please☆

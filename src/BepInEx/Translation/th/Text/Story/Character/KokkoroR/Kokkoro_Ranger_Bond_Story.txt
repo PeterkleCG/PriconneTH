@@ -336,7 +336,7 @@
 いつまでも笑いあう人間とエルフたち。\nコッコロと{playername}は穏やかな笑みを浮かべながら、\nそんな彼らを眺めていたのだった。=The humans and elves continued to laugh together.\nKokkoro and {playername} gazed at them with gentle smiles.
 みんなの声=Everyone's voices
 荒くれ者=Rowdy individual
-一緒にアオハルを=Let's spend the blue spring together.
+
 動物園のマナーの悪い客への対応に悩むこころ。園内を見回る中で不良にも絡まれるが、{playername}は丁寧な対応で解決する。周囲への気遣いに満ちたその対応に、こころは尊敬の念を抱く。=Kokkoro is troubled by how to deal with ill-mannered customers at the zoo. While looking around the park, she is also harassed by troublemakers, but {playername} resolves the situation with polite responses. Kokkoro admires his considerate behavior towards others and holds him in high regard.
 ランドソルへ戻ってきたコッコロと{playername}。\n里でのパトロール業務の成功は、二人の絆をさらに深める結果となった。=Kokkoro and {playername} returned to Landosol. \nThe successful patrol duties in the village further deepened their bond.
 この度の里帰りでの成果は、主さまたちのご助力あってのものです。\nご迷惑をおかけした場面もございましたが、改めてお礼を申し上げます。\nありがとうございました、主さま。=The results of this homecoming are thanks to the assistance of my Lord and others. Although there were moments where we caused inconvenience, I would like to express my gratitude once again. Thank you very much, my Lord.
