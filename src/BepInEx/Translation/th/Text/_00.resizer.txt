@@ -1,0 +1,36 @@
+##ปุ่มพื้นฐาน ด้านล่าง##
+/_Game(Clone)/UI Root/ViewsArea/PartsFooter(Clone)/SlideBottom/ButtonHome/Normal/Label=ChangeFontSize(36)
+/_Game(Clone)/UI Root/ViewsArea/PartsFooter(Clone)/SlideBottom/ButtonHome/Selected/Label=ChangeFontSize(36)
+/_Game(Clone)/UI Root/ViewsArea/PartsFooter(Clone)/SlideBottom/ButtonHome/Disable/Label=ChangeFontSize(36)
+/_Game(Clone)/UI Root/ViewsArea/PartsFooter(Clone)/SlideBottom/ButtonUnit/Normal/Label=ChangeFontSize(36)
+/_Game(Clone)/UI Root/ViewsArea/PartsFooter(Clone)/SlideBottom/ButtonUnit/Selected/Label=ChangeFontSize(36)
+/_Game(Clone)/UI Root/ViewsArea/PartsFooter(Clone)/SlideBottom/ButtonUnit/Disable/Label=ChangeFontSize(36)
+/_Game(Clone)/UI Root/ViewsArea/PartsFooter(Clone)/SlideBottom/ButtonKnightEnhance/Normal/Label=ChangeFontSize(36)
+/_Game(Clone)/UI Root/ViewsArea/PartsFooter(Clone)/SlideBottom/ButtonKnightEnhance/Selected/Label=ChangeFontSize(36)
+/_Game(Clone)/UI Root/ViewsArea/PartsFooter(Clone)/SlideBottom/ButtonKnightEnhance/Disable/Label=ChangeFontSize(36)
+/_Game(Clone)/UI Root/ViewsArea/PartsFooter(Clone)/SlideBottom/ButtonStory/Normal/Label=ChangeFontSize(36)
+/_Game(Clone)/UI Root/ViewsArea/PartsFooter(Clone)/SlideBottom/ButtonStory/Selected/Label=ChangeFontSize(36)
+/_Game(Clone)/UI Root/ViewsArea/PartsFooter(Clone)/SlideBottom/ButtonStory/Disable/Label=ChangeFontSize(36)
+/_Game(Clone)/UI Root/ViewsArea/PartsFooter(Clone)/SlideBottom/ButtonQuest/Normal/Label=ChangeFontSize(36)
+/_Game(Clone)/UI Root/ViewsArea/PartsFooter(Clone)/SlideBottom/ButtonQuest/Selected/Label=ChangeFontSize(36)
+/_Game(Clone)/UI Root/ViewsArea/PartsFooter(Clone)/SlideBottom/ButtonQuest/Disable/Label=ChangeFontSize(36)
+/_Game(Clone)/UI Root/ViewsArea/PartsFooter(Clone)/SlideBottom/ButtonRoom/Normal/Label=ChangeFontSize(36)
+/_Game(Clone)/UI Root/ViewsArea/PartsFooter(Clone)/SlideBottom/ButtonRoom/Selected/Label=ChangeFontSize(36)
+/_Game(Clone)/UI Root/ViewsArea/PartsFooter(Clone)/SlideBottom/ButtonRoom/Disable/Label=ChangeFontSize(36)
+/_Game(Clone)/UI Root/ViewsArea/PartsFooter(Clone)/SlideBottom/ButtonGacha/Normal/Label=ChangeFontSize(36)
+/_Game(Clone)/UI Root/ViewsArea/PartsFooter(Clone)/SlideBottom/ButtonGacha/Selected/Label=ChangeFontSize(36)
+/_Game(Clone)/UI Root/ViewsArea/PartsFooter(Clone)/SlideBottom/ButtonGacha/Disable/Label=ChangeFontSize(36)
+/_Game(Clone)/UI Root/ViewsArea/PartsFooter(Clone)/SlideBottom/ButtonMenu/Normal/Label=ChangeFontSize(36)
+/_Game(Clone)/UI Root/ViewsArea/PartsFooter(Clone)/SlideBottom/ButtonMenu/Selected/Label=ChangeFontSize(36)
+/_Game(Clone)/UI Root/ViewsArea/PartsFooter(Clone)/SlideBottom/ButtonMenu/Disable/Label=ChangeFontSize(36)
+
+##ปุ่ม Shopฯ##
+/_Game(Clone)/UI Root/ViewsArea/View/ViewHome(Clone)/OtherNode/WidgetOff(Clone)/Right/BottomRightAnchor/ButtonShopIcon/Label=ChangeFontSize(20)
+/_Game(Clone)/UI Root/ViewsArea/View/ViewHome(Clone)/OtherNode/WidgetOff(Clone)/Right/BottomRightAnchor/ButtonDailyTaskIcon/Label=ChangeFontSize(20)
+/_Game(Clone)/UI Root/ViewsArea/View/ViewHome(Clone)/OtherNode/WidgetOff(Clone)/Right/BottomRightAnchor/ButtonMissionIcon/Label=ChangeFontSize(20)
+/_Game(Clone)/UI Root/ViewsArea/View/ViewHome(Clone)/OtherNode/WidgetOff(Clone)/Right/BottomRightAnchor/ButtonPresentIcon/Label=ChangeFontSize(20)
+/_Game(Clone)/UI Root/ViewsArea/View/ViewHome(Clone)/OtherNode/WidgetOff(Clone)/Right/BottomRightAnchor/ButtonAlces/Label=ChangeFontSize(20)
+
+
+##กล่องของขวัญ##
+/_Game(Clone)/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonFullSize(Clone)/Main/PartsParent/PartsDialogPresentBoxTop(Clone)/CheckBox_ExcludeStamina/Toggle/Label=ChangeFontSize(20)
