@@ -1,9 +1,10 @@
 r:"^レンジャー合宿所周辺([0-9\-\(\)\w （）]*)$"=รอบค่ายพักแรมเรนเจอร์ $1
-魔物生態報告書=Monster's Ecology Report
-ニャット=Nyat
-主さま=My Lord
-歯磨きのお時間=Brushing time
-森の大猿=Great Ape of the Forest
+魔物生態報告書=รายงานระบบนิเวศของมอนสเตอร์
+ニャット=เนี้ยท
+主さま=นายท่าน
+歯磨きのお時間=ถึงเวลาแปรงฟันแล้วนะ
+森の大猿=ลิงยักษ์แห่งผืนป่า
+ダイオウショウジョウ=ลิงอุรังอุตังยักษ์
 魔物生態報告書解放=Monster's Ecology Report has been Unlocked
 ワッパダヌキの生態メモ①=Wappadanuki's Ecology Memo ①
 ワッパダヌキの生態メモ②=Wappadanuki's Ecology Memo ②
