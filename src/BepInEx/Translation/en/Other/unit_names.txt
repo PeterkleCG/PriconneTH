@@ -626,7 +626,7 @@
 
 ヴァイオレット（イサナミ）=Violet (Isanami);VioletI;Isanami;IViolet
 ライラエル（パルフェクト）=Lyrael (Perfect);LyraelP;Perfect
-ネフィ＝ネラ（鬼面仏心）=Nefi-Nera(Demon Mask, Buddha Heart);Nefi Nera(Demon Mask, Buddha Heart);Nephi-Nera(;Demon Mask, Buddha Heart);Nephi Nera (Demon Mask, Buddha Heart);BNefi-Nera;BNefi Nera;BNephi-Nera;BNephi Nera;Demon Mask;Buddha Heart;kimen busshin;yojijukugo;BuddhaNefi
+ネフィ＝ネラ（鬼面仏心）=Nefi-Nera(Demon Mask, Buddha Heart);Nefi Nera(Demon Mask, Buddha Heart);Nephi-Nera(;Demon Mask, Buddha Heart);Nephi Nera (Demon Mask, Buddha Heart);BNefi-Nera;BNefi Nera;BNephi-Nera;BNephi Nera;Demon Mask;Buddha Heart;Kimenbushin;yojijukugo;BuddhaNefi
 ペコリーヌ（アストライア）=Pecorine (Astraea);APecorine;Astraea;Eustiana
 
 
@@ -634,3 +634,14 @@
 シオリ（ウィンター）=Shiori (Winter);WShiori;Winter;Summer;Swimsuit;SShiori;Bandy
 グレイス（バニー）=Grace (Bunny);BGrace;Bunny
 キョウカ（ゴシック）=Kyoka (Gothic);KyokaVillainess;GKyoka;VKyoka;Gothic;Villainess
+
+
+キャル（覇瞳天星）=Karyl (Hadou Tensei);Kyaru (Hadou Tensei);HKyaru;HKaryl;HTKyaru;HTKaryl;Kaiser Insight;KKyaru
+
+ミホ（ガルパン）=Miho(Garupan);GMiho;Garupan;GuP;Colab
+マホ（ガルパン）=Maho(Garupan);GMaho;Garupan;GuP;Colab
+エリカ（ガルパン）=Erika(Garupan);GErika;Garupan;GuP;Colab
+
+クリア（ヴァルキュリア）=Quria (Valkyria);VQuria;Clear;Alter Maiden;Maiden;Valkyria
+プレシア（ヴァルキュリア）=Precia (Valkyria);VPrecia;Alter Maiden;Maiden;Valkyria
+リリ（ヴァルキュリア）=Riri (Valkyria);VRiri;Lili;Lily;Alter Maiden;Maiden;Valkyria
