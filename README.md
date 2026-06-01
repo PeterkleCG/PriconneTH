@@ -71,6 +71,10 @@
 - **Antigravity** (Google DeepMind)
 - **Claude Code** (Anthropic)
 
+### 🧪 Testers & Community
+ขอบคุณชาว Discord ทุกคนที่ช่วยทดสอบ รายงานบั๊ก เสนอคำแปล และติชมตลอดการพัฒนา 🙏
+หากตกหล่นชื่อใครไป ต้องขออภัยมา ณ ที่นี้ — ทุกคนคือส่วนสำคัญที่ทำให้แพตช์นี้ดีขึ้นเรื่อย ๆ
+
 ### ต้นฉบับ & เครื่องมือ
 - English patch: [PriconneRe-TL](https://github.com/ImaterialC/PriconneRe-TL) โดย ImaterialC
 - ฐานข้อมูล master.db ทุกเซิร์ฟเวอร์: [Expugn/priconne-database](https://github.com/Expugn/priconne-database)
