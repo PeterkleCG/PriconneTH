@@ -48,10 +48,24 @@ jobs:
 
       - name: Build release notes
         run: |
+          VER="${GITHUB_REF_NAME#v}"
           if [ -f "release-notes/${GITHUB_REF_NAME}.md" ]; then
             cp "release-notes/${GITHUB_REF_NAME}.md" RELEASE_BODY.md
           else
-            git tag -l --format='%(contents)' "${GITHUB_REF_NAME}" > RELEASE_BODY.md
+            # no notes file -> auto-generate a changelog from commits since previous tag
+            PREV=$(git describe --tags --abbrev=0 "${GITHUB_REF_NAME}^" 2>/dev/null || echo "")
+            {
+              echo "V${VER}"
+              echo "Changelog"
+              echo ""
+              if [ -n "$PREV" ]; then
+                git log --no-merges --pretty='• %s' "${PREV}..${GITHUB_REF_NAME}"
+                echo ""
+                echo "Full Changelog: [${PREV}...${GITHUB_REF_NAME}](https://github.com/${GITHUB_REPOSITORY}/compare/${PREV}...${GITHUB_REF_NAME})"
+              else
+                git log --no-merges --pretty='• %s' "${GITHUB_REF_NAME}" | head -30
+              fi
+            } > RELEASE_BODY.md
           fi
           echo "----- release body -----"; cat RELEASE_BODY.md
 
@@ -63,3 +77,21 @@ jobs:
           files: |
             Patch.TH.V*.zip
             PriconneTH-Installer.exe
+
+      - name: Sync Version.txt back to default branch
+        run: |
+          VER="${GITHUB_REF_NAME#v}"
+          VFILE="src/BepInEx/Translation/th/Text/Version.txt"
+          DEFAULT="${{ github.event.repository.default_branch }}"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git fetch origin "$DEFAULT"
+          git checkout "$DEFAULT"
+          sed -i -E "s/(Re:TH )[^\\]*/\1V${VER}/" "$VFILE"
+          if git diff --quiet -- "$VFILE"; then
+            echo "Version.txt already in sync (V${VER})"
+          else
+            git add "$VFILE"
+            git commit -m "ci: sync Version.txt to ${GITHUB_REF_NAME}"
+            git push origin "$DEFAULT" || echo "WARNING: push failed (concurrent commit?) — sync Version.txt manually"
+          fi
