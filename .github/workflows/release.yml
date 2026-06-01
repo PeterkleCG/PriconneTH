@@ -19,6 +19,14 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Sync Version.txt to tag
+        run: |
+          VER="${GITHUB_REF_NAME#v}"
+          VFILE="src/BepInEx/Translation/th/Text/Version.txt"
+          # replace the "Re:TH <anything up to the next \n>" text with the tag version
+          sed -i -E "s/(Re:TH )[^\\]*/\1V${VER}/" "$VFILE"
+          echo "----- Version.txt -----"; cat "$VFILE"
+
       - name: Package patch -> Patch.TH.V<ver>.zip
         run: |
           VER="${GITHUB_REF_NAME#v}"
