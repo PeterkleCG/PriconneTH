@@ -32,7 +32,7 @@
 
 ## 💾 ติดตั้ง
 
-ดาวน์โหลดล่าสุดที่ [**Releases**](https://github.com/PeterkleCG/PriconneTH/releases/latest)
+ดาวน์โหลดล่าสุดที่ [**Releases**](https://github.com/PeterkleCG/PriconneTH/releases/latest) · ดูประวัติทุกเวอร์ชั่นที่ [**CHANGELOG**](CHANGELOG.md)
 
 ### วิธีที่ 1 — ตัวติดตั้งอัตโนมัติ (แนะนำ)
 1. โหลดไฟล์ตัวติดตั้ง (`.exe`)
@@ -74,4 +74,4 @@
 
 ---
 
-ทรัพย์สินทั้งหมดเป็นของ Cygames, Inc. และผู้สร้างต้นฉบับ โปรเจกต์นี้เป็น fan project ไม่แสวงหากำไร
+โค้ดและเครื่องมือในโปรเจกต์นี้อยู่ภายใต้สัญญาอนุญาต [MIT License](LICENSE) — ทรัพย์สินในเกมทั้งหมดเป็นของ Cygames, Inc. และผู้สร้างต้นฉบับ โปรเจกต์นี้เป็น fan project ไม่แสวงหากำไร
