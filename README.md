@@ -79,7 +79,7 @@
 - English patch: [PriconneRe-TL](https://github.com/ImaterialC/PriconneRe-TL) โดย ImaterialC
 - ฐานข้อมูล master.db ทุกเซิร์ฟเวอร์: [Expugn/priconne-database](https://github.com/Expugn/priconne-database)
 - ตัวติดตั้ง: ต่อยอดจาก [tynave/PriconneReTL-Installer](https://github.com/tynave/PriconneReTL-Installer)
-- [BepInEx](https://github.com/BepInEx/BepInEx) + [XUnity.AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator)
+- Framework: BepInEx + XUnity.AutoTranslator **ฉบับดัดแปลงสำหรับ Priconne** (มาพร้อม PriconneRe-TL — มี PrincessRedirector + Fixup plugins) ต่อยอดจาก [BepInEx](https://github.com/BepInEx/BepInEx) + [XUnity.AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator) ต้นฉบับ
 
 ---
 
