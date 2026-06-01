@@ -89,13 +89,26 @@ jobs:
           git checkout "$DEFAULT"
           # 1) bump in-game version display
           sed -i -E "s/(Re:TH )[^\\]*/\1v${VER}/" "$VFILE"
-          # 2) regenerate CHANGELOG.md from release-notes/ (newest version first)
+          # 2) regenerate CHANGELOG.md from release-notes/ as proper Markdown (newest first)
+          #    release-notes use "•" + single \n (renders on Releases page via <br>),
+          #    but a .md file needs real Markdown list items ("- ") to break lines.
           node -e '
             const fs=require("fs"), dir="release-notes";
             const files=fs.readdirSync(dir).filter(f=>/^v\d+\.\d+\.\d+\.md$/.test(f));
             files.sort((a,b)=>{const pa=a.replace(/^v|\.md$/g,"").split(".").map(Number),pb=b.replace(/^v|\.md$/g,"").split(".").map(Number);for(let i=0;i<3;i++)if(pb[i]!==pa[i])return pb[i]-pa[i];return 0;});
             let out="# Changelog\n\nดูรายละเอียดแต่ละเวอร์ชั่นพร้อมไฟล์ดาวน์โหลดที่ [**Releases**](https://github.com/PeterkleCG/PriconneTH/releases)\n\n";
-            for(const f of files) out+="---\n\n"+fs.readFileSync(dir+"/"+f,"utf8").trim()+"\n\n";
+            for(const f of files){
+              const lines=fs.readFileSync(dir+"/"+f,"utf8").trim().split(/\r?\n/);
+              const ver=lines[0].trim(); const bullets=[]; let full="";
+              for(let i=1;i<lines.length;i++){
+                const l=lines[i].trim();
+                if(!l||/^changelog$/i.test(l))continue;
+                if(l.startsWith("•"))bullets.push("- "+l.replace(/^•\s*/,""));
+                else if(l.startsWith("Full Changelog"))full=l;
+                else bullets.push("- "+l);
+              }
+              out+="## "+ver+"\n\n"+bullets.join("\n")+"\n"+(full?"\n"+full+"\n":"")+"\n";
+            }
             fs.writeFileSync("CHANGELOG.md", out);
           '
           if git diff --quiet -- "$VFILE" CHANGELOG.md; then
