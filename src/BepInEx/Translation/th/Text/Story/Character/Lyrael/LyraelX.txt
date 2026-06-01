@@ -9,7 +9,7 @@
 お返しのプレゼントは…\n悪魔からのとびっきりの祝福です\nメリークリスマス─騎士♪\n=The returning gift is...\na special blessing from the devil.\nMerry Christmas—{playername}♪
 けれど、この時間がたまらなく愛おしい…\n素敵なプレゼントを頂いてしまいましたね…ふふっ\n=Yet, this time is unbearably dear...\nYou have given me a wonderful present... Hehe.
 本当に今日は、特別な日です…\n立場を忘れて、はしゃいでしまったり、\n拗ねてしまったり、甘えてしまったり…\n=Today truly is a special day...\nIt's time to forget about status, to frolic,\npout, or cuddle...
-破壊された親善パーティー=The goodwill party destroyed.
+破壊された親善パーティー=งานเลี้ยงเชื่อมสัมพันธ์ที่ถูกพังทลาย
 愛を破壊された司会のローズメンに代わり、友好親善パーティーを取り仕切るライラエル。彼女は持ち前の統率力で{playername}との連携を発揮し、無茶な催しを乗り切って二カ国間の親善を深めていく。=Lyrael, substituting for the love-destroyed host Rosamen, presides over the friendship goodwill party. She demonstrates her inherent leadership in coordinating with {playername} to navigate through unfeasible events, thereby deepening friendly relations between the two nations.
 愛が破壊される騒動の最中。ライラエルと{playername}は\nクリスマスの悪魔の活動を一時中断して、本来の目的である\n二カ国間の友好親善を深めるクリスマスパーティーに出席していた。=In the midst of the commotion where love was being destroyed, Lyrael and {playername} temporarily interrupted their activities as Christmas demons and attended the Christmas party dedicated to fostering goodwill between two nations.
 ごきげんよう。\n本日のパーティー、楽しみにしておりました。=Good day.\nI was looking forward to today's party.
@@ -130,7 +130,7 @@
 ええ。\nランドソルとジオ・テオゴニアが力を合わせれば、\n乗り越えられない障害などないのです。=Yes.\nIf Landosol and Gio-Teogonia work together,\nthere's no obstacle we can't overcome.
 ……そのように思うのは、少し傲慢でしょうか？\nふふっ♪=...Is it a bit arrogant to think so?\nHehe♪
 友好親善のクリスマスパーティーを成功に導いたライラエルたち。\nジオ・テオゴニアの姫として、小さな成功体験を得た後、\n彼女はクリスマスの悪魔として、再び街へ駆けていくのだった。=Lyrael and the others led the successful Christmas party for friendship and goodwill.\nAs the princess of Gio-Teogonia, after achieving a small success,\nshe once again heads to the town as the Christmas devil.
-姫天使のクリスマスデート=Princess Angel’s Christmas Date
+姫天使のクリスマスデート=คริสต์มาสเดตของเจ้าหญิงนางฟ้า
 {playername}の思い出の地を巡っていたライラエルは、彼と共有する思い出の少なさに寂しさを抱く。だが過去に二人で散歩した道も彼の大切な場所だと知り気を取り直すと、大胆な行動に出るのだった。=While visiting places of memories with {playername}, Lyrael felt lonely due to the lack of shared memories. But knowing that the path they once walked together was precious to him, she takes bold action.
 愛が破壊される騒動が収まった後のクリスマスイブ。\nようやく訪れた普通のクリスマスを視察するため、\nライラエルは{playername}と共に街を観光していた。=On Christmas Eve, after the commotion of love being destroyed subsided,\nLyrael was touring the town with {playername}\nto inspect the long-awaited ordinary Christmas.
 これが、由緒正しいクリスマス……\nすれ違う人々も皆、とても楽しそうです。=This is the historical Christmas...\nEveryone passing looks very happy.
@@ -244,7 +244,7 @@
 わたしの部屋で、二人で。=In my room, just the two of us.
 クリスマスイブの夜。\nもう一つのワガママに応えるため、ライラエルの宿泊先へ付いて行く\n{playername}なのであった。=On Christmas Eve night.\nTo fulfill yet another wish, {playername} accompanies Lyrael to her accommodation.
 いえ、これぐらいで大丈夫です。=No, this much is fine.
-聖夜の天使とふたりきり=Alone with the Angel of Christmas
+聖夜の天使とふたりきり=ค่ำคืนศักดิ์สิทธิ์และนางฟ้าเพียงสองเรา
 {playername}を宿泊先に誘うが、ブドウ朱で傲慢モードになってしまうライラエル。だが語らう中で彼との心の繋がりを実感すると上機嫌になり、『クリスマスプレゼント』で更に心を通じ合わせていく。=Inviting {playername} to her accommodation, Lyrael enters her arrogant mode due to the effects of Grape Aureate. However, as she converses with him, she realizes their emotional connection, and with a 'Christmas present,' their hearts become even more aligned.
 クリスマスイブの夜。\nライラエルの宿泊先で、彼女と一緒に\n過ごすことになった{playername}。=On Christmas Eve night,\n{playername} is spending time\nwith Lyrael at her accommodation.
 騎士、どうぞ座ってください。\nあっ、今、お茶を用意しますね……！={playername}, please have a seat.\nOh, let me prepare some tea...!
@@ -364,7 +364,7 @@
 本当ですか……？\nそういっていただけると、うれしいです。=Really...?\nI'm happy to hear that.
 ですが、昨夜の失態は他言無用でお願いしますね……！\nわたしたち、二人だけの秘密ですよ。=However, please keep last night's blunder a secret...!\nIt's a secret just between you and me.
 二人だけの秘密となったクリスマスイブの夜の出来事。\nライラエルと過ごした愉快な時間も壮大な夜景も、\n{playername}の記憶に深く刻まれるのだった。=The events of the Christmas Eve night that became a secret just for the two of them.\nBoth the joyous time spent with Lyrael and the grand nightscape\nWere deeply etched into {playername}'s memory.
-続・天使のおままごと=Continuation of The Angel's Playhouse
+続・天使のおままごと=ภาคต่อ・การเล่น...
 {playername}の部屋で、おままごとの夫婦ごっこを継続するえる。『夫婦らしい三択』として、サンタ衣装と鍋物で食べ合いっこの共同作業を実践し、仲睦まじい夫婦のように絆を深めていくのだった。=Eru continued playing house as a married couple in {playername}'s room. As a 'marriage-like triple choice', they deepened their bond like an intimate couple by practicing collaborative work with a Santa costume and stewed dishes.
 クリスマス視察を終え、ジオ・テオゴニアへ帰国したライラエル。\n彼女の思い出の地を巡るため、{playername}も同行していた。=Following the Christmas inspection, Lyrael returned to Gio-Teogonia.\n{playername} accompanied her to tour her memorable places.
 ──ジオ・テオゴニアに帰ってきました……！\nやはり、慣れた場所は落ち着きますね。=──We've returned to Gio-Teogonia...!\nAs expected, familiar places are calming.
