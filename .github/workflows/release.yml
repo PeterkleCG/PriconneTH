@@ -24,7 +24,7 @@ jobs:
           VER="${GITHUB_REF_NAME#v}"
           VFILE="src/BepInEx/Translation/th/Text/Version.txt"
           # replace the "Re:TH <anything up to the next \n>" text with the tag version
-          sed -i -E "s/(Re:TH )[^\\]*/\1V${VER}/" "$VFILE"
+          sed -i -E "s/(Re:TH )[^\\]*/\1v${VER}/" "$VFILE"
           echo "----- Version.txt -----"; cat "$VFILE"
 
       - name: Package patch -> Patch.TH.V<ver>.zip
@@ -87,7 +87,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git fetch origin "$DEFAULT"
           git checkout "$DEFAULT"
-          sed -i -E "s/(Re:TH )[^\\]*/\1V${VER}/" "$VFILE"
+          sed -i -E "s/(Re:TH )[^\\]*/\1v${VER}/" "$VFILE"
           if git diff --quiet -- "$VFILE"; then
             echo "Version.txt already in sync (V${VER})"
           else
