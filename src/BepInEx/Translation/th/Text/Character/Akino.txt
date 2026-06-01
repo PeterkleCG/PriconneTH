@@ -3,7 +3,7 @@ r:"^自分の物理攻撃力を(\d+)アップ自分の物理防御力を(\d+)ア
 バトル開始時に自分の物理攻撃力を中アップさせる。=เมื่อเริ่มแบทเทิล เพิ่มโจมตีกายภาพของตนเองปานกลาง
 プラウドスラッシュ++=พราวด์สแลช++
 【物理】前衛で大暴れして攻める、令嬢剣士。自分の周りに、味方を回復するフィールドを作り出し、自ら前線を支え導く姿も、名家を背負う者のあるべき姿。=[Physical] A young fencer who fights wildly in the frontlines. Creates a field that heals allies around her, allowing her to uphold the vanguard as befits the heiress of a noble household.
-r:"^敵単体に(\d+)の物理ダメージ$"=►Deals $1 P.DMG to an enemy.
+r:"^敵単体に(\d+)の物理ダメージ$"=►ทำดาเมจกายภาพ $1 ใส่ศัตรูตัวเดียว
 r:"^敵単体に(\d+)の物理ダメージ範囲内の敵に(\d+)の物理ダメージ自分の物理攻撃力を(\d+)アップ$"=Cast time: 1.3575s.\n►Deals $1 P.DMG to an enemy.\n►Deals $1 P.DMG to enemies in 280 range upon counter for next 2s.\n►Boosts own P.ATK by $1 for 12s.
 r:"^毎秒ＨＰを(\d+)回復するフィールドを展開する$"=►Deploys a field that recovers allies' HP by $1/s for 8s.
 自分を中心に範囲内の味方すべての物理攻撃力を特大アップ、物理クリティカルを大アップ、ＨＰを小回復するフィールドを展開する。サレン（同名キャラを除く）が味方にいる場合、さらにＴＰを小回復させるフィールドを展開する。=Deploys a field centered on self that massively boosts the P.ATK of all allies in range, greatly boosts their P.CRIT RATE, and slightly recovers their HP. If Saren (ORIGINAL SAREN ONLY) is present among allies, additionally deploys a field that slightly recovers TP.
