@@ -1,3 +1,14 @@
+ヒヨリ=ฮิโยริ
+ヒヨリ・=ฮิโยริ &
+・ヒヨリ=& ฮิโยริ
+ひより=ฮิโยริ
+春咲=ฮารุซากิ
+春咲 ひより=ฮารุซากิ ฮิโยริ
+
+
+
+
+
 カイザーインサイト=ไคเซอร์ อินไซด์
 バックログ=บันทึกย้อนหลัง
 アストライア=Astraea
@@ -13,7 +24,7 @@
 阿賀斗=Agato
 草野=Kusano
 優衣=Yui
-春咲=ฮารุซากิ
+
 士条=Shijo
 怜=Rei
 模索路=Mosakuji
@@ -374,12 +385,12 @@ TYPE-P・シャドウP=Type-P Shadow P
 ツムギ・ノゾミ・チカ=Tsumugi & Nozomi & Chika
 ユカリ・アキノ・ミフユ=Yukari & Akino & Mifuyu
 リマ・マヒル・リン=Lima & Mahiru & Rin
-ヒヨリ・ユイ・レイ=Hiyori & Yui & Rei
+
 カスミ・マホ・マコト=Kasumi & Maho & Makoto
 カオリ・マコト・マホ=Kaori & Makoto & Maho
 ラム・エミリア・レム=Ram & Emilia & Rem
 リリ・ネア・ランファ=Riri & Nea & Ranpha
-ヒヨリ・レイ・アメス=Hiyori & Rei & Ameth
+
 リリ・クリア・ワカナ=Riri & Quria & Wakana
 クリア・リリ・プレシア=Quria & Riri & Precia
 ミホ・マホ・エリカ=Miho & Maho & Erica
@@ -428,7 +439,7 @@ TYPE-P・シャドウP=Type-P Shadow P
 ジュン・トモ=Jun & Tomo
 ゼーン・カリザ=Zane & Kariza
 ランファ・アゾールド=Ranpha & Azold
-ヒヨリ・ペコリーヌ=Hiyori & Pecorine
+
 ミミ・ミソギ=Mimi & Misogi
 アヤネ・クルミ=Ayane & Kurumi
 ツムギ・チカ=Tsumugi & Chika
@@ -440,19 +451,19 @@ TYPE-P・シャドウP=Type-P Shadow P
 ムイミ・クリスティーナ=Muimi & Christina
 カリザ・ランファ=Kariza & Ranpha
 スズナ・ミサキ=Suzuna & Misaki
-レイ・ヒヨリ=Rei & Hiyori
+
 クルミ・アヤネ=Kurumi & Ayane
-ヒヨリ・ユイ=Hiyori & Yui
-ヒヨリ・レイ=Hiyori & Rei
+
+
 ルカ・エリコ=Ruka & Eriko
 シュテッヒパルム・ナナカ=Anna & Nanaka
 カヤ・シズル=Kaya & Shizuru
 ユカリ・アンナ=Yukari & Anna
 ユイ・エリス=Yui & Eris
-コッコロ・ヒヨリ=Kokkoro & Hiyori
+
 イノリ・レイ=Inori & Rei
-カヤ・ヒヨリ=Kaya & Hiyori
-ヒヨリ・コッコロ=Hiyori & Kokkoro
+
+
 アカ・アオ=Aka & Ao
 ミサト・アオイ=Misato & Aoi
 キャル・ペコリーヌ=Kyaru & Pecorine
@@ -498,11 +509,11 @@ TYPE-P・シャドウP=Type-P Shadow P
 カスミ・エリコ=Kasumi & Eriko
 ユイ・レイ=Yui & Rei
 アイラ・ユカリ=Aira & Yukari
-アイラ・ヒヨリ=Aira & Hiyori
+
 レイ・シナツ=Rei & Shinatsu
 アイラ・シナツ=Aira & Shinatsu
-ヒヨリ・アイラ=Hiyori & Aira
-ユイ・ヒヨリ=Yui & Hiyori
+
+
 エリコ・マコト=Eriko & Makoto
 キョウカ・リュウジ=Kyouka & Ryuuji
 クルル・マホ=Kururu & Maho
