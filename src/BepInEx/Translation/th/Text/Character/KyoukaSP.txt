@@ -13,6 +13,6 @@ r:"^敵単体に(\d+)の魔法ダメージ自分の魔法攻撃力を(\d+)アッ
 r:"^自分の魔法クリティカルを250アップ自分の魔法攻撃クリティカル時のダメージを5％アップ自分のＨＰを(\d+)回復自分のＴＰ上昇を5アップ$"=►Boosts own M.CRIT Rate by 250 (-65×Count) for 180s.\n►Boosts own M.CRIT DMG by 5% (+5%×Count) for 180s.\n►Recovers own HP by $1.\n►Boosts own TP Boost by 5 for 180s.
 ブレイブハズカム=Brave Has Come
 ブレイブハズカム+=Brave Has Come+
-バトル開始時に自分の魔法クリティカルを中アップさせる。=Moderately boosts own M.CRIT Rate at the start of battle.
-バトル開始時に自分の魔法クリティカルを大アップさせる。=Greatly boosts own M.CRIT Rate at the start of battle.
-r:"^自分の魔法クリティカルを(\d+)アップ$"=►Boosts own M.CRIT Rate by $1.
+バトル開始時に自分の魔法クリティカルを中アップさせる。=เมื่อเริ่มต่อสู้ เพิ่มคริติคอลเวทตนเองปานกลาง
+バトル開始時に自分の魔法クリティカルを大アップさせる。=เมื่อเริ่มต่อสู้ เพิ่มคริติคอลเวทตนเองสูง
+r:"^自分の魔法クリティカルを(\d+)アップ$"=►เพิ่มคริติคอลเวทตนเอง $1
