@@ -1,0 +1,21 @@
+name: Dup Key Check
+
+# Scans translation files for duplicate keys (XUAT matches by KEY, not line).
+# Report-only — writes a summary to the Actions run, never blocks.
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'src/BepInEx/Translation/th/Text/**'
+  pull_request:
+    paths:
+      - 'src/BepInEx/Translation/th/Text/**'
+  workflow_dispatch:
+
+jobs:
+  dup-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Scan duplicate keys
+        run: node .github/scripts/check-dups.js
