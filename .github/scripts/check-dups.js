@@ -43,14 +43,14 @@ for (const [k, arr] of Object.entries(keys)) {
 }
 
 const L = [];
-L.push('# 🔑 Conflicting translations — same JP key, different Thai', '');
-L.push(`**${conflicts.length}** key(s) have 2+ different Thai values (load-order decides which wins — review needed).`, '');
+L.push('# 🔑 คำแปลขัดแย้ง — JP key เดียว แต่ไทยต่างกัน', '');
+L.push(`พบ **${conflicts.length}** key ที่มีคำแปลไทยมากกว่า 1 แบบ (ลำดับโหลดตัดสินว่าตัวไหนชนะ — ต้องตรวจ)`, '');
 for (const [k, arr] of conflicts) {
   L.push(`**\`${k}\`**`);
   for (const a of arr) L.push(`- \`${a.file}:${a.line}\` = ${a.value}`);
   L.push('');
 }
-if (!conflicts.length) L.push('✅ No conflicting translations — every duplicated JP key resolves to one Thai value.', '');
+if (!conflicts.length) L.push('✅ ไม่มีคำแปลขัดแย้ง — ทุก key ที่ซ้ำให้ค่าไทยเดียวกัน', '');
 
 const report = L.join('\n');
 console.log(report);

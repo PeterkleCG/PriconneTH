@@ -1,0 +1,37 @@
+name: Texture Dup PR
+
+# สแกนรูปที่ hash ซ้ำ → ลบสำเนาที่ byte ตรงกัน + เปิด PR (ภาษาไทย) ให้คน review
+# hash ที่ byte ต่างกัน = ไม่แตะ แค่ list ใน PR body ให้คนตัดสิน
+# ไม่ auto-merge — คนกด merge เอง
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * 1'   # ทุกวันจันทร์
+  push:
+    branches: [main]
+    paths:
+      - 'src/BepInEx/Translation/**/Texture/**'
+      - 'src/BepInEx/Translation/en/Other/atlases/**'
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  texdup:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: สแกน + ลบรูปซ้ำ (identical)
+        run: node .github/scripts/texdups-pr.js
+      - name: เปิด PR
+        uses: peter-evans/create-pull-request@v6
+        with:
+          branch: bot/texture-dedup
+          delete-branch: true
+          commit-message: "chore: ลบ texture ที่ hash ซ้ำ + byte ตรงกัน (อัตโนมัติ)"
+          title: "🖼️ ลบรูปซ้ำ + รายการ hash ขัดแย้งให้ตรวจ"
+          body-path: TEXTURE-DUPS.md
+          labels: |
+            texture
+            bot
