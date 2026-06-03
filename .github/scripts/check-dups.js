@@ -1,7 +1,7 @@
-// CI dup-key scanner for translation files.
-// XUAT matches by KEY (not line) → duplicate keys across files with DIFFERENT
-// values = load-order-dependent (silent breakage). Same-file dups = plain errors.
-// Report-only: writes a Markdown report to $GITHUB_STEP_SUMMARY, always exits 0.
+// CI dup-key scanner — reports ONLY the serious case:
+// same JP key with 2+ DIFFERENT Thai values (load-order decides which wins = wrong).
+// Same-key-same-value dups are harmless (ignored) — keep-on-purpose is fine.
+// Report-only: writes Markdown to $GITHUB_STEP_SUMMARY, always exits 0.
 const fs = require('fs');
 const path = require('path');
 
@@ -35,40 +35,24 @@ for (const f of walk(ROOT)) {
   }
 }
 
-const sameFile = [], conflict = [];
-let agree = 0;
+// serious = same JP key, 2+ DISTINCT Thai values (same-file or cross-file)
+const conflicts = [];
 for (const [k, arr] of Object.entries(keys)) {
   if (arr.length < 2) continue;
-  const files = new Set(arr.map(a => a.file));
-  if (files.size === 1) { sameFile.push([k, arr]); continue; }
-  const vals = new Set(arr.map(a => a.value));
-  if (vals.size > 1) conflict.push([k, arr]); else agree++;
+  if (new Set(arr.map(a => a.value)).size > 1) conflicts.push([k, arr]);
 }
 
 const L = [];
-L.push('# 🔑 Duplicate-key scan', '');
-L.push(`| type | count |`, `|---|---|`);
-L.push(`| same-file dups | ${sameFile.length} |`);
-L.push(`| cross-file VALUE-CONFLICTS | ${conflict.length} |`);
-L.push(`| cross-file value-agree (harmless) | ${agree} |`, '');
-if (conflict.length) {
-  L.push('## ⚠️ Value conflicts (key same, value differs — load-order risk)', '');
-  for (const [k, arr] of conflict.slice(0, 60)) {
-    L.push(`**\`${k}\`**`);
-    for (const a of arr) L.push(`- \`${a.file}:${a.line}\` = ${a.value}`);
-    L.push('');
-  }
-  if (conflict.length > 60) L.push(`… +${conflict.length - 60} more`, '');
-}
-if (sameFile.length) {
-  L.push('## Same-file dups (duplicate line in one file)', '');
-  for (const [k, arr] of sameFile) L.push(`- \`${k}\` → ${arr.map(a => a.file + ':' + a.line).join(', ')}`);
+L.push('# 🔑 Conflicting translations — same JP key, different Thai', '');
+L.push(`**${conflicts.length}** key(s) have 2+ different Thai values (load-order decides which wins — review needed).`, '');
+for (const [k, arr] of conflicts) {
+  L.push(`**\`${k}\`**`);
+  for (const a of arr) L.push(`- \`${a.file}:${a.line}\` = ${a.value}`);
   L.push('');
 }
-if (!conflict.length && !sameFile.length) L.push('✅ No harmful dups (same-file / value-conflict).', '');
+if (!conflicts.length) L.push('✅ No conflicting translations — every duplicated JP key resolves to one Thai value.', '');
 
 const report = L.join('\n');
 console.log(report);
 if (process.env.GITHUB_STEP_SUMMARY) fs.appendFileSync(process.env.GITHUB_STEP_SUMMARY, report + '\n');
-// report-only — never block (admin commits land on main directly via web editor)
-process.exit(0);
+process.exit(0); // report-only — never block
