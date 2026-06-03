@@ -21,7 +21,7 @@ jobs:
   texdup:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
       - name: สแกน + ลบรูปซ้ำ (identical)
         run: node .github/scripts/texdups-pr.js
       - name: เปิด PR
