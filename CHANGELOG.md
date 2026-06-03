@@ -2,6 +2,17 @@
 
 ดูรายละเอียดแต่ละเวอร์ชั่นพร้อมไฟล์ดาวน์โหลดที่ [**Releases**](https://github.com/PeterkleCG/PriconneTH/releases)
 
+## V2.1.5
+
+- เพิ่มคำแปลสกิล + โปรไฟล์ตัวละคร (Croce และอื่น ๆ)
+- เพิ่มคำแปลสกิล EX Equip
+- อัปเดตคำแปล ConnectShop
+- ลบไฟล์ XUAT preprocessing ที่ไม่ใช้ (_Substitutions / _Preprocessors / _Postprocessors)
+- ปรับปรุงเอกสารโปรเจกต์: README, เพิ่ม CONTRIBUTING (แนวทางแปล + อภิธานศัพท์), CHANGELOG อัตโนมัติ
+- ปรับปรุงระบบ release: sync เลขเวอร์ชั่นใน Version.txt ให้ตรง tag อัตโนมัติ
+
+Full Changelog: [v2.1.4...v2.1.5](https://github.com/PeterkleCG/PriconneTH/compare/v2.1.4...v2.1.5)
+
 ## V2.1.4
 
 - เพิ่มคำแปลสกิลตัวละคร: คริสทีน่า (ไวลด์/คริสต์มาส/อัลฟ่า), คุเรีย (ฟอลเล็น/ฤดูร้อน) และอื่น ๆ
