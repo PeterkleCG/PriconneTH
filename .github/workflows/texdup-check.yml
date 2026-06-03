@@ -1,0 +1,20 @@
+name: Texture Dup Check
+
+# สแกนรูปที่ hash ซ้ำ → รายงานใน Actions summary (report-only ไม่ลบ ไม่เปิด PR)
+# การลบ identical + เปิด PR ทำ manual: `node .github/scripts/texdups.js --apply` แล้ว push branch + เปิด PR ผ่าน user token
+# (Actions GITHUB_TOKEN เปิด PR ไม่ได้ — repo setting ปิด, admin only)
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'src/BepInEx/Translation/**/Texture/**'
+      - 'src/BepInEx/Translation/en/Other/atlases/**'
+
+jobs:
+  texdup-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - name: สแกนรูป hash ซ้ำ (report-only)
+        run: node .github/scripts/texdups.js
