@@ -840,7 +840,7 @@ Matsuri
 ●ヒミツ図鑑● ①マツリちゃん=*Secret encyclopedia* 1 Matsuri-chan
 
 
-キャラ選択=Character Select
+キャラ選択=เลือกตัวละคร
 
 
 

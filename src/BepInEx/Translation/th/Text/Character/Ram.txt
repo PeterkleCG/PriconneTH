@@ -1,8 +1,12 @@
 村川梨衣=ริเอะ มูรากาวะ
-【魔法】中衛で、特殊能力で味方を補助する、双子の姉。相手の物理攻撃を見切って回避させる「千里眼」や、敵全体を束縛するユニオンバーストの補助は効果絶大。=[Magic] An elder twin who supports her allies with unique abilities from the midguard. Her Clairvoyance allows her to identify a physical attack and nullify it, while her Union Burst has the powerful effect of binding all enemies in place.
-r:"^敵全体に(\d+)の魔法ダメージ敵全体を一定時間行動不能にする$"=►Deals $1 M.DMG to all enemies.\n►Renders enemies in range immobile for a set period of time.
-r:"^敵単体に、行動不能の時(\d+)の魔法ダメージ敵単体に、行動不能でない時(\d+)の魔法ダメージ$"=►Deals $1 M.DMG to an enemy if they are immobile.\n►Deals $1 M.DMG to an enemy if they are not immobile.
-r:"^敵単体に次の物理攻撃が確定で回避される状態を付与する$"=►Inflicts a status on an enemy causing their next P.ATK to miss.
-死にたくなりなさい=Please Die Already
-敵全体に魔法中ダメージを与え、大きく吹き飛ばし、さらに長時間束縛する。=Deals moderate M.DMG to all enemies, inflicts a long Bind (5s) to them, and greatly blows them away.
-ラムの髪飾り=Ram's Hair Ornament
+ラムの警戒、再び=ความระแวดระวังของแรม อีกครั้ง
+ラム師匠のメイド指導=บทเรียนคนรับใช้ของอาจารย์แรม
+この二人、似た者につき=สองคนนี้ เพราะว่าเป็นคนที่คล้ายกัน
+サプライズの蒸かし芋=มันเทศนึ่งสุดเซอร์ไพรส์
+
+r:"^敵全体に(\d+)の魔法ダメージ敵全体を一定時間行動不能にする$"=►ทำดาเมจเวท $1 ใส่ศัตรูทั้งหมด\n►ทำให้ศัตรูทั้งหมดอยู่ในสถานะขยับไม่ได้ชั่วคราว
+r:"^敵単体に、行動不能の時(\d+)の魔法ダメージ敵単体に、行動不能でない時(\d+)の魔法ダメージ$"=►ทำดาเมจเวท $1 ใส่ศัตรูตัวเดียวเมื่ออยู่ในสถานะขยับไม่ได้\n►ทำดาเมจเวท $2 ใส่ศัตรูตัวเดียวเมื่อไม่ได้อยู่ในสถานะขยับไม่ได้
+r:"^敵単体に次の物理攻撃が確定で回避される状態を付与する$"=►มอบสถานะที่ทำให้การโจมตีกายภาพครั้งต่อไปถูกหลบหลีกได้แน่นอนให้แก่ศัตรูตัวเดียว
+死にたくなりなさい=จงอยากตายซะเถอะ
+敵全体に魔法中ダメージを与え、大きく吹き飛ばし、さらに長時間束縛する。=ทำดาเมจเวทปานกลางใส่ศัตรูทั้งหมด อีกทั้งทำให้กระเด็นอย่างมากและผูกมัดเป็นเวลานาน (5 วินาที)
+ラムの髪飾り=เครื่องประดับผมของแรม

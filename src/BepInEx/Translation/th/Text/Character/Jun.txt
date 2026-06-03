@@ -1,19 +1,26 @@
 自分の周りの味方のうち、最もＨＰの割合が低い味方１キャラのＨＰを中回復する。=ฟื้นฟู HP ให้เพื่อนร่วมทีมที่อยู่ใกล้ตัว และมี HP ต่ำที่สุด 1 ตัว\n
-門番と迷子=A Gracอิโอะus Guard
-君のことを知りたくて=Curอิโอะus About You
-【物理】最前衛で、完全防御スキルを操る騎士団長。ユニオンバーストであらゆるダメージを吸収するバリアを展開できる。特に長期戦で圧倒的な防御性能を誇る。=[Physical] The captain of Nightmare, who strengthens the vanguard with impenetrable defensive skills. Her Union Burst creates a barrier that absorbs all types of damage, allowing her to stand firm in even the lengthiest of battles.
-仮面に隠れた乙女心=Maiden Heart Hidden Behind the Mask
-たとえ君に会えなくても=Even If I Can't Meet You
-ヒーローは立ち上がる=Heroes Rise
-複雑なエモーション=Complex Emotions
-r:"^(\d+)ダメージ分の物理魔法吸収バリアを展開する$"=►Deploys Barrier over oneself that absorbs $1 P.DMG and M.DMG for 18s.
-自分の周りの味方のうち、最もＨＰが低い味方１キャラのＨＰを中回復する。=Recovers HP of the nearby ally with the lowest HP by a small amount.
-r:"^味方単体のＨＰを(\d+)回復$"=►Recovers an ally's HP by $1.
-インフェルノランパート=Inferno Rampart
-自分に物理/魔法吸収バリアを展開し、自分の周囲に範囲内の味方すべての物理攻撃力を特大アップ、行動速度を大アップさせるフィールドを展開する。=Deploys a P/M absorption barrier on herself, and creates a field around self that greatly increases the P.ATK and action speed of all allies within range.
-r:"^(\d+)ダメージ分の物理魔法吸収バリアを展開する物理攻撃力を(\d+)アップさせるフィールドを展開する行動速度をアップさせるフィールドを展開する$"=►Deploys Barrier over oneself that absorbs $1 P/M.DMG for 18s.\n►Boosts allies' P.ATK in 300 range by $2 for 18s.\n►Boosts allies' action speed in 300 range into 155% for 18s.
-自分の周りの味方のうち、最もＨＰが低い味方１キャラのＨＰを中回復させ、さらに物理攻撃力を中アップ、行動速度を小アップさせる。=Recovers HP of the nearby ally with the lowest HP by a moderate amount. Large boost to the ally's P.ATK and small boost to their action speed.
-r:"^味方単体のＨＰを(\d+)回復味方単体の物理攻撃力を(\d+)アップ味方単体の行動速度アップ$"=►Recovers an ally's HP by $1.\n►Boosts an ally's P.ATK by $2 for 12s.\n►Boosts an ally's action speed into 120% for 12s.
+仮面に隠れた乙女心=หัวใจสาวน้อยที่ซ่อนอยู่ใต้หน้ากาก
+たとえ君に会えなくても=ต่อให้ไม่ได้พบเธอก็ตาม
+ヒーローは立ち上がる=ฮีโร่จะลุกขึ้นสู้
+複雑なエモーション=ความรู้สึกอันซับซ้อน
+門番と迷子=คนเฝ้าประตู และเด็กหลง
+君のことを知りたくて=อยากรู้เรื่องของเธอ
+r:"^(\d+)ダメージ分の物理魔法吸収バリアを展開する$"=►กางบาเรียดูดซับกายภาพ/เวทให้ตนเอง $1 
+自分の周りの味方のうち、最もＨＰが低い味方１キャラのＨＰを中回復する。=ฟื้นฟู HP ให้เพื่อน 1 คนรอบตัวที่มี HP ต่ำที่สุดปานกลาง
+r:"^味方単体のＨＰを(\d+)回復$"=►ฟื้นฟู HP ให้เพื่อน 1 คน $1 
+インフェルノランパート=อินเฟอร์โน่แรมพาร์ต
+自分に物理/魔法吸収バリアを展開し、自分の周囲に範囲内の味方すべての物理攻撃力を特大アップ、行動速度を大アップさせるフィールドを展開する。=กางบาเรียดูดซับกายภาพ/เวทให้ตนเอง และกางฟิลด์รอบตัวที่จะเพิ่มพลังโจมตีกายภาพให้เพื่อนทั้งหมดในระยะสูงมาก และเพิ่มความเร็วการโจมตีสูง
+r:"^(\d+)ダメージ分の物理魔法吸収バリアを展開する物理攻撃力を(\d+)アップさせるフィールドを展開する行動速度をアップさせるフィールドを展開する$"=►กางบาเรียดูดซับกายภาพ/เวทให้ตนเอง $1 \n►กางฟิลด์เพิ่มพลังโจมตีกายภาพให้เพื่อนในระยะขึ้น $2 \n►กางฟิลด์เพิ่มความเร็วการโจมตีให้เพื่อนในระยะ
+自分の周りの味方のうち、最もＨＰが低い味方１キャラのＨＰを中回復させ、さらに物理攻撃力を中アップ、行動速度を小アップさせる。=ฟื้นฟู HP ให้เพื่อน 1 คนรอบตัวที่มี HP ต่ำที่สุดปานกลาง อีกทั้งเพิ่มพลังโจมตีกายภาพปานกลาง และเพิ่มความเร็วการโจมตีขึ้นเล็กน้อย
+r:"^味方単体のＨＰを(\d+)回復味方単体の物理攻撃力を(\d+)アップ味方単体の行動速度アップ$"=►ฟื้นฟู HP ให้เพื่อน 1 คน $1 \n►เพิ่มพลังโจมตีกายภาพให้เพื่อน 1 คนขึ้น $2 \n►เพิ่มความเร็วการโจมตีให้เพื่อน 1 คน
+r:"^(\d+)ダメージ分の物理魔法吸収バリアを展開する物理攻撃力を(\d+)アップさせるフィールドを展開する行動速度を55％アップさせるフィールドを展開する$"=►กางบาเรียดูดซับกายภาพ/เวทให้ตนเอง $1 \n►กางฟิลด์เพิ่มพลังโจมตีกายภาพให้เพื่อนในระยะขึ้น $2 \n►กางฟิลด์เพิ่มความเร็วการโจมตีให้เพื่อนในระยะขึ้น 55% 
+r:"^味方単体のＨＰを(\d+)回復味方単体の物理攻撃力を(\d+)アップ味方単体の行動速度20％アップ$"=►ฟื้นฟู HP ให้เพื่อน 1 คน $1 \n►เพิ่มพลังโจมตีกายภาพให้เพื่อน 1 คนขึ้น $2 \n►เพิ่มความเร็วการโจมตีให้เพื่อน 1 คนขึ้น 20%
+
+
+
+
+
+
 やぁ、迷子の少年。君とのおしゃべりは楽しかったよ\n私はいつも門の前にいるから、また迷子になったら\n王宮目指して訪ねておいで=Hey, lost boy. I had a fun chat with you. I'm \nalways by the gate, so if you ever get lost \nagain, come visit me on your way to the palace.
 わざわざお礼に来てくれるとは思わなかったよ\nしかも可愛らしい贈り物まで用意してくれて…\n照れくさいけどとても嬉しかった。ありがとう=I didn't expect you to come all this way just\nto thank me. And you even brought such a \nlovely gift... It's embarrassing, \nbut I was really happy. Thank you.
 いや、今までも迷惑などでは決してなかったよ\n君とのお喋りはとても楽しかったし、有意義だった=No, it was never a bother. \nTalking with you was enjoyable and meaningful.

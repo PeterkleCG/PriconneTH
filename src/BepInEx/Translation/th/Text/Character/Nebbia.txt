@@ -1,16 +1,24 @@
-【魔法】後衛を飛び出し悪戯の限りを尽くす幻惑の妖精。敵陣を勝手気ままに飛び回り、敵の攻撃を空振りさせて、ＵＢで４種の妨害効果をランダムに与え大混乱に陥れる。=[Magic] A mischievous fairy who rushes out from the rear and plays all sorts of pranks. She flies around the enemy formation at will, making their attacks miss and throwing them into chaos by randomly applying four types of disruptive effects with her UB.
-悪戯をすること=Playing a prank
-幻霧に戯れる悪戯好きなガイド妖精=A mischievous guide fairy who plays with the phantom mist
-ネビア・インフェリチータ=Nebbia Infelicità
-敵全体を混乱状態、恐慌状態、暗闇状態、スタン状態のいずれかにし、自分を一定時間無敵状態にする。=Inflicts one of Confusion, Fear, Blind, or Stun to all enemies, and becomes immune to all damage for a set period of time.
-敵全体を混乱させる敵全体を恐慌状態にする敵全体を暗闇状態にする敵全体を一定時間行動不能にする一定時間無敵状態になる=►Becomes immune to all damage for 6s.\n\nActivates one of the 4 following effects at random:\n►Inflicts Confusion to all enemies for 6s.\n►Inflicts Fear to all enemies for 6s.\n►Inflicts Blind to all enemies for 6s.\n►Inflicts Stun to all enemies for 6s.
-スケルツォ=Scherzo
-最も物理攻撃力が高い敵１キャラを執着状態にし、自分のＨＰを小回復し、一定時間全ての物理攻撃を回避する。さらに、ランダムな敵の傍に移動する。=Inflicts Attachment to an enemy with the highest P.ATK, slightly recovers own HP, and gains P.ATK evasion for a period of time. Also randomly moves to an enemy character.
-r:"^敵単体を執着状態にする自分のＨＰを(\d+)回復一定時間全ての物理攻撃を回避する$"=►Shifts to an enemy with the highest P.ATK.\n►Inflicts Attachment to an enemy for 4s.\n►Recovers own HP by $1.\n►Shifts to a random enemy.
-カプリッチョ=Capriccio
-最も魔法攻撃力が高い敵１キャラを執着状態にし、自分のＨＰを小回復し、一定時間全ての魔法攻撃を回避する。さらに、ランダムな敵の傍に移動する。=Inflicts Attachment to an enemy with the highest M.ATK, slightly recovers own HP, and gains M.ATK evasion for a period of time. Also randomly moves to an enemy character.
-r:"^敵単体を執着状態にする自分のＨＰを(\d+)回復一定時間全ての魔法攻撃を回避する$"=►Shifts to an enemy with the highest M.ATK.\n►Inflicts Attachment to an enemy for 4s.\n►Recovers own HP by $1.\n►Shifts to a random enemy.
-ネルシエロ=Nel Cielo
-このスキルのスキルレベルは「ネビア・イン\nフェリチータ」と連動しています=This skill's level is linked to the "Nebbia Infelicità"
-ディスペットピウマ=Dispetto Piuma
-ディスペットピウマ+=Dispetto Piuma+
+【魔法】後衛を飛び出し悪戯の限りを尽くす幻惑の妖精。敵陣を勝手気ままに飛び回り、敵の攻撃を空振りさせて、ＵＢで４種の妨害効果をランダムに与え大混乱に陥れる。=[เวท] ภูตมายาผู้โบยบินออกจากกองหลังเพื่อเล่นสนุกและกลั่นแกล้งสารพัด เธอจะบินว่อนไปทั่วทัพศัตรูตามใจชอบ ทำให้การโจมตีของศัตรูพลาดเป้า และใช้ UB มอบเอฟเฟกต์ก่อกวน 4 รูปแบบสุ่มแบบสุ่มเพื่อสร้างความโกลาหลครั้งใหญ่
+悪戯をすること=กลั่นแกล้ง
+幻霧に戯れる悪戯好きなガイド妖精=ภูตนำทางผู้นิยมความสนุกสนานและหยอกล้อท่ามกลางหมอกมายา
+困惑の妖精=ภูตแห่งความสับสน
+悪戯妖精の変化=การเปลี่ยนแปลงของภูตเจ้าเล่ห์
+ガイド妖精のいる日常=ชีวิตประจำวันที่มีภูตนำทางอยู่ด้วย 
+懐かしきアストルム=แอสทรูมอันน่าคิดถึง
+
+
+
+
+ネビア・インフェリチータ=เนเบีย อินเฟลิชิตา
+敵全体を混乱状態、恐慌状態、暗闇状態、スタン状態のいずれかにし、自分を一定時間無敵状態にする。=ทำให้ศัตรูทั้งหมดติดสถานะสับสน, สถานะตื่นตระหนก, สถานะตาบอด หรือสถานะมึนงง อย่างใดอย่างหนึ่ง และทำให้ตนเองติดสถานะอมตะเป็นระยะเวลาหนึ่ง
+敵全体を混乱させる敵全体を恐慌状態にする敵全体を暗闇状態にする敵全体を一定時間行動不能にする一定時間無敵状態になる=►ทำให้ตนเองติดสถานะอมตะเป็นเวลา 6 วินาที\n\nสุ่มเปิดใช้งานผลลัพธ์ 1 อย่างจาก 4 อย่างต่อไปนี้:\n►ทำให้ศัตรูทั้งหมดติดสถานะสับสนเป็นเวลา 6 วินาที\n►ทำให้ศัตรูทั้งหมดติดสถานะตื่นตระหนกเป็นเวลา 6 วินาที\n►ทำให้ศัตรูทั้งหมดติดสถานะตาบอดเป็นเวลา 6 วินาที\n►ทำให้ศัตรูทั้งหมดติดสถานะมึนงงเป็นเวลา 6 วินาที
+スケルツォ=สแกร์โซ
+最も物理攻撃力が高い敵１キャラを執着状態にし、自分のＨＰを小回復し、一定時間全ての物理攻撃を回避する。さらに、ランダムな敵の傍に移動する。=ทำให้ศัตรูตัวเดียวที่มีพลังโจมตีกายภาพสูงสุดติดสถานะยึดติด ฟื้นฟู HP ของตนเองเล็กน้อย และหลบหลีกการโจมตีกายภาพทั้งหมดเป็นระยะเวลาหนึ่ง เพิ่มเติม เคลื่อนย้ายไปข้างๆ ศัตรูแบบสุ่ม
+r:"^敵単体を執着状態にする自分のＨＰを(\d+)回復一定時間全ての物理攻撃を回避する$"=►เคลื่อนย้ายไปหาศัตรูที่มีพลังโจมตีกายภาพสูงสุด\n►ทำให้ศัตรูติดสถานะยึดติดเป็นเวลา 4 วินาที\n►ฟื้นฟู HP ของตนเอง $1\n►เคลื่อนย้ายไปหาศัตรูแบบสุ่ม
+カプリッチョ=คาปรีโช
+最も魔法攻撃力が高い敵１キャラを執着状態にし、自分のＨＰを小回復し、一定時間全ての魔法攻撃を回避する。さらに、ランダムな敵の傍に移動する。=ทำให้ศัตรูตัวเดียวที่มีพลังโจมตีเวทสูงสุดติดสถานะยึดติด ฟื้นฟู HP ของตนเองเล็กน้อย และหลบหลีกการโจมตีเวททั้งหมดเป็นระยะเวลาหนึ่ง เพิ่มเติม เคลื่อนย้ายไปข้างๆ ศัตรูแบบสุ่ม
+r:"^敵単体を執着状態にする自分のＨＰを(\d+)回復一定時間全ての魔法攻撃を回避する$"=►เคลื่อนย้ายไปหาศัตรูที่มีพลังโจมตีเวทสูงสุด\n►ทำให้ศัตรูติดสถานะยึดติดเป็นเวลา 4 วินาที\n►ฟื้นฟู HP ของตนเอง $1\n►เคลื่อนย้ายไปหาศัตรูแบบสุ่ม
+ネルシエロ=เนลเชโล
+このスキルのスキルレベルは「ネビア・イン\nフェリチータ」と連動しています=เลเวลของสกิลนี้จะเชื่อมโยงกับ <เนเบีย อินเฟลิชิตา>
+ディスペットピウマ=ดิสเปตโตปิอูม่า
+ディスペットピウマ+=ดิสเปตโตปิอูม่า+
