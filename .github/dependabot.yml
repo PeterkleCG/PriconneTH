@@ -1,0 +1,13 @@
+# Keeps GitHub Actions in .github/workflows/ up to date.
+# This repo is a translation patch (no code deps) — github-actions is the only
+# ecosystem worth tracking (actions/checkout, softprops/action-gh-release, …).
+version: 2
+updates:
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    commit-message:
+      prefix: "ci"
+    labels:
+      - "ci"
