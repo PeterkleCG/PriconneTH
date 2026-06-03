@@ -52,18 +52,18 @@ jobs:
           if [ -f "release-notes/${GITHUB_REF_NAME}.md" ]; then
             cp "release-notes/${GITHUB_REF_NAME}.md" RELEASE_BODY.md
           else
-            # no notes file -> auto-generate a changelog from commits since previous tag
+            # no notes file -> clean Thai placeholder + compare link (NOT a raw English commit-dump).
+            # Detailed per-version notes come from release-notes/<tag>.md — write it before tagging.
+            echo "::warning::release-notes/${GITHUB_REF_NAME}.md missing — using generic Thai body. Write the notes file + re-run / PATCH the release."
             PREV=$(git describe --tags --abbrev=0 "${GITHUB_REF_NAME}^" 2>/dev/null || echo "")
             {
               echo "V${VER}"
               echo "Changelog"
               echo ""
+              echo "• อัปเดตคำแปลและการแก้ไขต่าง ๆ"
               if [ -n "$PREV" ]; then
-                git log --no-merges --pretty='• %s' "${PREV}..${GITHUB_REF_NAME}"
                 echo ""
                 echo "Full Changelog: [${PREV}...${GITHUB_REF_NAME}](https://github.com/${GITHUB_REPOSITORY}/compare/${PREV}...${GITHUB_REF_NAME})"
-              else
-                git log --no-merges --pretty='• %s' "${GITHUB_REF_NAME}" | head -30
               fi
             } > RELEASE_BODY.md
           fi
