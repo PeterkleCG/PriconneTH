@@ -33,17 +33,19 @@ jobs:
           ( cd src && zip -r -q "../Patch.TH.V${VER}.zip" BepInEx dotnet changelog.txt doorstop_config.ini dxgi.dll .doorstop_version )
           ls -lh Patch.TH.V*.zip
 
-      - name: Fetch installer .exe (latest from HetCreep/PriconneReTL-Installer)
+      - name: Fetch installer .exe (latest from HetCreep/PriconneReALLTL-Installer)
         run: |
-          URL=$(curl -s https://api.github.com/repos/HetCreep/PriconneReTL-Installer/releases/latest \
-                | grep -o '"browser_download_url": *"[^"]*\.exe"' | head -1 \
+          # Grab the portable standalone .exe — exclude the NSIS "-Setup.exe" and the .sbom.spdx.json
+          URL=$(curl -s https://api.github.com/repos/HetCreep/PriconneReALLTL-Installer/releases/latest \
+                | grep -o '"browser_download_url": *"[^"]*\.exe"' \
+                | grep -v -- '-Setup\.exe' | head -1 \
                 | sed 's/.*"\(https[^"]*\)"/\1/')
           echo "installer url: $URL"
           if [ -n "$URL" ]; then
             curl -L -o "PriconneTH-Installer.exe" "$URL"
             ls -lh PriconneTH-Installer.exe
           else
-            echo "WARNING: no installer .exe found in HetCreep latest release"
+            echo "WARNING: no installer .exe found in HetCreep/PriconneReALLTL-Installer latest release"
           fi
 
       - name: Build release notes
