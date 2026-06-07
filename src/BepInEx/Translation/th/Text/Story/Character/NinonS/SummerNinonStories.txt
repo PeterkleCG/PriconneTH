@@ -1,7 +1,12 @@
+Summer Ninon Stories
+
+Chapter Names
 君らしい風鈴の音色=A Wind Chime Sound That's Just Like You
 ショーグンの夏忍法デス！=Shogun's Summer Ninjutsu!
 今日はターザン修行デス！=Today... Tarzan Training!
 ショーグンの師匠デス！=I'm Shogun's Master!
+
+Chapter 1
 {playername}は海岸で一人、泳ぐ練習をしていた。\n──のだが。={playername} was practicing swimming alone at the beach. Or so it seemed...
 ショーグン！　奇遇でゴザル！\nこんな海の中で何をしていたんデスか？\n水遁の術じゃなさそうデス……？=Shogun! What a surprise to meet you here! What are you doing out in the ocean? Doesn't look like a Water Release technique to me...
 はっ……！\nショーグンッ！？　ご無事デスか！？\n息をしてクダサイー！！=Hah...! SHOGUN?! Are you all right?! PLEASE BREATHE!!!
@@ -63,6 +68,8 @@
 もちろんデス！=Of course I will!
 ショーグンからその言葉を聞けて、とてもうれしいデス！\nそれにワタシも、ショーグンと忍者修行ができるの、\nとっても楽しいデス♪=I'm so happy to hear those words from you, Shogun! For me too... it's been a lot of fun to do ninja training with you♪
 その後も二人は、いろいろな忍法を試し、\n主君とチューシンの絆を深めたのだった。=After that, the two continued to try out various ninja techniques, deepening the bond between master and vassal.
+
+Player Prompts
 ごぼごぼごぼ……=*glug glug glug*...
 ぶはっ！　ニノン！？=Bwah! Ninon?!
 ……実は、泳ぐ練習をしてて……=...Actually, I was practicing swimming...
@@ -79,7 +86,8 @@
 咳をしたときに竹筒を手放しちゃって……=While coughing, I let go of the bamboo tube...
 うん。すごく楽しいよ！=Yeah. It was really fun!
 また教えて！　ニノン師匠。=Teach me more, Master Ninon
-泳げるようになりたい{playername}は、ニノンに忍法を習うことに。水蜘蛛を\n使って水面を散歩したり水遁の術に使う竹筒を共用することにニノンが赤\n面したりとハプニングも楽しみつつ、絆を深めた。={playername}, who wanted to be able to swim, decided to learn ninja arts from Ninon. Ninon blushed at the thought of using a water spider for a walk on the water's surface or sharing a bamboo tube used for water escape techniques, and the bond deepened as well.
+
+Chapter 2
 {playername}は川で、\nニノンから忍法を教わっていた。={playername} was being taught ninjutsu by Ninon at the river.
 今日は川！　そして森！\nやることは……ターザンジャンプデス！=Today, the river! And the forest! What we're doing is... Tarzan jumping training!
 さすがショーグン……鋭いところを突きマスね……\n確かにターザンジャンプは忍法ではありまセン。\nですが修行にはうってつけ！=As expected of you, Shogun... How sharp! True, a Tarzan jump isn't ninjutsu. But it's perfect for training!
@@ -143,6 +151,8 @@
 だから今は、もう少しだけ、このままショーグンの隣で……\n見とれてても、いいデス……よね……？　=So for now, just for a little while longer, it's fine to stay next to Shogun... and be captivated by him... right...?
 い、いえっ、大丈夫デスっ！\n心配には及ばないデス、ショーグン！\n顔が赤いのは、その……=N-No, like... I'm fine! There's no need for you to worry, Shogun! The reason my face is red is, um...
 ……火遁の術デス。=...A fire art jutsu, yes.
+
+Player Prompts
 それは忍法、なの？=Is that ninjutsu?
 握力！　度胸！　……大声？=Gripping power! Courage! ...My lungs?
 おおお～～っ。=Ohhhh~.
@@ -159,6 +169,8 @@
 風邪ひいたらたいへんだよ。=I don't want you to catch a cold
 詰めれば……うん、二人で入れるよ！=If we pack close... Yeah, we can get in together!
 顔、赤いけど大丈夫？　外に出ようか？=Your face is red. Are you okay? Should we go outside?
+
+Chapter 3
 ターザン修行とサウナを楽しんだ数日後──\n{playername}とニノンは、再び森を歩いていた。=A few days after their Tarzan training and sauna session, {playername} and Ninon were walking through the forest again.
 んーっ！　今日もいい天気デス！\nサウナで心洗われた記憶が蘇りマース♪=Mmm! What a beautiful day! The feeling of having my heart cleansed in the sauna is coming back to me♪
 たくさん汗をかいてトトノウ……\nサウナの神髄を見た気がしまシタ。\nもちろん、ショーグンとご一緒したからこそ、なのデス！=After sweating buckets and reaching total bliss... I felt like I glimpsed the true essence of the sauna. And of course, that's only because I was with you, Shogun!
@@ -219,6 +231,8 @@
 ……っ！\nショーグン……！　ははーっ。=...Ah! Shogun...! Haha.
 やっぱりショーグンは、\n天下を治めるのに相応しい人物デス♪\n一生お供させていただきマス！=As I thought, you're the most suitable person to rule the world, Shogun♪ I will be by your side for the rest of my life!
 {playername}の忍法に、チューシンとしての想いを新たにする\nニノン。より強まった二人の絆を確認するかのように、\n二人はおそろいの竹筒を作り、星空を楽しんだのだった。=In response to {playername}'s ninpo, Ninon renews her feelings as his retainer. As if to confirm their ever-stronger bond, the two make matching bamboo tubes and enjoy the starry sky together.
+
+Player Prompts
 火遁の術も習得できたしね！=You even learned a new Fire Escape jutsu!
 目的地はもう少し先なんだ。=Our destination is a little further down the road
 ニノンが一緒だと退屈しない。=I never get bored when you're with me, Ninon
@@ -227,13 +241,15 @@
 ここに埋蔵金はないと思うな……=I don't think there's any secret treasure here...
 待って。そこに立っててね。=Wait. Just stand there
 見たか！　これぞ、我が忍法！=Did you see that?! This is my ninjutsu!
+そんなことはないよ。=That's not true
 実は、秘伝の忍法……じゃなくて。=Actually, it's no secret ninjutsu... I mean...
 噴水なんだ、これ。=It's just a fountain
 えっ？　わああ、冷たい！=Huh? Wow, that's cold!
 喜んでもらえてよかった。=I'm glad you like it
 うむ。大儀である。=Yes. It would be a great honor
 かわいい忍者と　ずっと一緒に。=With my cute ninja, always by my side...
-{playername}に案内された村で見せられた夏忍法──噴水に大喜びするニノン。\n二人はそのまま水浴びを楽しみ、最高の夏の思い出を作る。ニノンはこれ\nからもチューシンとして仕えることを決心する。=The Natsu Ninpou that {playername} showed me in the village. Ninon is overjoyed at the fountain. The two of them continue to enjoy the bath and make the best summer memories. Nion decides to continue serving as Chushin.
+
+Chapter 4
 楽しく過ごした\nニノンと{playername}は帰路についていた。=After having a good time, Ninon and {playername} were on their way home.
 えへへ……♪\nショーグンと、最高の夏の思い出ができまシタ……♪=Ehehe...♪ I made some great summer memories with Shogun...♪
 はい♪\nショーグンが、ワタシのために考えてくれた夏の忍法……\nマイゾーキンをもしのぐワタシの宝物デス！=It was♪ The summer ninjutsu you came up with just for me, Shogun... It's a treasure that even surpasses my precious washcloth!
@@ -283,6 +299,9 @@
 今はまだ夕方デスし、夜までに帰ればギルドのみんなに\n心配をかけることはないはずデス。\nそれに……=It's still evening right now, so if we go home by nightfall, we shouldn't be worrying everyone else in our guilds. Besides...
 今はもう少し、ワタシがショーグンと一緒にいたいのデス……\nえへへ……♪=Right now, I want to be with you a little longer, Shogun... Ehehe...♪
 夜になって涼しくなるまで、\nニノンと{playername}は二人並んで、\n木陰で休んでいったのだった。=Ninon and {playername} rested side by side in the shade of the trees until night came and the weather cooled.
+
+Player Prompts
+楽しかったね！=That was fun!
 そんな急がなくても大丈夫だよ。=There's no need to hurry
 興味があるかなと思って誘ってみたんだ。=I thought you might've been interested, so I invited you
 ニノンはどんなのが欲しい？=Which one would you want, Ninon?

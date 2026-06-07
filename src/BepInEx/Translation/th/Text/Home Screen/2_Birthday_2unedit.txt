@@ -1,5 +1,3 @@
-ムーサの町_昼=ฟาร์มปศุสัตว์ กลางวัน
-エルフの森_秘密基地=แอ่งน้ำตก กลางวัน
 ハッピーバースデー！子どもたちからあんたにプレゼントがあるみたいあたしも…一応用意してあるわ=Happy Birthday! The children seem to have a present for you I also prepared something... just in case
 ええと…誕生日おめでとうこれから一緒にプレゼントを見に行かない？デ、デートじゃないわよ、もう！=Um... Happy Birthday Would you like to go see presents together? It's not a date, geez!
 お誕生日、おめでとうケーキ、一緒に食べましょうでも…魔物とか昆虫とかケーキに入ってないわよね？=Happy Birthday Let's eat cake together But... There's no monsters or insects inside the cake, right?
@@ -32,12 +30,11 @@
 誕生日おめでとう！魔法少女の役目が終わったあとで、二人でお祝いしようね♪=Happy Birthday! After my duties as a magical girl are finished, let's celebrate together♪
 おたおめ～♪というわけで、君にはこの本をプレゼントしちゃいまーす！私のオススメ、選んでおいたぞ☆=Happy Birthday~♪ So, I'll give you this book as a present! It's my recommendation☆
 誕生日おめでとーっ！さぁ、ナナカちゃんお手製の変身グッズをプレゼントだよん☆これで君も魔法少女になるのだ！=Happy Birthday! Here's a homemade transformation item from Nanaka! Now you can become a magical girl too!
-誕生日おめでとうデス！プレゼントはショーグン専用のマイ手裏剣デース！いっぱい投げ込んでクダサーイ！=Happy Birthday! The present is a personal shuriken for the Shogun! Throw as many as you like!
-今日はおめでとうゴザルデス！乾杯の音頭はワタシがとりマス！お手をハイシャクデース！朝までワッショイデース！=Congratulations today! I'll take the lead for the toast! Raise your hands! Let's celebrate till morning!
-ショーグンのお誕生日をお祝いするデス！　バースデーソングをこの笛で演奏しマス！ピッピヒョーロロープープーー♪=For the Shogun's birthday, I'll play a birthday song on this flute! Pippi Hyoroloo Puupoo♪
-お誕生日アッパレデース！ショーグンのためにパレードを用意しまシタよー！盛大にお祝いするデース！=Congratulations on your birthday! I've prepared a parade for the Shogun! Let's celebrate grandly!
+
 騎士きゅんお・た・お・め～！今日はアゲてアゲてオールで祝いまくっから～カクゴしとき～♪=Happy Birthday, Kishi-kyun!~ Today, we'll raise and raise and celebrate all night long! Be prepared~♪
+レイジ・レギオン拠点=Reiji Legion Base
 ショタコン的には～好きぴがトシとるのフクザツ～けどまーいっか～めちゃめでてーし～おめおめ～♪=As a shota-con, I have mixed feelings about the one I like getting older~ But, oh well~ It's super happy, so congrats~♪
+オーマの町_昼=Oma Town_Day
 今日は貴方の誕生日ですね私の独断で贈り物を用意しましたありがたく受け取りなさい=Today is your birthday I took the liberty of preparing a gift Please accept it graciously
 誕生日おめでとうございますまた一つ成長した貴方を見せてくれることを期待していますよ=Happy Birthday I'm looking forward to seeing you grow even more
 誕生日おめでとー！キミの好きそうなアイスケーキ、人気のお店で買ってきたよ♪後で、一緒に食べようね！=Happy Birthday! I bought an ice cream cake from a popular store that you'll love♪ Let's eat it together later!
@@ -45,12 +42,15 @@
 ハッピーバースデー！今日はキミが主役の日だよ！いつも応援してもらってる分思いっきり目立たせてあげるね♪=Happy Birthday! Today's the day you're the star! For all the support you give, I'll make sure you stand out♪
 キミが生まれてきてくれたから私たちは出会えたんだよこの奇跡に、私は感謝してるんだ心を込めて…誕生日おめでとう！=Because you were born, we got to meet I'm thankful for this miracle Heartfelt... birthday wishes!
 今日ってキミのお誕生日だよね！えへへ、忘れるわけないよ～！パーティの準備もばっちりだし、いっぱい楽しく過ごそうね！=Today is your birthday, right? Hehe, no way I'd forget~! The party's all set up, let's have a blast and enjoy!
+ビーチグラウンド=Beach Ground
 ハッピーバースデー☆お祝いに、今日は朝から晩まで、キミをずっと応援するのだ～！=Happy Birthday☆ To celebrate today, I'll cheer for you from dawn till dusk!
 お誕生日、おめでとう☆プレゼントはシオリンと一緒に選んだんだよ！　よろこんでもらえたらうれしいな♪=Happy Birthday☆ I chose this present with Shiorin! I'd be glad if you like it♪
+滝壺_昼=Waterfall Basin_Day
 ハッピーバースデー…！お祝いの品を用意したのですが…受け取っていただけますか？私の手作りの詩集、です=Happy Birthday...! I've prepared a gift for you ...Would you please accept it? It's a collection of my handmade poems
 今日は何の日か知ってる～？なんとなんと…！　キミのお誕生日なんだよ！　おめでと☆めいっぱいお祝いしちゃうよ～♪=Do you know what day it is today? Guess what...! It's your Birthday! Congratulations☆ I'll celebrate you to the fullest♪
 今日は特別な日ですねだってあなたのお誕生ですからこうして一緒にお祝いできて、私もうれしいです=Today's a special day Because it's your birthday I'm glad we can celebrate together, It makes me happy
 お誕生日おめでとう騎士くん！えへへ、こんなカッコでごめんね早くお祝いしたくて急いで来ちゃった♪=Happy Birthday, Kishi-kun! Ehehe, sorry for this getup I was in a rush to celebrate with you♪
+リゾートビーチ_昼=Resort Beach_Day
 騎士くん、お誕生日おめでとう♪今日はこのプール貸し切りだから思いっきりお祝いしちゃうよー！=Kishi-kun, Happy Birthday♪ We have the whole pool to ourselves today Let's celebrate to the fullest!
 騎士くん、誕生日おめでとー！騎士くんにとって新しい一年のはじまりだね！一緒にお祝いしよ！=Happy Birthday, Kishi-kun! It's the start of a new year for you! Let's celebrate together!
 ハッピーバースデー！騎士くんがこれからの一年間も幸せでありますように！=Happy Birthday! May the coming year be a happy one for you, Kishi-kun!
@@ -62,6 +62,7 @@
 お誕生日おめでとうございます今年もこうしてあなたと過ごせて本当に幸せです☆来年もお祝いさせてくださいね？=Happy birthday! I'm truly happy to spend this year with you as well☆ Please let me celebrate next year too, okay?
 あなたの誕生日となれば、国を挙げてお祝いしなきゃですねそれとも二人きりがいいですか？…えへへ、照れちゃいますね☆=If it's your birthday, we have to celebrate together with the whole country. Or would you prefer just the two of us? ...Ehehe, I'm blushing☆
 今日はあなたの誕生日ですねおめでとうございます！　それと…ありがとうございますこうしてわたしと出会ってくれて=Today is your birthday, isn't it? Congratulations! And also... thank you for meeting me like this.
+ホマレの部屋=Homare's Room
 誕生日おめでとう～☆プレゼントは、一日私を好きにできちゃう券で～すいつ使いたい？　今でもいいよ？=Happy birthday~☆ Your present is a ticket to make me do whatever you want for a day~ When do you want to use it? Even now is fine?
 ハッピーバースデー☆君もドラゴン族になれるアイテムを作ってきました～☆ドラゴン族…なってみたくない？=Happy birthday☆ I've made an item that can turn you into a dragon☆ Wouldn't you like to become a dragon?
 今日は君の誕生日だね～☆プレゼントとして、精一杯サービスさせてもらおうかな？忘れられない思い出になるよ♪=Today is your birthday~☆ As a present, I'll do my best to serve you! It will be an unforgettable memory♪
@@ -74,14 +75,17 @@
 今日はいい日ッスね～なにせ、あんたの誕生日！いやーめでたいッス！ほんっとーに、おめでとうッス！=It's a nice day today~ because it's your birthday! Isn't this great! Really, happy birthday!
 お誕生日おめでとうッス！最高の一日になるようにこのブレイブタイガーがサポートするッス！　遠慮はなしッスよ♪=Happy birthday! I hope you have a great day. This brave Tiger will support you! No holding back♪
 今日あんちゃんの誕生日だべ？この日のためにとっておきの新ネタを用意してきただよ！楽しんでくれたらうれしいべさ=Today's your birthday, right? I've prepared the perfect new comedy skit for you! I hope you enjoy it.
+牧場_雪_昼=Farm_Snow_Day
 よい子にしてたあんちゃんにはマヒルサンタから誕生日のプレゼントをお届けするべ♪誕生日おめでとう、あんちゃん=For the good boy, here comes Mahiru Santa with a birthday present! Happy birthday.
 お誕生日おめでとさん♪お祝いにとっておきの紅茶とお菓子を用意してますんよ森のお茶会にご招待や～♪=Happy birthday♪ I have prepared special tea and sweets for the occasion. Please join us for the forest tea party♪
 今日は王子はんの誕生日をお祝いする大冒険ツアーや♪うちがガイド役務めますさかい楽しんでくれるとうれしいわぁ♪=Today is the prince's birthday adventure tour! I'll be your guide, so I hope you enjoy it♪
 お誕生日おめでとう～うち王子はんのためにケーキを用意したんよおいしく召し上がってなぁ♪=Happy birthday~ I've prepared a cake for you in honor of the prince. Please enjoy it♪
 今日は王子はんのお誕生日やね！そういうわけで…じゃーん！お花のシャワーや！ふふっ、きれいやろう？=Today's the prince's birthday! That's why... ta-da! A shower of flowers! See, isn't it beautiful?
 パンパカパーン、おめでとー！今日はキミの誕生日なんでしょ？ほら、おめでたい日なんだしみんなでレッツパーリーだよっ！=Pam-pa-da-pam, congratulations! Today's your birthday, right? It's a special day, so let's all party together!
+ムーサの町_昼=Mousa Town_Day
 誕生日、おっめでと～！また一つ大人になったキミへミオちゃんからのプレゼント！ちゃーんと大事にしてよね☆=Happy birthday~! To you who became another year older, here's a present from Mio-chan! Take good care of it☆
 誕生日おめでとう！いつもお世話になってるから今日はアタシが特別にエスコートしてあげるわ♪=Happy birthday! You've always helped me out so today I'll give you special treatment♪
+サレンディア救護院_物産展=Sarendia Rescue Center_Product Exhibition
 誕生日プレゼントはア・タ・シ♪もー！　リアクション薄いわよ！このアタシが祝ってるんだからもっと素直に喜びなさい！=The birthday present is ME! Geez! Your reaction is so weak! Since I'm the one celebrating, be happier!
 なんだかソワソワしてるわね？それもそうよね、今日はあなたのお誕生日だもの。先生と一緒にいっぱいお祝いしちゃいましょ♪=You seem restless, don't you? Well, it's your birthday today. Let's celebrate together!
 今日はあなたのお誕生日ね！ずっと頑張ってきたいい子には先生から特別なお祝いよ♪ほら、いい子いい子…♪=It's your birthday today! You've been such a good kid, let me give you a special celebration♪ Good kid, good kid...♪
@@ -90,11 +94,13 @@
 にいちゃんの誕生日を今日は海でお祝いしよう！プレゼントにミソギがいーっぱい遊んであげるね！=Let's celebrate Aniki's birthday at the beach! As a present, Misogi will play with you lots!
 誕生ケーキはろうそくの代わりに花火を使っちゃおっか♪　…あ、ケーキ用意するの忘れちゃった！仕方ないから花火しようよ♪=For the birthday cake, how about we use fireworks instead of candles? ...Oh, I forgot to prepare the cake! Let's use fireworks instead!
 プレゼントが欲しそうな顔をしていますね？　まったく…ちゃんと用意してあげましたよ！お誕生日、おめでとうございます=You look like you want a present, don't you? I prepared something for you, of course! Happy birthday!
+エルフの森_秘密基地=Elven Forest_Secret Base
 今日はおにいちゃんのお誕生日だよね。ちゃんと覚えてるよ～♪だってミミ、おにいちゃんのこと大好きだから♪　えへへ～=Today's Oniichan's birthday, right? I remember it well~♪ Because Mimi loves Oniichan so much♪ Ehehe~
 クラッカー、パンパンパーン！えへへ、びっくりした？にいちゃんの誕生日祝いのサプライズだよ♪=Crack, crack, crack! Ehehe, did I surprise you? It's a birthday surprise party for you!
 あの…な、なにも言わずにこれを受け取ってください…！　私の手作りカップケーキです。その…ハッピーバースデー、です…♪=Um... Please, take this without saying anything. These are handmade cupcakes. Happy birthday...♪
 ミミ、今日はいっぱい踊るねおにいちゃんのお誕生日をいっぱいおいわいしたいから♪るんたったるんたった～♪=Mimi is going to dance a lot today because it's Oniichan's birthday. I want to celebrate a lot! La la la～♪
 ハッピーバースデーにいちゃん！プレゼントに特大のイタズラを準備しといたよ！　ちゃんと引っかかってよね！　にひひ♪=Happy birthday Aniki! As a gift, I've prepared a big prank for you! Make sure you fall for it! Hehehe♪
+オーエド_診察室_昼=Oedo_Examination Room_Day
 お誕生日おめでとうこれからも健やかでいられるようお祝いに薬膳鍋を用意したわほら、口をあけて…あ～ん♪=Happy birthday To make sure you stay healthy, I've prepared a medicinal hot pot. Come on, open your mouth... Ah~n♪
 ハッピーバースデーお祝いに特製の薬を調合したのひと口で全身に力がみなぎるわまだ、実験段階のものだけどね♪=Happy birthday I've brewed a special potion for you. With just one sip, you'll feel empowered all over. It's still experimental though♪
 お誕生日おめでとう君の存在は私にとってまさに百薬の長今年も側に常備させてね=Happy birthday Your presence is truly like a panacea to me. Stay by my side this year, okay?
@@ -113,6 +119,7 @@
 オマエに誕生日プレゼントを用意したぞ！　何かはまだ内緒だ悪党ってのは色々秘密があるものだからな！=I prepared a birthday present for you! What it is, is still a secret. Villains have many secrets!
 貴公、今日は誕生日らしいなみなまで言うな、お祝いにお菓子を用意してある。決して私が食べたいからではないぞ？=You, it seems today is your birthday. Don't say any more, I have prepared some sweets for you. It's not because I wanted to eat them, okay?
 誕生日おめでとう。貴公のほしいものを言うがいい…え、私と一緒に過ごしたい？　そ、そうか欲がないな、貴公は=Happy Birthday. Tell me what you want... Eh, you want to spend time with me? I see, you have no desires, do you?
+
 誕生日プレゼントに特製のかき氷が食べたいの？わたしの魔法で作れるかな…ちょっと試してみてもいい？=You want special shaved ice as your birthday present? I wonder if I can make it with my magic... Can I give it a try?
 騎士クン、お誕生日おめでとう！実はね、花火を買ってきたのふ、ふたりで一緒に遊びたくて…火の扱いには気をつけようね！=Kishi-kun, Happy Birthday! I actually bought some fireworks, I wanted us to play together... Let's be careful with fire!
 お誕生日おめでとう！今日はずっと騎士クンをお祝いしてあげたいのだから、そばにいてもいい…？=Happy Birthday! I want to celebrate Kishi-kun all day today. So, is it okay if I stay by your side...?
@@ -144,11 +151,13 @@
 誕生おめでと～やだな、忘れるわけないじゃん…プレゼントは、さっきもらったお菓子でもいいかな？=Happy Birthday~ No way I'd forget, no way. ...Would the sweets I received earlier be okay as your gift?
 誕生日、めでたいね～プレゼントはあたし手作りのカボチャあんパンだよおかわりもあるからね～=Happy Birthday, what a joyful occasion~ My handmade pumpkin anpan is your gift. There's more if you want~
 え、あんた今日誕生日なの？忙しくて用意できてないよ…と、とりあえず今はこのキレイなドングリで！=Eh, is today your birthday? I was so busy I couldn't prepare... F-For now, how about this pretty acorn?
+牧場 昼=Placeholder Text
 誕生日おめでと～。ゲームとあんパンでお祝いするよ～さあ、ゴロゴロしながら思い切り楽しもうね～=Happy Birthday~. Let's celebrate with games and anpan~ Come on, let's relax and have lots of fun~
 今日はあなたの誕生日です？じゃあ、ルゥもお祝いするです！おめでとうですぅ！=Is it your birthday today? Then Ru will celebrate too! Congratulations desu!
 ルゥ、暗記は苦手ですが…お友だちの誕生日はばっちり覚えてるですぅ！お誕生日おめでとうですよ！=Ru is bad at memorization but... I remember my friends' birthdays perfectly! Happy Birthday to you!
 誕生日おめでとうあんまり大したものじゃないけどお祝いの品を用意しといたよほら、受け取っておくれ=Happy Birthday. It's nothing major, but I prepared a gift for you. Here, please accept it.
 今日はお前さんの誕生日だよねお祝いとして、アタシの手料理をたくさん用意しておいたんだよさ、向こうで一緒に食べようか=Today is your birthday, right? As a celebration, I've prepared a lot of my home-cooked meals for you. Let's go eat together.
+参道_昼=Placeholder Text
 誕生日おめでとう、お前さん今日はお前さんの成長を祝ってとっておきの釣りスポットに連れてってやるよ=Happy Birthday. Today, to celebrate your growth, I'll take you to a special fishing spot.
 お前さん、今日誕生日だって？ふーん…いや、この一年で随分と見違えたなと思ってねなんだかうれしくなっちまうよ=It's your birthday today? Hmmm... No, it's just that I thought you'd grown quite a bit this year. It makes me kind of happy.
 誕生日おめでとうその、ささやかなものだけど…プレゼントを用意してみたんだぜひ受け取ってくれるとうれしい=Happy Birthday. It's a modest gift, but I prepared it for you. I'd be happy if you accept it.
