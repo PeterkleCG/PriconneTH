@@ -1,22 +1,26 @@
-三味線、死魔エナガのお世話=Shamisen, take care of the Death Demon Long-tailed Tit
-雪女=Snow Woman
-ポップ・タルト=Pop tart
-ジオ・ニヴルヘル_久遠氷河=Gio Nivlhel: Eternal Glacier
-真白き冬化粧を纏う、一途な心の雪女=A devoted snow woman clad in pure white winter makeup.
-雪女の慟哭=The Snow Woman's Lament
-純朴雪女、初めての都会へ=The innocent Yuki-onna goes to the city for the first time
-はじめておけいこ=First lesson
-雪女、ラブラブ夫婦になる=Yuki-onna and her Dear become a loving couple
-【魔法】後衛から、雪魄氷姿の三味を弾じる初心な雪女。多様なデバフ効果で敵を弱体化させ、最も魔防の低い敵の状態に応じて発生する追加効果で、冥府を真白に染める。=[Magic] A pure and innocent snow woman in the back line, playing her shamisen with a pristine, icy elegance. She weakens enemies with a wide variety of debuffs, and depending on the condition of the enemy with the lowest M.DEF, triggers additional effects that paint the netherworld pure white.
-涅槃雪・勧進帳=Nirvana Snow: Sacred Deception
-前方の敵すべてに魔法大ダメージを与え、魔法防御力を小ダウンさせる。発動時既に最も魔法防御力の低い敵１キャラが魔法攻撃力ダウン状態だった場合、その敵のクリティカルを受けた際のダメージを小アップさせる。発動時既に最も魔法防御力の低い敵１キャラがＴＰ上昇ダウン状態だった場合、その敵に追加の魔法特大ダメージを与え、魔法攻撃を受けた際のダメージを小アップさせる。このスキルを使用するたび、最大３回までダメージが増加する。=Deals large M.DMG to all enemies in front and slightly lowers their M.DEF. If, at activation, the enemy with the lowest M.DEF is already under an M.ATK down effect, slightly increases the damage that enemy takes when receiving critical hits. If, at activation, the enemy with the lowest M.DEF is already under a TP Boost down effect, deals additional massive M.DMG to that enemy and slightly increases the damage they take when receiving magic attacks. Each time this skill is used, the damage increases, up to a maximum of three times.
-r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵の魔法防御力を(\d+)ダウン最も魔法防御力の低い敵が魔法攻撃力ダウン状態の時、敵単体の被クリダメを6％アップ最も魔法防御力の低い敵がＴＰ上昇ダウン状態の時、以下の効果が発動する敵単体に(\d+)の魔法ダメージ敵単体が受ける魔法ダメージを3％アップ$"=►Deals $1 M.DMG to enemies within range.\n►Lowers enemies' M.DEF within range by $2.\n\nIf the enemy with the lowest M.DEF has M.ATK Down:\n►Boosts a single enemy's CRIT DMG taken by 6％.\n\nIf the enemy with the lowest M.DEF has TP Boost Down:\n►Deals $3 M.DMG to a single enemy.\n►Boosts M.DMG taken by a single enemy by 3％.
-すくたれ・霜枯=Sukutare: Withering Frost
-前方の敵すべてに魔法中ダメージを与え、魔法防御力を小ダウンさせる。発動時既に最も魔法防御力の低い敵１キャラが魔法防御力ダウン状態だった場合、その敵の魔法攻撃力を大ダウンさせる。発動時既に最も魔法防御力の低い敵１キャラが魔法攻撃力ダウン状態だった場合、その敵に追加の魔法大ダメージを与え、ＴＰ上昇を小ダウンさせ、さらに味方全体のＨＰを小回復させる。=Deals medium M.DMG to all enemies in front and slightly lowers their M.DEF. If, at activation, the enemy with the lowest M.DEF is already under an M.DEF down effect, greatly lowers that enemy’s M.ATK. If, at activation, the enemy with the lowest M.DEF is already under an M.ATK down effect, deals additional large M.DMG to that enemy, slightly lowers their TP Boost, and additionally slightly recovers all allies’ HP.
-r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵の魔法防御力を(\d+)ダウン最も魔法防御力の低い敵が魔法防御力ダウン状態の時、敵単体の魔法攻撃力を(\d+)ダウン最も魔法防御力の低い敵が魔法攻撃力ダウン状態の時、以下の効果が発動する敵単体に(\d+)の魔法ダメージ敵単体のＴＰ上昇を(\d+)ダウン味方全体のＨＰを(\d+)回復$"=►Deals $1 M.DMG to enemies within range.\n►Lowers enemies' M.DEF within range by $2.\n\nIf the enemy with the lowest M.DEF has M.DEF Down:\n►Lowers a single enemy's M.ATK by $3.\n\nIf the enemy with the lowest M.DEF has M.ATK Down:\n►Deals $4 M.DMG to a single enemy.\n►Lowers a single enemy's TP Boost by $5.\n►Recovers HP for all allies by $6.
-早雪・河東節=Early Snow: Ballad
-味方全体の魔法攻撃力を特大アップ、魔法クリティカルを大アップ、魔法攻撃クリティカル時のダメージを小アップさせ、さらに、敵全体の行動速度を大ダウン、移動速度を小ダウンさせる。発動時既に最も魔法防御力の低い敵１キャラがＴＰ上昇ダウン状態だった場合、敵全体に魔法大ダメージを与え、ＴＰを中ダウンさせる。=Massively boosts all allies’ M.ATK, greatly boosts their M.CRIT RATE, and slightly boosts their M.CRIT DMG. Additionally, greatly lowers all enemies’ action speed and slightly lowers their movement speed. If, at activation, the enemy with the lowest M.DEF is already under a TP Boost down effect, deals large M.DMG to all enemies and moderately lowers their TP.
-r:"^味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法クリティカルを120アップ味方全体の魔法クリダメを8％アップ敵全体の行動速度50％ダウン敵全体の移動速度を一定時間低下させる最も魔法防御力の低い敵がＴＰ上昇ダウン状態の時、以下の効果が発動する敵全体に(\d+)の魔法ダメージ敵全体のＴＰを150失わせる$"=►Boosts allies' M.ATK by $1.\n►Boosts allies' M.CRIT RATE by 120.\n►Boosts allies' M.CRIT DMG by 8％.\n►Lowers all enemies' action speed by 50％.\n►Reduces all enemies' movement speed for a period of time.\n\nIf the enemy with the lowest M.DEF has TP Boost Down:\n►Deals $2 M.DMG to all enemies.\n►Reduces TP of all enemies by 150.
-r:"^味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法クリティカルを120アップ味方全体の魔法クリダメを8％アップ敵全体の行動速度を一定時間低下させる敵全体の移動速度を一定時間低下させる最も魔法防御力の低い敵がＴＰ上昇ダウン状態の時、以下の効果が発動する敵全体に(\d+)の魔法ダメージ敵全体のＴＰを150失わせる$"=►Boosts allies' M.ATK by $1.\n►Boosts allies' M.CRIT RATE by 120.\n►Boosts allies' M.CRIT DMG by 8％.\n►Reduces all enemies' action speed for a period of time.\n►Reduces all enemies' movement speed for a period of time.\n\nIf the enemy with the lowest M.DEF has TP Boost Down:\n►Deals $2 M.DMG to all enemies.\n►Reduces TP of all enemies by 150.
-幽天・月冴え=Gloomy Heavens: Clear Moon
-幽天・月冴え+=Gloomy Heavens: Clear Moon+
+三味線、死魔エナガのお世話=ชามิเซ็ง, ดูแลชิมะเอนะกะ
+雪女=สาวหิมะ
+ポップ・タルト=ป็อป・ทาร์ต
+ジオ・ニヴルヘル_久遠氷河=จีโอ・นิเวลเฮิร์ม ธารน้ำแข็งชั่วกัลป์
+真白き冬化粧を纏う、一途な心の雪女=สาวหิมะผู้มีจิตใจแน่วแน่บริสุทธิ์ในเครื่องสำอางฤดูหนาวสีขาวบริสุทธิ์
+雪女の慟哭=เสียงร่ำไห้ของสาวหิมะ
+純朴雪女、初めての都会へ=สาวหิมะผู้ใสซื่อ เข้าเมืองหลวงเป็นครั้งแรก
+はじめておけいこ=การฝึกฝนครั้งแรก
+雪女、ラブラブ夫婦になる=สาวหิมะ กลายเป็นคู่สามีภรรยาสุดเลิฟเลิฟ
+【魔法】後衛から、雪魄氷姿の三味を弾じる初心な雪女。多様なデバフ効果で敵を弱体化させ、最も魔防の低い敵の状態に応じて発生する追加効果で、冥府を真白に染める。=[เวท] สาวหิมะผู้ไร้เดียงสาจากกองหลังที่ดีดชามิเซ็งด้วยท่วงท่าอันงดงามและเยือกเย็น เธอจะทำให้ศัตรูอ่อนแอลงด้วยเอฟเฟกต์ดีบัฟที่หลากหลาย และย้อมปรโลกให้กลายเป็นสีขาวบริสุทธิ์ด้วยเอฟเฟกต์เพิ่มเติมที่จะเกิดขึ้นตามสถานะของศัตรูที่มีพลังป้องกันเวทต่ำที่สุด
+
+
+
+
+涅槃雪・勧進帳=หิมะนิพพาน・คันจินโจ
+前方の敵すべてに魔法大ダメージを与え、魔法防御力を小ダウンさせる。発動時既に最も魔法防御力の低い敵１キャラが魔法攻撃力ダウン状態だった場合、その敵のクリティカルを受けた際のダメージを小アップさせる。発動時既に最も魔法防御力の低い敵１キャラがＴＰ上昇ダウン状態だった場合、その敵に追加の魔法特大ダメージを与え、魔法攻撃を受けた際のダメージを小アップさせる。このスキルを使用するたび、最大３回までダメージが増加する。=ทำดาเมจเวทสูงใส่ศัตรูทั้งหมดด้านหน้า และลดพลังป้องกันเวทเล็กน้อย หากศัตรู 1 ตนที่มีพลังป้องกันเวทต่ำที่สุดติดสถานะลดพลังโจมตีเวทอยู่แล้ว ในขณะที่สกิลทำงาน จะเพิ่มดาเมจที่ศัตรูตนนั้นได้รับเมื่อโดนโจมตีติดคริติคอลเล็กน้อย หากศัตรู 1 ตนที่มีพลังป้องกันเวทต่ำที่สุดติดสถานะลดอัตราฟื้นฟู TP อยู่แล้วในขณะที่สกิลทำงาน จะทำดาเมจเวทสูงมากเพิ่มเติมใส่ศัตรูตนนั้น และเพิ่มดาเมจที่ได้รับเมื่อโดนโจมตีเวทเล็กน้อย ทุกครั้งที่ใช้สกิลนี้ ดาเมจจะเพิ่มขึ้นสูงสุด 3 ครั้ง
+r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵の魔法防御力を(\d+)ダウン最も魔法防御力の低い敵が魔法攻撃力ダウン状態の時、敵単体の被クリダメを6％アップ最も魔法防御力の低い敵がＴＰ上昇ダウン状態の時、以下の効果が発動する敵単体に(\d+)の魔法ダメージ敵単体が受ける魔法ダメージを3％アップ$"=►ทำดาเมจเวท $1 ใส่ศัตรูในระยะ\n►ลดพลังป้องกันเวทของศัตรูในระยะลง $2\n\nหากศัตรูที่มีพลังป้องกันเวทต่ำที่สุดติดสถานะลดพลังโจมตีเวท:\n►เพิ่มดาเมจที่ศัตรูตัวเดียวได้รับเมื่อโดนโจมตีติดคริติคอลขึ้น 6%\n\nหากศัตรูที่มีพลังป้องกันเวทต่ำที่สุดติดสถานะลดอัตราฟื้นฟู TP เอฟเฟกต์ต่อไปนี้จะทำงาน:\n►ทำดาเมจเวท $3 ใส่ศัตรูตัวเดียว\n►เพิ่มดาเมจเวทที่ศัตรูตัวเดียวได้รับขึ้น 3%
+すくたれ・霜枯=สึคุทาเระ・น้ำค้างแข็งโรยรา
+前方の敵すべてに魔法中ダメージを与え、魔法防御力を小ダウンさせる。発動時既に最も魔法防御力の低い敵１キャラが魔法防御力ダウン状態だった場合、その敵の魔法攻撃力を大ダウンさせる。発動時既に最も魔法防御力の低い敵１キャラが魔法攻撃力ダウン状態だった場合、その敵に追加の魔法大ダメージを与え、ＴＰ上昇を小ダウンさせ、さらに味方全体のＨＰを小回復させる。=ทำดาเมจเวทปานกลางใส่ศัตรูทั้งหมดด้านหน้า และลดพลังป้องกันเวทเล็กน้อย หากศัตรู 1 ตนที่มีพลังป้องกันเวทต่ำที่สุดติดสถานะลดพลังป้องกันเวทอยู่แล้วในขณะที่สกิลทำงาน จะลดพลังโจมตีเวทของศัตรูตนนั้นลงสูง หากศัตรู 1 ตนที่มีพลังป้องกันเวทต่ำที่สุดติดสถานะลดพลังโจมตีเวทอยู่แล้วในขณะที่สกิลทำงาน จะทำดาเมจเวทสูงเพิ่มเติมใส่ศัตรูตนนั้น ลดอัตราฟื้นฟู TP เล็กน้อย และฟื้นฟู HP ของเพื่อนทั้งหมดเล็กน้อย
+r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵の魔法防御力を(\d+)ダウン最も魔法防御力の低い敵が魔法防御力ダウン状態の時、敵単体の魔法攻撃力を(\d+)ダウン最も魔法防御力の低い敵が魔法攻撃力ダウン状態の時、以下の効果が発動する敵単体に(\d+)の魔法ダメージ敵単体のＴＰ上昇を(\d+)ダウン味方全体のＨＰを(\d+)回復$"=►ทำดาเมจเวท $1 ใส่ศัตรูในระยะ\n►ลดพลังป้องกันเวทของศัตรูในระยะลง $2\n\nหากศัตรูที่มีพลังป้องกันเวทต่ำที่สุดติดสถานะลดพลังป้องกันเวท:\n►ลดพลังโจมตีเวทของศัตรูตัวเดียวลง $3\n\nหากศัตรูที่มีพลังป้องกันเวทต่ำที่สุดติดสถานะลดพลังโจมตีเวท เอฟเฟกต์ต่อไปนี้จะทำงาน:\n►ทำดาเมจเวท $4 ใส่ศัตรูตัวเดียว\n►ลดอัตราฟื้นฟู TP ของศัตรูตัวเดียวลง $5\n►ฟื้นฟู HP ของเพื่อนทั้งหมด $6
+早雪・河東節=หิมะแรก・คาโตบุชิ
+味方全体の魔法攻撃力を特大アップ、魔法クリティカルを大アップ、魔法攻撃クリティカル時のダメージを小アップさせ、さらに、敵全体の行動速度を大ダウン、移動速度を小ダウンさせる。発動時既に最も魔法防御力の低い敵１キャラがＴＰ上昇ダウン状態だった場合、敵全体に魔法大ダメージを与え、ＴＰを中ダウンさせる。=เพิ่มพลังโจมตีเวทของเพื่อนทั้งหมดสูงมาก เพิ่มคริติคอลเวทสูง เพิ่มดาเมจเมื่อคริติคอลเวทเล็กน้อย และลดความเร็วเคลื่อนที่ของศัตรูทั้งหมดลงสูง ลดความเร็วเคลื่อนย้ายลงเล็กน้อย หากศัตรู 1 ตนที่มีพลังป้องกันเวทต่ำที่สุดติดสถานะลดอัตราฟื้นฟู TP อยู่แล้วในขณะที่สกิลทำงาน จะทำดาเมจเวทสูงใส่ศัตรูทั้งหมด และลด TP ลงปานกลาง
+r:"^味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法クリティカルを120アップ味方全体の魔法クリダメを8％アップ敵全体の行動速度50％ダウン敵全体の移動速度を一定時間低下させる最も魔法防御力の低い敵がＴＰ上昇ダウン状態の時、以下の効果が発動する敵全体に(\d+)の魔法ダメージ敵全体のＴＰを150失わせる$"=►เพิ่มพลังโจมตีเวทของเพื่อนทั้งหมดขึ้น $1\n►เพิ่มคริติคอลเวทของเพื่อนทั้งหมดขึ้น 120\n►เพิ่มดาเมจเมื่อคริติคอลเวทของเพื่อนทั้งหมดขึ้น 8%\n►ลดความเร็วเคลื่อนที่ของศัตรูทั้งหมดลง 50%\n►ลดความเร็วเคลื่อนย้ายของศัตรูทั้งหมดในช่วงเวลาหนึ่ง\n\nหากศัตรูที่มีพลังป้องกันเวทต่ำที่สุดติดสถานะลดอัตราฟื้นฟู TP เอฟเฟกต์ต่อไปนี้จะทำงาน:\n►ทำดาเมจเวท $2 ใส่ศัตรูทั้งหมด\n►ลด TP ของศัตรูทั้งหมดลง 150
+r:"^味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法クリティカルを120アップ味方全体の魔法クリダメを8％アップ敵全体の行動速度を一定時間低下させる敵全体の移動速度を一定時間低下させる最も魔法防御力の低い敵がＴＰ上昇ダウン状態の時、以下の効果が発動する敵全体に(\d+)の魔法ダメージ敵全体のＴＰを150失わせる$"=►เพิ่มพลังโจมตีเวทของเพื่อนทั้งหมดขึ้น $1\n►เพิ่มคริติคอลเวทของเพื่อนทั้งหมดขึ้น 120\n►เพิ่มดาเมจเมื่อคริติคอลเวทของเพื่อนทั้งหมดขึ้น 8%\n►ลดความเร็วเคลื่อนที่ของศัตรูทั้งหมดในช่วงเวลาหนึ่ง\n►ลดความเร็วเคลื่อนย้ายของศัตรูทั้งหมดในช่วงเวลาหนึ่ง\n\nหากศัตรูที่มีพลังป้องกันเวทต่ำที่สุดติดสถานะลดอัตราฟื้นฟู TP เอฟเฟกต์ต่อไปนี้จะทำงาน:\n►ทำดาเมจเวท $2 ใส่ศัตรูทั้งหมด\n►ลด TP ของศัตรูทั้งหมดลง 150
+幽天・月冴え=นภาลี้ลับ・จันทร์กระจ่างฟ้า
+幽天・月冴え+=นภาลี้ลับ・จันทร์กระจ่างฟ้า+
