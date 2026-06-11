@@ -2,6 +2,26 @@
 
 ดูรายละเอียดแต่ละเวอร์ชั่นพร้อมไฟล์ดาวน์โหลดที่ [**Releases**](https://github.com/PeterkleCG/PriconneTH/releases)
 
+## V2.1.7
+
+- เพิ่มคำแปลสกิล + โปรไฟล์ตัวละคร
+- ดึงคำแปลใหม่จากต้นฉบับอังกฤษ (v20260610) + อัปเดต BepInEx framework
+- อัปเดต Texture: AtlasInvasionBanner
+
+Full Changelog: [v2.1.6...v2.1.7](https://github.com/PeterkleCG/PriconneTH/compare/v2.1.6...v2.1.7)
+
+## V2.1.6
+
+- เพิ่มคำแปลสกิล + โปรไฟล์ตัวละครหลายชุด พร้อมเก็บแก้คำอธิบายสกิล
+- เพิ่มคำแปล skill action จาก Map DB ใหม่
+- อัปเดตคำแปล EventTalk
+- ดึงคำแปลใหม่จากต้นฉบับอังกฤษ (v20260606)
+- เปลี่ยนตัวติดตั้งเป็น PriconneReALLTL-Installer ตัวใหม่ (portable .exe)
+- เพิ่มบอทตรวจคุณภาพ: สแกน key คำแปลขัดแย้ง + สแกนรูป hash ซ้ำ (รายงานภาษาไทยใน Actions)
+- ปรับระบบ release: fallback changelog เป็นภาษาไทย + อัปเดต GitHub Actions (checkout v6, gh-release v3)
+
+Full Changelog: [v2.1.5...v2.1.6](https://github.com/PeterkleCG/PriconneTH/compare/v2.1.5...v2.1.6)
+
 ## V2.1.5
 
 - เพิ่มคำแปลสกิล + โปรไฟล์ตัวละคร (Croce และอื่น ๆ)
