@@ -1,4 +1,4 @@
-エンジェルブレッシング+=แองเจิลเบลสซิง+
+エンジェルブレッシング+=แองเจิลเบลซซิ่ง+
 【魔法】中衛で、補助魔法で味方を助ける双子の姉天使。防御力を大幅に高めつつ、対象の味方に敵の注意を引かせるなど、特殊で強力なスキルを駆使し敵を翻弄する。=[Magic] A twin sister angel who helps allies with support magic in midlines. While greatly increasing her defense power, she uses special and powerful skills to toy with the enemy, such as drawing the enemy's attention to the target ally.
 最もＴＰが多い敵１キャラに魔法大ダメージを与え、ＴＰを中ダウンさせ、さらに魔法防御力を中ダウンさせる。=Deals large M.DMG to an enemy with the most TP, moderately lowers its TP, and also moderately lowers its M.DEF.
 r:"^敵単体に(\d+)の魔法ダメージ敵単体のＴＰを(\d+)失わせる敵単体の魔法防御力を(\d+)ダウン$"=►Deals $1 M.DMG to an enemy.\n►Reduces an enemy's TP by $2.\n►Lowers an enemy's M.DEF by $3 for 18s.
