@@ -2,6 +2,22 @@
 
 ดูรายละเอียดแต่ละเวอร์ชั่นพร้อมไฟล์ดาวน์โหลดที่ [**Releases**](https://github.com/PeterkleCG/PriconneTH/releases)
 
+## V2.1.9
+
+- แพตช์กลางเดือนมิถุนายน — เพิ่มคำแปลสกิล + โปรไฟล์ตัวละครหลายชุด
+- เพิ่มคำแปล Elpis + Relic
+- แก้คำแปลที่คลาดเคลื่อนหลายจุด
+
+Full Changelog: [v2.1.8...v2.1.9](https://github.com/PeterkleCG/PriconneTH/compare/v2.1.8...v2.1.9)
+
+## V2.1.8
+
+- เพิ่มคำแปลสกิล + โปรไฟล์ตัวละครหลายชุด
+- เพิ่มคำแปล UE1
+- ดึงคำแปลใหม่จากต้นฉบับอังกฤษ (v20260612) + อัปเดต BepInEx framework
+
+Full Changelog: [v2.1.7...v2.1.8](https://github.com/PeterkleCG/PriconneTH/compare/v2.1.7...v2.1.8)
+
 ## V2.1.7
 
 - เพิ่มคำแปลสกิล + โปรไฟล์ตัวละคร
