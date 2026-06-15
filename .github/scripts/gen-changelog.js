@@ -27,6 +27,7 @@ let out = `# Changelog\n\nดูรายละเอียดแต่ละเ
 for (const f of files) {
   const lines = fs.readFileSync(path.join(DIR, f), 'utf8').trim().split(/\r?\n/);
   const ver = lines[0].trim();
+  if (!ver) continue; // skip empty / whitespace-only notes file (avoids a blank "## " heading)
   const bullets = [];
   let full = '';
   for (let i = 1; i < lines.length; i++) {
