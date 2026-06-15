@@ -38,5 +38,5 @@ jobs:
             echo "No badge changes"
           else
             git commit -m "chore: refresh badge data [skip ci]"
-            git push
+            git push || (git pull --rebase && git push) || echo "WARNING: badge push failed (concurrent commit?) — refresh next run"
           fi

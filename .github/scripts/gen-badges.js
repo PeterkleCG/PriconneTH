@@ -61,7 +61,14 @@ async function main() {
   if (!owner || !repo) throw new Error(`Bad REPO: ${REPO}`);
 
   const info = await gh(`/repos/${owner}/${repo}`);
-  const releases = await gh(`/repos/${owner}/${repo}/releases?per_page=100`);
+  // All releases, paginated — never cap at a single page (total downloads must
+  // sum every release's assets, not just the first 100).
+  const releases = [];
+  for (let page = 1; ; page++) {
+    const batch = await gh(`/repos/${owner}/${repo}/releases?per_page=100&page=${page}`);
+    releases.push(...batch);
+    if (batch.length < 100) break;
+  }
   const commits = await gh(`/repos/${owner}/${repo}/commits?per_page=1`);
 
   // Total downloads across every asset of every release.

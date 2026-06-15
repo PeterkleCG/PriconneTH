@@ -1,0 +1,49 @@
+name: Version sync
+
+# When a vX.Y.Z tag is pushed, update the version display + changelog ON THE
+# DEFAULT BRANCH. Separate from release.yml (which packages + publishes the
+# release artifacts). Both fire on the same tag and do disjoint work:
+#   release.yml      -> build Patch.TH.V<ver>.zip (version baked in) + GitHub release
+#   version-sync.yml -> bump Version.txt + regenerate CHANGELOG.md on the default branch
+
+on:
+  push:
+    tags:
+      - 'v*'
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout (full, with tags)
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Sync Version.txt + CHANGELOG.md to default branch
+        run: |
+          VER="${GITHUB_REF_NAME#v}"
+          VFILE="src/BepInEx/Translation/th/Text/Version.txt"
+          DEFAULT="${{ github.event.repository.default_branch }}"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git fetch origin "$DEFAULT"
+          git checkout "$DEFAULT"
+          # 1) bump in-game version display
+          sed -i -E "s/(Re:TH )[^\\]*/\1v${VER}/" "$VFILE"
+          # 2) regenerate CHANGELOG.md from release-notes/ (proper Markdown, newest first)
+          node .github/scripts/gen-changelog.js
+          if git diff --quiet -- "$VFILE" CHANGELOG.md; then
+            echo "Version.txt + CHANGELOG.md already in sync"
+          else
+            git add "$VFILE" CHANGELOG.md
+            git commit -m "ci: sync Version.txt + CHANGELOG.md to ${GITHUB_REF_NAME}"
+            git push origin "$DEFAULT" || echo "WARNING: push failed (concurrent commit?) — sync manually"
+          fi
