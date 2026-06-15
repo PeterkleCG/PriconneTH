@@ -2,6 +2,14 @@
 
 # PriconneTH
 
+[![Release](https://img.shields.io/github/v/release/PeterkleCG/PriconneTH?style=flat-square&color=ff69b4&label=release)](https://github.com/PeterkleCG/PriconneTH/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/PeterkleCG/PriconneTH/total?style=flat-square&color=ff69b4&label=downloads)](https://github.com/PeterkleCG/PriconneTH/releases)
+[![Latest](https://img.shields.io/github/downloads/PeterkleCG/PriconneTH/latest/total?style=flat-square&color=ff69b4&label=latest)](https://github.com/PeterkleCG/PriconneTH/releases/latest)
+[![Stars](https://img.shields.io/github/stars/PeterkleCG/PriconneTH?style=flat-square&color=ff69b4)](https://github.com/PeterkleCG/PriconneTH/stargazers)
+[![Last commit](https://img.shields.io/github/last-commit/PeterkleCG/PriconneTH?style=flat-square&color=ff69b4)](https://github.com/PeterkleCG/PriconneTH/commits)
+[![Views](https://visitor-badge.laobi.icu/badge?page_id=PeterkleCG.PriconneTH)](https://github.com/PeterkleCG/PriconneTH)
+[![License](https://img.shields.io/github/license/PeterkleCG/PriconneTH?style=flat-square&color=ff69b4)](LICENSE)
+
 แพตช์แปล UI **ภาษาไทย** (ไม่เป็นทางการ) สำหรับ [Princess Connect! Re:Dive เซิร์ฟเวอร์ญี่ปุ่น](https://dmg.priconne-redive.jp/)
 ต่อยอดจาก English patch ของ [PriconneRe-TL](https://github.com/ImaterialC/PriconneRe-TL) แล้วเติมคำแปลไทยทางการจากฐานข้อมูลเซิร์ฟเวอร์ไทยเดิม
 
