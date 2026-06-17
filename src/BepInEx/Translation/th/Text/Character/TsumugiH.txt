@@ -3,7 +3,7 @@
 r:"^敵単体に(\d+)の物理ダメージ敵単体の物理攻撃力を(\d+)ダウン敵単体の行動速度を一定時間低下させる$"=►Deals $1 P.DMG to an enemy.\n►Lowers an enemy's P.ATK by $2 for 18s.\n►Reduces an enemy's action speed to 20% for 18s.
 r:"^(\d+)ダメージ分の物理無効バリアを展開する自分の物理防御力を(\d+)アップ$"=Cast time: 0.715s.\n►Deploys Barrier over oneself that negates $1 P.DMG for 12s.\n►Boosts own P.DEF by $2 for 12s.
 【挑発】敵全体を挑発し、自分のＨＰを中回復する。さらに最も物理攻撃力が高い敵１キャラを恐慌状態にする。=【Taunt】 Taunts all enemies and recovers own HP by a large amount. Additionally, inflicts Fear to an enemy with highest P.ATK.
-敵全体を挑発し、自分のＨＰを大回復する。さらに最も物理攻撃力が高い敵１キャラを恐慌状態にする。=Taunts all enemies and recovers own HP by a large amount. Additionally, inflicts Fear to an enemy with highest P.ATK.
+【挑発】敵全体を挑発し、自分のＨＰを大回復する。最も物理攻撃力が高い敵を恐慌状態にする。=【挑発】敵全体を挑発し、自分のＨＰを大回復する。最も物理攻撃力が高い敵を恐慌状態にする。
 r:"^敵全体を挑発する自分のＨＰを(\d+)回復敵単体を恐慌状態にする$"=Cast time: 0.715s.\n►Provokes all enemies for 19s.\n►Recovers own HP by $1.\n►Inflicts Fear to an enemy for 8s.
 r:"^(\d+)ダメージ分の物理無効バリアを展開する自分の物理防御力を(\d+)アップ毎秒ＨＰを(\d+)回復する$"=Cast time: 0.715s.\n►Deploys Barrier over oneself that negates $1 P.DMG for 12s.\n►Boosts own P.DEF by $2 for 12s.\n►Recovers own HP by $3/s for 6s.
 ハロウィンナイトヘアバンド=Halloween Night Hairband

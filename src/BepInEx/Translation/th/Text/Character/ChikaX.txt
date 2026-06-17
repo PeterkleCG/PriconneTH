@@ -2,10 +2,10 @@
 【魔法】後衛で、精霊を唱喚して戦う雪華の歌姫。ユニオンバーストで呼び出す精霊たちはＨＰやＴＰを回復する能力を持ち、不利な戦況をも一変させる。=[Magic] A winter songstress who fights from the backlines with the aid of ethereal spirits. The spirits she summons with her Union Burst can turn the tides of the fight by recovering allies' HP and TP.
 魔法攻撃を行う精霊を唱喚する最もＨＰが低い味方のＨＰを回復する精霊を唱喚する味方全体のＴＰを回復する精霊を唱喚する=Summons a spirit that performs M.ATKs.\nSummons a spirit that recovers the HP of the ally with the lowest HP.\nSummons a spirit that recovers the TP of all allies.
 r:"^味方単体の物理攻撃力を(\d+)アップ$"=►Boosts an ally's P.ATK by $1.
-自分を中心とした範囲内の味方すべての物理防御力を大アップさせ、さらにＴＰを小回復する。=massively boost to the allies' P.DEF in range, and recovers their TP by a small amount.
+自分を中心とした範囲内の味方の物理防御力を大アップ、ＴＰを小回復させる。=自分を中心とした範囲内の味方の物理防御力を大アップ、ＴＰを小回復させる。
 r:"^範囲内の味方の物理防御力を(\d+)アップ範囲内の味方のＴＰを(\d+)回復$"=►Boosts allies' P.DEF in range by $1.\n►Recovers allies' TP in range by $2.
 r:"^味方単体の物理攻撃力を(\d+)アップ味方単体の物理クリティカルを(\d+)アップ$"=►Boosts an ally's P.ATK by $1.\n►Boosts an ally's P.CRIT Rate by $2.
-自分の魔法攻撃力を特大アップさせ、自分を中心とした範囲内の味方すべての物理攻撃力を特大アップ、物理防御力を中アップし、さらにＴＰを小回復する。このキャラの魔法攻撃力に応じて最大２倍まで物理攻撃力の上昇量がアップする。=Boosts own M.ATK massively, and within a range centered around the user, boost allies' P.ATK massively , boost P.DEF moderately, and further recovers TP slightly. The boost in P.ATK is further enhanced, up to a maximum of two times, based on this character's M.ATK.
-自分の魔法攻撃力を特大アップさせ、自分を中心とした範囲内の味方すべての物理攻撃力を特大アップ、物理防御力を大アップし、さらにＴＰを小回復する。このキャラの魔法攻撃力に応じて最大２倍まで物理攻撃力の上昇量がアップする。=Boosts own M.ATK massively, and within a range centered around the user, boost allies' P.ATK massively , boost P.DEF massively, and further recovers TP slightly. The boost in P.ATK is further enhanced, up to a maximum of two times, based on this character's M.ATK.
+自分の魔法攻撃力を特大アップさせ、自分を中心とした範囲内の味方の物理攻撃力を特大アップ、物理防御力を中アップ、ＴＰを小回復させる。自分の魔法攻撃力に応じて、物理攻撃力のアップ量が最大２倍まで増加する。=自分の魔法攻撃力を特大アップさせ、自分を中心とした範囲内の味方の物理攻撃力を特大アップ、物理防御力を中アップ、ＴＰを小回復させる。自分の魔法攻撃力に応じて、物理攻撃力のアップ量が最大２倍まで増加する。
+自分の魔法攻撃力を特大アップさせ、自分を中心とした範囲内の味方の物理攻撃力を特大アップ、物理防御力を大アップ、ＴＰを小回復させる。自分の魔法攻撃力に応じて、物理攻撃力のアップ量が最大２倍まで増加する。=自分の魔法攻撃力を特大アップさせ、自分を中心とした範囲内の味方の物理攻撃力を特大アップ、物理防御力を大アップ、ＴＰを小回復させる。自分の魔法攻撃力に応じて、物理攻撃力のアップ量が最大２倍まで増加する。
 r:"^自分の魔法攻撃力を(\d+)アップ範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理防御力を(\d+)アップ範囲内の味方のＴＰを(\d+)回復$"=►Boosts own M.ATK by $1 for 18s.\n►Boosts allies' P.ATK in 400 range by $2 for 18s.\n►Boosts allies' P.DEF in 400 range by $3 for 18s.\n►Recovers allies' TP in 400 range by $4.
 ルーンノエルドレス=Rune-Noel Dress

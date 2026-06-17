@@ -1,7 +1,7 @@
 【魔法】後衛で、敵全体を誘惑するセクシー先生。敵のＴＰを奪うスキルでユニオンバースト発動を遅らせ、誘惑のユニオンバーストを放ち、戦場を大混乱に陥れる。=[Magic] A sexy teacher that bewitches enemy parties from the rearguard. Steals foes' TP to delay their Union Bursts while also throwing the enemy into chaos with her own charming Union Burst.
 r:"^敵全体に(\d+)の魔法ダメージ敵全体を誘惑する$"=►Deals $1 M.DMG to all enemies.\n►Inflicts Charm to all enemies for 4s.
 r:"^敵単体のＴＰを(\d+)失わせる自分のＴＰを(\d+)回復$"=►Reduces an enemy's TP by $1.\n►Recovers own TP by $2.
-ランダムな敵１キャラのＴＰを小ダウンさせ、物理攻撃力と魔法攻撃力を小ダウンさせる。さらに自分のＴＰを小回復する。=Reduces the TP, P.ATK and M.ATK of one random enemy by a small amount while also recovering own TP by a small amount.
+ランダムな敵のＴＰと物理・魔法攻撃力を小ダウンさせる。自分のＴＰを小回復する。=ランダムな敵のＴＰと物理・魔法攻撃力を小ダウンさせる。自分のＴＰを小回復する。
 r:"^敵単体のＴＰを(\d+)失わせる敵単体の物理攻撃力を(\d+)ダウン敵単体の魔法攻撃力を(\d+)ダウン自分のＴＰを(\d+)回復$"=Cast time: 1.33s.\n►Reduces an enemy's TP by $1.\n►Lowers an enemy's P.ATK by $2.\n►Lowers an enemy's M.ATK by $3.\n►Recovers own TP by $4.
 r:"^敵全体に(\d+)の魔法ダメージ敵全体のＴＰを(\d+)失わせる敵全体のＴＰ上昇を(\d+)ダウン敵全体を誘惑する$"=►Deals $1 M.DMG to all enemies.\n►Inflicts Charm to all enemies for 5s.\n►Reduces enemies TP by $2.\n►Lowers enemies TP Boost by $3 for 18s.
 r:"^範囲内の敵に(\d+)の魔法ダメージ敵が誘惑状態の時、敵単体のＴＰを(\d+)失わせる敵が誘惑状態でない時、範囲内の敵の物理攻撃力を(\d+)ダウン$"=Cast time: 1.66s.\n►Deals $1 M.DMG to enemies in range.\n\nIf the enemies in range are charmed:\n►Reduces enemies TP by $2.\n►Lowers enemies' P.ATK by $3.

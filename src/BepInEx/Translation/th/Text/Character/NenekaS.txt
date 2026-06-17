@@ -8,10 +8,10 @@
 
 
 
-最も魔法攻撃力が高い味方１キャラを中心とした範囲内の味方すべての魔法攻撃力を大アップさせ、目の前の敵１キャラに魔法大ダメージを与え、さらに最も魔法攻撃力が高い味方の魔法攻撃力をもとにした魔法大ダメージを与える。=Greatly boosts allies' M.ATK in range around an ally with the highest M.ATK, and deals massive M.DMG to an enemy in front. Additionally, deals M.DMG based on an ally's M.ATK with the highest M.ATK.
-最も魔法攻撃力が高い味方１キャラを中心とした範囲内の味方すべての魔法攻撃力を大アップ、ＴＰ上昇を小アップさせ、さらにＨＰとＴＰを小回復するフィールドを展開する。=Greatly boosts allies' M.ATK in range around an ally with the highest M.ATK, slightly boosts their TP Boost, and continuously recovers their HP and TP by a small amount.
-最も魔法攻撃力が高い味方１キャラを中心とした範囲内の味方すべての魔法攻撃力を大アップ、魔法攻撃クリティカル時のダメージを小アップし、物理防御力を中アップさせ、物理無効バリアを展開する。=Boosts allies' M.ATK in range around an ally with the highest M.ATK, slightly boosts their M.CRIT DMG, moderately boosts their P.DEF, and deploys Barrier over them that negates P.DMG.
-バトル開始時に自分の魔法攻撃力を中アップさせる、さらに自分の魔法クリティカルを小アップさせる。=Moderate boost to own M.ATK and small boost to own M.CRIT Rate at the start of battle.
+最も魔法攻撃力が高い味方を中心とした範囲内の味方の魔法攻撃力を大アップさせ、目の前の敵１キャラに魔法大ダメージを与え、最も魔法攻撃力が高い味方の魔法攻撃力をもとにした魔法大ダメージを与える。=最も魔法攻撃力が高い味方を中心とした範囲内の味方の魔法攻撃力を大アップさせ、目の前の敵１キャラに魔法大ダメージを与え、最も魔法攻撃力が高い味方の魔法攻撃力をもとにした魔法大ダメージを与える。
+最も魔法攻撃力が高い味方を中心とした範囲内の味方の魔法攻撃力を大アップ、ＴＰ上昇を小アップさせ、ＨＰとＴＰを小回復させるフィールドを展開する。=最も魔法攻撃力が高い味方を中心とした範囲内の味方の魔法攻撃力を大アップ、ＴＰ上昇を小アップさせ、ＨＰとＴＰを小回復させるフィールドを展開する。
+最も魔法攻撃力が高い味方を中心とした範囲内の味方の魔法攻撃力を大アップ、魔法クリティカルダメージを小アップ、物理防御力を中アップさせ、物理無効バリアを展開する。=最も魔法攻撃力が高い味方を中心とした範囲内の味方の魔法攻撃力を大アップ、魔法クリティカルダメージを小アップ、物理防御力を中アップさせ、物理無効バリアを展開する。
+バトル開始時に自分の魔法攻撃力を中アップ、魔法クリティカルを小アップする。=バトル開始時に自分の魔法攻撃力を中アップ、魔法クリティカルを小アップする。
 最も魔法攻撃力が高い味方１キャラを中心とした範囲内の味方すべての魔法攻撃力を大アップ、ＴＰ上昇を小アップさせ、さらにＨＰとＴＰを小回復するフィールドを展開する。魔法攻撃力の上昇量は最も魔法攻撃力が高い味方の魔法攻撃力に応じて最大３倍までアップする。=Greatly boosts allies' M.ATK in range around an ally with the highest M.ATK, slightly boosts their TP Boost, and continuously recovers their HP and TP by a small amount. The M.ATK boost increases up to x3 according to M.ATK of ally with the highest M.ATK.
 シークレットフロート=ซีเคร็ตโฟลต
 r:"^範囲内の味方の魔法攻撃力を(\d+)アップ敵単体に(\d+)の魔法ダメージ敵単体に(\d+)の魔法ダメージ$"=►เพิ่มโจมตีเวทของเพื่อนในระยะ 200 ขึ้น $1 เป็นเวลา 18 วินาที\n►ทำดาเมจเวท $2 ใส่ศัตรูตัวเดียว\n►ทำดาเมจเวท $3 ใส่ศัตรูตัวเดียว

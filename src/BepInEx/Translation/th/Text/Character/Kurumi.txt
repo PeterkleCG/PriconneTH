@@ -1,4 +1,4 @@
-味方全体の物理防御力と魔法防御力を小アップさせる。=เพิ่มป้องกันกายภาพ/เวทเล็กของเพื่อนทั้งหมดเล็กน้อย
+味方全体の物理・魔法防御力を小アップさせる。=味方全体の物理・魔法防御力を小アップさせる。
 r:"^味方全体の物理防御力を(\d+)アップ味方全体の魔法防御力を(\d+)アップ$"=►Boosts allies' P.DEF in range by $1.\n►Boosts allies' M.DEF in range by $1.
 r:"^自分の最大ＨＰを(\d+)アップさせる自分の魔法防御力を(\d+)アップ$"=►Boosts own max HP by $1.\n►Boosts own M.DEF by $2.
 r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵を一定時間行動不能にする味方全体の物理防御力を(\d+)アップ味方全体の魔法防御力を(\d+)アップ毎秒ＨＰを(\d+)回復する$"=►Deals $1 P.DMG to an enemy.\n►Renders an enemy immobile.\n►Boosts allies' P.DEF by $2.\n►Boosts allies' M.DEF by $3.\n►Recovers allies' HP by $4/s.

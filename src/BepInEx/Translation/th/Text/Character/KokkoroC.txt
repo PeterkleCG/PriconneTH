@@ -1,4 +1,4 @@
 【物理】中衛で、尊き儀装束を纏うエルフの里の巫女。自分の攻撃力を強化し、さらにＴＰ回復で攻撃の手数を増やす。クリティカル時の猛攻で仲間を守る剣となる。=[Physical] An elven priestess who wears ceremonial attire in midlines. After strengthening her own attack power and increasing the number of attacks she can make with her TP recovery, she becomes a sword that protects her allies with an onslaught of critical attacks.
 r:"^敵単体に(\d+)の物理ダメージ自分の物理攻撃クリティカル時のダメージを30％アップ$"=►Deals $1 P.DMG to an enemy.\n►Boosts own P.CRIT DMG by 30% for 18s.
-自分の物理攻撃力を特大アップ、物理クリティカルを大アップさせ、さらにＴＰを小回復する。=Greatly boosts own P.ATK and P.CRIT Rate, and also recovers own TP by a small amount. All effects last 12s.
+自分の物理攻撃力を特大アップ、物理クリティカルを大アップ、ＴＰを小回復する。=自分の物理攻撃力を特大アップ、物理クリティカルを大アップ、ＴＰを小回復する。
 r:"^自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを(\d+)アップ自分のＴＰを(\d+)回復$"=►Boosts own P.ATK by $1.\n►Boosts own P.CRIT Rate by $2.\n►Recovers own TP by $3.
