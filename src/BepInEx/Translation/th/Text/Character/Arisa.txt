@@ -1,4 +1,4 @@
-
+バトル開始時に自分の物理攻撃力を大アップさせる。=เมื่อเริ่มแบทเทิล เพิ่มโจมตีกายภาพของตนเองสูง
 絡みつく蔦++=เถาวัลย์พันเกี่ยว++
 【物理】後衛の、長期戦に優れた、森の守護者見習い。ＴＰ回復によるユニオンバーストの速攻が可能。さらに使用後はスキル効果が上昇するため高い殲滅力を誇る。=[Physical] An aspiring forest guardian who excels at drawn-out battles from the backlines. TP recovery allows quick use of her Union Burst, which boosts her skill effects for greater attack power.
 r:"^敵単体に(\d+)の物理ダメージユニオンバースト使用後、敵単体に(\d+)の物理ダメージ$"=►Deals $1 P.DMG to an enemy.\n►After using Union Burst, deals $2 P.DMG to an enemy.
