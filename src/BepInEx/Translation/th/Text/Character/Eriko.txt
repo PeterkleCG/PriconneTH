@@ -1,9 +1,10 @@
 オブセッション=ออบเซสชั่น
-【物理】前衛で、毒スキルで敵を粉砕する、通称壊し屋。最高クラスの攻撃力を持ち、ユニオンバーストで敵にとどめの一撃を放つ毎に、その攻撃力はさらに上昇する。=[Physical] A wielder of poison on the frontlines, known as The Destroyer. Her attack power is nearly unrivaled, and it becomes even more deadly with each enemy slain by her Union Burst.
-愛は欲望すら壊して=A Love That Destroys Desire
-幸せの天秤=Scales Of Happiness
-下手な縫い目のまにまに=At The Mercy Of A Bad Seam
-逃れられない愛=An Inescapable Love
+愛は欲望すら壊して=รักที่ทำลายล้างแม้กระทั่งตัณหา
+幸せの天秤=ตาชั่งแห่งความสุข
+下手な縫い目のまにまに=ปล่อยให้เป็นไปตามรอยตะเข็บที่บิดเบี้ยว
+逃れられない愛=ความรักที่มิอาจหลีกหนี
+
+
 r:"^敵単体に(\d+)の物理ダメージとどめを刺した時、自分の物理攻撃力を(\d+)アップ$"=►Deals $1 P.DMG to an enemy.\n►Boosts own P.ATK by $2 upon defeating an enemy.
 デッドリーエグゼキューション=Deadly Execution
 目の前の敵１キャラに物理特大ダメージを２回与え、受けるクリティカルダメージを小アップさせ、自分の物理攻撃力を大アップする。敵を倒せなかった場合、さらに自分の物理クリティカルダメージを大アップする。=目の前の敵１キャラに物理特大ダメージを２回与え、受けるクリティカルダメージを小アップさせ、自分の物理攻撃力を大アップする。敵を倒せなかった場合、さらに自分の物理クリティカルダメージを大アップする。

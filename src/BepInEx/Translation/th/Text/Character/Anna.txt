@@ -1,4 +1,9 @@
-【魔法】中衛から圧倒的な魔力で攻撃する、疾風の冥姫。ユニオンバーストで敵全体に大ダメージを与えるが、高すぎる魔力の為、自分自身にも相応のリスクが生じる。=[Magic] The Hecate of the Gale attacks from the midlines with overwhelming magical power. Her UB inflicts massive damage to the entire enemy team, but her excessive magical power is a great risk to even herself.
+無貌魔導書=คัมภีร์เวทไร้โฉม
+英雄の仮面=หน้ากากแห่งวีรบุรุษ
+望まれる姿=รูปลักษณ์ที่ถูกปรารถนา
+魔瞳完全覚醒！=เนตรมารตื่นรู้โดยสมบูรณ์!
+
+
 r:"^敵全体に(\d+)の魔法ダメージ自分の物理防御力を0にする自分の魔法防御力を0にする$"=►Deals $1 M.DMG to all enemies.\n►Lowers own P.DEF to 0 for 99s.\n►Lowers own M.DEF to 0 for 99s.\n►Stun to self for 2s.
 r:"^範囲内の敵に(\d+)の魔法ダメージ$"=►Deals $1 M.DMG to enemies in range.
 羅刹涅槃・《覇極》万象無尽冥壊破=Raksha Nirvana: Parallel End-Worlds

@@ -1,7 +1,13 @@
 釘宮理恵=ริเอะ คูงิมิยะ
 ブラッド・ドレイン+=บลัดเดรน+
 スカーレット・リンク+=สการ์เล็ต ลิงก์+
-【魔法】中衛で、幼き竜と共に歩むさいきょーの吸血姫。味方全体の強化と、敵のＴＰを吸収するスキルで力を蓄えＵＢ発動後ベスと共闘し防御ダウンと強撃で攻勢に出る。=[Magic] A formidable vampire princess who walks alongside a young dragon in midlines. She strengthens the entire party and absorbs enemy TP. After using her UB, she teams up with "Beth" to launch a relentless assault with defense debuffs and powerful strikes.
+はじめてのおしごと=งานแรกของฉัน
+月下の血戦=ศึกโลหิตใต้แสงจันทร์
+大事ないばしょ=สถานที่สำคัญของฉัน
+べっそーを作ろう！=มาสร้างบ้านพักตากอากาศกันเถอะ!
+
+
+
 r:"^ゴロツキに絡まれていた(.{1,10})を助けてくれたのは、謎の少女ヴァンピィだった。友だちのドラゴン『ベス』を探すヴァンピィのために(.{1,10})は協力することに。$"="It was Vampy, a mysterious girl, who helped $1, who was entwined with Gorotsuki. Finding her friend's dragon "Beth".$1 decides to cooperate for Vampy."
 r:"^ベスを探す(.{1,10})とヴァンピィ。そんな二人の前に、吸血鬼のイリヤが現れる。かくして(.{1,10})を巡り、イリヤとヴァンピィによる眷属の取り合いが始まるのだった。$"=$1 and Vampy looking for Beth. A vampire, Illya, appears in front of them. Thus, over $1, Illya and Vampy began to fight for the genus.
 r:"^元々、ヴァンピィとベスは何者かに誘拐されてランドソルへ来たことを知った(.{1,10})。イリヤのコウモリのおかげでベスの居場所が判明し、ついにベスとヴァンピィは再会を果たした。$"=Originally $1 learned that Vampy and Beth had been kidnapped by someone and came to Landosol. Thanks to Illya's bats, Beth's whereabouts were revealed, and Beth and Vampy finally reunited.

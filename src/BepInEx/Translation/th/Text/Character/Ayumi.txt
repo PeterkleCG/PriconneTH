@@ -1,5 +1,10 @@
-【物理】中衛で、どたばたと敵をかく乱する、純情少女。敵をスタンさせるスキルのほか、ユニオンバーストでは暗闇と混乱を付与することで敵を邪魔することができる。=[Physical] A purehearted girl who wildly disrupts the enemy from the midlines. Aside from stunning foes with her skills, she can also inflict Blind and Confusion with her Union Burst to prevent their attacks from finding their mark.
-超個性派ヒロイン、誕生？=Birth of an Ultra-Unique Heroine?
+超個性派ヒロイン、誕生？=กำเนิดนางเอกสุดมีเอกลักษณ์?
+私らしいプレゼント=ของขวัญในแบบของฉัน
+優しい願いと先輩のお守り=คำอธิษฐานอันอ่อนโยนกับเครื่องรางของรุ่นพี่
+ひとつだけ、譲れない想い=ความรู้สึกเพียงสิ่งเดียวที่ยอมให้ไม่ได้
+
+
+
 前方範囲内の敵すべてに物理中ダメージを与え、さらに暗闇=Deals moderate P.DMG to all enemies in range and inflicts Blind.
 混乱状態にする。=and confusion.
 けんぞくにしてあげる！=I'll kick your ass!

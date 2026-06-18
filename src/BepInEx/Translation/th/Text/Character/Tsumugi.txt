@@ -1,4 +1,10 @@
-【物理】前衛で、敵の妨害に特化したテーラーガール。敵を強制的に移動させる事で陣形を崩し、さらに移動速度・行動速度を低下させ相手の反撃を遅らせる。=[Physical] A tailor who specializes in sabotage from\nthe vanguard. She wrecks the enemy's formation by\nmoving them around while also slowing their\nmovement and action speed.
+服を披露するために！=เพื่ออวดชุดใหม่ให้ทุกคนดู!
+仕事だけじゃなくて=ไม่ใช่แค่เรื่องงานอย่างเดียวหรอกนะ
+試着室ランウェイ！=รันเวย์ในห้องลองเสื้อ!
+みんなに輝ける服を！=มอบชุดที่ส่องประกายให้แก่ทุกคน!
+
+
+
 エンドドレステーラー=Endless Dresstailor
 前方範囲内の敵に物理大ダメージを与え、束縛する。前方範囲内の最も遠くの敵を大きく引き寄せ、最も近くの敵を大きく吹き飛ばす。範囲内の敵の数に応じて、ダメージが増加する。=前方範囲内の敵に物理大ダメージを与え、束縛する。前方範囲内の最も遠くの敵を大きく引き寄せ、最も近くの敵を大きく吹き飛ばす。範囲内の敵の数に応じて、ダメージが増加する。
 r:"^敵単体に(\d+)の物理ダメージ敵単体を一定時間行動不能にする自分の物理攻撃力を(\d+)アップ自分の物理防御力を(\d+)アップ$"=►Deals $1 P.DMG to a single enemy.\n►Inflicts Stun to an enemy for 1.5s.\n►Boosts own P.ATK by $2 for 12s.\n►Boosts own P.DEF by $3 for 12s.

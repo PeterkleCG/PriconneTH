@@ -1,5 +1,10 @@
 カースブルーム++=เคิร์สบลูม++
-【物理】中衛で、敵弱体化フィールドを操る隻眼の悪魔。フィールドの持続時間は短いが、範囲内の敵の物理防御力を大幅に減らす効果を持つ。=[Physical] The one-eyed devil that uses dampening fields on foes from the midguard. Her fields don't last long, but enemies within them have greatly reduced physical defense.
+闇医者の厄日=วันดวงซวยของหมอเถื่อน
+純粋な君、そうじゃない私=เธอผู้ไร้เดียงสา กับฉันที่ไม่ได้เป็นแบบนั้น
+青いバラの物語=เรื่องราวของกุหลาบน้ำเงิน
+実験は終わらない=การทดลองยังไม่สิ้นสุด
+
+
 r:"^範囲内の敵に(\d+)の物理ダメージ敵を倒した数×20%のＨＰを回復$"=►Deals $1 P.DMG to enemies within 750 range.\n►Recovers HP based on enemies defeated ×20%.
 r:"^(\d+)ダメージを与える呪い状態にする$"=Cast time: 1.41s.\n►Inflicts Curse in 620 range that deals $1 P.DMG/s for 12s.
 ## OLD r:"^フィールド内の敵の物理防御力(\d+)ダウン$"=Cast time: 0.28s.\n►Deploy a 250 radius field that lowers enemies' P.DEF in range by $1 for 8s.

@@ -1,5 +1,9 @@
-【魔法】後衛の、補助魔法に特化した、晴れ姿の癒し手。自身の攻撃力と引き換えに強力なバリアと継続回復状態を味方全体に付与する。絶大な防御能力は他を圧倒する。=[Magic] A rearguard user of healing and support magic, decked out in traditional garb. By sacrificing her own offensive power, she creates powerful barriers that heal her friends, giving her defensive potential that is second to none.
-約束の大晦日=The Promised New Year's Eve.
+約束の大晦日=วันสิ้นปีแห่งคำมั่นสัญญา
+温もりは陽光のようで=ไออุ่นที่ราวกับแสงตะวัน
+どこまで添い遂げる？=จะอยู่เคียงคู่กันไปถึงไหนกันนะ?
+未来をきっと二人で=อนาคตที่สองเราจะก้าวไปด้วยกันอย่างแน่นอน
+
+
 味方全体に物理/魔法無効バリアを展開し、継続ＨＰ回復状態を付与するが、自身の魔法攻撃力を特大ダウンさせる。=Deploys Barrier over all allies that negates P/M.DMG and grants continuous HP recovery to them, but lowers own M.ATK by a massive amount.
 r:"^(\d+)ダメージ分の物理魔法無効バリアを展開する毎秒ＨＰを(\d+)回復する自分の魔法攻撃力を初期値の90%ダウン$"=►Deploys Barrier that negates $1 P/M.DMG for 18s.\n►Recovers all allies' HP by $2/s for 10s.\n►Lowers own M.ATK by 90% for 18s.
 r:"^対象の味方の魔法攻撃力を(\d+)アップ$"=Cast time: 1.19s.\n►Boosts all M-type allies' M.ATK by $1 for 12s.

@@ -1,7 +1,11 @@
 ミクマ流剣術・陣風++=วิชาดาบมิคุมะ พายุคลั่ง++
-【物理】前衛で、素早い斬撃を仕掛け敵を屠る剣術少女。ユニオンバーストで自分の攻撃力と行動速度を上昇させ、ほか攻撃スキルの殲滅能力を極限まで高め敵を圧倒する。=[Physical] An avid fencer who delivers swift sword strikes to slay enemies from the vanguard. Her Union Burst increases both her attack power and action speed, maximizing the deadliness of her attack skills.
-本当の気持ちを探して=Find your true feelings.
-剣に賭した願い事=Wish that bet on the sword
+本当の気持ちを探して=ตามหาความรู้สึกที่แท้จริง
+剣に賭した願い事=คำอธิษฐานที่ฝากไว้กับดาบ
+師範代理はお年頃=ผู้ช่วยอาจารย์อยู่ในวัยกำลังโต
+開かれし光明=แสงสว่างที่เปิดออก
+
+
+
 r:"^敵単体に(\d+)の物理ダメージ自分の物理攻撃力を(\d+)アップ自分の行動速度アップ$"=►Deals $1 P.DMG to an enemy.\n►Boosts own P.ATK by $2.\n►Boosts own action speed.
 最も物理防御力の低い敵１キャラに物理大ダメージを与え、自分のＴＰを中回復させる。=Deals large P.DMG to the enemy with the lowest P.DEF and moderately recovers own TP.
 r:"^敵単体に(\d+)の物理ダメージ自分のＴＰを220回復$"=Cast time: 1.5s.\n►Deals $1 P.DMG to a single enemy.\n►Recovers own TP by 220.

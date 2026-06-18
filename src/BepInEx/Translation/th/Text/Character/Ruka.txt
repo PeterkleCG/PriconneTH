@@ -1,4 +1,8 @@
-【物理】前衛で味方のため剣を振るう、いなせな姉御。相手へのカウンターも行う挑発や、敵の防御力を下げるユニオンバーストを持ち、攻防両面で実力を発揮する。=[Physical] An honorable swordswoman who wields her blade in the vanguard to protect her allies. Not only can she draw enemy attacks to herself while countering their strikes, her Union Burst lowers their defense, giving her a strong balance of offensive and defensive abilities.
+何れ椿か侍刀=ระหว่างความรักกับคมดาบ
+熱と侠気=ความเร่าร้อนและจิตวิญญาณอัศวิน
+仕掛けのない釣り糸=สายเบ็ดไร้กับดัก
+仁義なき恋路=เส้นทางรักไร้คุณธรรม
+
 r:"^敵全体を挑発する範囲内の敵に(\d+)の物理ダメージ$"=►Provokes all enemies for 17s.\n►Counter if damage is taken in next 2s by $1 P.DMG in 200 range\n►Knockbacks all enemies by 200 units.
 r:"^自分のＨＰを(\d+)回復自分の物理防御力を(\d+)アップ$"=►Recovers own HP by $1.\n►Boosts own P.DEF by $2.
 極の太刀・止水龍吟の哮り=Ultimate Strike: Water Dragon Roar

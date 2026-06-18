@@ -1,4 +1,10 @@
-【魔法】後衛で物理パーティを補助する、歩く芸術作品。味方のユニオンバースト発動を早めるスキルのほか、暗闇状態にするスキルで敵の物理攻撃を封じる。=[Magic] A living work of art that buffs physical parties from the rearguard. Uses skills that allow allies to use Union Bursts more quickly, and hampers enemy offense with blinding status effects.
+美の祝福を求めて=แสวงหาพรแห่งความงดงาม
+誘惑の狭間で=ท่ามกลางความยั่วยวน
+虹村雪は逃がさない=นิชิมุระ ยูกิ จะไม่ยอมปล่อยให้รอดไปได้
+探し物はすぐそばに……=ของที่ตามหาอยู่ใกล้ๆ แค่นี้เอง……
+
+
+
 r:"^敵全体に(\d+)の魔法ダメージ敵全体の物理防御力を(\d+)ダウン$"=►Deals $1 M.DMG to all enemies.\n►Lowers all enemies' P.DEF by $2 for 18s.
 r:"^敵単体に(\d+)の魔法ダメージ敵単体を暗闇状態にする$"=Cast Time: 1.93s.\n►Deals $1 M.DMG to an enemy.\n►Inflicts Blind (60% miss) for 8s.
 r:"^自分の魔法攻撃力を(\d+)アップ自分の物理防御力を(\d+)アップ$"=►Boosts own M.ATK by $1.\n►Boosts own P.DEF by $2.
