@@ -1,3 +1,5 @@
+Grea BDay
+
 ここは一体……？\nあっ、{playername}さん！\nよかった、知り合いがいて……=Where in the world am I...? Oh, {playername}! Thank goodness a face I know...
 それが、よくわからなくて。\n気がついたらここにいたんだけど……\n{playername}さんはこの場所に心当たりある？=I don't really understand myself. Before I realized it, I found myself here... Do you know anything about this place, {playername}?
 そうなんだ……どうりで嫌な気配がないと思った。\nそれに、私の姿を誰も気にしてないみたい。\nでも、どうして私がここに……？=I see... No wonder I didn't sense anything unpleasant around. And besides, no one seems to mind my appearance. But why would I be here...?
@@ -10,6 +12,8 @@
 あっ、気づいてたんだ……？\nうん……アンたちはいつも私のことを心配してくれるから。\nそのお礼に、ここで見たものを話せたらって思ってたんだ。=Ah, you noticed...? Yeah... Anne and the others are always worried about me. As thanks for their worries, I was hoping to tell them what I saw here with you today.
 こんな夢みたいな話、アンもルゥも絶対興味持つと思う。\nそれで「私も行きたい！」なんて言ったりしてね……\nふふっ、勇気を出してよかった。=I'm sure Anne and Lou would be interested in such a dreamlike story. They might even say: "I want to go too!"... Hehe, I'm glad I mustered up the courage.
 ありがとう。\nこっちに来てからいろいろあったけど……\nおかげで忘れられない誕生日になったよ。=Thanks. A lot has happened since I came here, but... Thanks to you, it's a birthday I shall never forget.
+
+Player Prompts
 どうしてここに？=What are you doing here?
 ここは僕の故郷だよ。=This is my hometown
 今日がグレアの誕生日だから……かも？=Today's your birthday, Grea... so maybe because of that?

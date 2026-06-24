@@ -1,3 +1,5 @@
+Makoto Aki BDay
+
 よお、なんだよ放課後に呼び出しやがって。\nあたしとサシで決闘でもしようってのか？=Yo. What's the big idea, calling me out after school? Trying to set up a one on one duel with me or something?
 なんてな♪\n今どき屋上でンなことするヤツいるわけねぇけどさ。\nあはははっ……=Just kidding♪ There's no way anyone would do something like that on a rooftop these days. Ahahaha...
 ……いや、なに笑ってんだあたし。\nだったらなんなんだって話だよ。\n昼休みとかじゃなくて、放課後にわざわざ呼び出す理由……=...No, what am I even laughing at? If that's the case, then what's the point? Why would he go out of his way to call me after school instead of during lunch break...
@@ -8,4 +10,6 @@
 へぇ、ぬいぐるみ……かわいい……っ、こほん。\nあたしにしちゃ、かわいすぎるけど……おまえらしいな。\n大事にさせてもらうぜ、この──=Wow, a stuffed animal... so cute... Ahem! It's too cute for my style, but... it's a very "you" present. I'll treasure this──
 ──クマのぬいぐるみ。\nん？　クマ……？\nなぁ……おまえ、なんでクマを選んだ？=...teddy bear. Hm? A bear...? Hey, {playername}... why did you choose a bear?
 おまえ、あたしのぱ……余計なこと思い出したりしてねぇよなっ！？\nおい待て！　なんで逃げようとしてんだ！\nこらぁっ！　待ちやがれ！　どこまでも追いかけるからなーっ！？=You...! My panti--... YOU DIDN'T JUST REMEMBER SOMETHING YOU SHOULDN'T HAVE, DID YOU?! HEY, WAIT! DON'T TRY TO RUN AWAY, YOUUUU!! GET BACK HERE! I'LL CHASE YOU TO THE ENDS OF THE EARTH IF I HAVE TO, YOU KNOW?!
+
+Player Prompts
 真琴ちゃん。=Makoto-chan

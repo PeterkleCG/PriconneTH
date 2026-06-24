@@ -159,6 +159,8 @@
 ヴァイオレットさんの、力になりたい。=Violet-san... I want to help her
 デュラハンの執事=Dullahan Butler
 っ……！\nこ、こ、こないだより……\nずっと、すっげ……！=...AH! S-She's... way, way more amazing than last time...!
+
+
 ジオ・ニヴルヘル～遺灰砂漠～=Gio Nivlhel: Ashen Desert 
 ジオ・ニヴルヘル～巨鯨城～=Gio Nifhell: The Great Whale Castle
 雹の如く降りそそぐ=Hail Storm
@@ -324,9 +326,20 @@
 へイル……=HAIL...
 ストーーームッ！！=STOOOOORM!!
 ひゃああぁっ！！=Hyaaaah!!
+あるよ。=They have
+ナレーション=Narration
+……ッ！=...Mm!
+……むう。=...Hmm.
+っ……！=...!
 キャル、コッコロ、シェフィと三魔姫属、一進一退の攻防が続く。キャル\nとコッコロが身を挺して隙を作り、ドラゴン族の覚醒とプリンセスフォー\nムを同時発動したシェフィが必殺技を叩き込むのだった。=Cal, Kokkoro, Sheffy, and the other members of the Three Demon Princesses continued their back-and-forth. Cal and Koccoro put their bodies on the line to create an opening, and when both the dragonkin awakened and Princess Form activated at the same time, she unleashed her special attack.
+……ありがとうございます。=...Thank you very much.
+一同=Everyone
 三魔姫属の思惑により、ヴァイオレットは危険な試練に一人挑もうとして\nいた。彼女を追って巨鯨城へ向かう{playername}たち。城の内部に突入したペコ\nリーヌは、再びフレイヤと対峙するのだった。=Violet was about to take on a dangerous trial by herself, as per the Three Demon Princesses’ plan. {playername} and the others followed her to the Great Whale Castle. Pecoline stormed into the castle’s interior and faced Freyja once more.
+はい！=Yes, sir!
+
+
 『暴食』="Gluttony"
+{0}のステータスアップボーナス={0} stat boost bonus
 ねぇ伯爵、聞きましたかしら？\nあのお姫様ときたら……\n霊炎の壁を前に、何もできずにすごすご引き返したそうですよ。=Hey, Count, did you hear? That princess of ours... I heard she was unable to do anything in front of the wall of spirit flames and had to retreat.
 あんな性根の腐った動く死体を、姫と仰がねばならんとは。\nしきたりとはいえ、難儀なものだな。=To think that I should have to look up to such a rotten, moving corpse as my Princess. It may be our tradition, but what a bothersome situation.
 あのような者が盟主とあっては、\n『深い庭』との一時休戦も\nそう長くは続きますまいな……=With a person like that as our leader, the temporary truce with the "Deep Garden" won't last very long...
@@ -393,6 +406,7 @@
 どうして、あなたがっ……！？=Why are you...!?
 ……偽装の魔法が、解けた……？　=...Has my disguise spell wore off...?　
 ……いや。\n『食われた』のか……=...No. It was "eaten"...
+くっ……=Ugh...
 それが、『暴食』の力……\nあぁ、成程……=So that's the power of "Gluttony"... Ah, I see...
 他者から奪い、吸い上げることこそ。\n王たる者の、有り様ということね……=Stealing and absorbing things from others. That's how a true ruler should be like...
 ……リ・ピュセルさん。\n『あっち』でアストライア王国を転覆させたあなたが、どうしてここに？\nそれに……=...Miss La Pucelle. You overthrew my Kingdom of Astraea "over there", so why are you now here? Furthermore...
@@ -425,6 +439,7 @@
 ……グレイス、さん……\nそれより……\nヴァイオ……レット、さん、を……=Grace-san... More importantly... Vio... let-san is...
 ……！\nペコリーヌ姫っ……！=...! Princess Pecorine...!
 一方。\n首無しの執事・デュランに足止めを受けていた\n{playername}は──=Meanwhile, {playername}, who was being held back by the headless butler Duran...
+ふんっ！=Hmph!
 小手！\n小手小手小手～っ！=Take this! And that, and this and that!
 ふはは！\n死ねい、スケコマシ坊主～っ！！\n…………=Bwahaha! Die, you womanizing lecherous boy!! ............Hm?
 はて？\nわ、わしは一体何を……=Huh? Wh-What am I doing...?
@@ -445,6 +460,7 @@
 剣を振り回さないでください！=Please don't swing your sword recklessly!
 ……この人、糸で操られてる……！？=...Is he being controlled by a thread...!?
 民衆=People
+うわっ！？=Whoa!?
 剣が……！=My sword...!
 糸が、消えてる……=The thread's gone...
 ……そうだ、ヴァイオレットさん！=...That's right, Violet!
@@ -627,6 +643,7 @@
 ──行こう怜さん、優衣ちゃんっ！=Let's go, Rei-san, Yui-chan!
 たとえ微力であっても──\nその少女たちは世界の危機に、敢然と立ち向かおうとしていた。=Even if their powers may be weak--these girls are determined to boldly stand up against the crisis facing the world.
 ペコさんは、そんなことしない。=Peco-san would never do that
+助っ人？=Helpers...?
 中年男性=Middle-aged man
 売人=Dealer
 希留也=Kiruya
@@ -641,11 +658,15 @@
 遊園地の客=Amusement Park Guests
 タクシーの乗客=Taxi Passenger
 優衣・怜=Yui and Rei
+
+
 黒曜宮──それは魂が流れ着く場所=The Obsidian Palace -- A place where souls flow towards
 ソルの塔に似た世界の要=A cornerstone of the world, similarly to the Tower of Sol
 ならば、我々が踏破する！=Therefore, it falls to us to conquer it!
 第三部十二章　闇の底の死闘=Part 3, Chapter 12: Deadly Battle in the Depths of Darkness
 この剣を、キミたちのために！=Once more... this sword will be at your side!
+
+
 よーしっ♪\n見ててねみんな、クリアちゃんも！\n──えいっ！=Okay♪ Keep an eye on me, everyone. You too, Quria-chan! Eigh!
 わぁ……！\n光が、まるで生きているみたいに踊ってますっ。=Uwaah...! That light is dancing like it's come to life!
 ジータおねえちゃん、かっこい～！\n絵本に出てくる魔法使いさんみたいだね！=Big Sister Djeeta you're so cool! You look like a wizard from a picture book!
@@ -729,4 +750,5 @@
 えっ、衣装でお仕事って……あの……\nあ、あまり際どくない服で、お願いします……=Huh? Working in a costume...? Um... That's... As long as it is not something too revealing, I suppose...
 見習い剣士=Apprentice Swordsman
 国際警察に投降したものの、拘束状態にあった似々花。八斗神局長の尋問\nの最中、外では認識の修正が解けていない人々が次々に意識を失う事態が\n発生する。その裏では、『幻境竜后』が手を引いているらしい……=Although she surrendered to Interpol, she was detained. During Chief Yatogami's interrogation, people who hadn't been able to correct their perceptions of her lost consciousness one after another. Behind the scenes, it seems that the Illusory Dragon Empress is pulling back...
+……さっきから、どんどん飛ばしてきてるその黒い炎。\n見覚えがあります。\nアラクネさんがネフィ＝ネラさんを焼いたのと、同じですよね。=...Those black flames that you've been shooting out for a while now. I recognize them. They're the same that Lady Arachne used to burn Nephi Nela-san
 ペコリーヌは決死の覚悟で『暴食』の権能を解放しフレイヤを追い詰める\nが、突然の乱入者の攻撃で大ケガを負わされてしまう。一方、隠し道を\n使った{playername}はヴァイオレットの元に辿り着くが……=Pecoline unleashed her power of Gluttony, determined to die, and cornered Freyja, but the sudden intruder’s attack left her badly injured. On the other hand, using a hidden path, {playername} reached Violet, but...

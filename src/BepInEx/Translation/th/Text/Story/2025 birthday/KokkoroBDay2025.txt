@@ -1,3 +1,5 @@
+Kokoro Natsume's Birthday
+
 {playername}さま……\nふふ、待ち合わせというのは胸が弾むものでございますね。=Dearest {playername}... Hehehe. Waiting to meet up with someone can truly be heart-stirring.
 それが自身の誕生日ともなれば、\n待つ時間すらも素敵な贈り物のようでございます……♪=Furthermore, when it comes to one's own birthday, even the waiting time feels like a wonderful gift...♪
 いいえ、あなたさまはわたくしが主と認めたお方。\n先に来られたりすると、わたくしの方が困ってしまいます。=No, dearest {playername}... you're the one that I've acknowledged as My Lord. If you were to arrive before me, it would put a great shame over me.
@@ -8,6 +10,8 @@
 あなたさまはお忙しい身。\n過ぎた贅沢を言っているのは分かっているのですが……=I am aware that you are a busy man. I am aware it is a bit selfish to ask for more...
 本当でございますか……！？\nよいのでしょうか、わたくし、こんなにも幸せで……=Is that really the truth...?! Is it really fine for me to... enjoy such happiness?
 ではあなたさま。\n今日のわたくしは、少しわがままかもしれませんが……\nどうか、お許しくださいね……♪=Well then, dearest {playername}. I may be acting a little selfish today, but... please, do indulge me♪
+
+Player Prompts
 待たせてごめんね。=My bad to have kept you waiting
 誕生日おめでとう、こころちゃん。=Happy birthday, Kokoro-chan
 なんでも言ってごらん。=Ask away, anything you may desire

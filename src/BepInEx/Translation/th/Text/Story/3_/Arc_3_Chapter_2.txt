@@ -1,7 +1,11 @@
-驀進！　バンディ・シスターズ=รุดหน้าเต็มกำลัง! แบนดี้・ซิสเตอร์
+驀進！　バンディ・シスターズ=Forward, Bandit Sister!
+
 登場、盗賊三姉妹！=Introduction, Bandy Sisters!
+
 魔物退治に勤しむペコリーヌたちのもとに【バンディ・シスターズ】と名乗る三姉妹が現れ、王家の装備を狙う。一同は三姉妹が乗る装甲車に苦戦するが、彼女たちはまた来ると言い残してその場を去っていく。=The three sisters, calling themselves the Bandy Sisters, appeared before Pecorine and the others, who were hard at work slaying monsters, aiming for the Royal Equipment. The group struggled with the armored car the three sisters were riding in, but the girls left, saying they’d come again.
+
 ャッスル・オブ・パルフェ～王座の間～=The Royal Throne Room
+
 てええーいっ！=Teiii!
 ……た、たあっ！=...T-Taaah!
 裏世界『ジオ・テオゴニア』と交流を持った{playername}たち。\n一行は仲間たちと力を合わせて、\nアストライア大陸から流入してくる魔物を退治していた。={playername} and the others had come into contact with the Reverse World “Gio Teogonia.” The party had joined forces with their friends to slay the monsters pouring in from the continent of Astraea.
@@ -43,6 +47,8 @@
 違うと思う。=I don't think so.
 魔物が来たのかな……っ！？=I wonder if the monsters are here...!?
 ううん。\nまほう。\nとおくから。=No. Magic. From there.
+
+Cutscene:
 ちょっと！　なによあれっ！=Hey! What the hell is that?!
 何でしょうねー？=I wonder what that thing is.
 あんなに遠くから攻撃を……？=An attack from that far away...?
@@ -59,6 +65,7 @@
 ひうっ……！　ご……ごめんなさいっ！=Eeek...! I-I'm sorry!
 でもってアタシが長女のヤマトってわけだ！=And I'm the eldest daughter, Yamato!
 さあ、出しな！　この国の宝『王家の装備』を！=Come on, let's get this country's treasure, [Royal Equipment]!
+
 王家の装備！？=Royal Equipment！？
 【バンディ・シスターズ】……？=【Bandit Sister】……？
 えーっとっ？\nぎるど？\nってなんですかっ？=Umm? "Guild"? What is that?
@@ -132,6 +139,7 @@
 ほんとにぶん投げちゃうつもり！？=Are you really going to throw it?!
 ぼさっとしてんじゃないよ、ワカナ！\nアクセル！=Stop spacing out, Wakana! Accelerate!
 は、はいっ……！\nえっとえっと……！　（ぽちっ）。=Y-Yes...! Umm...! *plop*
+あっ。=Ah.
 んぎゃああああっ！　（ぷちっ）。=Ngyaaaaah! (Puchi.)
 ……まぁ、そーね。\n後輪は浮いてなかったもんね。\nそうなるわよね……=...Right, of course. The rear wheel wasn't lifted, after all. That's what going to happen...
 それどころか、車輪が一瞬膨らんで\nヴォルガーノさまにぶつかったような……？=On the contrary, it felt like the wheel had swelled up for a moment and hit Mr. Volgano...?
@@ -168,8 +176,17 @@
 歩かなくていいのは助かるわね～\n……って、どこから調達すんのよそれ……=I'm glad we won't have to walk... Wait, where are we going to get that...?
 お城には、あんなに速い乗り物はなかったと思いますけど。\nライラエルさまなら、なにか考えてくれるかもしれませんよっ♪=I don't think there is such a fast ride in the castle. Lady Lyrael might be able to think of something♪
 なんとかして、乗り物を確保しよう。=Let's find a way to secure a vehicle.
+
+
+Episode 2:
 『ふぁんふぁんファーム』=『Fun-Fun Farm』
+
+Summary: 
 一同は【バンディ・シスターズ】に対抗するため、乗り物を用意することに。ペコリーヌたちは乗り物を牽引する動物を探すため『ふぁんふぁんファーム』を訪ね、そこでおにぎりのような大きな動物と出会う。=Everyone decided to prepare a vehicle to counter the Bandy Sisters. Pecorine and the others visited Fun-Fun Farm in search of animals towing the vehicle, where they met a large animal that looks like a riceball.
+
+リンド・クローチェ=Lind&Croce
+子豚=Piglet
+
 とーちゃく？=Here?
 わぁー！\nここが……=Wow! This is...
 ……えっと、なんでしたっけ？=...Um, what was it again?
@@ -266,6 +283,7 @@
 もう、騎士さん！\n気軽に女の子に触っちゃダメです！\nクローチェさんも、そんな簡単に触らせちゃダメですからね！=Geez, Kishi-san! Don't touch a girl so casually! You can't let him touch you so easily either, Croce!
 え～っ、いいじゃないですかっ♪\nわたしから触ると危ないですしっ。=Whaaat? It's fine, isn't it?♪ It'll be dangerous if I touch it myself.
 でも……考えてみれば。\nこれから、『ジオ・テオゴニア』とかで冒険が続くとなると\n【バンディ・シスターズ】みたいに、移動手段があったら良いですよね。=But...now that I think about it, if we're going to continue adventuring in 'Gio Teogonia,' it'd be nice if we had a mean of transportation like the Bandy Sisters.
+
 ですよねっ。\n歩きっぱなしじゃ足も疲れちゃいますし、それに……=That's right. If I keep walking, my legs will get tired, and...
 ……おなか、すくし。=...Hungry.
 うんうん、わたしもですっ。\nよーしっ、それじゃあお弁当の残りを食べましょう☆=Yeah, me too. Alright, let's eat the rest of our lunchboxes☆
@@ -286,6 +304,8 @@
 ええぇっ！？\nヴルムはともかく、ライラエルさままでっ……！？=Eeeeh?! Wurm aside, even Miss Lyrael...?!
 砂とかは、払って落とせば大丈夫です！\nそれより、早く食べちゃいましょう☆=As for the sand, we could just brush it off so it's fine! Anyway, let's hurry up and eat it already☆
 ま、待ってください！\nおにぎりが地面から生えるなんて、さすがに──=P-please wait a minute! Eating riceballs growing from the ground, that's just too──
+
+Cutscene: 
 おにぎりが……=The riceball...
 ころころ=Rolling
 へえー！　おにぎりって坂道じゃなくても転がるんですね！=Wow! So riceballs can roll even if it's not on a slope!
@@ -300,6 +320,7 @@
 いっただっきまーす！=Itadakimasu!
 ぴぎぃぃぃぃぃぃぃ！=Pigiiiiiiiiii!
 ぴぎぃぴぎぃぴぎいいいいいい！=Pigiipigiiiipigiiiii!
+
 へーっ、おにぎりってハムスターみたいになれるんですねっ！=He~eh, so riceball can also become like a hamster as well!
 そんなわけないでしょう！？\n……あれってもしかして、\n『ふぁんふぁんファーム』からはぐれたペット動物……？=Of course not! ...Isn't that, a pet animal that got separated from the Fun-Fun Farm...?
 大きいね。=So big.
@@ -331,11 +352,20 @@
 ……わたしは、リリちゃんの次で、いいんです。\nだって……そうじゃなきゃ……=...I'm fine with prioritizing Riri-chan over myself. Because... otherwise...
 ちょっとクリアー？\nあんたも手伝いなさいよ、コロ助が突っ走っちゃうから……！=Hey, Quria? You come and help too, else Korosuke's going to take over everything...!
 あっ、すみません！\n今行きますね、キャルさんっ……！=Ah, sorry! I'll be right there, Kyaru-...!
+
+
+Episode 3:
 ころがるおにぎり=Rolling Onigiri
+
+Summary:
 ファームの管理人からおにぎりのような動物の事情を聞いたペコリーヌたち。そこへ魔物が現れ一同を襲うが、動物と協力して退ける。そして一同はその動物、オニギリちゃんを新たな仲間として迎えるのだった。=Pecorine and her friends learned about the onigiri-like hamster from the farm caretaker. Then monsters appeared and attacked everyone, but they cooperated with the animals to repel them. The group then welcomed the hamster, Onigiri-chan, as their new comrade.
+
 ハムスター？=Hamster?
 ハムおにぎり？=Onigiri ham?
+リリ・リンド=Riri&Lind
+
 ふぁんふぁんファームの外れにて、巨大おにぎりに扮する\nハムスター？　と遭遇した{playername}たち。\nペコリーヌとプレシアは、それを捕食しようと躍起になっていた。={playername} and the others had encountered a hamster disguised as a giant onigiri on the outskirts of Fun-Fun Farm. Pecorine and Precia were eager to prey on it.
+まてー=Wait--
 待てぇ～！！=Wait!!
 あははっ♪\n待ってくださ～いっ♪=Ahaha♪ Please wait~♪
 ぴぎゅううう～っ！=Pigyuuu~!
@@ -356,6 +386,7 @@
 パワーやスピードだけじゃなく、スタミナもあるみたいですね。\nあのハムスターもどきさん。\n……はぁ。=It looks like not only power and speed, but it has the stamina as well. That hamster-like guy...
 ペコリーヌさん、プレシアさん。\nこうなると思って、すぐそこで見つけた\nショコラグレープの樹から実を集めてきました。食べてください。=Pecorine, Precia. I thought this would happen, so I gathered some fruit from the Chocola Grape Tree I found right there. Please eat it.
 ありがとうございます、リンドちゃん～！=Thank you so much, Lind!
+いっただっきまーす！=Itadakimasu!
 それと……\nクローチェさんの充填はお願いしますね、騎士さん。=Oh, and... I'm counting on you to charge Croce up, Kishi-san.
 なるほど～っ！\nたしかにあのオニギリちゃんなら、車を引っ張るくらい\n楽勝ってかんじですよねっ！　ナイトさん頭いいですっ♪=I see~! That Onigiri-chan is certainly able to pull a car with ease! Naito-san, you're so smart♪
 もぐもぐ……\nつかまえる。=Munch, munch... I'll catch you.
@@ -387,6 +418,7 @@
 か、かくせいっ！？\nできませんよそんなこと！="Awakening"!? I can't do that!
 ぴーーーーぎゅううーーーっ！=Piiiigyuuuu!
 あっ──=Ah~
+きゃあああ～っ！？=Haaaaaaahh!?
 ……な、なかなか捕まえられないですね……\nもう、すっごく警戒されちゃってますし。=...I-It's so hard to catch it... It has become really cautious of us to boot.
 ……そうですね。\n捕獲用のマジックアイテムとかがあれば良かったんですけど……=...Right. It would have been nice if we had a magic item or something to capture it...
 おやおや、騒がしいと思ったら。\nリンドちゃんとクローチェちゃんじゃないかい、お久しぶりだねぇ。=Oh my, I thought there was a commotion. Isn't that Croce and Lind? It's been a while since I saw you two together.
@@ -394,6 +426,7 @@
 うるさくしてしまって、ごめんなさい。\n本当は最初に、ご挨拶させてもらうべきだったんですけど……=We're sorry for being so loud. I should have been the first to greet you.
 いいのよぉ。\nあたしもさっきまで、お散歩に行ってたからねぇ。\nそれよりそっちのみなさんは、お友だちかしら？=Don't worry about it. I was out for a walk earlier too. More importantly, are you all friends?
 オイッス☆\n初めまして、ペコリーヌです！=Hey there! ☆ Nice to meet you! I'm Pecorine!
+プレシア=Precia
 リリと申します。\nあなた様が、この『ふぁんふぁんファーム』の管理人様なのですね。=My name is Riri. You must be the caretaker of this [Fun-Fun Farm].
 管理人様、なんてほど大したことはしてないけどねぇ。\nライラエル様から、動物たちやファームを任されてるのはそうだねぇ。=Don't be so formal, I didn't do anything impressive being the caretaker. I'm simply entrusted with the animals and farms by Princess Lyrael.
 ま、動物たちの面倒を見るっていうよりは。\nペットを探しにきた人たちが、ちゃんとかわいがってくれそうかどうかを\n見定めるのがあたしの仕事かねぇ。=Well, it's not so much as taking care of the animals. My job is to make sure that their soon-to-be owners will treat them with utmost care once they're adopted.
@@ -411,6 +444,7 @@
 おとも？\nなかま？=Companion? A friend?
 確かに……力尽くで従え隷属させるよりも、\n同意の上でご協力いただくのに越したことはないですよね。=You're right... It's better to agree and cooperate with its consent rather than forcing the hamster to obey and enslave it against its will.
 はいっ。\nそうとなったら……まずは！=Yeah. Now that's the case... Firstly!
+ぴぎゅー……=Pigyu...
 オニギリちゃ～～んっ！=Onigiri-chaaan!
 ぴぎゅっ！？\nぴっ……！=Pigyuu?! Pi......!
 ああっ、逃げないで～っ！\n待ってくださ～いっ！=Aaah, don't run away! Please wait!
@@ -505,11 +539,17 @@
 ぴぎゅ！\nぎゅーーーー♪=Pigyu! Gyuuuu♪
 ──こうして、少し変わった仲間（ペット）を迎えた一同。\n彼らは【バンディ・シスターズ】を迎え撃つため、\nコッコロたちの待つキャッスル・オブ・パルフェに戻るのだった。=-And so, everyone greets their slightly unusual companions (pets). They return to the Castle of Parfait, where Kokkoro and the others are waiting, to intercept the Bandy Sisters.
 あ……やっぱり引いてる～……=Ah... She's backing down after all...
+
+Episode 4: 
 新しい家=A New House
+
+Summary:
 城へ帰還したペコリーヌたちは皆に新たな仲間たちを紹介し、コッコロたちは準備した箱をお披露目する。そしてそれぞれ課題を見出した一同は【バンディ・シスターズ】との戦いに向けて準備を進めるのだった。=Upon returning to the castle, Pecorine and the others introduced their new friend to everyone, while Kokkoro and the rest showed off the cabin they had prepared. After completing their appointed task, everyone gets ready for the upcoming battle against the Bandy Sisters.
+
 バンディシャーク号～車内～=Bandit Shark's interior
 動物たち=Animals
 羽つき子豚=Winged-piglet
+
 ペコリーヌやライラエルの持つ『王家の装備』を狙う盗賊たち──\n長女ヤマト、次女ワカナ、三女フブキの三姉妹によって結成された\nギルド【バンディ・シスターズ】。=These bandits are after the Royal Equipment that Pecorine and Lyrael had. The guild, known as [Bandit Sister], was formed by three members: the eldest daughter, Yamato, the second daughter, Wakana, and the third daughter, Fubuki.
 彼女たちの有する『バンディシャーク』号は\n重火器で武装した強力な戦闘車輛であり、また同時に\n三姉妹の生活の場──いわば移動型ギルドハウスでもあった。=The 'Bandy Shark' they had is a powerful combat vehicle armed with heavy weapons, and at the same time, it was a place for the three sisters to live—a mobile-type Guildhouse, so to speak
 そして。\nある夜の、その車内でのこと──=One night, in that car
@@ -600,9 +640,12 @@
 そういえばキャルさんやコッコロさんたちのほう、\n『箱』の用意はどんな感じですかっ？=Speaking of which, how's the preparations for the cabin been going for Kyaru-san and Kokkoro-san?
 ご心配は無用です。\n仮にも主さまをお運びする乗り物ですので、\n時間の許す限り入念な用意をさせていただきました。=There's no need to worry. It's a vehicle that will carry my Lord, so I've prepared it as carefully as time permits.
 ライラエルさんたちから、\n支援もたくさんしてもらいましたしね。\n……でも……=We also received a lot of support from Lyrael and the others. ...But...
+でも？=But?
 ……ま、見ればわかりますよ。=...Well, you'll know it when you see it.
 そ、そうですね。\nオニギリちゃんが箱を引っ張れるかどうか、\n試さなくちゃですしね。=Y-You're right. We'll have to see if Onigiri can pull the cabin.
 城の外れに止めてありますので。\n参りましょう、みなさま。=We've already stopped at the outskirts of the castle. Let's go, everyone.
+
+Cutscene:
 わあー！=Wow!
 おー=Ooooh!
 これがわたしたちの新しいおうちなんですね！=So this is going to be our new home!
@@ -616,12 +659,14 @@
 みなさまが連れて来て下さった獣が=The animal that everyone brought to us
 引いて下さるかどうかですが……=As for whether or not it can pull the cabin...
 オーライオーライ=Keep going, keep going.
+ぴぎゅっ？=Pigyu?
 ぴぎゅぴぎゅ？=Pyugyupigyugyu?
 ぴぎゅ～！=Pigyu~!
 ほれ、けっぱれ！=Alright, let's see to it!
 ぴぎゅ！=Pigyu!
 ぴぎゅ～っ！=Pigyuu!
 わあああ～っ=Waaaaah~!
+
 みなさん、大丈夫ですか～っ？=Everyone, are you okay?
 い、いたたた……=O-Owowowow...
 コブができちゃいました……=I've got a bump...
@@ -659,10 +704,17 @@
 これから。\nよろしく。\nね？=I'll be in your care. From now on. okay?
 はっぴー……ちゃん？=Happy...chan?
 はっぴー♪　ぶぅ♪=Happy♪ Buu♪
+
+
+Substory IV:
 おしくらプリンセス！=Oshikura Princess!
+
+Summary:
 ライラエルとおしくらまんじゅうすることになったジュンと【リトルリリカル】。しかしライラエルが浮いているため誰も勝てない。本人が気づき再戦を望んだ時には、ジュンたちはすっかり疲れているのだった。=Jun and [Little Lyrical] decides to play a game of Oshikura Manju with Lyrael. However, no one could win because Lyrael was floating. By the time they realized it and wished for a rematch, Jun and the others were completely exhausted.
+
 ミソギ＆ミミ=Misogi＆Mimi
 ジュン＆キョウカ=Jun＆Kyouka
+
 『ジオ・テオゴニア』の『キャッスル・オブ・パルフェ』。\nプリンセスであるライラエルのもとへ、謁見に来たのは──=Within the [Castle of Parfait] of [Gio Teogonia], the ones who came to have an audience with Princess Lyrael this time are ...
 ようこそ、『ジオ・テオゴニア』へ。\n頭を上げてください──異邦の騎士たちよ。=Welcome to [Gio Teogonia]. Please raise your heads, Knight and his companions.
 このたびは謁見の機を賜り、光栄に存じます。プリンセス・ライラエル。\n両世界の親交を深めんと、ご挨拶に参じました。ジュンと申します。=It is an honor to have an audience with you, Princess Lyrael. I have come to greet you in hopes of deepening the friendship between both worlds. My name is Jun.
@@ -760,9 +812,18 @@
 次こそは、みなさまにご無礼のない\n清く正しいおしくらまんじゅうをさせてくださいね♪=Next time, please allow me to have a clean and proper Oshikura Manju match without any disrespect♪
 こ、断りにくい……！！=I-It's hard to refuse...!!
 謁見のつもりで訪れた『ジオ・テオゴニア』。\nその玉座の間で、おしくらまんじゅうは続くのだった……=It was supposed to be a simple audience in Gio Teogonia. But in the throne room, the game of Oshikura Manju continued on......
+
+
+Substory V:
 プリンおばけとお菓子の城=Pudding Ghost and Candy Castles
+
+Summary:
 『ジオ・テオゴニア』の街中のプリンを食べ尽くそうとするミヤコ。イリヤたちが止めようとするが、うまくいかない。そのまま食べ続けたミヤコは体の重みで飛べなくなり、チョコレートの堀に沈んでいった。=Miyako was trying to eat up all the pudding in the "Gio Teogonia". Iliya and the others tried to stop her, but were unable to. As she continued to eat, the weight of her body rendered her unable to fly, and she sank into the chocolate moat.
+
 住民たちの悲鳴=The screams of the residents
+ヨリ＆アカリ=Yori＆Akari
+４人=4 people
+
 わぁ～……！\nお菓子のお城……すっごくおっき～い♪=Wow! The candy castle... It's so big! ♪
 街じゅうに、菓子と魔力が満ち溢れておるのじゃ……！\nこれは……\n実に征服しがいがありそうじゃのう♪=The whole city is overflowing with sweets and magical energy...! This world is truly a worthy one to conquer♪
 イリヤさんっ！？\nダメだってば～！=Iliya?! I said no!
@@ -778,6 +839,7 @@
 ちょっとちょっとー！？\nプリンの屋根がいきなり消えちゃったー！？=Hey, hey!? The roof made of pudding suddenly disappeared!?
 ウソだろ！？\nオレんちのプリンベッドが食い散らかされてるー！=You've gotta be kidding me! My pudding bed's all over the place!
 ねえ、ここにあったプリンのベンチ知らなーい？=Hey, do you know where the pudding bench here is?
+もぐもぐ、もぐもぐ……=*om nom nom*...
 ん～♪　どこのプリンもおいしいの～♪=Mm~♪ All pudding here is so delicious~♪
 ほう、さすがミヤコじゃの～！\nすでに街じゅうのプリンを食い荒らしておるとは。=Oh, that's Miyako for you! She's already devoured all the pudding in the city.
 さ、さすがとか言ってる場合じゃないわよ！　イリヤさんっ！？=Th-This isn't the time to be saying stuff like that! Iliya?!
@@ -861,8 +923,14 @@ Ah…やっぱり引いてる~…=Ah... Of course it's going to be like this...
 むう……\nこれを止められたとは、言いがたいのう……=Hmm... It's hard to say that we were able to stop this successfully...
 ご、ご、ご……\nご・め・ん・な・さ～～～いっ！！=I-I-I... I'm sorry!!
 プリンを食い荒らされた街に、\n【悪魔偽王国軍（ディアボロス）】一行の謝罪が響くのだった……=The apologies of the Diabolos party echoed through the city that has its pudding devoured...
+
+
+Episode 5:
 探し物と宝物=Looking for Hidden Treasure
+
+Summary:
 クローチェから牧場での出来事を聞いたライラエルは今後のことを思案する。一方リリたちは改めてこの世界のことや自分たちの目的について話し合う。そうして足並みを揃えた一同は、戦いに備えて英気を養う。=Hearing what had happened at the ranch from Croce, Lyrael pondered on what to do next. Meanwhile, Riri and the others discussed about this world and their own goals once more. Once they had everything sorted, they ready themselves for the upcoming battle.
+
 {playername}たちが帰還した後。\nクローチェは、主であるプリンセス・ライラエルのもとを訪れていた。=After {playername} and the others returned, Croce visited her master, Princess Lyrael.
 ──っていう感じでっ！\n無事に仲間になってくれる動物さんも見つかってっ♪\nナイトさんたちとの冒険、とってもとっても楽しかったんですよ～っ！=That's what happened! We found an animal that is suitable for their needs♪ And I had a lot of fun adventuring with Naito-san~!
 ふふ。\nそれは何よりでしたね。=Heehee. I'm glad to hear that.
@@ -965,6 +1033,7 @@ Ah…やっぱり引いてる~…=Ah... Of course it's going to be like this...
 だから、ですね。\n「わたしたちの知らない場所に行きたい」\nっていうみなさんからの依頼は、渡りに船っていうのだったんですよ。=That's why, when there's a request to go to a place we don't know anything about from you all, it was a great opportunity for all of us.
 なるほど……兄様やペコリーヌ様のような熟練の冒険者の皆様が\n素性の知れぬわたくしたちの依頼を快諾してくださったのは、\nそのためだったのですね。=I see... So that's why Nii-sama and Miss Pecorine who are seasoned adventurers agreed to our request even without knowing our backgrounds.
 いやまあ、こいつがお人よし過ぎるってのもあるけどね……=Well, it's also partly because she's too softhearted for her own good...
+そんなことないけど……=That's not the case though...
 ただ、人を捜してるって言ってもですね。\nわたしたちの場合は条件みたいなのがあって\nあんまり事情を言いふらしたりできないんです。=But even if we say we're looking for someone, we can't tell them what's going on because of certain conditions.
 もし、条件を破り。\nわたくしたちの持つ情報が世界中に知れ渡ってしまうと、\n最悪の場合──=If we break the conditions. If the information we have becomes known all over the world, worst-case scenario...
 ばあい？=Bye?
@@ -985,8 +1054,14 @@ Ah…やっぱり引いてる~…=Ah... Of course it's going to be like this...
 ふふっ。\nなにやら、とても賑やかになりましたが……\nみなさまの協力を得ることができて、心強いです。=Heehee. It's become quite lively here, but it's reassuring to have everyone's help.
 ま、ありがたいのは確かだけどさ。\nまずはあの、ふざけた盗賊ギルドをとっちめてやらないとね。=Well, I'm certainly grateful for the help. First, I'll have to get rid of that stupid bandit guild.
 はい！\nそのためにも──まずは、腹ごしらえですね☆=Yes! In order to do that, we need to eat first! ☆
+
+
+Episode 6:
 衝突、盗賊三姉妹！=Clash, Three Bandy Sisters!
+
+Summary: 
 再び城を襲撃しにきた【バンディ・シスターズ】を迎え撃つ一同。次々に繰り出される攻撃に苦戦するも、クリアたちの作戦が功を成し、一同は力を合わせて見事【バンディ・シスターズ】を退けたのだった。=Everyone intercepts the [Bandit Sister] who has come to attack the castle again. Although they struggle to deal with the attacks that were launched one after another, Quria and the others' strategy succeeds, and they all work together to successfully repel the [Bandy Sisters].
+
 数日後。\n『ジオ・テオゴニア』、アパレーユ街道・東の郊外──=A few days later. 'Gio Teogonia', Aparelle Highway, Eastern outskirts
 くたばりな！\nティース・ワインディングッ！！=Go to hell, Winding Teeth!!
 サメちゃんキャノン、どっかーんっ♡=Shark cannon, boom! ♡
@@ -1062,8 +1137,11 @@ Ah…やっぱり引いてる~…=Ah... Of course it's going to be like this...
 やっぱり、速い……！=They're fast...!
 やぁ～い、ノロマ♡　カメ♡\nざぁこざぁ～こ♡=Yaaaay, Fools♡ Turtle ♡ Slowpoke ♡
 このっ！\nいつまでもチョーシ乗ってんじゃないわよっ……！！=Damn you! You won't be getting away this time...!!
+
+Cutscene:
 主さま、お願いします！=My Lord, please!
 はあああー！=Haaaaah!
+ぴぎゅ！=Pigyu!
 ぴぎゅぴぎゅぴぎゅぴぎゅ=Pigyupigyupigyupigyu
 ぴぎゅーっ！=Pigyuu!
 ぴぎゅ～っ！！=Pigyuuu!!
@@ -1095,9 +1173,11 @@ Ah…やっぱり引いてる~…=Ah... Of course it's going to be like this...
 くそおおおっ！！　きゃあああっ！？　びゃああああっ！！=Damn iiiiiit!! Kyaaaah?! Byahhhh!!
 タイヤが魔物だったのですか……！？=So the tires were monsters...?!
 まだやる気！？=They're not done yet?!
+
 ああっ……！？\nワッカちゃんたち、逃げちゃいました……！=Aaah...!? Wakka and the others ran away...!
 あ～も～！\nアイツら一生メシ抜き～っ！！=Aaah, geez! They'll never get fed again!!
 皆様、ご無事ですかっ？=Is everyone all right?
+大丈夫！=We're fine!
 援護をありがとうございます、\n【アルターメイデン】のみなさま。=Thank you for your support, everyone of Alter Maiden.
 えへへ……\n作戦バッチリ、でしたね♪=Ehehe... Our plan was perfect, wasn't it?♪
 はんっ！\nもう、あいつら逃げられないわよ！\nこれで終わりねっ！=Hah! They can't run away anymore! This is the end!
@@ -1145,6 +1225,7 @@ Ah…やっぱり引いてる~…=Ah... Of course it's going to be like this...
 ハッ！\n勝負ってのァ、ビビッた方が負けだよッ！\n──オリャアッ！！=Hah! The one who freaks out loses! Oryaaa!!
 くぅっ！！\nやっぱり強い、この人……！！=Kuu!! She really is strong...!!
 ──ひゃああっ！？=Hyaaa!?
+ペコさんっ！=Peco-san!
 どいてな腹ペコ王女！\nアタシの狙いは最初から──アンタさボーヤ！=Get out of my way, Princess Peco! You're the one I'm here for since the start, boy!
 っ！\n主さまをっ！？=! my Lord?!
 腹ペコ王女じゃなく、アンタがアタマだね！\nハナっからバレバレさ！=You're the brain behind the group, not the hungry Princess Peco! It's obvious from the start!
@@ -1188,15 +1269,24 @@ Ah…やっぱり引いてる~…=Ah... Of course it's going to be like this...
 あーよかった。\n箱のほうも、そんなに壊れてないみたい。\nせっかく手入れしたのに、もし壊れてたら泣いてたわよあたし。=Oh, thank goodness. The cabin doesn't seem to be damaged much, either. I'd have cried if it had been broken after all the effort we put into building it.
 【バンディ・シスターズ】は強敵でしたが……\nオニギリさまを仲間にお迎えできたのは、すばらしい収穫ですね。\nこれからの冒険において、とても心強いです。=[Bandit Sister] was a formidable foe... but being able to welcome Onigiri-sama into our fold is a wonderful achievement. It's very reassuring for our future adventures.
 今までよりも、もっと早く前に進めますね！\nさぁ、続けていきましょう──\nわたしたちのなくした宝物を、さがすための旅を♪=We'll be able to move forward faster than ever before! Now, let's continue~ Let's go on a journey to find the treasure we lost♪
+
+Next chapter's teaser:
 リンドです=Lind here
 騎士さんたち、頑張ってくれてますけど……=Kishi-san and the others are doing their best, but...
 まだぜんぜん、信用なんかしてませんからねっ！=I still don't trust you entirely yet!
 ね、ヴルム！？=Right, Wurm!?
 第三部三章　宝石兎と天使の雷=Chapter 3: The Jeweled Rabbit and Angel’s Lightning
 ちょっとヴルム！？　どこ行ったの～っ！？=Hey, Wurm?! Where did you go?!
+
+
+Substory VI:
 メイド・イン・ドラゴン=Dragon Maid
+
+Summary:
 ドラゴン族の仲間を求めジオ・テオゴニアに来たカヤとイノリ。だがリンドとヴルムが不当に労働させられていると勘違いしたイノリの暴走で城への不法侵入がバレ、罰としてメイド服でお掃除する羽目になった。=Kaya and Inori had come to Gio Teogonia in search of their dragon friend. However, because they had assumed that Lind and Wurm were being forced to work unjustly, they had gone berserk and trespassed into the castle. As punishments, they had to clean up their mess in maid uniforMiss
+
 カヤ＆イノリ=Kaya＆Inori
+
 ある日……\n『ジオ・テオゴニア』の城下町にある二人が訪れた。=One day... two people visit the Castle of Parfait of 'Gio Teogonia' .
 ふっふっふ……\nここが『ジオ・テオゴニア』ですか。\nお兄さんに聞いた通り、甘ったるそうな街ですね……！=Hehehe... So this is 'Gio Teogonia', huh? It's just as sweet as I heard from Onii-san...!
 ドアの一つでも食べてやりたくなるです。\nあ、この辺なんかチョコたっぷりでおいしそうですよ！\nどれどれ、ガブッと──♪=It makes me want to eat at least one of the doors. Oh, there's lots of chocolate around here, and they all looks delicious! Let's see, which side I should eat first~♪
@@ -1282,9 +1372,16 @@ Ah…やっぱり引いてる~…=Ah... Of course it's going to be like this...
 あたしはただ助けてやろうとしただけなのに～～～っ！！=I was just trying to save her!!
 は～あ……\n暴れてぇ……=*sigh*... I'm going crazy...
 一日メイドとなったイノリとカヤは、\n大広間がピカピカになるまで掃除する羽目になったのだった……=Having become maids for the day, Inori and Kaya had to clean the main hall until it was sparkling clean...
+
+
+Substory VII:
 くらえ！　たい焼きくん=Damn you, Taiyaki!
+
+Summary:
 タマキはつい上の空になるほどジオ・テオゴニアでの商売について考えていた。仲間の言葉から着想を得てたい焼き屋を始めるが、住民たちのセンスで作られたカラフルたい焼きに思わずドン引きするのだった。=Tamaki is lost in her thought, thinking about expanding her business into Gio Teogonia. Inspired by her friends' words, she starts her own taiyaki shop, but is captivated by the colorful taiyaki made by the local residents.
+
 ユカリ＆ミフユ=Yukari＆Mifuyu
+
 よーし、次は右手を見てみな！\nあれが城下町名物・チョコレート噴水だっ！=Alright, next, take a look to your right! That's the castle town's point of interest, the chocolate fountain!
 おおお……！=Ohhh...!
 魔物の襲撃に遭った街の復興を援助するため、\n【メルクリウス財団】は{playername}、ヴォルガーノと共に\n『ジオ・テオゴニア』を訪れていた。=Mercurius Foundation was visiting Gio Teogonia along with {playername} and Volgano to help rebuild the city after the monster attack.
@@ -1363,10 +1460,16 @@ Ah…やっぱり引いてる~…=Ah... Of course it's going to be like this...
 うう……！\n新しい世界でたい焼きが認められるのはうれしいけど……=Ugh...! I'm hyappy that taiyaki is accepted in this new world, but...
 こんなのたい焼きじゃないにゃ～～～っ！！=This isn't taiyaki-nya~!!
 キャッスル・オブ・パルフェ～城前広場～=Castle of Parfait - Castle Plaza -
+
+Interlude II:
+
+Summary:
 キャルたちを捜しに街へ繰り出した{playername}とペコリーヌ。そこで璃乃たちと出会い、現実での再会を喜び合う。その折、ペコリーヌはランドソルの住民だという者に話しかけられ困惑するのだった。={playername} and Pecorine went out into the city in search of Kyaru and the others. They met Rino and the other girls there, and they rejoiced at their reunion in the real world. At that moment, Pecorine was bewildered to be spoken to by someone who claimed she was a citizen of Landosol.
+
 璃乃・ミミ・あかり=Rino, Mimi, Akari
 言い争う声=Voices arguing
 警察官=Police officers
+
 ……くんくん。\nくんくん……=*sniff sniff* *sniff*...
 ……ねぇ。\nあんた……ちょっと、ケモノくさくなーい？=...Hey. Aren't you... reek of animal smell?
 たく、マナーなってないわー\nあたしのトコに来る前に、\nちゃんとフロくらい入っときなさいよねー=Tch, you don't have any manners. You should at least clean yourself before you come to me

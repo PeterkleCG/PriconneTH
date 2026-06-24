@@ -1,3 +1,5 @@
+Tamaki's Birthday
+
 今日もたい焼き屋のお手伝いおつかれさまにゃ～\n{playername}がいると\n接客も新たい焼き開発も捗って助かるにゃあ。=Thanks nya lot for helping out at the taiyaki stall again today~ With you here, both customer service and coming up with new taiyaki ideas go so much smoother. You’re a huge help, nya.
 でも、最近よく手伝ってくれるけど、\nなにか欲しいものでもあるのかにゃ？=But... lately you've been nyehelping me a lot, is there something you want to buy, nya?
 そうなのにゃ？\n欲しいものが買えたのならよかったのにゃ。\n働いたお金をパーッと使う瞬間は格別だからにゃ～♪=Is that so, nya? If you bought what you wanted, then I'm glad, nya. The moment when nyou spend all the money you've earned is something special, nyaaaa.
@@ -8,5 +10,6 @@
 ……二つ、プレゼントをもらった気分にゃ。=...This year, I feel like I got two wonderful presents, nya.
 そうだにゃ！\n早速クッションの座り心地を確かめてみるにゃ！=Ah, I know! Let's see just how comfortable this cushion actually is, nya!
 ほら、{playername}も一緒に座るんにゃ！\nもっとくっつかないと、座れないにゃよ。\n……にゃはは、心地いいにゃ～♪=Come on, sit here with me, {playername}-nya! Scoot closer, or nyou won't find space, nya. ...Nyahaha, this is so comfy~♪
+
 実は、もう買ってあるんだ。=Actually, I've already bought what I wanted
 たまき、誕生日おめでとう。=Tamaki... Happy birthday!

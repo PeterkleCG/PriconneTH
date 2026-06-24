@@ -1,5 +1,10 @@
+Arc 3, Chapter 9, Third part
+
+Chapter Names
 はじめてのおつかin裏世界=My First Time in Teogonia
 ヨリvsミソラ～Round2～=Yori vs Misora~Round 2~
+
+Interlude
 国際警察の仕掛けた罠によって\n捕縛されそうになる{playername}たち。\nだが深月の活躍で、窮地を乗り切ることができた──={playername} and the others were almost captured by a trap set by the Interpol. However, thanks to Mitsuki's efforts, they manage to get out of the predicament.
 ──研究棟の廊下の闇を、\n{playername}たちは無我夢中で走り抜ける。\nしかし──=As they ran through the darkness caused by a surprise breakout, {playername} and his friends continue their escape without thinking. But...
 停電で発生した一瞬の隙を突き、彼女を攫ったのは──=The one who took advantage of the momentary opening caused by the blackout and kidnapped her was...
@@ -154,8 +159,12 @@
 『ふふっ♪\nまだ、一人分のスペースが空いてますし。\n取り戻さなくちゃいけないもの、たくさんですけど……』=Hehehe♪ There’s still enough space for one person. There are a lot of things we need to get back, but...
 こうしてると……なんか、やれそうな気がしてくるわね。\n根拠なんて全然ないけどさ。=Seeing you like this... makes me feel like we can do it. I don't have any basis for this confidence, though.
 はい！\n主さま、ペコリーヌさま、キャルさま！\nわたくしがみなさまを──精一杯、ガイドいたしますよ！=Yes! My Lord, Lady Pecorine, Lady Karyl! I'll guide you all to the best of my ability!
+
+New Titlecards
 運転手=Driver
 ペコリーヌ・真軌=Pecorine Masaki
+
+Player Prompts
 助けに来たよ、ペコさん！=We're here to save you, Peco!
 初音ちゃん──！？=Hatsune-chan?!
 こころちゃん！？=Kokoro-chan!?
@@ -164,11 +173,15 @@
 また会いましょう、マサキさん……！=I hope we meet again, Masaki...!
 ……『お父さま』……=..."Father"...
 来てくれてありがとう、こころちゃん。=Thank you for coming, Kokoro-chan
+
+Preview
 みんな助けてくれてありがとう=Everyone... thanks so much for saving me!
 次の世界は私も一緒に冒険を……=I'll be joining your adventure in the next world...
 って、いきなり離れ離れになっちゃったんだけど！？=Wait... WE'VE ALREADY BEEN SEPARATED!?
 第三部十章　闇謀のジオ・ニヴルヘル=Chapter 10: Gio Nivlhel's Evil Plot
 あなたたち、もしかして……！？=That person, it can't be...!?
+
+Substory
 ある日のランドソル。\nヨリは軽やかな足取りで、約束の待ち合わせ場所へと向かっていた。=One day in Landosol, Yori made her way in short steps to the appointed meeting place.
 ふふっ♪\n最近一緒に遊べてなかったし、\nリンさんと会えるの楽しみだな……=Hehe♪ We haven't been able to hang out lately, so I'm looking forward to meeting Rin-san...
 あっ、ヨリヨリ～\nこっちこっちー=Ah, Yori-yori! Over here, over here!
@@ -270,7 +283,11 @@
 ちょっとあんた、何言ってるのよ！\nただのビギナーズラックよ！\n次は絶対そうはいかないんだから！=Hey, you, what are you saying?! That was just beginner's luck! That's definitely not going to happen next time!
 ふふっ……思ってたより面白そうなメイドさんですね♪\nでも絶対、次はそう上手くいきませんよ～？=Heehee... You seem like a more interesting maid than I thought♪ But next time it definitely won't go so well, right?
 遊戯者たちが集う闘いの殿堂──\n結局ヨリたちも、彼らと同じくさまざまな遊戯に没頭し\n魂が滾るような熱い時間を過ごしたのだった……=A hall of battle where players gather - In the end, Yori, Misora and Wyrm were absorbed in various games, spending a passionate time that made their souls boil...
+
+Player Prompts
 リン？=Rin...?
+
+New Titlecards
 ゲームセンターの客１=Game Center Customer 1
 ゲームセンターの客２=Game Center Customer 2
 ゲームセンターの客３=Game Center Customer 3
@@ -280,6 +297,8 @@
 ミソラのアバター=Misora's Avatar
 ミソラ・ヨリ=Misora Yori
 アナウンス音声=Announcement voice
+
+Substory
 レディ・アラクネに勝った祝いの宴が終わり、\nライラエル一行はジオ・ゲヘナを去った。\nその次の日──=After the celebration for their victory over Lady Arachne, Lyrael and her companions left Gio Gehenna. The next day...
 え～っ！\nクルルちゃん、ジオ・テオゴニアっていうところにいるのっ！？=EEEEEEEEHHHHHHH?! Kururu-chan, so you're in this place called Gio Teogonia?!
 どうしたのですか、ナーナさん。\n大声を上げて。=What's wrong, Nana-san? Why are you shouting?
@@ -375,4 +394,6 @@
 こんなボロボロになっても、会いに来てくれるなんてっ……\nすっごくすっごくうれしいですよぉ～っ！！！=Even though you're in such bad shape, you still came to see me... I'm so so happy!!!
 うん、うんっ……\nナーナ、がんばった……がんばったよぉ～！！\nうえぇぇぇぇんっ！！！=Yeah, yeah... Nana did her best... she did her very best~!! Waaaaahhhh!!!
 朝日の中、クルルと熱い抱擁を交わすナーナ。\n苦難に耐え抜いたその姿に、\n周囲の皆は温かい拍手を送るのだった……=In the morning sun, Nana and Kururu share a warm embrace. Seeing her endure such hardships, everyone around them gives her a warm round of applause...
+
+New Titlecards
 シェフィ・ホウオウ=Sheffy Ho-ou

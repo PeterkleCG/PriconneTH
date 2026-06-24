@@ -1,3 +1,5 @@
+Nana's Birthday
+
 わぁ～……！\nドーナツがいっぱいだー！=Woooow...! There's so many donuts!
 いいのいいの？\nホントにこれ全部食べていいの？\nぜ～んぶ食べちゃうからねっ？=Are you sure? Really? I can eat all of these? Every single one, okay?
 えへへ、ありがと～！\nこんなに豪華な誕生日、はじめてかもっ♪=Ehehe, thanks~! This might be the first time I've ever had such a fancy birthday♪
@@ -8,5 +10,7 @@
 だって、ウサギさんはさみしーと死んじゃうんだもん♪=After all, rabbits die if they get lonely, you know~♪
 あ、そうだ！　あなたの誕生日、教えてっ？\n今度は斜がお返しにお祝いしてあげる！=Oh, that's right! Can you tell me your birthday? Next time, I'll be the one celebrating you in turn!
 今日みたいに豪華じゃないかもだけど……\nその分、精一杯たっくさんお祝いするから！\n今の斜みたいに、いい一年になりそう！　って思ってもらいたいもん♪=It might not be as fancy as today, but... I'll celebrate with everything I've got! I want you to feel the same way I do right now, that it's going to be a really great year♪
+
+Player Prompts
 斜ちゃんへの誕生日プレゼントだよ！=Of course, it's your birthday present, Nana!
 晩ご飯もちゃんと食べてね。=Make sure you eat your dinner, too!

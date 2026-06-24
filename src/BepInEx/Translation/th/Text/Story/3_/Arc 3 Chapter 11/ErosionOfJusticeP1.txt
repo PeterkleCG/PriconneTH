@@ -1,5 +1,7 @@
-侵食する“正義”=“ความยุติธรรม” อันกัดเซาะ
 キャルとプレシアと雪女=Kyaru, Precia and Yukino
+侵食する“正義”=The Erosion of "Justice"
+闇謀のジオ・ニヴルヘル=Gio Nivlhel of Darkness
+《EX》危険な影の群れ・学院={EX } A school full of dangerous shadows
 最後の裏世界『ジオ・ニヴルヘル』に向かった一同。\nしかし、謎の攻撃によって散り散りになってしまう。=Everyone made the call together to head for the final of the three Underworlds, Gio Nivlhel. However, a mysterious attack in the tunnel between worlds scattered our heroes.
 キャルとプレシアはジオ・ニヴルヘルの北方\n極寒の領域に迷い込み、危機に陥っていた。=Lost in the northern frigid territory of Gio Nivlhel, Kyaru and Precia had just wandered into more danger.
 ──陛下、陛下ぁ～♪\nおにぎりお持ちしましたよ～っ♪=...Your Majesty, Your Majesty♪ I've brought you some onigiri~♪
@@ -95,6 +97,8 @@
 ふふんっ！　じゃ～ね～っ♪=Heheh! See ya~♪
 めんご=Sorry
 ぅぅ……=Ugh...
+
+
 夢から覚めたキャルはユキノによってプレシア共々拘束され、馬車に乗せ\nられていることに気づく。キャルたちはユキノが二人のご飯を取りに行っ\nている間に脱出し、{playername}の元へ急ぐのだった。=After waking up from his dream, Cal realized that Yukino had restrained him and Precia along with him, and that they were in a carriage. Cal and the others had escaped while Yukino went to get their food, and they hurried to {playername}’s side.
 巨鯨城の小姓=The Page of the Giant Whale Castle
 一方──ノウェム、オクトーと別れた{playername}、\nヴァイオレット、グレイス、コッコロ、シェフィ、クリアの６人は、\nはぐれてしまったペコリーヌたちを捜していた。=Meanwhile──{playername}, who just parted ways with Novem and Octo, Violet, Grace, Kokoro, Sheffy and Quria were searching for Pecorine and the others who had gotten separated from the group.
@@ -214,12 +218,16 @@
 ……ごめんなさい。\nグレイス、騎士様……皆様。\nでも……=...I'm so sorry. Grace, Kishi-sama... Everyone. But...
 ……お願い。\nヴシュヴーズル。=...Please. Vušvður.
 ケーン……=Kan...
+ルルィ=Lului
 もちろん、約束します。=Of course, it's a promise
 ゾンビ化が、進んでしまう……=Her zombification would progress...
 ……どうもありがとう。=...Thank you very much.
+ヴシュヴーズル=Vušvður
 ジオ・二ヴルヘル～廃村～=Gio Nivlhel ～Abandoned Village～
 ソノの温泉アダルト㊙作戦=Sono's Hot Spring Adult Strategy
 モフモフと保健所と現実と=Fluffy, the Health Center, and Reality
+
+
 秘めた憤怒=Hidden Wrath
 ──ひいぃぃっ！\nなんだこいつら！？\nどっから湧いてきやがった……！=Eeeeeek! What's with these girls!? Where did they come from...!?
 『──排除、実行』="...Elimination. Execution."
@@ -368,11 +376,14 @@
 「「はい！」」\n「ん」="Yes!” “Mm."
 デック・ア・ルヴー\nデック・ア・ルヴー\n立ち給え。従い給え。殺め給え──="Dec-a-le-vue" "Dec-a-le-vue" "Stand up. Obey. Kill."
 『──死者の兵隊』="...Call Undead."
+グオﾞオﾞオﾞォﾞッﾞ……！\nグオﾞオﾞオﾞォﾞッﾞ……！\nグオﾞオﾞオﾞォﾞッﾞ……！=Guoooooohhh......! Guooohhh ......! Guoooh...!
 あのダークエルフ！\nネクロマンシーなんて、マイナーなもんを……！=That lousy Dark Elf! To think Necromancy comes down to a single word...!
 シャドウRたち=TYPE Rs
 村人たち=Villagers
 シェフィ・リリ・クリア=Sheffy・Riri・Quria
 三匹=Three
+リーザ=Lisa
+グオﾞオﾞオﾞォﾞッﾞ……！=Gwoooooohhh...!
 リリちゃん、クリアちゃん、プレシアちゃん！=Riri, Quria, Precia!
 ゾンビたちはお願いします！=Please, deal with those zombies!
 ん=Mm
@@ -383,6 +394,8 @@
 ペコリーヌさん、今よ！=Pecorine, do it now!
 はい！　グレイスさん、あなたっ！=Yes! Grace, {playername}, you're up!
 あんたの相手はあたしよっ！=Look sharp! I'm your opponent here!
+
+
 椿ヶ丘を走る、一台の軽トラ。\nその荷台の上で──\n一頭のリャマが、長い眠りから目を覚まそうとしていた。=A light truck was driving through Tsubakigaoka. On the back of the truck, a certain llama was about to wake up from a long sleep.
 ……リミャ……リミャ～……──リマ……？\n（……むにゃ……むにゃ～……はっ！\n──ん？　ここは、トラックの荷台……？）=...Rimya... Rimya... Rima...? (...Mnyah... Mnyahh... Hah! Hmm? Is this... the back of a truck...?)
 リマ？　……リマ～！\n（なんだかすご～く長い間寝てた気がするけど……\nどういう状況かしら。あの、運転手さん？　運転手さ～ん！）=Rima? ... Rima! (It feels like I've been sleeping for a really long time... I wonder what's going on. Um, Mr. driver? Driver!)
@@ -446,6 +459,8 @@
 保健所職員１=Health Center Employee 1
 保健所職員２=Health Center Employee 2
 動物園職員=Zoo Staff
+
+
 現実世界に帰還した途端、保健所へと連行されるリマ。まひるに救出され\nたものの言葉が通じず、改めてここは現実なのだと痛感する。だがそれで\nも一緒にいたいと通じあった二人は、行動を共にしようと決める。=The moment they returned to the real world, Lima was taken to the nurse’s office. The words of what Mahiru had rescued didn’t get through to her, and she was once again painfully aware that this was reality. But even so, the two of them had come to understand that they wanted to be together, so they decided to act together.
 オーエドで人気の温泉複合施設。\n湯けむりの中、足湯に浸かるソノ、ユカリ、ルカの三人の姿があった。=A popular hot spring complex in Oedo. Sono, Yukari, and Ruka were seen soaking their feet in the steamy hot spring.
 はぅぁぁぁぁ～～～………=Haaaaah~...
@@ -516,3 +531,6 @@
 ユカリ・ルカ=Yukari Ruka
 マッサージ師=Masseuse
 中身が大人であることを隠して温泉施設を楽しむソノ。だが健康オタクが\nゆえにマッサージで野太いリアクションをしてしまい、ユカリとルカから\n中身は『おじさん』ではと、斜め上の疑いをかけられてしまう。=Sono hides the fact that she's an adult on the inside and enjoys hot spring resorts. But because she is a healthy otaku, she reacts wildly with a massage, and Yukari and Ruka suspect her as an “uncle” on the outside.
+うおおぉぉー=Whoooooaaa!
+ぴ……ぎゅ……=*squeeze*...
+やばい……わね……=This is... bad...

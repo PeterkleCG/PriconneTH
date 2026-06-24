@@ -1,7 +1,14 @@
-三つ巴の争覇=ศึกชิงชัยสามฝ่าย
+Arc 3 Chapter 16 Part One
+
+Name
+三つ巴の争覇=Three-way Conflict for Supremacy
+
+Chapter Names
 シェフィの特訓=Sheffy's Special Training
 竜の卵=Dragon Egg
 『憤怒』vsアストライア=Wrath vs. Astraea
+
+Chapter 1
 ──はぁっ……、はぁっ……！=Haah... haah...!
 がんばんなさい。\nがんばんなさいよ、シェフィ……！=Keep it together... Keep it together, Sheffy...!
 ……ッ！！\n（た──耐えて、私！　耐えるのよッ……！！）=...Mm!! (B-Bear with it, me! You can do this...!!)
@@ -77,6 +84,8 @@
 ヤトガミさん……、ご無沙汰しています。\n『こっち』では、初めましてですけど。=Yatogami-san... It has indeed been some time. I believe our very first time meeting "here".
 『プリンセス・ユースティアナ。\nあの時は、残念ながら袖にされてしまいましたが──』="Princess Eustiana. Back then, you unfortunately rejected my offer..."
 『──あらためて。\nそちらと交渉をさせていただきたい』="Yet again. I would like to negotiate with you..."
+
+Player Prompts
 おいしそう！=Looks delicious!
 たしか、『直せないバグ』なんだっけ…=I recall it being an "unfixable bug"...
 現実のほうでも、仕掛けてくるなんて……=I can't believe her plans extend to reality...
@@ -86,7 +95,11 @@
 ……ヤトガミさん！=...Yatogami-san!
 どうして僕は大丈夫なのかな？=I wonder why I am unaffected?
 そんなに悪い人には、見えなかったけど……=She didn't strike me as a bad person...
+
+New Titlecards
 台所のコッコロ=Kokkoro in the Kitchen
+
+Chapter 2
 せいっ！！=SEIII!!
 いいね、ロランド。\n──では、もう一度。=C'est ça (That's it), Roland. ...Now then, encore (once more).
 はァっ！！=HAAAAH!!
@@ -161,8 +174,12 @@
 もちろん、ヴィーちゃんのミルク──=Of course...! Vee-chan's personal milk~
 ──いいえ。\nリソースは……=Wrong. Those "resources" are...
 離乳食のように細かく砕いた、『この世界』です。=This entire "world", broken into tiny pieces just like baby food.
+
+New Titlecards
 グルーヌイ・ロランド=Grenouille Roland
 ヤトガミ・グルーヌイ=Yatogami Grenouille
+
+Chapter 3
 ランドソルから離れた荒地にて──\n【美食殿】と【ウォーロック】が対峙していた。=In a wasteland far from Landosol, the "Gourmet Guild" and "Warlock" faced each other.
 やぁやぁ諸君。\n御足労いただき、恐悦至極。=Well now, greetings, everyone. I'm most grateful you took the trouble to come.
 ……ずいぶん寂しいトコに呼びだしてくれたじゃない。\n闇討ちでもしようっての？=...Quite the lonely place you called us to. Planning to stage an ambush?
@@ -258,29 +275,35 @@
 みんな──=Everyone...
 ここは、わたしに任せてください。\nみんなは、あのドラゴンたちをお願いします。=Leave this matter to me. You should all take care of those dragons.
 ……わかったわ。\n気を付けて、ペコリーヌさん……！=...Got it. Be careful, Pecorine-san!
+
+New Titlecards
 ウォーロック=Warlock
+
+Player Prompts
 キャルちゃん、下がって……！=Kyaru, GET BACK...!
 （やっぱり……）=(I knew it...)
-許さないっ！　許さないっ！　お前はっ！=ไม่ยกโทษให้! ไม่ยกโทษให้แกเด็ดขาด! แกคนเดียวเท่านั้น...
-お前だけはああああぁぁっ！！=ที่ฉันจะไม่มีวันยกโทษให้!!
-だあああああっ！！=ด๊าาาาาา!!
-はあああああっ！！=ฮ้าาาาาา!!
-私たちから──奪うだけ、奪っておいて！=เอาแต่แย่งชิงทุกอย่างไปจากพวกเราเสมอ!
-わたしは、もう──誰からも奪ったりしません！=ฉันจะไม่แย่งชิงอะไรจากใครอีกแล้วค่ะ!
-貴様ああぁぁっ！！=แก...!!
-うぉぉぉぉっ！！=อุว๊าาาา!!
-はあああああっ！！　だあああああっ！！=ฮ้าาาา!! ด๊าาาาา!!
-──ようやく馬脚を現したか、フェイスレス……=ในที่สุดก็เผยตัวจริงแล้วสินะ... เฟซเลส...
-やっぱりすごい、この人……！=สุดยอดจริง ๆ คนๆนี้...!
-一時休戦！　いいわね！？=พักรบชั่วคราว! เข้าใจนะ!?
-さすがだねロランド=สมกับเป็นโรแลนด์จริง ๆ
-上級捜査官！？　どこに――=เจ้าหน้าที่สืบสวนระดับสูง!? อยู่ที่ไหน――
-ぐっ……！？　がはっ、ぁっ！？=อึก...!? อั่ก...!?
-いやー=โห...
-これほど負荷をかけても膝すらつかないか=ขนาดรับภาระหนักขนาดนี้...ยังไม่ยอมคุกเข่าอีกเหรอ
-素晴らしい=ยอดเยี่ยมจริง ๆ
-……だが、そろそろゲーム・チェンジの時間だよロランド捜査官=...แต่ได้เวลาพลิกเกมแล้วนะ เจ้าหน้าที่สืบสวน โรแลนด์ 
-あれは──！=นั่นมัน...!
-ク、クククッ──=คึ~คึคึคึ...
-ミロク！？　それに……！=มิโรคุ!? แล้วก็...!
-陛……下……！？=ฝ่าบาท...!?
+
+Cutscene
+許さないっ！　許さないっ！　お前はっ！=I will not forgive you! NEVER! YOU...!
+お前だけはああああぁぁっ！！=YOU ARE UNFORGIVABLEEEEE!!!
+だあああああっ！！=DAAAAHHHHHHH!!
+はあああああっ！！=Haaaaaahhhh!!
+私たちから──奪うだけ、奪っておいて！=ALWAYS... TAKING ALL YOU WANT FROM US!
+わたしは、もう──誰からも奪ったりしません！=I will not take anything from anyone anymore!
+貴様ああぁぁっ！！=YOU BASTARD!!!!
+うぉぉぉぉっ！！=UWAAAAAHHHHH!!
+はあああああっ！！　だあああああっ！！=Haaaahhhh!! DAAAAAAAGH!
+──ようやく馬脚を現したか、フェイスレス……=So you've finally shown your true face, Faceless...
+やっぱりすごい、この人……！=I knew it, this guy's something else...!
+一時休戦！　いいわね！？=Temporary truce! Got it?!
+さすがだねロランド=Impressive as always, Roland
+上級捜査官！？　どこに――=Senior agent!? Where are you――
+ぐっ……！？　がはっ、ぁっ！？=GUH...!? Ghhhhh...!?
+いやー=My...
+これほど負荷をかけても膝すらつかないか=Even with such an immense strain, you still won't kneel
+素晴らしい=Wonderful!
+……だが、そろそろゲーム・チェンジの時間だよロランド捜査官=However... it's about time for a game change, Agent Roland
+あれは──！=That is...!
+ク、クククッ──=K-Kukukuu~
+ミロク！？　それに……！=MIROKU?! And...!
+陛……下……！？=Your... Majesty...?!

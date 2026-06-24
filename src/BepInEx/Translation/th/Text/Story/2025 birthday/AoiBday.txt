@@ -1,3 +1,5 @@
+Aoi Futaba's Birthday
+
 い、今……なんと仰ったんですか……？=J-Just now... what did you say...?
 誕生日……パーティー……\nそんなの、噂でしか聞いたことがありません……=A birthday... party... I've only heard rumors about such things...
 えっと……誕生日パーティーって誕生日にするものですよね。\n今日は何の変哲もないごく普通の平凡な一日……\n一体誰をお祝いするんですか……？=Umm... birthday parties are for birthdays, right? But today is just a totally normal, uneventful day... So who's the one we're celebrating...?
@@ -8,6 +10,8 @@
 二人で過ごす、誕生日……えへへ。=Spending my birthday... with just the two of us... ehehe.
 ま、まずはなにをしたらいいですか……？\nそ、そうだ、プレゼントを用意しないとですね。\n誕生日パーティーを記念するプレゼントを……=Wh-What should we do first...? Oh, right... I need to get a present ready. Something to commemorate this birthday party...
 団長さん。\n二人で最高の記念日にしましょうね……♪=Danchou-san, let's make this the best celebration ever with just the two of us...♪
+
+Player Prompts
 誕生日パーティーをやろう。=Let's throw a birthday party 
 もちろん碧だよ。=You, of course, Aoi
 プレゼントも用意済みだよ。=Yup. I’ve already got your present ready

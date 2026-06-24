@@ -1,24 +1,31 @@
-アルシャトの誘惑=การล่อลวงของอัลชาต์
+Part 3, Chapter 14 1-3 & Substory R
+
+Chapter Name
+アルシャトの誘惑=Alshat's Temptation
+
+Chapters
 主さまはどこへ=Where Did My Lord Go?
 竜の浮島=Dragon's Floating Island
 アルシャトの招き=Alshat's Invitation
 ヒーローとお使いと現実と=Heroes, Errands and Reality
+
+Chapter 1
 ぅ、ぅ……！=Uu, uu...!
 ……どうか……\n……どうか、お許し、を……っ……=...Please... Please, forgive me...
-──ああ、リリちゃん。=...Aaah, Lily-chan.
+──ああ、リリちゃん。=...Aaah, Riri-chan.
 また、うなされてる。\n泣いている……=Once again... she's having a nightmare. Crying...
 きっと、『再々構築』の前のこと……\nわたしたちが、たくさんのプレイヤーの人たちを\n手にかけてしまったときのこと……思い出して、夢に見てる……=I'm sure it's a nightmare from before the "Reconstruction"... when we killed so many players... She remembers it, dreams about it...
 最近は、うなされること、減ってたけど。\nでも今は、お兄さんが……いなくなってしまって……\nコッコロさんの話だと、『こっち』にはいないかもしれなくて……=It's been happening less lately. But now, Onii-san's... gone... From what Kokkoro-san said, he might not even be "here"...
 ……お兄さん、無事なんでしょうか……\nすごく、すごく心配です。\nもしお兄さんに何かあったら、わたしっ……=...Onii-san, I wonder if you're okay... I'm really, really worried. If something were to happen to you, I...
 ──にい、さま……っ……=Nii-sama...
-……ああ。\nリリちゃんも、きっと、わたしと同じ気持ち。\nお兄さんがいなくて、心細くて、怖くて、不安で仕方ない……=...Yeah. I'm sure Lily-chan feels the same way I do. Without Onii-san around, she can't help but feel lonely, scared and anxious...
-よくわかる。\nだって、今リリちゃんが見てる、あの悪夢みたいな状況から\nわたしたちを救ってくれたのが、お兄さんなんだもん……=I understand. After all, it was Onii-san who saved us from that nightmarish situation that Lily-chan is dreaming about right now...
+……ああ。\nリリちゃんも、きっと、わたしと同じ気持ち。\nお兄さんがいなくて、心細くて、怖くて、不安で仕方ない……=...Yeah. I'm sure Riri-chan feels the same way I do. Without Onii-san around, she can't help but feel lonely, scared and anxious...
+よくわかる。\nだって、今リリちゃんが見てる、あの悪夢みたいな状況から\nわたしたちを救ってくれたのが、お兄さんなんだもん……=I understand. After all, it was Onii-san who saved us from that nightmarish situation that Riri-chan is dreaming about right now...
 ……、っ……=...Ngh...
-ああ……泣かないで、リリちゃん。\nあんなの、リリちゃんのせいじゃないんですから。\n……だって──=Ah... Don't cry, Lily-chan. That wasn't your fault. ...Because...
+ああ……泣かないで、リリちゃん。\nあんなの、リリちゃんのせいじゃないんですから。\n……だって──=Ah... Don't cry, Riri-chan. That wasn't your fault. ...Because...
 ぜんぶ。ぜんぶ。\n本当は……わたしのせい、なんですから──=Everything. Everything. The truth is... it's all my fault──
 ──３日前──=Three days ago
 ──何者かによって、仲間たちの前から\n強制的に転移させられてしまった{playername}。\n懸命な捜索も、実を結ぶことなく……=...{playername} was forcibly teleported away from his companions by someone. Their desperate search has so far come up empty...
-……リリさんたち、少しは休めてるかしら。\n{playername}のことが心配なのは、みんな同じなんだし……\n交代で休まないと、身体を壊してしまうわ。=...Hah. I wonder if Lily-san and the others are getting some rest. I know that they're all worried sick about {playername}, but... If we don't take turns resting, we'll all get sick.
+……リリさんたち、少しは休めてるかしら。\n{playername}のことが心配なのは、みんな同じなんだし……\n交代で休まないと、身体を壊してしまうわ。=...Hah. I wonder if Riri-san and the others are getting some rest. I know that they're all worried sick about {playername}, but... If we don't take turns resting, we'll all get sick.
 あいつらこの３日間、寝ずにシャドウ飛ばしまくって\n大陸中を端から端まで捜し回ってくれたもんね。\nそりゃ、ぶっ倒れもするわ。=They've been without sleep for the past three days, sending out their Shadows all over the place, searching the entire continent from end to end. It's no wonder they're exhausted.
 はい。\n人目の付く街や村などは、主さまのお仲間の方々が\n足を延ばし、手を尽くしてくださっている最中ですが……=Indeed. My Lord's allies are also doing all they can, looking in all sorts of villages or towns for clues...
 王宮や冒険者ギルドの情報網も、まだ手がかりはないみたいですけど。\n裏世界の『門』が使われた痕跡もないですし、これってやっぱり……=It seems the information networks of the royal palace and the adventurer's guild have not provided any clues yet. There are no signs that a "Gate" to the Underworlds was used, so this must be...
@@ -90,7 +97,11 @@
 ……それだけじゃないわ。\nすごい遠くからっぽいけど、\nこの魔力の波動っ……=...That's not the end of it. It looks like it's coming from very far away, but this wave of magical energy...
 ……！\nこの方角は、おそらく──=...! This direction is probably...
 エルピス島っ……？=Elpis Island...?
-寝ているリリ=Sleeping Lily
+
+New Titlecards
+寝ているリリ=Sleeping Riri
+
+Cutscene
 集まってくれて、ありがとう=For gathering here, you have my thanks...
 私のプリンセスナイトたち=My Princess Knights
 ──はっ=...Ha!
@@ -102,6 +113,9 @@
 ふぁぁ～……♡=*yawn*...♡
 ……ぁふ……♡=...Afh...♡
 ぉはよ♡　ヴィーちゃん……♡=Good morning, Vee-chan...
+
+
+Chapter 2
 ……ふぁ♡\nんん……はぁ。\nよ～く寝ちゃいました……♡=...Fwah ♡ Mmm... Hah. What a good sleep...♡
 おはよう、アルシャト。\n……服が乱れていますよ。=Good morning, Alshat. ...Your clothes are in disarray.
 やだぁ♡\nヴィーちゃんたら、見ちゃだ～め♡=Oh no~ Vee-chan you meanie, no peeking~
@@ -201,8 +215,12 @@
 みんなで裸になって、大事なトコロを洗いっこして。\n美味しいモノを食べて。\nナカを深めて……♡=Let's all get naked, then wash each other's precious parts. After, we'll eat delicious food. Deepening our bond...♡
 ……ウフ♡\nそれからワタシは──=...Ufu♡ And I...
 メインディッシュの{playername}ちゃんが来る前に。\nあの子と、あの子と、それからあの子を、\nいただいてしまおうかしら……♡=Before the main dish, Cherry-chan, arrives. I think I shall taste that girl, that other one and also... that girl♡
+
+New Titlecards
 リーザ・フレイヤ=Lisa Freyja
 アルシャト=Alshat
+
+Chapter 3
 この世界がなんかおかしい、ってのは。\nぶっちゃけ、ずっと前からわかってた。=There's something strange about this world. To be honest, I've known that for a long time.
 たとえば、\nクロさんみたいな『古代兵器』が地面の中に埋まってたり。=For example, how there's some ancient weapon like Cro-san just buried underground.
 たとえば、\nお城や家をわざわざお菓子で作ってたり。\n親もバラバラな、いろんな種族がいたり。=Or how there's an entire castle and houses made out of sweets. How all the people here have different parents of different races.
@@ -311,18 +329,18 @@
 ったくもう！\n島が荒れたせーで、魔物たちも荒れちゃってるみたいね……！=Geez !It seems like the monsters are becoming wild because this island's also going crazy...!
 いっぱい。\nくるよ。=Lots. Incoming.
 こうなれば……やむを得ませんね。=Since the situation has evolved to this... we have no choice.
-……！\n待って、リリちゃんっ──=...! Wait, Lily-chan!
+……！\n待って、リリちゃんっ──=...! Wait, Riri-chan!
 シャドウ──……=Shadow...
-リリちゃんっ！\n危ないっ──=Lily-chan! Watch out--...
+リリちゃんっ！\n危ないっ──=Riri-chan! Watch out--...
 「ペコリーヌさま！」\n「ペコリーヌさんっ！」="Lady Pecorine!" "Pecorine!"
 ったく！\nごはん食べてないフラフラで、無茶してっ──=Geez! You haven't eaten anything and you're acting recklessly--...
 コロ助！　シェフィ！\n撤収よ！\nアホリーヌ運んで！=Korosuke! Sheffy! We're withdrawing! Carry Dumborine with me!
-はい！\nクリアさまとプレシアさまは、リリさまをお願いします……！=Yes! Lady Quria and Lady Precia, please take care of Lady Lily...!
+はい！\nクリアさまとプレシアさまは、リリさまをお願いします……！=Yes! Lady Quria and Lady Precia, please take care of Lady Riri...!
 んっ──=Huh~...
 も、申し訳ありませんペコリーヌ様っ……\nですがっ──=M-My deepest apologies, Lady Pecoline... But...
-リリちゃんっ……！？=Lily-chan...?!
+リリちゃんっ……！？=Riri-chan...?!
 わたくしはまだ、大丈夫です……！\n兄様の行方を知る手がかりが、万に一つでもあるのなら──\nこれしきで、音をあげるわけにはっ……=I am still able to fight...! If there is even a one in a million chance that I can find out where Nii-sama is... I cannot give up just because of this...
-だめっ……！\nだめですリリちゃん、これ以上はっ……！=No...! Lily-chan, you can't... any more than this and you'll...!
+だめっ……！\nだめですリリちゃん、これ以上はっ……！=No...! Riri-chan, you can't... any more than this and you'll...!
 リ、リアさんっ……？\nですが──=L-Lea-san...? However...
 『また』死んじゃうっ……！\n最初の冒険のときみたいにっ……！！=You're going to die "again"...! Just like in our very first adventure...!!!
 リアさん、何故それほどに悲痛に……？　愁苦辛勤──まるで、\n最初の冒険での全滅の責が己のみにあるかのように。\nあれは連帯責任……わたくしたち３人に等しく原因があったはずなのに。=Lea-san, why such anguish...? Such grief and torment -- almost as if you alone bore the blame for our first adventure's wipeout that turned us into Lost. But it was a shared responsibility... the fault lay equally with all three of us.
@@ -378,10 +396,16 @@
 ペコリーヌたちを襲うアルシャトの姦計や、リーザによる叛逆。\n幻境竜后の蠢動は、レジェンドオブアストルムだけでなく、\n現実世界までも滅びの危機へと突き落そうとしていた。=Pecorine and her friends are caught in Alshat's evil scheme, meanwhile Lisa rebels. Vision Empress's machinations threaten to plunge not only the Legend of Astrum into chaos, but the real world too.
 仲間を、世界を救うため。\n{playername}はレジェンドオブアストルムへと、\n再びダイブする。そして──=To save his friends and the world, {playername} Dives once again into the Legend of Astrum. And then...
 かつてのようにソルの塔付近の中空に投げ出された\n{playername}は、地面へ向けて落下していた──={playername} was thrown into the air near the Tower of Sol just as he had been before, and was falling towards the ground...
+
+New Titlecards
 ヴァイオレット・ユキノ=Violet Yukino
 黒灰色のドラゴン=Black-gray Dragon
 セントールス～客間～=Centaurus ～Parlor～
+
+Player Prompts
 落ちる──っ！！=I'm... FALLING!!!!
+
+Substory RVI
 参上ッ！\n【王宮騎士団（NIGHTMARE）】所属・\n天下無敵のスーパーヒーロー！　その名も──=Here I am! A member of the Royal Knights of NIGHTMARE, an invincible superhero! The name is...
 こら茉莉！　宿題もしないで何やってるの！\nスーパーヒーローの前に、スーパーまで買い物に行ってきてくれない？\n今日の特売品はねえ……=Hey, Matsuri! What are you doing neglecting your homework? Before you go superheroing, can you go shopping at the supermarket? I wonder what they have on discount today...
 わ～っ、お、お母さんっ、部屋に入るときはノックしてほしいッス～！=UWAAAAH! M-M-M-Mom! Knock before you enter the room!

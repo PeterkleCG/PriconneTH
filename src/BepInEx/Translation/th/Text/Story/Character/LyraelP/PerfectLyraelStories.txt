@@ -1,10 +1,19 @@
-姫天使のアップルパイ=แอปเปิลพายของเจ้าหญิงนางฟ้า
-甘い雫=หยาดหยดอันแสนหวาน
-続々・天使のおままごと=ภาคต่ออีกหน・การเล่น...
+Perfect Lyrael Stories
+
+Chapter Names
+姫天使とハーモニー=Princess Angel and Harmony
+姫天使のアップルパイ=The Princess Angel’s Apple Pie
+甘い雫=Sweet Droplets
+続々・天使のおままごと=More and More Angel Make-Believe
+
 獄蜂に対抗するため、伝説の食材を一人で探すライラエル。食材が見つからず途方に暮れていると、国民たちが手伝いを申し出てくれた。そして、みんなの力を合わせることで、伝説の食材を発見するのだった。=In order to oppose the Hellbees, Lyrael sets out alone to search for a legendary ingredient. Just as she begins to lose hope after failing to find it, the citizens offer their help. By combining everyone’s strength, they finally discover the legendary ingredient.
 ジオ・テオゴニアを深く知るため、スイーツ献上式を開催するライラエル。参加者と共に自身もお菓子を作るが、あえなく失敗。だが決して諦めることなくお菓子と向き合い、見事なお菓子を完成させるのだった。=To better understand Geo-Theogonia, Lyrael holds a grand sweets offering ceremony. She joins the participants in making desserts herself but fails at first. Refusing to give up, she continues facing the challenge and ultimately completes a splendid confection.
-寝たきりのヴルムのためにお菓子を作りたいと考えたライラエルは、{playername}と共に材料を採取・調理をする。そしてヴルムは、ライラエルの想いと手作りプリンを受け取ると、涙を流したのだった。=Wanting to make sweets for the bedridden Vurm, Lyrael gathers ingredients and cooks together with {playername}. Upon receiving Lyrael’s heartfelt, handmade pudding, Vurm is moved to tears.
+寝たきりのヴルムのためにお菓子を作りたいと考えたライラエルは、{playername}と共に材料を採取・調理をする。そしてヴルムは、ライラエルの想いと手作りプリンを受け取ると、涙を流したのだった。=Wanting to make sweets for the bedridden Wurm, Lyrael gathers ingredients and cooks together with {playername}. Upon receiving Lyrael’s heartfelt, handmade pudding, Wurm is moved to tears.
 えるは、{playername}との夫婦ごっこを引き続き楽しんでいき、食後のデザート作りをしていく。頬にクリームがついてしまうと、愛しの旦那様に舐めとってもらい、えるは幸せそうに微笑むのだった。=El continues enjoying her pretend married life with {playername} as they prepare dessert after their meal. When cream ends up on her cheek, her beloved “husband” gently licks it away, and El smiles happily.
+
+
+
+Chapter 1
 『六凶』メリッサにより、大混乱に陥ったランドソル万博。\n対処のためにジオ・テオゴニアへ一時帰還したライラエルは、\n伝説の食材を求め城から一人飛び出していた。=The Landosol Expo was thrown into chaos due to the actions of Melissa, one of the "Six Evils", the "Prison Bee". To deal with the crisis, Lyrael temporarily returned to Gio Teogonia, then set out alone from the castle in search of a legendary ingredient.
 皆、クローチェも──待っていてください。\n必ず、助けてみせます……！=Everyone, Croce... please wait for me. I promise, I will save you...!
 獄蜂と戦うため、人質となってしまっている者たちを救うためにも、\nジオ・テオゴニアの伝説の食材を手に入れなくては……！=To fight the "Prison Bee", and to rescue those who've been taken hostage... I must obtain Gio Teogonia's legendary ingredient...!
@@ -71,10 +80,14 @@
 不安を感じる中で、それぞれができることをしてくれて……\n立場を超えて意見してくれたこと、\n種族を超えて協力してくれたこと……=Even while anxious, you each did what you could... speaking up beyond your stations, cooperating beyond the bounds of race...
 皆がしてくれた、それらすべてのことが、\nわたしはとてもうれしいのです。=I am so happy about all the things that everyone has done for me.
 そして、無事に伝説の食材を手に入れたライラエルは、\n城のシェフたちと協力をして調理を始めていくのだった。=And so, after successfully obtaining the legendary ingredient, Lyrael begins cooking with the help of the castle chefs.
+
+Player Prompts
 気になっていたので。それで食材は……？=I got worried. The legendary ingredient...?
 見つかってよかったです！=I'm so glad to hear that!
 みんな、すごいですね。=They all did a great job
 ……おいしいです！=...It's delicious!
+
+Chapter 2
 ランドソル万博が閉幕して、少し経ったある日のこと──\nキャッスル・オブ・パルフェの広場に集まった人々の視線の先には、\nこの国のプリンセスの姿があった。=One day, a little while after the Landosol Expo had concluded, the eyes of the people gathered in the plaza of the Castle of Parfait fell upon the Princess of their country.
 皆、よくぞ集まってくれました。\nこれより『スイーツ献上式』を執り行います。\n……いざ！=Everyone, thank you for coming. We will now begin the "Sweets Offering Ceremony". ...Let us begin!
 「ライラエルさまー！」\n「みんな、おいしいお菓子を作ってくれよー！」\n「ライラエルさま、今日も素敵ですー！」="Lady Lyrael!" "Everyone, please make some delicious sweets!" "Lady Lyrael, you look great today too!"
@@ -165,6 +178,8 @@
 ライラエルは真剣にお菓子と向き合うことができた。\nしかしライラエルとすれ違ってしまった{playername}は、\n傲慢モードになった彼女から弱め（？）の電撃を浴びるのだった。=Lyrael devoted herself to making sweets. But when {playername} accidentally misinterpreted her feelings, she went into her "prideful mode" and zapped him with a weak(?) electric shock.
 っ～～～……！=Mmm...!
 ライラエルは真剣にお菓子と向き合うことができた。\nそして、国民たちの親切な行為に、\nライラエルは顔を真っ赤にして喜び（？）をあらわしたのだった。=Lyrael devoted herself to making sweets, and when she realized what the people had done for her, she turned bright red with embarrassment(?).
+
+Player Prompts
 ライラエルさんも、がんばってー！=Good luck, Lyrael!
 このクッキー、すっごくおいしいです！=These cookies are really good!
 ライラエルさん……=Lyrael...
@@ -182,9 +197,13 @@
 ライラエルさんのお菓子、おいしいので。=I love to come here to eat your sweets, Lyrael
 ライラエルさんと一緒に過ごしたいので。=I'd love to spend time here with you, Lyrael
 宿代が浮くので。=This will save me a lot of money!
+
+New Titlecards
 国民たち=Citizens
 猫妖精の女性=Cat Fairy Woman
 コボルト族の女性=Kobold Woman
+
+Chapter 3
 献上式の成功から数日後。\n晴れやかだったライラエルの表情は今、\n考え事をしているせいか、まるで曇り空のようになっていた。=A few days after the successful "Sweets Offering Ceremony", Lyrael's once-bright expression now looked like a cloudy sky, weighed down by her thoughts.
 食は、人を幸せにする……\nこの言葉の意味を、今はより深く感じることができています。=Food... makes people happy. I feel the meaning of those words more deeply now.
 わが国民や騎士にも、わたしが作ったお菓子を食べてもらいました。\nですが……=I had my citizens and Knight both savor the sweets I made. However...
@@ -246,6 +265,7 @@
 ……あったかいよ。\nライラエルさまたちが……作った、プリン……\n……食べたら……胸が、あったかく、なりました……=...It's warm. It's the pudding Lady Lyrael and Knight-san made for me... When I ate it... my heart felt warm...
 ヴルム……=Wyrm...
 ライラエル、さま……\n手……=Lady Lyrael... your hand...
+はい……！=Yes...!
 姉貴、も……=Yours too, Sis...
 あぁ……やっぱりあったかい……\nです……\n……ぐすっ。=Ahh... They really are... warm... *sniffle*
 ……よかったね、ヴルム。=Ehehe... Good for you, Wyrm.
@@ -259,6 +279,8 @@
 ……わたしはヴルムとリンドだけではなく、この国の皆……\nそして、あなたを笑顔にするお菓子を、これからも作り続けていきます。=...I will continue to make sweets that will bring a smile to not only Wyrm and Lind, but to everyone in this country... and to you. I shall keep making sweets that bring you a smile.
 わたしは、わたしのお菓子を食べて、\n笑顔になってくれる人を見るのが大好きですから♪=I love seeing people smile when they eat my sweets♪
 そう話すライラエルの表情は、\n暗雲が過ぎ去った空を思わせるものとなっていた。=As she spoke, Lyrael's expression was reminiscent of a sky where dark clouds had passed.
+
+Player Prompts
 こんにちは、ライラエルさん。=Hello, Lyrael
 ……なにかあったんですか？=...Did something happen?
 力になりたいので、話してくれませんか？=I'd like to be of help, could you tell me more?
@@ -271,6 +293,8 @@
 気持ちを素直に伝えれば、大丈夫です。=Just tell her how you feel, it'll be fine
 届きましたね。ヴルムちゃんに。=You just saw their effect, with Wyrm
 ライラエルさんの手を握る。=*I take Lyrael's hand*
+
+Chapter 4
 {playername}は、ヴルムの様子や\n蜂の魔物が残っていないかを確認するため、\nジオ・テオゴニアに来ていた。={playername} had come to Gio Teogonia to check on Wyrm and see if there were still killer bees to take care of.
 様子を見に来てくれたこと、感謝します。\n言葉にはしませんが、ヴルムもきっと喜んでいますよ。=Thank you for coming to check on Wyrm. She may not say it, but I am sure she is happy you did.
 そういえば……騎士。\nあなたにはまだ、\n『至高の虹色タルト』を食べてもらっていませんでしたよね？=Come to think of it... Knight. You have not eaten the "Ultimate Rainbow Tart" yet, have you?
@@ -304,6 +328,7 @@
 あっ……きゃっ！？=Ah... Eek!?
 ……ごめんなさい。\n言ったそばから失敗しちゃいました♪=...I'm sorry. It seems I made one right after saying as much♪
 それじゃ……わたし今、両手が塞がっているので\nあなたが拭いてください。=Well then... my hands are full right now, so please wipe it for me.
+ダメ。=Nope.
 ダメ。と言ったんです。\nわたしたちは夫婦なんですよ？\nだとしたら、夫婦らしいクリームの取り方があると思いません？=Nope, I said. We're husband and wife, remember? There's a more... appropriate way to do it, don't you think?
 さあ？\nあなたがなにをしようとしているのか、わたしはわかりませんから。\nふふっ……♪=Who knows? It's not like I know what you're about to do. Hehe...♪
 ただ、そうですね……\nわたしは、あなたになら、なにをされても受け入れる。\nということだけは、伝えておきましょう♪=But, well... I'll accept anything you do to me. That's all I'll say♪
@@ -337,6 +362,7 @@
 ふふっ……♪\n──あら？　眠っている間にタルトが冷めましたね。\n切り分けますから、座って待っていてください。=Hehe...♪ Oh my? The tart got cold while we were sleeping. I shall cut it up, so please sit down and wait.
 えっ……！？\n食べさせたいというのは……=HUH...?! You want to feed me... what do you mean by that?
 き、騎士……わたし、ジオ・テオゴニアのプリンセスです。\nプリンセスとあろう者が、異性に食べ物を食べさせてもらうなど、\nそんなことは、なんというか……は、恥ずかしいではないですか……=K-Knight... I am the Princess of Gio Teogonia. For a Princess of all people to be fed by a member of the opposite sex, is... how should I put it... embarrassing, is it not...?
+で、ですが……=H-However...
 …………\n……わ、わかりました。\nそこまで言うのなら、た、食べさせてください……=...O-Okay. If you insist, p-please feed me...
 あ、あ～ん……=A-Ahhhh...
 ああぁぁっ、あぁぁ～～～～んっ……！=Aaah! Aaaaahn...!
@@ -347,10 +373,13 @@
 はぁ、はぁっ……\n……もう……、騎士っ……=*pant pant*... Geez... Knight...
 わたしにこんな思いをさせるなんて……\nやはり騎士は、わたしにとって……かけがえのない人、ですね♪=Making me feel like this... you really are... irreplaceable to me, you know♪
 {playername}と一緒に作ったタルトがあまりにおいしく、\nライラエルは感動のために、心身を震わせていったのだった。=The tart that she and {playername} had made together was so delicious that Lyrael was moved to tears.
+
+Player Prompts
 食べてみたいとは思ってました。=Yup, I wanted to try it
 手伝いますよ。=Let me help
 ……ごちそうさま？=Thanks for the... meal?
 確かにそうですね……=You're right...
+……分かった。=...Understood
 作ってるところ、見ていてもいい？=Can I watch you make it?
 見ながら、少し手伝わせて。=Allow me to give you a hand as I watch
 チーズケーキならジャムも合いそう。=Since it's a cheesecake, some jam would accompany it well

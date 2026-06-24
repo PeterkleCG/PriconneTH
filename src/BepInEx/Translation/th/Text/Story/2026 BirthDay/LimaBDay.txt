@@ -1,3 +1,5 @@
+Lima BDay
+
 リッマリマ～♪\n（今日はいい天気ね～♪\nなんだか草原を走り回りたくなっちゃう♪）=Lima-limaaaa~♪ (Such lovely weather today~♪ Makes me want to run all over the grasslands~♪)
 リマ、リーマ……\n（こんな日をあの人と一緒に過ごせたら、いいのにな……）=Lima-Liiiima... (It'd be nice... if I could spend a day like this with him...)
 リ～マ……\n（でも無理よね。そんなに都合のいいことなんて、起こらない。\n恋愛映画みたいに素敵な出来事なんて、そう簡単には……）=Lima... (But that's impossible. Things that convenient never really happen... Wonderful moments like in romance movies don't come along that easily--...)
@@ -9,6 +11,8 @@
 リッマリッマ！　リマリ～マ♪\n（わぁっ、これってバースデーケーキね……！\n動物でも食べられる特別仕様なんて……♪）=Limari! Limali~ma♪ (Wow, what an incredible birthday cake...! And it's specially made so animals can eat it too...♪)
 リマ～……リマリマ～♪\n（ウフフ。リンゴがたくさん……\nキラキラしてて、宝石みたい♪）=Lima~... Limalima~♪ (Hehehe. There are so many apples... All so shiny that they almost look like jewels♪)
 リマ～♪\n（ありがとう、{playername}くん！\n会いに来てくれた上にこんなに素敵なお祝い……最高の贈り物よ……♪）=Lima~♪ (Thank you, {playername}-kun! You came to see me and even celebrated like this... It's the most wonderful present I could ask for♪)
+
+Player Prompts
 リマちゃん！=Lima!
 会いたかったよ、リマちゃん。=I wanted to see you, Lima
 誕生日おめでとう、リマちゃん。=Happy birthday, Lima

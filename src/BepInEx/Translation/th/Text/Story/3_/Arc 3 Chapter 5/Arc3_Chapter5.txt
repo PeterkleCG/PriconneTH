@@ -1,17 +1,23 @@
-ジオ・ゲヘナと煉華の不死鳥=จิโอ・เกเฮนน่ากับฟีนิกซ์อมตะแห่งเพลิงชำระ
-業炎の世界、灼熱の激闘=โลกแห่งเปลวเพลิง การต่อสู้อันร้อนระอุ
-『煉華の鳳凰』=หงส์เพลิงชำระ
-ジオ・ゲヘナの人々=ผู้คนแห่งจิโอ เกเฮนนา
-対『六凶』作戦会議=ประชุมวางแผนรับมือ [หกหายนะ]
-煉獄のプリンセス=เจ้าหญิงแห่งเพลิงนรก
+
+Chapter 5:
+ジオ・ゲヘナと煉華の不死鳥=Gio Gehenna and the Immortal Phoenix of Purgatory
+
+Episode 1:
 妖魔人（モンストレス）=The Monstresses
+
+Summary:
 ジオ・ゲヘナに到着し、一息つける場所を探す一同。その折、プレシアが空中に浮かぶ無数の花を見つける。一同が警戒する中、花が矢のようになって降りかかり、妖魔人・アネモネと名乗る少女が姿を現す。= The group has arrived at Gio Gehenna and is looking for a place to rest when Precia noticed the countless flowers floating in the air. While everyone is on alert, the flower comes raining down like arrows, and a small girl who calls herself Anemone appears.
+
 恐竜型の魔物=Dinosaur Monster
 巨大怪獣=Giant Monster
 リリ・ハッピーちゃん=Riri&Happy-chan
+
 ロストしてしまった人々を捜す{playername}たちは、\n裏世界『ジオ・テオゴニア』から『ジオ・ゲヘナ』へと旅立った。\nだが──=Continuing their search for the Lost people, {playername} and his friends journeyed from the Reverse World of 『Gio Teogonia』 to 『Gio Gehenna』. \nAnd─
+──シャアアアアアッ！
+──ガオオオオオッ！
 逃げろ～っ！！=Runnn～!!
 ぴぎゅうううっ！！=Pigyuuuu!!
+──グオオオオオッ！
 どちらに行っても、魔物だらけです……！=There are monsters everywhere no matter where we go...!
 それに、火もどんどん広がっちゃってます！=And the fire is spreading rapidly!
 暑いっていうか熱いですっ！\nオニギリちゃんが焼きおにぎりになっちゃいますよ～っ！=It's not just hot, it's scorching!\nAt this rate Onigiri-chan will turn into a literal grilled rice ball!
@@ -66,6 +72,8 @@
 水耕栽培じゃなくて、空耕栽培ってことですか？\n栄養はどうしてるんでしょう……=If they're not cultivated through hydroponics, then is it aeroponics? How do they supply nutrients for the flowers even...
 気ぃ抜いてんじゃないわよあんたたちっ。\nたしかにちょっときれいだけど、どう考えたって怪しいわ……！=Don't let your guards down you guys.\nThey're certainly pretty, but also suspicious no matter how you look at it...!
 何かの魔法でしょうか。\nあるいは、魔物かもしれませんが……=Is it some form of magic? Or a work of another monsters... 
+
+Cutscene:
 わぁ～っきれいですね！=Wow, it's so pretty!
 確かにきれいではありますが、敵意を感じます=It's pretty, yes, but there's also a sense of hostility in them.
 みなさん、気を付けて！=Everyone, be careful!
@@ -79,12 +87,24 @@
 にげちゃだめ=Don't run.
 あなたさまはっ！？=You're ...!?
 ──アルラウネの妖魔人=─An Alraune Monstresses.
+アネモネ=Anemone.
 ま、待ってください！=W-Wait a minute!
 わたしたち、敵じゃないですよ～っ！=We're not your enemies!
 貴方たちは、私たちの領土に踏み込んだ=But you've invaded our territory
 排除します=I'll eliminate you.
 ──モネや。待ちなんし=Hold, Mone.
+
+
+Episode 2
+煉獄のプリンセス=Princess of Purgatory
+
+ネフィ＝ネラ=Nephi-Nela
+コッコロ・リリ=Kokkoro&Riri
+アネモネ=Anemone
+
+Summary:
 襲撃された一同はジオ・ゲヘナの媛である妖魔人・ネフィ＝ネラに助けられた。ネアの姉でもある彼女は一同のことを知っており、家人の不始末を詫びる。そしてこの世界が危機に瀕している事情を語るのだった。=The group was saved by Nephi-Nela, the princess of Gio Gehenna. As Nea's older sister, she knows everything about them, apologizes for the misbehaviour of her family member, and explains the dire situation befalling upon this world.
+
 第二の裏世界ジオ・ゲヘナ。\nその驚異的で暴力的な環境に戸惑う{playername}たちは、\n花を操る少女から襲撃を受け、液状の鉄を操る女性に助けられていた。=Second Reverse World - Gio Gehenna.\nStill bewildered by the vicious nature of this world, {playername}'s group came under attacked by a girl capable of controlling flowers. \nThey were rescued by a woman who can manipulate liquid iron shortly after.
 な、何よっ！？\nまだやる気あんた……！=W-what now?! You still want to continue at it...?!
 待ちやというに、モネ。\n聞き分けの悪い子はおしおきえ？=I said hold, Mone. Shouldn't you know bad children who don't listen will be punished?
@@ -121,10 +141,14 @@
 ──コロコロコロ。=─Ufufu
 さぁ何ゆえでしょうなぁ。\nなどと、勿体つけるほどのことでもありませぬが……=～Why indeed, I wonder?\n That said, it's not something one need to be so secretive about...
 もしや……\nネフィ＝ネラさまは、わたくしたちのことを\nご存じなのでしょうか？= Perhaps... Ms. Nephi-Nera knew who we are beforehand?
+
+Cutscene:
 クスクス=*giggle*
 勿論、存じておりんす=Of course, I know
 お前さまらの話は、わっちの妹からじっくりと──=My younger sister told me about you all in great detail─
+(Watch out!)
 後ろー！！=Behind you!!
+(??)
 手出しは要りません=No need to interfere
 媛にはあの程度=Against someone like Princess
 蝿と同じでしかありません=It's nothing more than a fly
@@ -142,6 +166,7 @@
 あ奴こそは、『六凶』の一つ=One of the 'Six Calamities'
 煉獄の不死鳥、カレイドフェニックス=The phoenix of purgatory, 'Kaleid Phoenix'
 この弱肉強食の世の頂点、最凶のひとはしらでござりんす=One amongst the most fearsome creatures, standing at the apex of this survival-of-the-fittest world
+
 ……はぁ。\nようやく、炎が収まってきたみたいですけど……\n本当に危なかったですね、今の。=...Hah. It looks like the flames have finally subsided... \nThat was really dangerous.
 やきぶた。\nなりかけ。=Almost, roasted pork.
 ネフィ＝ネラ様が鉄のドームを広げてくださらなければ、\n確実に焼死していましたね……=If Lady Nephi-Nera hadn’t expand her iron dome, we would’ve indubitably been burned to death...
@@ -234,7 +259,15 @@
 てなわけだからさ～\n歓迎パーティーってカンジでもないんだよね～=So yeah, not exactly a fitting vibe for a welcome party or anything at all～
 老境の鳳凰は天地を焦がし、四海を干上がらせんとするほど燃え盛り。\nか弱きわっちらは、ただただ逃げ惑うばかり。\nさて、このような煉獄の世に迷い込み──=The senile phoenix burns so fiercely that it scorches the heavens and earth, rendering the four seas dry. \nWhile us weaklings flee in terror, unable to do anything. \nAnd now, aimlessly wandering in this purgatory world─
 如何なさりんす？　お前さまらや。=What are you going to do?
+
+
+
+Episode 3
+対『六凶』作戦会議=Strategy Meeting Against the "Six Calamities"
+
+Summary:
 この世界を焼き尽くさんとする六凶の１体、『カレイドフェニックス』と\n戦うべく立ち上がる一同。そして作戦をまとめた一同はネアたちに協力を\n依頼する。『煉華の鳳凰』迎撃大作戦が今、始まろうとしていた。=Against the 'Kaleid Phoenix', one of the Six Calamities, who is threatening to burn this world to ashes, {playername}'s group has risen up to the challenge. Having finalized their strategy, they seek cooperation from Nea and her allies. And now, 'Operation: Phoenix Interception' has been set into motion. 
+
 ジオ・ゲヘナ～火山の麓～=Gio Gehenna - Volcano's Base
 ジオ・ゲヘナ～ジャングル～=Gio Gehenna - Jungle
 ジオ・ゲヘナ～平原～=Gio Gehenna - Plains
@@ -243,6 +276,8 @@
 バジリスクの青年=Young Basilisk
 リザードマンの男=Lizardman
 アルミラージの少女=Almiraj Girl
+
+
 裏世界、『ジオ・ゲヘナ』。\n虚空を紅蓮に染め上げ、巨大にして強大な怪鳥が彷徨する。=Reverse World, 『Gio Gehenna』. \nA gigantic and powerful monster bird roams, dyeing the place in crimson flames.
 その燃え盛る翼の下では、\n獣も魔物も妖魔人もお構いなしに\n炎の嵐に翻弄されていた。=Beneath those blazing wings, beasts, demons, and monsters alike are all at the mercy of its firestorm.
 んぴぃぃぃいっ！？\nあっつあっつあっつ～いっ！！=Npiiiii?! Hot, hot, hot!!
@@ -251,6 +286,7 @@
 んああっ！\nオイラの魔導書が家ごと燃えちまうだぁ～っ！=Aaah! My grimoire's going to burn along with the whole house!
 んなもんほっとけ！\nっつうか全速力で逃げろ！\n丸焼きになっても知らねーぞっ！=Forget it! Just run as fast as you can! \nDon't blame me if you end up roasted!
 老境により見境を無くした魔鳥は暴走し、\nその圧倒的な炎の力を世界すべてに撒き散らさんとしていた。=The monster bird, having lost its rationality due to old age, went on a rampage, scattering its overwhelming fiery power across the entire world.
+如何なさりんす？　お前さまらや。=What are you going to do?
 ……迷う必要なんて、ありません。\nわたしたちは、この世界でさがしものを\nしなくちゃいけないんです。=...There’s no reason for us to hesitate. \nThere's something we're looking for in this world.\n(TL note: there's a wordplay here...)
 フェニックスをなんとかせねば、\nジオ・ゲヘナが燃え尽きるというのなら……是非もありません。=If the Phoenix must be dealt with to prevent Gio Gehenna from burning to ashes... then there’s no other choice.
 ……って。\n勢いよく答えちゃったのは\nまぁいいとして……=...Well, putting aside the fact that we were so enthusiastic with our answer...
@@ -331,10 +367,21 @@
 助かるわ。\nそれじゃあ、いくわよ──『煉華の鳳凰』迎撃大作戦！=We'll be counting on you then. \nAlright, Here we go! \nOperation: Phoenix Interception!
 はい！\nみんな一緒に、カリザくんたちの世界を守るんです！=Yes! Together, we'll protect Kariza-kun's world!
 オレの世界じゃねぇーっ！！=It's not my world!!
+
+
+
+Episode 4:
+ジオ・ゲヘナの人々=Denizens of Gio Gehenna
+
+Summary:
 ネフィ＝ネラの城近くにある居住区へやってきた一同。そして、作戦実行\nのため一時的にオニギリちゃんたちをナーナという妖魔人に預けること\nに。こうして一同はネアたちと共に準備を整え、作戦を開始する。=Everyone has arrived at the residential area near Nephi-Nera's castle. They decide to temporarily entrust Onigiri-chan and the animals to a Monstress named Naana in order to carry out their operation. With that, everyone prepares together with Nea and the others, and proceeds their plan.
+
 妖魔人たち=Monstresses
 ナーナの声=Naana's voice
 マンティコアの少女=Manticore Girl
+アサルトジャガーの女=Assault Jaguar women
+
+
 裏世界『ジオ・テオゴニア』での冒険を経て、\n『ジオ・ゲヘナ』へとやってきた{playername}たち。\nその世界は強大な魔物に溢れ、そして──=After their adventures in the Reverse World 『Gio Teogonia』, {playername} and his companions arrived at『Gio Gehenna』\nA world teeming with powerful monsters, and─
 暴走する六凶・『カレイドフェニックス』の炎により、\nそのすべてが灰燼に帰さんとしていた。=─on the verge of burning to ashes under the rampaging flames of the Six Calamities' 『Kaleid Phoenix』
 ──ジオ・ゲヘナ、『鬼岩城塞』付近の居住区──=─Gio Gehenna, residential area near『Devil Rock Castle』─
@@ -447,8 +494,19 @@
 わたくしたちも勿論、精一杯お力添えいたします。=And of course, we will do our utmost to assist you.
 やきとり。\nやくよ。=Let's cook, grilled chicken.
 んしっ、それじゃ──『鳳凰迎撃作戦』、開始よ！=Now then, let us begin─\n『Operation Phoenix Intercept』!
+
+
+
+Episode 5:
+業炎の世界、灼熱の激闘=Hellfire World, Scorching Battle
+
+妖魔人たち=Monstresses
+
+Summary:
 絶大な魔力で身を覆う鳳凰に苦戦を強いられながら、なんとか応戦する一\n同。だが手傷を負わせた結果、鳳凰はより見境なく飛び回るようになって\nしまった。そんな中ネアたちが合流し、一同は作戦を実行に移す。=Struggling against the Phoenix, which is cloaked in immense magical power, they manages to put up a fight. However, as a result of being increasingly wounded, the Phoenix begins flying around even more recklessly. Amidst the chaos, Nea and her group join forces, and the plan is finally set into motion.
+
 煉華の鳳凰=Incandescent Purgatory
+
 ──キュオオオオオッ！=*Screech*
 いたべ！\nあっちだでよ、お前さんら！=There!\nThat way, you all!
 ありがとうございますっ！=Thank you very much!
@@ -484,6 +542,7 @@
 クリア！\n助かったわ！=Quria! Thank goodness!
 わたくしたちも、攻撃を重ねます！=We'll continue laying on the pressure!
 無茶すんじゃないわよ！？\nシャドウなら、突っ込んでも焼け死ぬってことはないでしょうけど……=Don’t do anything reckless, okay!?\nEven if you’re using Shadows, it doesn’t mean you won’t get burned to death just charging in...
+(Roger!)
 とつげき。\nじばく。=Kamikaze assault.
 『シャドウ・ランページ』！=『Shadow Rampage』!
 みんな、頑張って……！！=Do your best, everyone...!!
@@ -582,6 +641,7 @@
 おぉ～い、お前さんら～=Hey, guys!
 あっ……！？\nさっきの居住区のリザードマンさん、ですよねっ？=Ah...!? You're that lizardman from the settlement earlier right?
 んだんだ。\n頼まれてたモン、作ってきたど。\nけど、こんな長ゴムでどうすんだ？　石でも飛ばそうってか？=Yep, that's me. I've brought what you asked for. \nBut what are you going to do with this long piece rubber?\nTrying to fling some rocks?
+んーん。=Mm-mm.
 飛ばすのは、別のものです！\nよろしくお願いします、【アルターメイデン】のみなさん！=Not rocks, something else!\nI'll be counting on you all, 【Alter Maiden】
 というかペコリーヌさん、本当にやるんですか？\nぶっつけ本番になっちゃいますけど……=Wait a minute Pecorine, are you really going to do that?\nWe never got around to practice it...
 もちろんです☆\nみなさんの中で、わたしがまだ一番元気ですし！=Of course!\nI'm still the one who has the most fight left among everyone here!
@@ -596,9 +656,13 @@
 ネアさん、それじゃ──=Nea, then you─
 ん♪\nとりま騎士きゅんのオンナノコたちに～\nテキトーに声かけてきたカンジ～？=Mm♪\nThen I just called out to some of Kishi-kyun boy's girlies~ y'know?
 おしっ！\n早速で悪いけど手伝ってもらうわよあんたたち！=Alright!\nSorry to ask this so abruptly, but we need you guys' help right away!
+
 はい……！\nジオ・ゲヘナ──新しい裏世界でも、お役に立てるなら……！=I understand...!\nWe would like to be of help, even in this unfamiliar Reverse World─Gio Gehenna!
+
 カリザくんは、{playername}くんの護衛をお願いします！=Kariza-kun, please protect {playername}-kun for us!
 はぁっ！？\nなんでオレがプリンセスナイトのお守りなんざ──おいっ！\nどこ行くんだコラーーーっ！！=Whaa?! Why do I have to babysit your Princess Knight─\nOy! Where do you think you're going huh?!
+
+Cutscene:
 みなさま、作戦開始です！！=Everyone, let us commence our strategy!!
 いまです！！=Now!!
 まだまだこれからだっての！=We're not done yet!
@@ -611,7 +675,14 @@
 フルパワーーーーーっ！！=Full power!!
 プリンセェエエエエス！！！=PRINCESSSS!!!
 ヴァリアントーーー！！！=VALIANT!!!
+
+
+Episode 6:
+『煉華の鳳凰』=The Incandescent Phoenix
+
+Summary:
 鳳凰に対し何かできることがないか思い悩む{playername}。そしてネフィ＝ネラの助\n言を受け、鳳凰に強化を施し、その最期を見届けた。一同が鳳凰の最期を\n憂う中、空から落ちてくる少女の姿があった。={playername} was wondering about what he could do for the Phoenix. Then, following Nephi-Nela's advice, he lent his power to it and witnessed its final moments. As everyone was grieving over Phoenix's demise, a girl's figure came falling from the sky.
+
 う、ぅぅん……=Uughh...
 ペコさん、しっかり……！=Peco-san, hang in there...!
 ……あ……\n{playername}くん……？=...Ah... {playername}-kun...?
@@ -649,6 +720,9 @@
 元に戻ったの……！？=But she went back to normal...!?
 不憫ながら、そこまで都合良くは参りませぬ也。\nあ奴が死の淵に在る事実は、些かも変わり無し。=Alas, such convenient outcomes are not meant to be.\nFor the truth remains unchanged─she is teetering on the brink of death.
 暴れ狂うを止めたとて、羽撃く都度に舞い降る業火は\nこの煉獄をさらに焼き払うことでありんしょう。=Should her wanton rampage to be stilled, searing flames would continue to descend from beneath its wingspan, further reducing this purgatory to ashes.
+
+(No way... - Kokkoro)
+
 ……憂い顔をする必要はありませぬよ、お前さまらや。\nむしろ、その逆でありんす。=...Pray, cast aside those troubled looks my dear guests.\nFor it is, in fact, quite the contrary.
 あ奴とて、斯くの如き暴虐は望まざる事態──\nされどお前さまらの尽力のおかげで、\n我を失った『カレイドフェニックス』の死期は早まり。=Even the maddenened Kaleid Phoenix would not have wished for such atrocities to unfold─\nAnd through your noble effort, her demise has been brought about swiftly and timely.
 畢竟、ジオ・ゲヘナの総てが焼かれることは無くなり申し候。\nかてて加えて、僅かといえど正気を取り戻すという奇跡が起きるとは……\n『彼女』に代わってこのネフィ＝ネラ、心より御礼を申し上げまする。=Thus has salvation come to Gio Gehenna in its entirety, away from utter ruin.\nYet more astonishing still, for even a spark of rationality to reignite within her─a miracle most unforeseen.\nOn 'her' behalf, allow me ─ Nephi-Nela ─ to extend my utmost gratitude from the depths of my heart. 
@@ -677,9 +751,15 @@
 僕は、どうすればいいんですか……？=So, what should I do now...?
 容易きこと也──あ奴の身を焦がしているのは、あ奴自身の炎であれば。\nお前さまの力を加え、あ奴の炎を弥増すがよろしきかと。\n此れ即ち、『灯滅せんとして光を増す』の故事に候。=It is but a simple matter.\nAs the flames consuming its body are its own, a wise method would be to further intensifying it ─ with your power.\nAs the proverb goes, 'A lamp flares brightest upon its dying moment'.
 さ──頃合いでありんす、お前さま。\n火に油を注ぐが如く。鞴で風を送るが如く。\n斯の焼けぼっくいを、灰と化すまで燃やし尽くしてあげませい。=And now—'the time is nigh, dear one.\nLike adding fuel to fire, like bellows fanning the flames, let us witness this smoldering ember reduced to ashes.
+
+(Yes...! - Kskn)
+
+Cutscene:
 はああああ……=Haaaaah...
 ──はああああ！=─Haaaaah!
+──キュオオオオオッ！=Kyuoooooo!
 く、うっ……=Ungh...
+
 ……カレイドフェニックスの最期を見届けた\n{playername}とネフィ＝ネラは、鉄の蛇に乗って\n仲間たちの元へと帰還した。=...After witnessing the final moments of the Kaleid Phoenix, {playername} and Nephi-Nela return to their comrades aboard the iron snake.
 {playername}っ！={playername}!
 キャルちゃん、平気……！？=Kyaru-chan, are you okay...!?
@@ -712,6 +792,8 @@
 ……ふむ。\nペコリーヌ姫は、極上の焼き鳥を所望であると。=...Hmm.\nIf a grilled chicken of finest quality is what Princess Pecorine so desires.
 然らば。\nその機会は、まだあるやもしれませぬ喃。=Then one might argue that not all is lost.
 ご覧あそばせ。\n上空を。=Look to the skies, if you will.
+
+Cutscene:
 あれって──=That's─
 何かが……=Something is...
 いえ、何者かが、落ちてきます！=No, 'someone' is falling!
@@ -724,6 +806,7 @@
 ふわぁ～……=*yawn*...
 ──『不死鳥は、一握りの灰から蘇る』、と=『The phoenix shall rise anew, from but a handful of ashes.』
 ん、んん……？=Mm, mmm...?
+
 ちょっと、大丈夫なのそいつ！？=Hey, is she okay?!
 ぅ、ぅ～ん……=H-Hmm...
 意識があるみたいですよっ？=And it seems like she's waking up?
@@ -735,14 +818,23 @@
 人の子よ。\n良い働きでした。\n私を助けてくれた褒美として、特別に──=Splendid work out there, o' childern of man.\nFor your noble act of saving me, I will now bestow upon you─
 『ほーちゃん』と呼ぶ、権利を与えましょう！=The privilege to address me 'Ho-chan'!
 ──ほーちゃんっ！？！？=Ho-chan!?
+
+Next episode teaser:
 フブキで～す♡=Fubuki here! ♡
 ジオ・ゲヘナぁ？=Gio Gehennaa?
 よくしんないけどぉ、まとめてザコザコにしてあげるぅ♡=I dunno much about all this, but I'll make sure to give it to y'all small fries! ♡
 待ってろお兄さーん♡=Be ready for me, Onii-saaan♡
 第三部六章　アルターメイデンvsバンディ・シスターズ=Part 3, Chapter 6 Alter Maiden vs. Bandit Sister
 いっくよ～ヤマ姉、バカナ姉♡=Let's go, Yama-nee! Bakana-nee! ♡
+
+
+Interlude 6:
+
 聞き覚えのある笑い声=A familiar laughter
+
+Summary:
 夜の街を歩き続け疲れ果てていた最中、秋乃に助けられた一同。そこへ咲\n恋も駆け付け、一同は一息つきながら彼女たちに詳しい事情と次の目的地\nについて話す。その一方、真那は国際警察からの接触を受ける。=While they were exhausted from walking through the city throughout the night, the group was rescued by Akino. Saren also rushed to their side, and while they were taking a break, they told them the details of the situation and their next destination. Meanwhile, Mana was contacted by the International Police.
+
 ──はい、お疲れさまー=─Alright, thank you for your hard work─
 ……お疲れさま。=...Good work.
 なにもーシツレーねー\n挨拶じゃなくて、ほんとに「疲れたー」ってカオしちゃってさーぁ？=So impolite～\nNo greeting no nothingー just casually showing a 'so tiring～' face like that.
@@ -756,11 +848,22 @@
 んも～ノリ悪いわね～\nダメよそんなんじゃオンナノコに──や、モテてるか。\nあんたの場合……=Awwww, you're no fun at all～\nYou can't be acting like that around girls─\nWait, you actually are popular. Nevermind then.
 それはともかく。\nクイズよクイズ。=Just leave that for now.\nQuiz time.
 ──じゃん。\nジオ・テオゴニアの新しい種族の子たちと、ジオ・ゲヘナの妖魔人。\n比べたときに、妖魔人のほうが平均的に高いステータスは何でしょう？=Number one:\nBetween the newly discovered races from Gio Teogonia and the Monstresses in Gio Gehenna, which stats are generally higher for the Monstresses?
+
+Multiple choice:
+
 日焼けしてるとか。=They're tanned.
 スライムみたいにドロっとしてる。=They're gooey like slimes.
+
+---------------
+1st option:
 や、してないのもいたでしょフツーに……=No, I'm pretty sure there are some that aren't like so...
+
+2nd option:
 や、プリンセスはスライムだったけど\nみんながみんなスライムじゃなかったでしょ。=No? the Princess is a slime, but not everyone is the same you know?
 ……てか考えてみたら、\nネアって子はプリンセスの妹だからお姫様みたいなもの……なの？\nなんかそんな印象ないけど……=...Now that I think about it, this Nea girl is also some sort of a princess because she is the little sister of the Princess...?\nShe doesn't give that impression...
+
+---------------
+
 ……はぁ。たくもー\nニブいわねー\nもっとも～っと単純なコトよ。=Haaah...\nYou're so dense.\nThe question is so simple already.
 ──律儀ねーあんたも。\nあんたを困らせるために出してるクイズだってのに、\nそんな真剣に考えて。悩んだカオして……♪=How diligent of you.\nI only gave you this quiz to mess with you, and yet here you are, all deep in thought...\nReally making me worried here...♪
 ……別に。\nなんでもなーい。=...What?\nI didn't say anything.
@@ -794,6 +897,7 @@
 『ヘリコプター！？\nこんな低くを飛んでるなんて……！』=『A helicopter?! And it's flying this low...!』
 ていうかこっち近づいてない！？\nもしかして──あんたたちを追ってる、国際警察ってやつ！？=Hold up, isn't it getting closer?!\nDon't tell me─ that's the Interpol chasing you guys?!
 『だとしたら、ヤバイです！\n逃げましょうキャルちゃん、{playername}くんっ！』=『If that’s the case, then this is really bad!\nLet’s run, Kyaru-chan, {playername}-kun!』
+(Hold it! - Kskn)
 『えっ──』\nえっ──=『Eh~』\nEh~
 オーッホッホ♪\nオーーーッホッホッホ♪=Oh-ho-ho♪\nOoooooh-hohoo-hoo♪
 見つけましたわよ～っ！\nあなたさま～っ♪=I've found you～!\nMy daaa～rling♪
@@ -889,6 +993,7 @@
 貴重な時間を、くだらないことに使ってしまったわ。\n身の安全は、ひとまず確保できているけれど……\nやらなくてはいけないことが、たくさんあるというのに。=Looks like I've wasted precious time on this meaningless trivia.\nWhile I'm safe for the time being, there's still much to be done.
 信奉者たちの取りまとめに、『実家』への根回し……\n長老にも、コンタクトを取らなくてはいけないわね。\n気乗りしないけど。=I need to manage the followers, make arrangements for my ... 'family' and get in touch with the Elder as well.\nNone of these I’m particularly thrilled about.
 そして……\nやはりミネルヴァへのアクセスは、\n『現実』からでは不可能……=And...\nAs expected, access to Minerva has been prohibited from the "reality" side...
+……くしゅんっ！=...Achoo!
 けれど。\n今のミネルヴァと、『レジェンドオブアストルム』が\nどんな状態か判るまで、迂闊なダイブは危険すぎるわね……=However, until we know more about the current state of Minerva and 『Legend of Astrum』, it would be too dangerous to dive straight back in...
 そうね──クリスティーナあたりを、\n先遣隊としてダイブさせてもいいかしら。\n彼女なら、嬉々として危険と冒険に飛び込むでしょうし。=What if─\nPerhaps I can just ask Christina to dive back in as a scouting party.\nShe's the type that would revel in danger and adventure after all.
 それはそうとして──『あなた』。=That being said─\nYou there.

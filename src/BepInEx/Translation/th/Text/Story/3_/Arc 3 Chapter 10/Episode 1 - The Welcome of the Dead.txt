@@ -1,4 +1,4 @@
-闇謀のジオ・ニヴルヘル=อุบายมืดแห่งจีโอ・นิเวลเฮิร์ม
+闇謀のジオ・ニヴルヘル=The Dark Scheme of Gio Nivlhel
 死者たちの出迎え=The Reception of the Dead
 ヴァイオレットに助けられてゾンビの群れから逃げ延びた{playername}はシェ\nフィとも合流し、はぐれてしまった他の仲間を探す。その途中、ヴァイオ\nレットを迎えに来たという三人の少女と出会う。={playername}, having been saved by Violet and escaped from the horde of zombies, reunites with Sheffy and searches for the other members who have become separated. Along the way, they encounter three girls who have come to pick up Violet.
 ロストした人々の魂を救い出すため、\n最後の裏世界ジオ・ニヴルヘルへと向かった{playername}たち。\nしかし謎の攻撃を受け、一行は散り散りになってしまう。=To save the souls of the lost, {playername} and the others headed\ntowards the final underworld, Gio Nivlhel. However, they were hit by\na mysterious attack, causing them to get knocked into the void.
@@ -142,8 +142,10 @@
 ゎ、ぁわわっ……！=W-wa, awawa...!
 お迎えに上がりました──=I have come to fetch you──
 ヴァイオレット姫=Princess Violet
+
 逃げるしかない！=I have no choice but to run!
 ゾンビと、戦ってる……？=Fighting zombies...?
 ──たぁああっ！！=Taaaaah!!
 違うかも。=Maybe not.
+
 前は敵同士だったけど、今は友達だよ。=We were enemies, but now we're friends.

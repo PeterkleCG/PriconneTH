@@ -1,3 +1,5 @@
+Vikala's Birthday
+
 ひ、人が……多い……！\nあああの、今日の目的地って本当にここなんですか……？=S-So many people...! Um, is this really our destination for today...?
 い、いつも以上に陽の圧を感じる……！\n誕生日なのになんでこんな場所にいるんだろ、あたし……=I-I can feel the sun’s pressure more than usual...! Why am I in a place like this... on my birthday of all days...?
 って、あ、あれ？　向こうにいるのは……\nラッキーラットに、ファニーラット！？\nど、どうしてデスティニーワールドの子たちがここに……！？=Wait, h-huh? Over there... Lucky Rat and Funny Rat!? Wh-Why are the Destiny World mascots here...!?
@@ -9,6 +11,8 @@
 あ、あの、今日は本当にありがとうございました……！\n今日のイベントのこと、事前に調べてくれてたんですね。=U-Umm, thank you so much for today...! You looked up the details of this event in advance for me, didn't you?
 こ、こんなに楽しい誕生日を迎えられるなんて、\n引っ越したての頃は思いもしなかったよ……\nそれもこれも、この人のおかげ……だよね。=I-I never imagined I’d have such a fun birthday... not when I first moved here... And it’s all thanks to this person... isn't it?
 あ、ああ、ありがとうございます……！\nその……今日撮ってもらった写真、ずーっと大事にしますね！\nこの街でもらった、最初の誕生日プレゼントだから……えへへ。=T-T-Thank you very much...! Umm... I’ll treasure the photo we took today forever! My very first birthday present in this city... Ehehe.
+
+Player Prompts
 この近くでイベントがあるんだって。=There's an event happening nearby
 もっと近づいてみようよ。=Let's try getting closer!
 改めて、誕生日おめでとう！=Once again... Happy Birthday, Vicky!

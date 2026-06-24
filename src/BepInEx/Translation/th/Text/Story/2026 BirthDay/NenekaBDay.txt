@@ -1,3 +1,5 @@
+Utsushimi Neneka BDay
+
 おや、お帰りなさい。=Oh. Welcome home.
 ごはんにしますか？\nお風呂にしますか？\nそれともわ・た・し？=Would you like to have dinner? A bath? Or maybe... me?
 待ちなさい。\nどこに連絡しようとしているのですか。\n３桁の番号でかけられる場所は限られていますよ。=Hold it. Who exactly are you trying to call? There are only so many places you can reach with a three-digit number.
@@ -9,6 +11,7 @@
 ええ、どうも。\n……おや？　なぜプレゼントがあるのですか？\n貴方にとっては不意の来訪だったでしょうに。=Yes, thank you. ...Oh my? Why do you have a present for me? This was supposed to be a surprise visit to you.
 なるほど、貴方が気に入っているゲームソフトをお譲りいただけると。\nなかなか良い心掛けですね。\nこれでまた一つ、貴方の嗜好を理解できます。=I see. So you are kindly offering me one of your videogame softwares. A commendable gesture. This will give me yet another insight into your tastes.
 ケーキはないのですか？\nでは私と一緒に買いに行くとしましょう。\nふふっ……悪くないものですね、誕生日というのも。=No cake? Then let us go buy one together. Ehehe... I suppose birthdays are not so bad after all.
+
 電話を取り出す。=*I take out my phone*
 何の用ですか……？=What do you want...?
 …………………誕生日？=...Your birthday?

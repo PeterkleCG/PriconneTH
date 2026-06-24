@@ -1,3 +1,5 @@
+Saren Sasaki's Birthday
+
 ふぅっ、今日も忙しかったわ。\nでも、この後は家で誕生日のパーティーが……ん？\n校門前が騒がしいわね？　この感じ、なんか懐かし──=Phew, yet another busy day. But after this, a birthday party at home awaits me... Hm? The school gate is noisy, isn't it? This is kinda nostalgic~...
 ──やっぱり、あんたなのね！\nもうっ、前にもこういうことあったわよね？\n桜庭学院は警備とか厳しいから気をつけなさいって言ったのに。=...And as expected, it was you, {playername}! Come on, we've been through this before, haven't we? I told you to be careful because Sakuraba Academy has strict security.
 用……ふふっ、なるほどね。\nでもそれならなおさら、事前に連絡してくれたらいいじゃない。\n電話一つに迷うような関係じゃないでしょ？　幼なじみなんだから。=Business... Hehe, I see. But if that's the case, it would be even better if you contacted me in advance. We're not in a relationship where you'd hesitate to give me a phone call, right? We're childhood friends after all.
@@ -9,6 +11,8 @@
 幼なじみと過ごす、気楽で何気ない誕生日を楽しみましょ。\nだからあんたも……その呼び方、戻しなさいよ。\n咲恋ちゃんじゃなくて、咲恋、ね？=Let's enjoy a carefree, casual childhood friend style birthday party. So to achieve that... you should go back to calling me in a certain way. Not "Saren-chan", but just "Saren", okay?
 よろしいっ！\nじゃあ行きましょ。手でも繋いでさ。\nそうだ、あの駄菓子屋に寄って行こうかしら。=Well done! Let's go, then. We should hold hands. Ah yeah, let's stop by that candy store on the way.
 なんだか昔に戻ったみたい、ね……♪=Just like we did in the past, right...♪
+
+Player Prompts
 咲恋ちゃんに用があって。=I have business with you, Saren-chan
 咲恋ちゃん、これプレゼント！=Saren-chan, here's your present!
 分かったよ、咲恋。=All right, Saren

@@ -80,6 +80,7 @@
 貴方たち以外も……\n神話の時代から、人は愛する者を取り戻したいと願ってきました。\n……でも、それがうまくいったためしはありません。=Others besides you...\nSince the age of myth, people have wished to regain their loved ones.\n......But it has never succeeded.
 ちょっと待ってください！=Please wait!
 そんな不可能に挑むより。\n死者の冥福を、魂の安寧を、祈った方が……=Instead of challenging such impossibility,\npraying for the repose of the dead soul's tranquility might be...
+騎士様……=Kishi-sama......
 ……その。もし、無事にアラクネの脅威を退けることができたら……\nジオ・ニヴルヘルへ、いらしてください。\nそのときこそ、騎士様や皆さまの御力になれればと思いますわ。=......Uh. If we can safely repel the threat of Arachne...\nplease come to Gio Niflhel.\nAt that time, I'd like to offer the power of {playername}-sama, and everyone else.
 ……聞きたいことがあって。=......I have something I want to ask.
 わたくし一人でできることは、多くありませんが。\nグレイスを始め、頼りになる者たちがいますから。=While there aren't many things I can do alone.\nStarting with Grace, there are many reliable people.

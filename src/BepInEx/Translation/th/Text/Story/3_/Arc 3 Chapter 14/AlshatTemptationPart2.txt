@@ -1,8 +1,13 @@
+Alshat's Temptation second half, 4-6 + interlude & Substory
+
+Chapter Names
 クリアの闇=Quria Darkness
 プリンセスナイトの対決=Showdown between Princess Knights
 リンドとヴルム=Lind and Wyrm
 『色欲』vs『嫉妬』=Lust versus Envy
 冥界の双華vs双魔=Twin Flowers of the Underworld vs Twin Devils
+
+Chapter 4
 ……ん、ぅ……=...Mm, uh...
 ……、……？\nこ、こは──……=.........? T-This is~...
 ……そうだ……\nたしかわたし……お兄さんを捜している最中に、\n変な女の人に、捕まっちゃって……=...Right......If I recall, I......was caught by a strange woman while I was looking for Onii-san......
@@ -23,11 +28,11 @@
 「敵」とか、「変な女の人」とか、\n声に出してないはずなのに。\nまさか──心を読まれてしまってる？　=I'm pretty sure I didn't say anything about her being a "strange woman" or an "enemy" out loud. Could it be... she's reading my mind?
 はい♡　クリアちゃんのかわいい胸の内は\nぜ～んぶ、手に取るようにわかっちゃいますよ♡\nこんなふう、に……♡=Yes♡ I can see every one of your cute little thoughts, Quria-chan... as if I'm holding them right here in my hands♡ Like this...♡
 ウフフ……♡\nニオイだけでも、感じちゃってましたけれどぉ。\nこうしてお肌とお肌をこすり合わせると、ますますわかります──=Uhuhu...♡ Even your scent told me plenty. But now that our skin's rubbing together like this, it's even clearer~
-クリアちゃんの、胸に秘めた想い。\n『お兄さん』への、せつなくて甘い恋心。\nリリちゃんやプレシアちゃんに申し訳なく思う、苦い罪の味……=Quria-chan's hidden feelings... that sweet, aching love for your dear "Onii-san". The bitter taste of guilt you feel towards Lily-chan and Precia-chan...
+クリアちゃんの、胸に秘めた想い。\n『お兄さん』への、せつなくて甘い恋心。\nリリちゃんやプレシアちゃんに申し訳なく思う、苦い罪の味……=Quria-chan's hidden feelings... that sweet, aching love for your dear "Onii-san". The bitter taste of guilt you feel towards Riri-chan and Precia-chan...
 あはっ、みぃつけた♡\nクリアちゃんの、心のジースポット。\n……コレは──=Aha, foooound it♡ Quria-chan's heart G-spot. ...This is--
 『懲役』の、ほんの少し前の記憶ですね？\n３人の穢れない乙女の、ハジメテの記念日──……=A memory from just a short while before the "imprisonment", right? The anniversary of three pure maidens' very first time...
 っぅ……！=Ugh...!
-リリちゃんっ、プレシアちゃんっ……！=Lily-chan, Precia-chan...!
+リリちゃんっ、プレシアちゃんっ……！=Riri-chan, Precia-chan...!
 た、助けなきゃ！\nこのままじゃ二人ともやられちゃうっ。\nわたしが、魔法を使って──……=I-I have to save them! At this rate, they'll both get killed. I'll just use magic~...
 ──回復、を……=Recovery magic...
 『奇跡だ！　手をかざすだけで、ケガを治してしまわれるなんて！』\n『まるで聖女さまだ！』『おお、聖女さま！　お救いを……！』\n『どうか助けてください！　いくらでもお金は払いますから……！』="A MIRACLE! She healed our wounds just by raising her hand!" "She's just like a real Saint!" "O holy one, save us!" "Please, we'll pay anything -- just help us!"
@@ -93,16 +98,23 @@
 一方、ソルの塔上空──=Meanwhile, above the Tower of Sol...
 ばくんっ！=*gulp*!
 落下中の{playername}の身体は、\n黒灰色のドラゴンの口に飲み込まれてしまったのだった──……=As he fell, {playername}'s body was swallowed by the black-grey dragon's mouth...
-過去のリリ=Past Lily
+
+New Titlecards
+過去のリリ=Past Riri
 過去のプレシア=Past Precia
 過去のクリア=Past Quria
 信徒たち=Believers
 りあの両親=Lea's parents
 過去のりあ=Past Lea
-過去のリリ・プレシア=Past Lily & Precia
+過去のリリ・プレシア=Past Riri & Precia
 王宮騎士団団員=Royal Knight Cadets
+王宮騎士団隊長=NIGHTMARE Captain
 観光客=Tourists
+
+Player Prompts
 黒いドラゴン！？=A black dragon?!
+
+Chapter 5
 コ・コ・はぁ──=This-place-is~
 天国、ですよ♡=Heaven, you know♡
 ……フフ。\nなんだか、自己紹介ばっかりしている気がしますけど──=...Hehe. For some reason, I feel like I've been introducing myself a lot lately...
@@ -160,6 +172,7 @@
 ていうか！\nこの子たちって、たしか──\n異世界から来たお嬢ちゃんの分身じゃないの……！？=Actually, wait! That appearance... Aren't those the clones of that otherwordly girl!?
 『……っ！？』="...?!"
 この、蔦は──……="These vines..."
+──リア。=...Lea.
 『……モネちゃん』="...Mone-chan."
 貴方が──この騒ぎを？\nどうして──？=You're the one... who caused this commotion? Why...?
 『……ごめんなさい。\nわたし──……』="...I'm sorry. I~..."
@@ -203,12 +216,16 @@
 ……いえ。\nこの、カチカチに硬い感触は……=...No. This hard, hard sensation...
 まるで、鉄のよう──=It's like iron...
 ──コロコロコロ。\nわっちの足甲、甘美であろう？\n不埒極まる色狂い風情には、過分に過ぎる甘露なりけり──=...Korokorokoro. Is my foot armor to your liking? For a lustful, extremely insolent sex maniac, this is more than enough.
+
+Player Prompts
 誰ですか！？=Who are you?!
 プリンセスナイト……！？=Princess Knight...?!
 （身体に、力が入らない……！？）=(I can't put any strength into my body...!?)
 ネフィ＝ネラさん！！=Nephi Nela!!
 ドラゴンの胃じゃ、ないみたいだけど……=This doesn't look like that dragon's stomach...
 ここは……あの世？=Is this... the afterlife?
+
+Cutscene
 フフ……♡=Hehe...♡
 他の世界……？=The Underworlds...?
 ええ……♡=Yes...♡
@@ -224,6 +241,8 @@
 アストルムのナイトさま=Lord Knight of Astrum
 アナタはワタシが、陥落してさしあげますわ……♡=I'll make you fall for me...♡
 ジオ・二ヴルヘル～巨鯨城付近～=Gio Nivlhel - Near the Giant Whale Castle
+
+Chapter 6
 ──ぜぇっ、ぜぇっ……\nクソッ……\n好き勝手、暴れやがって……=*Wheeze, wheeze*... Damn it... Rampaging however you damn please...
 『本当に、タフですね。ヴォルガーノさん。\n知ってましたけれど』="You really are tough, Volgano-san. Not that it surprises me."
 けっ！\nお褒めに与かりありがとさんだっつーの！=Keh! Yeah yeah, thanks for the compliment!
@@ -346,7 +365,11 @@
 ……ライラエルさま……\nお話、って──=...Lady Lyrael... Talk about what...
 ええ……話しましょう、リンド。\n我々の真実と、世界を脅かす者がいったい何なのか。\nそして──=Right... Let us talk, Lind. The truth about us and what threatens our world. And--
 ──我が従僕を傀儡とし、満腔に苦杯を嘗めさせた借り。\n兆倍にして返してくれようぞ──！=...To make my servant a puppet and make me taste from the cup of bitterness. I WILL PAY YOU BACK A TRILLION TIMES OVER!
+
+New Titlecard
 ヴルム・ドラゴン=Wyrm Dragon
+
+Interlude
 ……んもぅ。\nひどぉい……=...Geez. How mean...
 アナタ──\n人でなしさん、ですね？\nジャマをされたら、困ってしまいます。=You... are a heartless person, aren't you? It would be a problem if you got in the way.
 ワタシ今から、とびきりのごちそうを──\nかわいくて素敵なチェリーのことを、\nペロっと食べてしまうつもりでしたのに……=I was about to enjoy the most delicious treat ever -- his cute and lovely cherry, and I was planning to pop it...
@@ -418,7 +441,7 @@
 でも……行かなくちゃ。\nこんなことまでして。もう、引き返す道なんてない。="But... I have to move on. I've come this far. There's no turning back now."
 城の核。\nこのジオ・ゲヘナが、もし本当に──……="The core of the castle. If this Gio Gehenna is really--..."
 ──リアさんッ！！=...Lea-san!
-『リリ、ちゃん──』="Lily... chan...~"
+『リリ、ちゃん──』="Riri... chan...~"
 ──！？\nアネモネ様っ……！\nなんて傷──=...Hah!? Lady Anemone...! What a deep wound--...
 リアさん！\nただちに回復魔法をっ──=Lea-san! You need to use recovery magic on her at once...
 え、っ──=...Eh?
@@ -430,6 +453,8 @@
 王家の装備、『怠惰』──！=ROYAL FAMILY'S EQUIPMENT... ACEDIA ( Sloth )!
 立派になりましたね、ヴァイオレット姫。\nでも……=You've become an admirable woman, Princess Violet. But...
 王家の装備──『強欲』。=Royal Family's equipment... Avaritia ( Greed ).
+
+Player Prompts
 『蓋』……？=A "lid"...?
 そうだ！　ネフィ＝ネラさん──=Right! Nephi Nela-san~
 クリアちゃんやヴルムちゃんたちが……！=Quria, Wyrm and the others are...!
@@ -439,6 +464,8 @@
 もっともっと強化する！=*Strengthen her more and more*!
 世界各地が、大変みたいで……！=Looks like things are troublesome all across the worlds...!
 （ネラさんの動きも、封じられてる……！？）=(Nella-san's movements are also blocked...!?)
+
+Substory
 ──ジオ・ニヴルヘル。\n友人たちとはぐれてしまったアンは一人、\n濃霧の立ち込める湿原地帯をさまよっていた。=Gio Nivlhel. Having been separated from her friends, Anne was wandering alone through a marshland shrouded in thick fog.
 ……グレア～\nねえ、グレアったら。\nん～……ルゥはいつもだけど、グレアまで迷子になっちゃうなんて……=...Greaaaaa... Hey, I'm calling for you, Grea! Hmm... Lou's always like this, but for even Grea to get lost...
 なんなの、この世界ってば……\n薄暗いし、この霧のせいで見通しも悪いし足元はひどいぬかるみだし。\nランドソルに行くつもりが、また変なとこに迷い込んじゃったかな……=What's wrong with this world...? It's dark, the visibility is poor because of this fog, and the ground is awfully muddy. I was planning to go to Landosol, but I think I've gotten lost in a strange place again...
@@ -567,14 +594,20 @@
 え？　え？\nあ……えっと……\nアンが言うなら……そう……かな？=Huh? Uh? Ah... Um... If Anne says so... I guess...?
 これはもう、みんなで『ぎゅ～っ』てするしかないですぅ！\n６人でさいきょーちーむけっせい、ですぅ！\nいきますよ{playername}さん、セイヤーッ！！=There's no other solution but for everyone to give him a big hug! The six of us make the ultimate combination hug! Here we come, {playername}-san! SEIYAAAAAH!!
 アン・グレア・ルゥ・メドゥーサ・ヴァンピィに一度にのしかかられ、\n潰される少年の悲鳴を、誰も聞くことはなかった──=No one heard the screams of the boy as he was hug-crushed by Anne, Lou, Grea, Medusa and Vampy all at once.
+
+New Titlecards
 メドゥーサ・ヴァンピィ=Medusa Vampy
 グレア・アン=Grea Anne
 ヴァーニー男爵=Baron Barney
 ジオ・ニヴルヘル～森の周辺～=Gio Nivlhel ~Forest Outskirts~
 ジオ・ニヴルヘル～深い森～=Gio Nivlhel ~Deep Forest~
+メドゥシアナ=Medusiana
+
+Player Prompts
 よかった、みんな合流できて。=I'm so glad we've all reunited
 争っちゃダメだ！　相手の二人は仲間だ！=Don't fight! Those other two are friends
 正しく通訳して！=Oi! Translate it properly!
 そしたらゾンビがルゥの姿になったんだ。=Then the zombie who hugged me became Lou
+みんなを強化する。=I'll strengthen everyone
 みんな仲良くなれてよかった！=I'm so glad we're all getting along!
 え？　僕？=...Huh? Me?

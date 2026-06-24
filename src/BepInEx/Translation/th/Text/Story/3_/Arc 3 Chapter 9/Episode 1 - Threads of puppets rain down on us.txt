@@ -1,4 +1,4 @@
-シェフィ救出作戦=ยุทธการช่วยเหลือเชฟี่
+シェフィ救出作戦=Sheffy Rescue Operation
 傀儡の糸が降る=Puppeteer Strings Fall
 人や魔物を操るレディ・アラクネの糸によってジオ・ゲヘナは大混乱に\n陥ってしまう。糸の雨を打ち払う最中、ネフィ＝ネラは脱出呪紋を使ってG\niovanniたちを安全な場所に転移させたのだった。=The strings of Lady Arachne, who manipulates humans and monsters, have thrown Gio Gehenna into chaos.\nAmidst the rain of strings, Nephi Nela used an escape sigil to transport {playername} and the others to a safe place.
 「シェフィちゃん！？」\n「シェフィさま！？」\n「シェフィっ！？」="Sheffy-chan!?"\n"Miss Sheffy!?"\n"Sheffy!?"
@@ -44,7 +44,7 @@
 ジオ・テオゴニアの姫、プリンセス・ライラエル……\n強化されたレディ・アラクネの糸を、真っ向から焼き払うほどの威力か。=Princess Lyrael of Gio Teogonia…\nSufficient power to burn through the enhanced strings of Lady Arachne head-on.
 操られたプレシア=Controlled Precia
 でも、問題はない。\n『傲慢』の燃費の悪さは調査済み。\nそして──=But, there is no problem.\nThe inefficiency of ‘Pride’ has already been investigated.\nAnd──
-操られたリリ=Controlled Lily
+操られたリリ=Controlled Riri
 『粋がるな、傲慢の。\nたかだが数本の糸を焼いた程度で、我を見下そうなど笑止千万』='Do not be so smug, owner of Pride.\nMerely burning a few strings and looking down on me is utterly laughable'
 操られたリンド=Controlled Lind
 『仰ぎ見よ。\n空を覆った天の巣は、少しばかりも傷んではおらぬぞえ』='Look up.\nThe web covering the sky is not damaged in the slightest'

@@ -1,3 +1,5 @@
+Kaya Kidou's Birthday
+
 どうしたのセンパイ、いきなりこんなとこ連れてきて。=What's up, Senpai, why did you bring me all the way here?
 ん……覚えててくれたんだ。\nいや、センパイならそれくらい当たり前か。=Hmm... So you remembered. Well, I guess that's just typical of you, Senpai.
 アタシの誕生日に雑貨屋に連れてきたってことは、\nもしかしてセンパイ……=If you've brought me to a general store on my birthday, then... Senpai, don't tell me...
@@ -7,6 +9,8 @@
 なんかアタシをかわいくしようとしてない？\nいや、嫌いなわけじゃないけどさ、\nアタシのイメージってもっとこう……=Are you... trying to make me look cute or something? Not that I hate it, but I always thought my vibe was more like... you know...
 あれ？　もしかしてセンパイ、アタシをかわいい系と思ってる？\nそれはなんか……うん、ちょっとうれしい、かも？=Huh? Wait, hold on... Senpai, do you think I'm the cute type? That makes me kind of... hmm, happy, maybe?
 いやでも、やっぱりプレゼントはアタシが選ぶ。\nセンパイ、これからいろいろお店巡るから、付き合ってくれるよね！\n……この方が、誕生日を楽しめそうだしさ。=But, well... I'm picking the present after all. We're going store-hopping now, Senpai, and you're coming with me! ...That way, I think I'll enjoy my birthday even more.
+
+Player Prompts
 今日は嘉夜の誕生日でしょ。=Kaya, today's your birthday, right?
 誕生日プレゼントを贈ろうと思って。=I wanted to give you a birthday present
 かわいいネックレス。=A cute necklace

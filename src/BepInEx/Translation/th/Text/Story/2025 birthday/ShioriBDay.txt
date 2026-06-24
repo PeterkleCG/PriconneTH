@@ -1,3 +1,5 @@
+Shiori Kashiwazaki BDay
+
 ふふ、奇麗な庭園ですね。\n空気も澄んでて、気持ちいい……=Hehe, what a beautiful garden. The air is so fresh... it feels wonderful.
 はい。咳もあまり出ませんし、問題ありません。\nせっかくあなたに誘っていただいたのに、\n元気のない姿なんて見せられませんから。=Yes. I'm hardly coughing at all, so there's no problem. You kindly invited me out today, so I couldn't show up in a poor condition!
 ……誕生日。\nこうしてお出かけしようって言ってくれたこと。\nとっても、うれしかったんです。=...My birthday. When you said we should go out like this... it made me really happy.
@@ -9,6 +11,8 @@
 はい、ありがとうございます……！=Yes, thank you very much...!
 今日は私の誕生日。\nわがままなお願いを一つだけ、してもいいのなら。=Today is my birthday. If... I may make just one selfish request...
 どうか今日一日、この手が離れませんように……♪　=For the rest of the day... please do not let go of my hand~　
+
+Player Prompts
 体調は大丈夫？=Are you feeling all right?
 手を繋いで歩こうか。=Take my hand, let's walk together
 誕生日おめでとう、栞。=Happy birthday, Shiori

@@ -1,3 +1,5 @@
+Iroha Isurugi's Birthday
+
 ねーねーおじちゃん、クイズしよっ！\nそれでは問題！　じゃじゃんっ！！=Hey, hey, Uncle! Time for a quiz! Now then, here's the question... Ta-dah!!
 今日は何の日でしょーか！？\nシンキングタイムスタート！　チッチッチッチッチ……=What day is it today!? Thinking time... Start! Tick tock, tick tock...
 ……っ！\nピ、ピンポンピンポ～ン！　大正解～！\nそれではご褒美にカンチョーを……っていらない？=...! D-Ding-ding-ding! Correct!! And for your prize -- a kancho... eh, you don't want it?
@@ -7,6 +9,8 @@
 そうだ、うちにオスのアルケスツヤクワガタいるから見にきなよ！\nそれに……むふふ。\nうちには苑ちゃんもいるよ～♪=Right, I've got a male Alkes stag beetle at home, so come take a look! And... Mufufu. Sono-chan's also there~♪
 苑ちゃんの焼いてくれたケーキ一緒に食べよ！\nお腹いっぱいになったら、すぐに眠たくなっちゃいそうだな～！\nいろはが寝た後は、若いお二人で……むふふ。妬けますな～♪=Let's eat the cake Sono-chan baked together! Once I'm full, I'll probably get all sleepy~! And after Iroha falls asleep, you two lovebirds can... Mufufufu. I'll be sooo jealous~♪
 よーし、じゃあいろはのおうちまで競争ね！\nいくよっ！　よーいドンっ！！=Okay, race you to Iroha's house! Ready... set... gooo!!
+
+Player Prompts
 いろはちゃん、お誕生日おめでとう！=Happy birthday, Iroha!
 実はプレゼントも用意してるんだ。=Actually, I've also got a present for you
 角がかっこいいクワガタ捕れなかった……=I couldn't catch a stag beetle with cool horns...

@@ -1,12 +1,19 @@
-降り立つ幻境=แดนมายาที่ย่างกรายลงมา
+Arc 3 Chapter 13, Chapters 1-3 + Sub Story
+
+Chapter 13 Name
+降り立つ幻境=Falling into a Vision
+
+Chapters Names
 オーエドに集う姫君たち=Princesses, Gathered in Oedo
 第二回プリンセス会議開催=Second Four Worlds Princess Conference
 面倒令嬢ズの観光デート？=Sightseeing Date for Troublesome Noble Ladies?
 真実の告白、懊悩の気配=Confessed Truth, Signs of Anguish
+
+Chapter 1
 わぁっ……♪\nここがオーエドっていう町なんですか！？\n建物も町のみなさんの格好も、ランドソルとはぜんぜん違います……！=Wow...♪ So this is the town of Oedo?! The buildings and the outfits the people around us are wearing are so different from the ones back in Landosol...!
 はぁ……ったく、姉さんったらキョロキョロしちゃって。\nおのぼりさんじゃないんだから。=*sigh*... Geez, Nee-san, you're always just looking around. We're not here for tourism, y'know.
 ふふ。リンドの気持ちは、わたしもよくわかります。\n本当に、どちらを見ても珍しいものばかりで。\n……クローチェも、来られれば良かったのですが……=Hehehe. I understand how Lind feels very well myself. Truly, no matter where one looks, rare sights are to be found. ...I just wish Croce could have enjoyed them with us, too...
-メンテ中なんで、仕方ありませんでしたね。\nそれと──リリさん。\nジオ・テオゴニアからここまで、案内ありがとうございました。=She's in the middle of maintenance, so it can't be helped. What's more... Lily-san. Thank you for showing us the way from Gio Teogonia.
+メンテ中なんで、仕方ありませんでしたね。\nそれと──リリさん。\nジオ・テオゴニアからここまで、案内ありがとうございました。=She's in the middle of maintenance, so it can't be helped. What's more... Riri-san. Thank you for showing us the way from Gio Teogonia.
 とんでもありません、ヴルム様。それに案内は、まだ途中……\n目的地は、皆様がお泊りになる予定のお宿ですから。\nもしかしたらリアさんたちが、先に着いているかもしれませんが──=Do not mention it, Lady Wyrm. Besides, I am still very much in the middle of guiding you... Our destination is the inn you will be staying at. Lea and the others may already be there ahead of us...
 わぁ～、キレーなお宿だねっ♪\nくんくん！　干し草のニオイがする～っ♪=Uwaaah, what a pretty inn♪ Sniff, sniff! It smells just like hay♪
 畳に使っている、い草の匂いですね。\nとってもリラックス効果があるんですよ♪=That's the smell of the rush grass used for tatami mats. It's known to have a relaxing effect♪
@@ -18,6 +25,7 @@
 ネフィ＝ネラ媛さまは～\nちょくちょくお忍びで～　オーエドに来てるんだって～\nモネちゃん言ってましたよ～=Lady Princess Nephi Nela, you see... she often comes here to Oedo in secret visits... or atleast, that's what Mone said!
 なんともはや。\n主君の秘め事を明かすとは──ナーナや。\n汝はわっちからも、躾を所望かえ？=Goodness me. Spilling your lady's secrets like that... Nana, are you asking to be disciplined by me as well?
 ぴぃっ！？\nネラちゃんの手で『ぺちーんっ』ってされたら\nナーナのお尻がバクハツしちゃうよぉ～っ！？=PIIIIII?! Nella-chan if you were to smack me using your iron hand, my butt would explode~!
+あははは……=Ahahaha...
 フム……相済まぬ、クリア殿。\n本来はナーナだけでなく、モネにも供を務めさせる所でありんすが──=Hmm... My apologies, Lady Quria. Originally, I was planning to have not only Nana, but also Mone accompany me...
 えっ？\nいえいえそんな、しょうがないですよ。\nアネモネさん、パトロールとかお忙しいみたいですし……=Huh? No, no, it clearly can't be helped. I've heard how Anemone-san seems to be busy on patrols and stuff...
 ……うぅ～ん。モネちゃんのばあい、\nしらないひとがいっぱいなトコに来たくなかったのカモ？\nひとみしりモードはつどー！　みたいな……=...Hmm. If we're talking about Mone-chan, maybe she simply didn't want to come to a place crowded with strangers...? Like... "Shy Mode: Activated!" or something...
@@ -73,7 +81,7 @@
 ばうっ。=Woof.
 たぶん、大丈夫ですよね……\n三魔姫属のひとたちには、\n念のため監視をつけるってことになってますし。=I'm sure that things'll be fine... We're supposed to have surveillance on the Three Demon Princesses, just in case.
 ──リアさんっ。=...Lea-san.
-あっ、リリちゃん♪\nそれにそれに──=Oh, Lily-chan! ♪ And also...
+あっ、リリちゃん♪\nそれにそれに──=Oh, Riri-chan! ♪ And also...
 あ～っ♪\nライラエルさまに、リンドちゃんとヴルムちゃんだ♪\nほ、本日はおひがらもよく～……=Aaaaah~♪ It's Lady Lyrael, Lind-chan and Wyrm-chan~♪ Ah! What an auspicious evening we are having today~...
 そんなかたっ苦しい挨拶はいいですよ、ナーナさん。\n似合わないですし。\nてか、まさかナーナさんがクルルさんのイトコとは思いませんでしたよ。=You don't have to force yourself to come up with an original greeting, Nana-san. It doesn't suit you. Actually, I didn't expect to discover you're actually Kururu-san's cousin.
 ネフィ＝ネラ媛さま、クリアさんにプレシアさんも、お久しぶりです。\nそれに……はじめまして。\nみなさんが、ジオ・ニヴルヘルの方々なんですね。=Lady Princess Nephi Nela, Quria-san and Precia-san too, it has been a while. Also... it is very nice to make your acquaintance. You are all from Gio Nivlhel, correct?
@@ -93,15 +101,21 @@
 ──とか思ってんだろうな、ったく。\nお姫の次は、ユキノの荒療治の番かねえ。=Bet that's about what she's thinking. Sheesh. Since we're done dealing with the Princess, I guess Yukino needs an intervention next.
 それじゃあ──さっそくですが、\nライラエルさんとネラさんとヴァイオレットさんをお借りしますね☆=Well then~ Sorry if I'm getting right to it, but I'll be borrowing Lyrael-san, Nella-san and Violet-san☆
 えっ？\nわたくしたちだけ──ですか？=Huh? You will be borrowing... just us?
-はい☆\n{playername}くんとリリちゃんクリアちゃんプレシアちゃんは、\nリンドちゃんやナーナちゃんたちのことお願いします！=Yes☆ As for {playername}-kun, Lily-chan, Quria-chan and Precia-chan... please take care of Lind-chan, Nana-chan and everyone else!
+はい☆\n{playername}くんとリリちゃんクリアちゃんプレシアちゃんは、\nリンドちゃんやナーナちゃんたちのことお願いします！=Yes☆ As for {playername}-kun, Riri-chan, Quria-chan and Precia-chan... please take care of Lind-chan, Nana-chan and everyone else!
 そんな、騎士さんにお願いされちゃうなんてっ……\nいえその！\n嫌ってわけじゃ、べつに……=No way... I cannot believe Kishi-san would take care of me... No, um! It is not like I would dislike it...
 あー、チョロ。\n……ったく、姉貴は……=Aww, so easy. ...Geez, Sis, you can be so...
 ──ふむ。つまりいったん、\nプリンセス組だけで行動したい、ってことですか。\nまぁ、ペコリーヌ姫のお膝元ですし。危険はないと思いますが……=...Hmm. In other words, you want some time alone between you Princesses for now? Well, it's your territory, Princess Pecorine. I don't think there's going to be any danger...
 よござんしょう。\n而して、如何な趣向と参りまするや？=Very well. Let me inquire, do you have a plan?
 はい☆\nそれはもちろん──=Yes☆ Of course~
 裸のお付き合い、です☆=We'll have some naked skinship☆
+
+New Titlecards
 サツキ・ネフィ＝ネラ=Satsuki Nephi Nela
 ユキノ・ナーナ=Yukino Nana
+
+Chapter 2
+
+Cutscene
 失礼しますね=Please, excuse me
 ライラエル姫=Princess Lyrael
 まずは御一献=First, a drink
@@ -118,14 +132,18 @@
 巨鯨城や黒曜宮の戦い、大変でしたからね……=The battles at your castle and the Obsidian Palace were tough, after all...
 ジオ・ニヴルヘルでも、とても大変だったようですね=It seems that you have had a rough time in Gio Nivlhel...
 よければ、お話を聞かせていただけませんか=If you do not mind, could you tell us more?
+はい=Sure
 フレイヤたちが、また暗躍を……=Once again, Freyja and her allies were working behind the scenes...
 ほんに懲りぬ奴輩に候=She really is incorrigible
 とまれかくまれ──=Always hiding and plotting...
 ペコリーヌ姫。お召し上がりますかや=Princess Pecorine. Would you have some?
+ペコリーヌ姫……？=Princess Pecorine...?
 実は……みなさんに集まってもらったのは=Actually... I gathered you all here because...
 大切なお話をさせてほしいからなんです=Because I want to tell you something important
 ペコリーヌ姫。それは、つまり……=Princess Pecorine, does that mean...
 『第二回・プリンセス会議』、スタートです=Yes. The "Second Four Worlds Princess Conference" is starting
+
+Text
 ──そして。\n湯上がりの４人のプリンセスは、\n宿の上座敷にて、膝を突き合わせていた。=...And then. After taking a bath, the four princesses sat knee-to-knee in the upper room of the inn.
 ……つまり──\nペコリーヌ姫の体調不良は、王家の装備の力を\n使いすぎたことによる副次的な作用、なのでしょうか。=...Hm. In other words, Princess Pecorine's poor health condition might be a side effect of overusing the power of her royal family's equipment, I take it?
 わたくしも、身に覚えがありますわ。\nペコリーヌ姫の症状は、厳しい戦いだったためか\nより重いご様子ですけれども……=I have experienced something similar myself. Princess Pecorine's symptoms seem to be more severe than mine, probably because of the harsh battle she underwent...
@@ -148,11 +166,12 @@
 キャル殿らは今、ランドソル王宮に御滞在中との仕儀でありんすが──\n【トゥインクルウィッシュ】の御歴々もでありましょうかや？\n叶うなら、御目文字致したい所存に御座れども。=I gather Lady Kyaru and the other two are back at the Royal Castle of Landosol. What about the girls of Twinkle Wish? If they are also there, I would be delighted to personally give my thanks.
 【トゥインクルウィッシュ】のみんなは、\n『今のうちに』、どうしても会っておきたい人がいるそうです。\nそれで……=It seems that the girl of Twinkle Wish wanted to meet a certain someone while "they still can". So...
 そんなヒヨリちゃんたちを見て、わたしたちも思ったんです。\n──各世界のプリンセスのみなさんと、またお話をしたいって。=Seeing Hiyori and the others like that, we also thought: "We want to talk to all the princesses from each world again".
-それで、リリたちがわたしたちを招待するための\n使者として遣わされたのですね。\n……？=So that explains why you sent Lily and the other two as envoys to invite us. Hm...?
+それで、リリたちがわたしたちを招待するための\n使者として遣わされたのですね。\n……？=So that explains why you sent Riri and the other two as envoys to invite us. Hm...?
 ですが……各世界の移動や相談などに、\n少なくとも一週間以上はかかっているはず。\nもしやペコリーヌ姫、その間……何も口にしていないのですか？=However... it must have taken at least a week for travel and discussion between the different worlds. Princess Pecorine, is it possible that... you have not eaten anything during that time?
 あはは。ちょっとくらい食べなくても、大丈夫です。\nわたし、これまでたくさんたくさんおいしいものを食べてきましたし。\nそれに……ここだけの話──=Ahaha. It's okay if I lay off eating for a while. I've eaten a lot of delicious food up until now. And... just between you and me--
 ──この世界はぜんぶ、『造り物の世界』ですから。\n食べるといっても、本当に栄養が得られるわけじゃ……ないですから。=...This whole world, all of it, is "artificial". Even if you eat, you don't actually get any nutrition from it... none.
 一方。\nランドソル王宮では、キャル・コッコロ・シェフィが\n王家の装備について調べるため、大量の文献と睨み合いをしていた。=Meanwhile, at the Royal Palace of Landosol, Kyaru, Kokkoro and Sheffy were glaring at a large stack of documents in order to research the Royal Family equipments.
+……ふぅ。=...Phew.
 こらーシェフィー\n手ー止まってるわよー=Oiii, Sheffy! I can see your hands stopped moving...
 あっ……ごめんなさい。\n集中力が、切れてきちゃったみたいで……=Ah... I'm sorry. It seems I've lost my concentration...
 ……無理もありません。\nこうも連日、書物や魔法の巻物と向き合っておりますと……\nわたくしも、目の疲労を強く感じます。=...Nothing you can be blamed for. After facing books and magic scrolls like this every day... I, too, feel a strong sense of eye fatigue.
@@ -273,6 +292,9 @@ Region：TEOGONIAが、『新種族のテストサーバー』。\nRegion：GEHE
 ……でもでも！　ナーナ恥ずかしいけど、がまんするよ……！\nユキノちゃんの命がかかってるから！\n騎士ちゃ～んっ！=...But, but! Nana might be embarassed, but she'll endure it...! Yukino-chan's life is at stake here! KNIGHT-CHAAAAAAAAAAAAN!
 こ、こねえで～～っ……！=D-DON'T COME INNNNNNNNN...!!!
 ──小さなトラブルがありつつも、\nオーエドの夜は更けていく……=...Even with its small issues, the night in Oedo continues.
+
+
+Chapter 3
 ぷしゅぅ……=Pshhh...
 ──ったく。\nなにバカやってんでぇ。=...Sheesh. Just what has this fool gotten herself up to now.
 ユキノちゃん、ごめんねごめんねっ！\nユキノちゃんが熱いのダメって、しらなくて……！=YUKINO-CHAN! I'M SO SORRY! SO VERY SORRY! I had no idea you were no good around heat...!
@@ -363,11 +385,17 @@ Region：TEOGONIAが、『新種族のテストサーバー』。\nRegion：GEHE
 ……？\nヴルム……？=...? Wyrm...?
 変なの。どうしたんだろ……=How weird for her. I wonder what's wrong...
 裏世界のプリンセスたちにもたらされた、衝撃的な事実。\nそして、陰でそれを聞きつけ動揺する者たち。\n様々な思惑をはらみ、トーゴクの夜はさらに更けていく──=A shocking truth is laid bare to the three princesses from the Underworlds. Equally shaken, those who lurked in the shadow stir. With various intentions lurking, the night in Oedo grows deeper...
+
+Player Prompts
 ──失礼します。=...Excuse me.
 すぐには信じられないと思うんですが……=I know it's hard to believe right away...
 ネラさんは、理解が早いですね。=You're quick to understand, Nella-san
 ……まだ、どうなるか分からないんです。=...There's no guarantee on what might happen
+
+New Titlecard
 ライラエル・ヴァイオレット=Lyrael Violet
+
+Substory
 ──『黒曜宮』での戦いの後。\nダークエルフの少女・リーザは、\nヴァイオレット姫の付き人の一人としてランドソルを訪れていた。=...After the battle at the Obsidian Palace, the dark elf girl, Lisa, was visiting Landosol as one of Princess Violet's attendants.
 リーザ。こちらの世界の観光を希望していたそうだね。\n私が案内させてもらうことになったけど……でも、本当にいいのかい？\n付き人なのに、プリンセスから離れてしまって。=Lisa. I heard you wanted to do some sightseeing in this world. I have been assigned to show you around, but... are you sure? Even though you are her attendant, you have left your Princess behind.
 ええ、護衛はグレイスがいれば十分よ。\nそれに口うるさい小姑はそばにいないほうが、\nヴァイオレット姫も負担にならないでしょうし。=Yes, Grace is more than enough to guard her. Besides, it will be less of a burden for Princess Violet if she doesn't have a nagging mother-in-law like me nearby.
@@ -392,6 +420,7 @@ Region：TEOGONIAが、『新種族のテストサーバー』。\nRegion：GEHE
 ！　半霊体の犬──いや、精霊の一種……なのかな。\n……こんにちは、クー\nリーザと一緒に、ランドソルを楽しんでくれるとうれしいよ。=...! A half-spirit dog - no, a kind of spirit... I think. ...Hello Cu, I hope you will enjoy Landosol together with Lisa.
 さっきのお店で、クーが食べられそうなお肉を買ってきたんだけど……\nねぇレイ、クーにエサをあげてみる？\nお近づきのしるしに。=At the store earlier, I bought some meat that I think Kuu might like to eat... Hey, Rei, do you want to try feeding Kuu? As a sign of our growing friendship.
 いいのかい？\n……それじゃあ、遠慮なく。\nどうぞ、クー=Are you sure? ...Then, don't hold back. Go ahead, Cu.
+ばうっ！=Bwah!
 ふふ、良い子だ。=Hehehe. What a good girl.
 そうでしょ？\n自慢の精霊犬だもの。=Isn't that right? I'm very proud of my spirit dog.
 クーにエサをあげていた時のレイの表情……\nフフ、真面目そうな顔が緩んでかわいいところが見られたし、\nとても有意義で楽しい時間を過ごせたわ。貴女のおかげで。=Your expression while you were feeding Cu, Rei... Hehe, it was so cute seeing your serious face soften like that. Thanks to you, I had a truly enjoyable and meaningful time.
@@ -447,3 +476,6 @@ Region：TEOGONIAが、『新種族のテストサーバー』。\nRegion：GEHE
 レイ。\n街の観光もいいけれど……貴女のこと、もっと知りたくなったわ。\nこの後の案内も、よろしくね♪=Rei, sightseeing in the city is nice, but... I want to know more about you. I'll be counting on you to show me the way after this♪
 ああ──改めてよろしく、リーザ。\n……じゃあまずは、【王宮騎士団（NIGHTMARE）】に\n案内しようかな。この男たちを突き出すついでにね。=Yeah. Once more, glad to have you onboard, Lisa. ...Then, first, I think I will introduce you to the Royal Knights of NIGHTMARE. While we are there, I shall turn these two in.
 ──住む世界は違えど、その性格に共通点を見出したレイとリーザ。\n奇妙な組み合わせのランドソル観光は、まだしばらく続くのだった。=...Though they live in different worlds, Rei and Lisa find common ground in their personalities. This strange pair's tour of Landosol will continue for a while longer.
+
+New Titlecard
+おばあさん=Grandma

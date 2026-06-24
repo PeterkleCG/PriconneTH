@@ -1,3 +1,5 @@
+Miyako Izumo BDay
+
 ──プリン会議を始めるの。=The Secret Pudding Conference is now in session.
 今日は宮子の誕生日なの。\nそこでオマエは宮子にたくさんのプリンをプレゼントしてきたの。\nいろんなメーカーの味が違うプリンを、たっくさん。=Today is Miyako's birthday. So you brought her a whole bunch of pudding as a present. Tons of pudding, all different flavors, from all kinds of brands.
 宮子はすごくうれしかったの。\n{playername}に感謝してやるの。\nでもそれと同時に、気づいてしまったの──=Miyako was really happy. She'll even thank you for it, {playername}. But at the same time... she realized something...
@@ -9,5 +11,6 @@
 ……あ～むっ♪\n美味しいの～！　オマエに食べさせてもらうだけで、なんか……\nふわふわした味わいを感じるの～♪=...Ahhh~♪ It's delicious~! Just having you feed me somehow makes me feel... all fluffy and light~♪
 これは大発見なの！\nオマエはもしかしたら宮子に美味しいプリンを食べさせるために\n生きてるのかもしれないの～！=We've made a huge discovery! Maybe the reason you exist is to feed Miyako delicious pudding~!
 プリン会議、大成功なの！\nそれじゃあもっと宮子に食べさせるの♪\nぜ～んぶ食べ終わるまで、オマエは宮子のものなの～♪=The Secret Pudding Conference was a total success! Now feed Miyako even more~♪ Until every last pudding is gone, you belong to Miyako~♪
+
 僕も実は……そう思ってた……=You know... I was thinking the same thing...
 僕がプリンを食べさせてあげる。=Then... I guess I'll personally feed you the pudding!

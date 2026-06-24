@@ -1,3 +1,5 @@
+Jun Shirogane's Birthday
+
 お疲れさま、少年。\n今日は飛び入りで怪人役をやってもらって悪かったね。=Good work back there, Boy. Sorry for roping you into playing the villain on such short notice.
 台詞はまあ置いておくとして、\n君はやられ役になった時のリアクションが非常にいい。\nこちらも気持ちよくヒーローをやることができるよ。=Putting the delivery of the lines aside, your reaction when you went down was perfect. It really let me play the hero to the fullest.
 無理な頼みを聞いてもらった礼だ。\nどうかな、これから一緒に打ち上げといかないか？\nもちろんご馳走させてもらうよ。=As thanks for going along with my selfish request... how about it? Shall we grab a bite? My treat, of course.
@@ -8,6 +10,8 @@
 ああ、ありがとう。\nケーキに……蝋燭まで用意してくれたのか。\nふふ。バースデーケーキの火を吹き消すなんて久しぶり……あ。=Ah, thank you. The cake... you even prepared candles for it. Hehe. It's been a while since I blew out the candles on my birthday cake... Ah.
 ……まぁ、いいか。\nこのパーティーの参加者は私と少年だけだ。=...Well, it's fine. The only people attending this party are me and you, Boy.
 ──フーッ。\nん……少年、あまり顔を見つめないでくれ。\n……照れてしまうだろう？=Phew. Mm... Boy, don't stare at my face too much. ...You'll make me blush, see?
+
+Player Prompts
 いいの？　だって今日は……=Are you sure? Because today...
 じゃあ誕生日パーティーがやりたい！=Even so, I want to throw a birthday party for you!
 誕生日おめでとう、純さん。=Happy birthday, Jun-san

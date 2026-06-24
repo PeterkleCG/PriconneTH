@@ -1,3 +1,5 @@
+Yuni Shingyouji's Birthday
+
 あ、ほんとに来た……や、ほら、こないだ君、ここの話してたじゃん？\n屋台のクレープすごい普通って。だから今日あたり来るかなって──\nあっ、ちが、違うよ？　全然その、ストーカー的なアレじゃなくて！=Ah, he really did come... Ah! I mean, you were talking about this place the other day, remember? The food stall with the unusually "normal" crepes... So I kinda figured you might show up today~ Ah, no! Wait, that came out wrong! It's not like I was stalking you or anything!
 え？　あっ、はい……どうも……\nそっか、今日28日か、ユニ博士の誕生日だ。=Huh? Ah, yes... Thank you... I see. Today is the 28th, "Doctor Yuni's" birthday.
 うん、まあ、そうだよね。\nアストルムのアバターって、なんかキャラ名もそうだけど、\n誕生日とかも本人ママ設定しがちな風潮あるもんね。=Mm. Well, makes sense. When it comes to Astrum avatars, it's generally the players who set their own character name, and even their birthday.
@@ -8,6 +10,8 @@
 そんなワケないしね、４年に一回とか。\nおおむね前日か翌日──翌日パターンのが多いかな、\n平年はその辺りが誕生日扱いになって全然普通に歳とってくし。=It's not like I only get celebrated once every four years, obviously. Usually it's either the day before or the day after... I think it's more often the day after? So on normal years, I just celebrate around then and age like a regular person.
 あれ？　今コレ何の話だっけ……あ、だから私の誕生日ね？\nそう、今日じゃないけど、今日でもだいじょぶですって話。\n祝ってくれてありがとうございます──なんて、えへへ。=Huh? What were we talking about just now... ah, right, my birthday. That's right. It's not "today", but it's fine to celebrate it today too. Thank you for celebrating with me~ Ehehe.
 ほんと？　すごい、誕生日２日目ってやつだ。お得すぎ、嬉しい。\nあっ、じゃあ、そしたら私、明日もここで待ってるから──\nあ、ちが、今日は待ってたわけじゃないけど！　あはは……あぶねー=Really? Amazing, two birthdays in a row... That's a bargain, I'm so happy. Ah, then, I'll be waiting here again tomorrow... AH! No! It's not like I was waiting here today! Hahaha... that was close-
+
+Player Prompts
 誕生日おめでとう、由仁先輩。=Happy birthday, Yuni-senpai
 自分の誕生日を忘れてたの……？=Did you forget your own birthday date...?
 どっかその辺に座る。=*I sit down where she's pointing*

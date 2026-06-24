@@ -1,3 +1,5 @@
+Violet's Birthday
+
 『あの、騎士様？\n先ほどから、「れいぞうこ」の前で何をしていらっしゃるのですか？』=Um... Lord Knight? You have been in front of the... "refrigerator" for a while now, why is that?
 お夕飯の準備……ではなさそうですし。\n「りびんぐ」で待っていて、とのことですが……\nやはり、お手伝いをしたほうが良いのでは……？=Maybe he is about to prepare dinner... yet that does not seem the case. He said that I should wait in the "living room", but... Maybe I should help him...?
 『まぁ……！\nこの「けーき」を、わたくしのために……？\nありがとうございます、騎士様！』=My...! This "cake"... is it for me...? Thank you very much, Lord Knight!
@@ -9,6 +11,8 @@
 それに、わたくしがそのような節目を忘れていたのは……\nそれほどに騎士様と暮らす今が楽しく、充実している、\nということですもの。=Besides, the only reason I had forgotten about such a milestone... is because living together with Lord Knight is just so fulfilling.
 『ありがとうございます……！\nふふっ、では「ないふ」をお持ちしますね』=Thank you very much...! Hehe, then... I shall bring you a "knife".
 『二人で一つの「けーき」を分け合う、なんて\nなんだか物語の一幕みたいです。\n素敵なお祝いをありがとうございます、騎士様……♪』=Cutting a shared cake between the two of us feels like a scene from a storybook. Thank you for such a lovely celebration, Lord Knight...♪
+
+Player Prompts
 実は、お祝いのケーキを用意したんだ。=To tell the truth, I prepared a cake to celebrate something...
 誕生日おめでとう、菫さん！=Happy birthday, Sumire!
 遠慮せず、好きなだけ食べていいからね。=Don't be shy, eat as much as you want

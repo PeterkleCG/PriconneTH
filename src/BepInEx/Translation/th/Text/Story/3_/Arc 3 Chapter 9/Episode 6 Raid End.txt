@@ -23,6 +23,9 @@
 ああっ！\nシェフィさまが、連れ去られてしまいます……！=Ah!\nMiss Sheffy is being taken away......!
 追いかけるしかありません！\nキャルちゃんプレシアちゃん、\nあの魔法陣が消えるの止められますか！？=We have no choice but to give chase!\nKyaru-chan, Precia-chan, can you stop the magic circle from disappearing!?
 「ええ！」\n「んっ」="Yes!"\n"Mm"
+
+
+
 クククク……=Heheheheh...
 クカカ……カカカッ=Hahaha... Hahahaha
 ──クカカカ！=Hahahaha!
@@ -31,6 +34,8 @@
 ククククッ=Hahahaha
 さぁ……！=Now, then...!
 このジオ・ゲヘナの総てを、我が傀儡としてくれようぞ！=I will make all of Gio Gehenna my puppet!
+
+
 「シェフィちゃんっ！」\n「シェフィさまっ！」\n「シェフィっ！」="Sheffy-chan!」「Miss Sheffy!」 「Sheffy!"
 ──媛っ……！！=Princess...!!
 ホウ……\nぞろぞろと雁首揃え、我の後を追って来たか？\n力の差は思い知ったであろうに、愚かなことよなァ。=Ho...\nSo you have followed after me, like a flock of sheep?\nYou should know the gap in power between us by now, how foolish.
@@ -53,6 +58,7 @@
 さぁ──今度こそ。\n我が掌中にて、互いの命を奪い合うがいい！\n暴食の姫と、その仲間たちよ……！=Now, this time for sure.\nBy my hands, you shall take each other's lives!\nYou foolish princess of gluttony and her friends!
 通信魔法のフレイヤ=Freyja's Communication Magic
 ……シェフィちゃん……！=...Sheffy...!
+
 ──ま、さか……=This... Can't be.........
 ──このっ、我……がっ……=...To those... me......
 なんとか、倒せた……かしら？=We managed to defeat her... I think?

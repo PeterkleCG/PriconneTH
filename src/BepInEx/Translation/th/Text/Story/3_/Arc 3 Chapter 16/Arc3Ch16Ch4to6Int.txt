@@ -1,7 +1,12 @@
+Three Way Conflict for Supremacy Ch. 4-6 + Interlude
+
+Chapter Names
 邪悪たちの復活=Resurrected Evil
 竜に集う=Dragon Temple's Gathering
 『瞳』に映る未来="Insight" into the Future
 皇帝の血=Kaiser's Blood
+
+Chapter 4
 【美食殿】と【ウォーロック】の交渉は、\nフレイヤの離反によって決裂してしまう。\nさらに、グルーヌイと共に乱入するように現れたのは──=Negotiations between the "Gourmet Guild" and WARLOCK break down due to Freyja's defection. Furthermore, appearing at Grenouille's call are...
 「ク、クククッ──」\n「フフ……」="Kukukuku..." "Fufufu..."
 「ミロク！？」\n「陛下！？」="Miroku?!" "Your Majesty!"
@@ -22,6 +27,7 @@
 あなたは成長していないのかしら、キャル。\n久しぶりに、躾をしてあげなくちゃいけないようね？=It seems you have nothing to show in terms of growth, Kyaru. It has been a while, but it seems I need to discipline you anew, do I not?
 へ、陛下……！\nまさか……本気でまた、あたしたちを襲う気なんですかっ……！？=Y-Your Majesty...! Don't tell me... you're really going to get in our way again...!?
 当たり前じゃない？\nあなたたちに作った大きな借り、キチンと返してあげないとね。=Is that not obvious by now? I still owe you all a great debt... and I intend to repay it properly.
+そんなっ……！=No way...!
 覚悟を決めなきゃダメよ、キャル！\n──{playername}、お願い！=Kyaru, steel yourself and be prepared! ...{playername}, please!
 陛下っ……\nそれなら……！=Your Majesty... In that case...!
 あたしも陛下に、成長したところを見てもらいます！\n──アビスエンドバースト！！=I'll show you just how much I've grown, Your Majesty! ...ABYSS END BUUUUUUUURST!!!
@@ -117,13 +123,19 @@
 ぉぉ──！\n我が肉体を蘇生せし、冥府の聖母よ……！\n感謝の証しに、その御御足を嘗めさせてぃただきたい……！=Ohhhh! O'Holy Mother of the Netherworld who resurrected my body...! Please, as a token of my gratitude... allow me to lick your divine feet...!
 嫌よ気持ち悪い。\n……そもそも蘇生プログラムっていうの、私が作ったんじゃないし──\n作り主の、そう……=Absolutely not. That's revolting. ...Besides, I didn't create that resurrection program in the first place~ Its creator, right...
 幻境竜后がお呼びよ。\n貴方たちをね。=Vision Empress has summoned you. All of you.
+
+New Titlecards
 ミロク・覇瞳皇帝=Miroku Kaiser
 覇瞳皇帝・フレイヤ=Kaiser Freyja
+
+Player Prompts
 やばい！！！=This is bad!!!
 覇瞳天星……！=Hadou Tensei...!
 冥界を彷徨う人物って、もしかして……=A certain person wandering the Netherworld... could it be?
 オクトーさんも、違和感を持ってたっけ。=I recall Octo saying something felt off too
 ペコリーヌを強化する！！=PECO-SAN! I'LL STRENGTHEN YOU!!
+
+Chapter 5
 エルピス島上空。\n七冠・幻境竜后の拠点──『嵐の浮島』。=Above Elpis Island. The base of operations for the last of the Seven Crowns, Vision Empress -- "Stormy Floating Island".
 その中央には、\nランドソル城を複製したような『竜の神殿』があり──=At its center stands the "Dragon Temple", a replica of the Castle of Landosol.
 ミロク、覇瞳皇帝、グルーヌイの３人は、\n幻境竜后たちの居る『竜の神殿』の前で、ぽつねんと立っていた。=Miroku, Kaiser Insight and Grenouille stood alone in front of the "Dragon Temple" where Vision Empress resided.
@@ -256,8 +268,12 @@ personnage　de　fesses。\nいわゆる『尻文字』というやつだね。
 ……ええ。\nこの男の面倒を見ろ、とかじゃないとありがたいけれど。=...Yes. Though I'd be grateful if it's not something like "take care of this man for me".
 場合によっては、もっと厄介かもしれません。\nですが、必要な役割です。=Depending on the situation, it might be even more troublesome. However, it is a necessary role.
 七冠の中でも、最も恐ろしい彼──覇瞳皇帝の、監視役はね。=Among the Seven Crowns, he is the most fearsome... you will act as the watcher of Kaiser Insight.
+
+New Titlecards
 ミロク・グルーヌイ=Miroku Grenouille
 覇瞳皇帝・グルーヌイ=Kaiser Grenouille
+
+Chapter 6
 覇瞳皇帝とミロクに追い詰められた【美食殿】は、\nギルドハウスに設定した帰還の魔法陣を用いて\n命からがら逃げ延びることに成功していた。=Cornered by Kaiser Insight and Miroku, the Gourmet Guild managed to escape with their lives by using the return magic circle they had set up in their guild house.
 はい、そして……=Yes, and...
 ……ご、ごはん～……！！=...B-Breakfast, pleaseeee...!!
@@ -353,6 +369,7 @@ personnage　de　fesses。\nいわゆる『尻文字』というやつだね。
 フン。まるっきり小物の考えね。\nなら──\nそこで転がっている馬鹿猫の首でも、土産にしたらいいんじゃない？=Hmph. What a petty way of thinking. Well then... why not take the head of that stupid cat lying there as a souvenir for her?
 別に、そんなもの……って言いたいところだけど。\nフレイヤから聞いたわ。この前のお茶会では彼女、\n休戦の約束を破って攻撃をしかけて、幻境竜后を怯えさせたって。=I'd like to say "It's not worth much", but... I heard from Freyja that at Vision Empress's latest tea party, she broke the truce agreement and launched an attack, frightening her.
 ついでに──\nジオ・ニヴルヘルで戦ったときは、いっぱい食わされちゃったし。\nここで借りを返しておくのも悪くないかもね。=While we're at it... she also forced my hand pretty harshly back when we fought in Geo Niflhell. It might not be a bad idea to settle the score here.
+……くっ……！=...K-Khhh...!
 あなたたちの因縁になんて、興味ないわ。\n戦いに備えて、魔力の補給をしておかなくちゃ。\n……幻境竜后が何と言おうと、今度こそ軒を貸してもらうわよ。=I have no interest in your feud. I need to replenish my magical power in preparation for battle. ...No matter what Vision Empress says, this time I will be borrowing your lodging for real.
 へい、かっ……=Your... Majesty...!
 ──じゃあね、キャル。\n気が向いたらロストしたあなたの魂\nそこらの野良猫のアバターにでも入れて、虐めてあげるわ──=See you, Kyaru. If I feel like it, I will put your "Lost" soul into some stray cat avatar and torment it...
@@ -381,7 +398,11 @@ personnage　de　fesses。\nいわゆる『尻文字』というやつだね。
 お、王家の装備……！\n全然本気を出してない感じなのに、手も足もでないっ……\nまだプリンセスナイトの能力だってあるのに！=H-Her Royal Family's Equipment...! It doesn't even look like she's using it at its maximum power, but I can't do anything against it... What's more, she even has her Princess Knight abilities!
 今のあたしじゃ、絶対勝てない……\n幻境竜后以外にこんなのが、あと二人もっ……！\n──どうしたら……=The way I am now... I cannot possibly win! There's two more girls other than Vision Empress who're like her...! What should I do...?
 どうしたら、『使える』の？\nあたしなんかでも──=How can I "use" it? When it's someone like me...
+
+Player Prompts
 危なかったね……=That was close...
+
+Cutscene
 （……教えてください、陛下──）=(Please tell me, Your Majesty...)
 あら？　観念したのかしら=Oh my? I suppose you have resigned to your fate
 （見える──）=(I can see it~)
@@ -394,6 +415,8 @@ personnage　de　fesses。\nいわゆる『尻文字』というやつだね。
 はぁ～～～っ！=AAAAHHHHHHHH!
 ……『強欲』！！="AVARITIA"!!
 死ねぇぇぇーーーーーっ！！！！=DIEEEEEEEEEEEE!!!
+
+Interlude
 覇瞳天星の力を奪取したキャルと、リーザの激突。\nその少し前──=A clash was taking place between Kyaru, who had seized the power of "Hadou Tensei", and Lisa. A little before that...
 ただ一人【美食殿】のギルドハウスを出たキャルは、\n逡巡したまま指定された座標へ向かっていた。=Having left the Gourmet Guild's guild house alone, Kyaru headed towards the designated coordinates, still wavering.
 あたしだけで魔物レース場の跡地に来るようにっていう、\n陛下からのメッセージ──「命は取らない」って書いてあるけど。\nでもそんなの、あの人の虫の居所一つでひっくり返る……="I will not take your life". That is what the message from Her Majesty to come alone to the former monster race track said... But that could flip on a whim, depending on her mood...
@@ -448,6 +471,8 @@ personnage　de　fesses。\nいわゆる『尻文字』というやつだね。
 だが……『さかさまの塔』に向かう条件は整い\nついでに女狐の被った皮は剥げ、頭の堅い改造人間は駒へと堕ちた。\n次は──=But... the conditions for heading to the "Upside-Down Tower" were met. The vixen's disguise has been stripped away, and that stubborn cyborg has fallen to a mere pawn. Next up...
 獲らせてもらうぞ。\n『アイテール・モジュール』──そして、認識の修正プログラムを。=I'm going to get it. The "Aether Module" -- and the program to correct perceptions.
 準備はいいな、グルーヌイ。=All set, Grenouille.
+
+Player Prompts
 ──キャルちゃん！！=...Kyaru!!!
 だって、どこに行ったか分からなくて……=I mean, I didn't know where you went...
 キャルちゃん、その格好は？=Kyaru, what are you wearing?

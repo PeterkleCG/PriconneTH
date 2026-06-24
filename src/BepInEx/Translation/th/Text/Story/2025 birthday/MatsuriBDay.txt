@@ -1,3 +1,5 @@
+Matsuri Orihara Birthday
+
 こっち……いや、こっちもかっこいいッス……！\nでもでもっ、うぅ～どうしたらいいッスか！？=This one... No, but this one's also COOL...! But, but... Uuu, what should I do?!
 あっ、アニキ！\nちょうどいいところにきてくれたッスね！\nちょっと相談に乗ってほしいッス！=Ah! Bro! You really came at just the right time! You see, I'd like some advice!
 このトラタイガーグッズ、どっちがいいッスかね！？\n実物大トラタイガークローか、豪華版ＤＸ変身ベルトか！=Which of these Tora Tiger goods do you think is best, pal!? The life-size Tora Tiger Claw or the deluxe DX transformation belt?
@@ -9,6 +11,8 @@
 アニキ……！\n分かったッス！　変わりばんこでトラタイガーに変身ッス！\nえへへ……その前に。=Bro...! Got it! We'll take turns transforming into Tiger Tiger! Hehehe... But before that...
 アニキ、誕生日をお祝いしてくれてありがとッス。\nやっぱり自分、アニキのこと──=Bro... thank you for celebrating my birthday. After all, I~...
 ──だぁい好きッス♪=...super duper LOVE you, pal♪
+
+Player Prompts
 実物大トラタイガークロー=The life-size Tora Tiger Claw
 豪華版ＤＸ変身ベルト。=The deluxe DX transformation belt
 誕生日おめでとう、これは僕から。=Happy birthday. This is from me

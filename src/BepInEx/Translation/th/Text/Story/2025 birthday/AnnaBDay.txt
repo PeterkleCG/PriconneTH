@@ -1,3 +1,5 @@
+Anna Hiiragi's Birthday
+
 むっ……この気配……！\n誰だっ！=Mm... This presence...! Who's there?!
 シグルド……！\nまさか私をこの地に呼び寄せし文は、貴様が！？=Sigurd...! Could it be that the one who summoned me to this land... was you?!
 この疾風の冥姫、\nアンネローゼ・フォン・シュテッヒパルムに一体何用だ！=What business do you have with the Gale Wind Princess, Annerose von Stechpalm?!
@@ -9,6 +11,8 @@
 そうか……シグルド。\n我ら「熾炎戦鬼煉獄血盟暗黒団」の新たなる物語を、\nこの白紙の書物に刻んでゆこう、と……そういうことだな？=I understand... Sigurd. You want to carve a new story for us, the "Order of Gehenna Immortals" into this blank book... is that right?
 くっくっく……よかろう！\n私と貴様のこれから歩む物語、しかと記してゆこうではないか！=Ku-ku-ku... Very well! Let us record this story that you and I will weave together forth!
 ……二人だけの物語を、な。=...A story just for the two of us.
+
+Player Prompts
 我が名は閃光のシグルド！=It's me! Sigurd the Flash!
 今日は我が盟友生誕の日！=Today is the day of my sworn ally's birth!
 誕生日おめでとう、杏奈ちゃん。=Happy birthday, Anna-chan

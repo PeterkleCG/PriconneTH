@@ -1,3 +1,5 @@
+Anne's Birthday
+
 その日、{playername}はアンの誕生日祝いとして\n彼女が知らない場所──{playername}の地元を案内していた。\n商店街や駅など、いくつかの場所を巡り……=That day, as a birthday present, {playername} took Anne around places she'd never seen before -- his hometown. They visited the shopping district, the station, and a few other spots...
 うわぁ～、本がたくさん！\nここ、図書館だよね？\nここにある本は全部自由に読んでいいんだよね！？=Wow, so many books! This is a library, isn't it? You can read all of these freely, right!?
 やったぁ！\nどれから読もうかな～……\n見慣れない難しい字も多いけど、不思議と意味はわかるみたいだし……=Yay! Where should I even start...? There are a lot of characters I'm not familiar with, but for some reason, I kind of... understand them anyway...
@@ -11,6 +13,8 @@
 ふふ、ありがとう！\n……あ、そうだ！　もしよかったら、ここにある本のことを\nあなたにもっと聞いてもいいかな？=Hehe, thank you! ...Oh, right! If you don't mind, could I ask you more about the books here?
 文化とか技術とか、わからないことも多いし……\nもっともっとここのこと、知りたいから。=There's still so much I don't understand -- your culture, your technology... So I want to learn even more about this place.
 ありがとう！\nじゃあ引き続き、残りの時間もよろしくお願いしますっ！\nどこから読み始めようかな！　ふふっ♪=Thank you! Then I'll be in your care for the rest of the day! Now... where should I start reading? Hehe♪
+
+Player Prompts
 誕生日のお祝いは気に入ってくれた？=Did you like how we celebrated your birthday?
 泊まりこみとかはできないからね……？=You can't stay overnight or anything, okay...?
 お誕生日おめでとう、アン。=Happy birthday, Anne

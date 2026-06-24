@@ -1,3 +1,5 @@
+Kiruya Momochi's Birthday
+
 あ～、クソ、クソ、クソッ……！\nなんだってこんな気分にならないといけないのよ……！=Aaaah, damn it, damn it, damn it...! Why the hell do I have to feel like this...!
 あぁ？　……あんたか。\n今気分最悪なの。噛みつかれたくなかったらどっか行ってくれる？\n……？　なんで突っ立ってんのよ。あたしに用があるわけ？=Huh? ...Ah, it's you. I'm in a rotten mood right now. If you don't wanna get your head bitten off, then scram. ...? Why are you just standing there? You got business with me?
 ……ッ！\n何で知って……ああ、アストルム一緒にやったときか。\n登録したフレンドの誕生日見えるんだっけ。非公開にしとけばよかった。=...! How did you know... Ah, it was when we played Astrum together. Friends can see your registered birthday, huh. Should've set it to private...
@@ -8,6 +10,8 @@
 だからやめてってば！　余計なお世話なのよ！\nいい日にしようとしないで！\nあたしはこの日を、ずっと恨んでいくんだから……！=I said knock it off! It's none of your damn business! Don't you dare try to make this a good day! I'll hate this day for the rest of my life...!
 やめろ……！　やめてってばぁ……！\n期待、させないでよ……！　来年はもっと、いいことあるかも、なんて。\n絶対、裏切られるのにっ……！=Stop...! I told you to stop...! Don't let me get my hopes up...! Don't make me think maybe next year will be better. I'll just get crushed again...!
 だったらあんた、責任取りなさいよ……？\n誕生日、毎年期待しちゃうからね……？\n裏切ったら、絶対許さないから……！=In that case, you should take responsibility, okay...? I expect you to have a birthday prepared for me every year, okay...? And if you let me down, I'll never forgive you...!
+
+Player Prompts
 希留耶ちゃん？=Kiruya-chan?
 今日……誕生日だよね。=Today's... your birthday, right?
 僕はうれしいよ。=I'm glad you were born

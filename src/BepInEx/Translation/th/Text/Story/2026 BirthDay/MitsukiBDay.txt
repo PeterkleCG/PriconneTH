@@ -1,3 +1,5 @@
+Mitsuki BDay
+
 君、こっちよ。\n時間通りね。={playername}-kun! Over here. You're right on time.
 ふふ。\n急に会いたいだなんて、今日が何の日か知っているのかしら。=Hehe. You suddenly said you wanted to see me... I wonder if you know what day today is.
 あら。知っていたってことは、\nこれはバースデーデートのお誘いだった、ってことでいいのかしら。\nふふ、君もなかなかやるじゃない。=Oh my. So you did know? Then I suppose this was an invitation to a birthday date. Hehe... you're quite the charmer.
@@ -9,4 +11,6 @@
 立派な男の子じゃない。\nううん、子ども扱いは失礼ってものだわ。=He's quite the fine young man. No... calling him young here would be rude.
 格好いいところを見せてくれてありがとう。\nその気持ちだけでじゅうぶんうれしいわ。\nだけど、お会計は私に払わせてちょうだい。=Thank you for showing me your cool side. That's enough to make me happy. But please let me cover the bill.
 ご馳走になるのは、あなたがもう少し成長してから、ね♪=I'll let you treat me once you've grown up a little more, okay♪
+
+Player Prompts
 ディナーを予約してます。=I made a reservation for dinner

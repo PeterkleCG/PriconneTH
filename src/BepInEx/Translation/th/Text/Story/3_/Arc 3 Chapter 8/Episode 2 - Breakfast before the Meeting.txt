@@ -103,3 +103,4 @@
 それなら、リュックに頭を突っ込むのはやめてくださいね！=So, please stop sticking your head in the backpack!
 ぴいっ！？\nごごごめんなさ～いっ！！=Eep!?\nS-Sorry!!
 そうして{playername}たちは、\n旧交を温めつつ、三番目の裏世界──\n『ジオ・ニヴルヘル』のプリンセスが来るのを待つのだった。=And so, {playername} and the others, while reconnecting with old friends,\nawaited the arrival of the princess from the third underworld──'Gio Niflhel'.
+──なって、ません。\nその……{playername}からも、何か言ってください──=──Not really.\nThat's...... {playername}, say something──

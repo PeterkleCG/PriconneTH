@@ -4,6 +4,7 @@
 二匹=Two of them
 で!=So!
 セットする女神の秘石の\n数を変更しますか？=Do you want to change the number of Secret Stones of the Goddess you're setting?
+ジオ・ゲヘナ～火山の麓～=Gio Gehenna
 ──第二の裏世界、『ジオ・ゲヘナ』にて。=── In the second underworld, Gio Gehenna.
 転生の際に失われたというホウオウの力を探すため、\nそして『ジオ・ゲヘナ』を詳しく知るために\n炎のくすぶる密林地帯へと向かった{playername}と【美食殿】。={playername} and the Gourmet Guild go to the smoldering jungle to search for the power of Ho-oh that was lost during reincarnation and to learn more about 'Gio Gehenna'.
 アルミラージの少女・ナーナが偶然、目当ての品を手にするものの、\n『ジオ・テオゴニア』でも暗躍していた謎の少女・フレイヤが介入する。\nそして──=By chance, the young Al-mi'raj girl named Nana obtained the desired item,\nbut is interrupted by the mysterious girl Freyja, who had been active\nin 'Gio Teogonia'. And then──
@@ -118,6 +119,7 @@
 もちろん、よろしくお願いします。=Of course, thank you.
 ぴぃふぅ、ぴぃふぅ……=Pii, Pii...
 ……この辺りで良いかしらね=Is this area fine?
+剣=Sword
 無限無数の血に染まりしゲヘナの大地よ=Gehenna soil drenched in blood, Infinite and countless
 鵺の化身、マンティコアのモンストレスが=Avatar of Nue, Monstresses Manticore
 汝の御霊の欠片をここに招聘す――=Invite the fragments of your soul here──

@@ -1,3 +1,5 @@
+Nephy Nella Shikiba's Birthday
+
 『けぇき』なる洋菓子、宝石箱の如く煌びやかで見目麗しく。\n様々に品々し、且つ数多あり、目移りする事甚だし。\nされど情人と右往左往するならば、煩悶も又愉快也……のう、お前さま？=This... "cake". Western confection though it be, gleams fair as a jeweled casket. So many kinds, so many choices... it truly baffles the mind on where one's eyes are to set. Yet if one is wandering back and forth together with their beloved, such troubles are a joy in themselves... is it not so, my dear?
 コロコロ……然り、然り。\n「しょおとけぇきは誕生日の定番」、なる手代殿の薦め在らば。\n『ほぉる』丸ごとは大なれど、若人の胃腸なれば事無しと思い侍り。=Korokoro... "Shortcake is the standard for birthdays", so the shopkeeper assured us. A whole cake may be quite large... but for youthful stomachs, I believe it should pose no trouble at all.
 況や、騎士殿より寿ぎを頂けるとあらば、是に勝る慶びは無く──\n幾星霜を重ねし中でも、此度はいと抜き出でて目出度き日に候。\n騎士殿には感謝してもしきれませぬ也。=Why, to receive congratulations from you, Lord Knight -- there is no joy that could surpass it. Of the countless years I have lived, this day stands out as one truly most blessed. My gratitude to you knows no bounds.
@@ -8,7 +10,13 @@
 ……フフ。\n思ひ染むこと、得も云はず──\n否、是ぞ『えもい』でありんすな……♪=...Heheh. The feelings that well up now... words cannot hope to capture them. No... this is what you modern folk call "emo", is it not♪...?
 かてて加えて、仄明かりに照らさるる\nお前さまの笑顔──その愛らしき事。\n何よりの褒美を頂戴した心持に成り申して候。=And moreover... your smile, softly lit by the candlelight... how lovely it is. It makes me feel as though I have received the greatest reward of all.
 では、騎士殿や。此方の『けぇき』と蕎麦を頂き──その後に。\n又もやわっちと手と手を重ね、二年参りに向かいましょうぞ。\n明年も、斯くの如き日を、お前さまと共に過ごせん事を願掛けに──=Well then, Lord Knight. Let us partake of this "cake" and our New Year soba... and afterward, hand in hand once more, let us go together to the shrine for the traditional midnight visit. There, I shall pray that in the coming year as well... I may spend such days by your side again...
+
+Player Prompts
 おかげでいいケーキが買えましたよ。=Thanks to you, I managed to buy a wonderful cake
 でも、普通のお祝いでよかったんですか？=But... are you okay with having a simple celebration?
 僕もネラさんをお祝いしたかったから。=Celebrating you was a wish of mine, Nella
 改めて、お誕生日おめでとう、ネラさん。=Once again... Happy Birthday, Nella
+
+
+New Titlecard
+禰羅=Nella

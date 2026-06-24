@@ -1,3 +1,5 @@
+Muimi Sonoue's Birthday
+
 次が最後のカーブだな……\nならここを抜けた瞬間に──アクセル全開！　=Next is the last curve... Then the moment I get through here... Engage acceleration!
 ──よしっ、アタシの勝ち！\nこれで勝敗は五分五分だな！\n言っただろ、こんなの慣れたらすぐ勝てるって！=...Okay, I win! Now we're even, fifty-fifty! I told you, once you get the hang of it, you can win easy!
 それにしても、オマエとこういうゲームで遊ぶ日がくるなんてな……\nあぁいや、こっちの話だからオマエは気にしなくていいぞ。=Still... I never thought I'd end up playing a game like this with you. Ah... no, don't mind me. Just talking to myself.
@@ -9,4 +11,6 @@
 実はさ、さっきオク……アタシの相棒にも祝ってもらったんだ。\n「おめでとう」っていい言葉だよな。\n少しムズムズするけど、それもうれしいし、いい気分だぞ！=To tell you the truth, I just had Okut-... my partner congratulate me. “Happy birthday” really is a nice phrase. Makes me feel a little squirmy, but... it's a good kind of squirmy. Puts me in a great mood!
 というわけで、誕生日は特別な日だから、\nいつもと違うことをしたっていい！　そういうことにしとく！=And so yeah, birthdays really are special days... that means it's fine to do something different for a change! That's how I'm seeing it!
 言ったな？　ならもう一度レースで勝負だ！\n絶対勝ち越してやるからな！\nアタシの誕生日パワーにひれ伏せ！=You heard me, right? Then let's have another race! I'm gonna take the lead for sure! Bow down before my birthday power!
+
+Player Prompts
 じゃあ今日はたくさん遊ぼう。=Then let's play a lot today!

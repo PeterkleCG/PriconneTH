@@ -1,7 +1,10 @@
+Chapter Titles
 ウォーロックinアストルム=Warlock in Astrum
 『正義』の力=The Power of Justice
 闇の底に咲く花=Flower Blooming in the Darkness
 ぴよとヒヨリの冥界巡り=Chick & Hiyori's Journey to the Underworld
+
+Chapter 4
 ──『レジェンドオブアストルム』。=Legend of Astrum.
 西暦2033年、\n正に革命的な完成度と没入感により世界中で大流行したVRゲーム。\n……だが……=In the year 2033, this VR game became a worldwide hit due to its revolutionary quality and immersive feel. However...
 開発者である『七冠』たちの野望と諍いは、\n超AIの反乱、そして──『ミネルヴァの懲役』、\nプレイヤーのログアウト不能という大混乱を引き起こす。=The ambitions and disputes of its developers, the Seven Crowns, led to a revolt by the super AI... the so known, "Minerva's Imprisonment". The resulting chaos erupted into a situation where the game's players were left unable to logout.
@@ -122,6 +125,8 @@ region名称──『ニヴルヘル』。\n古エッダの詩編、暗い国か
 相手は一瞬ごとに、実力を上げている。\nしかも上限がまるで見えない……となれば。\n速攻が鉄板。=The opponent's strength is improving with every passing moment. And there is no sign of an upper limit... In that case, a quick defeat is the best course of action.
 騎士氏。お願いします。\n私たちの強化と──それと、姫のお守りを。=Kishi-shi, please. Please help us with your strengthening... and also protect the Princess.
 グレイス、無理しないで……！=Grace, don't push yourself...!
+
+Player Prompts
 【ウォーロック】……！="Warlock"..!
 ……なら、僕たちと協力できるんじゃ……=...Then, can't we just cooperate...?
 なら、ペコさんたちも……？=But then, where would that leave Peco-san and the others...?
@@ -131,10 +136,14 @@ region名称──『ニヴルヘル』。\n古エッダの詩編、暗い国か
 サツキさん、今度は押し負けた……！？=Satsuki-san lost this time...!?
 ありがとう、グレイスさん……！=Thank you, Grace...!
 分かった……！=Got it...!
+
+New Titlecards
 ヤトガミ=Yatogami
 ギルド受付嬢=Guild Receptionist
 サツキ・ヤトガミ=Satsuki Yatogami
 グレイス・サツキ=Grace Satsuki
+
+Chapter 5
 一方、黒曜宮・中層。\n【アルターメイデン】、そしてシェフィを加えた\n４人を待ち構えていたのは──=Meanwhile, in the middle level of the Obsidian Palace, waiting for the girls of Alter Maiden and Sheffy, was...
 ──コォォォ……=Koooooo...
 フンッ！！！=Hmph!!!
@@ -184,6 +193,7 @@ region名称──『ニヴルヘル』。\n古エッダの詩編、暗い国か
 特に──プリンセスフォーム？\nだったかな？\n私の知る『レジェンドオブアストルム』には無かった追加要素だ。=What's more--that... "Princess Form"? Was it? It's an additional element that wasn't in the Legend of Astrum that I know.
 どうやら超AI経由の権限拡大によって\nプリンセスナイトの能力である強化をさらに高め、\n加えて『暴食』の機能が一部複製されたもののようだが。フム──=It seems that the expansion of authority via the super AI has further enhanced the Princess Knight's strengthening ability, and also partially replicated the function of "Gluttony". Hmm...
 考える暇は与えない！\n畳みかけるよ！　ヒヨリ、ユイ！=Don't think I'll give you the time to think! Let us fold this up! Hiyori, Yui!
+うんっ！=Yeah!
 おっとっと。\nくわばらくわばら──=Whoops. C'est froid ( How cold )~
 そこっ！=THERE!
 ──やれやれ。経験も厚く、判断力も素晴らしい。\nさらにはリーグ・アンのトップチームよりも連携が取れている。\nこのままでは『ジリ貧』というやつだな。=...Good grief. Not only you show considerable experience, you're also completing it with good jugdement. Your coordination is even better than the one the top teams of Ligue 1 have. If things continue like this, I'll be in a slump.
@@ -279,15 +289,21 @@ region名称──『ニヴルヘル』。\n古エッダの詩編、暗い国か
 ああっ……サツキ！=Aaah... Satsuki!
 ……残念。幻影です。=...What a shame. That was an illusion.
 ──ブチ殺リスト殿堂入りだ！\nあの脳ミソドピンクピエロリババアはな！=...She's entered my butcher list hall of fame! That pink-brained clown hag!
+
+Player Prompts
 サツキさん！=Satsuki-san!
 あれって、前に見た気が……=That... looks familiar...
 うわっ……！=Whoa...!
 サツキさん……！=Satsuki...!
 すごい攻撃……！=That was an amazing combo attack...!
+
+New Titlecards
 グルーヌイたち=Grenouille-s
 分身グルーヌイ=Shadow Clone Grenouille
 ヴァイオレット・サツキ=Violet Satsuki
 シェフィ・プレシア=Sheffy Precia
+
+Chapter 6
 ──{playername}たちが、\nレジェンドオブアストルムに再びダイブする少し前のこと。=Shortly before {playername} and the others dived into the Legend of Astrum again.
 世界的に指名手配された現士実似々花は、\n国際警察『ウォーロック』へ司法取引を持ち掛ける。\nだが処刑こそ免れたものの、彼女は身柄を拘束されてしまっていた。=Utsushimi Neneka, who is wanted worldwide, approaches the international police force "WARLOCK" with a plea bargain. Although she avoids execution, she is taken into custody.
 我が、あ……\n現士実似々花さん……=My ma-... Utsushimi Neneka-san...
@@ -340,6 +356,7 @@ region名称──『ニヴルヘル』。\n古エッダの詩編、暗い国か
 その妄言は、辞表代わりに受け取っておこう。\nだがっ──=That delusion you just spouted... I'll take it as your form of resignation. HOWEVER...!
 ……！\n我が剣を、凌ぐだと……！？=...! My sword... you're going to surpass it!?
 貴様の動きも、覚えさせてもらった。\n次は、こちらからいくぞ。=I've memorized your movements as well. Next, I'll have my turn!
+……ぐっ！=...Guh!
 ──『サテュレイト・レイ』。=..."Satellite Ray".
 おお！\n御助力感謝いたします！　我が主！=Ohhh! Thank you for your help! My master!
 ……はぁ。\n真面目にやりなさい、マサキ──……いえ。\nそれが硬いスーツを脱いだ貴方の、本当の『心』なのでしょうね。=*sigh* Masaki, please take this seriously... No. That must be your true "heart" once you take off that stiff suit.
@@ -393,7 +410,7 @@ region名称──『ニヴルヘル』。\n古エッダの詩編、暗い国か
 足と地面を、氷で固められたかっ──\nだが、これくらいで……！=Both my feet and the ground have been solidified with ice, huh? However, that's not enough to...!
 へっ！\nよくわかんねぇけど──手ェ貸してやんぜ、むっつりメイデン！\n腕の一本くらい、止めてやらぁ！=Heh! I don't really get it, but──I'll give you a hand, Sulky Maiden! I'll be having... ONE OF YOUR ARMS!!!
 ……！\nありがとうございます、カリザ様……！=...! Thank you very much, Lord Kariza...!
-リリちゃん、次は！？=Lily-chan, what's next?!
+リリちゃん、次は！？=Riri-chan, what's next?!
 はい！\n次は──=Okay! Next up is...
 一致団結、点滴穿石！\n装甲の薄い一点を狙って、同時攻撃です！=Even a small drop of water can make a hole in a stone! We'll go for a simultaneous attack aimed at a single thin spot in his armor!
 そっか……！\nわたしたちの力を、一か所に集中してぶつければ……！=I see...! If we concentrate our powers in one place and strike there...!
@@ -531,26 +548,37 @@ region名称──『ニヴルヘル』。\n古エッダの詩編、暗い国か
 ヤトガミに通信をした者の言葉では。\nあちらも、相手を退けたようですね。=According to the person who just contacted Yatogami. It seems they also managed to defeat the enemy.
 ……はい。\nお任せください、騎士様。=...Yes. Leave it to me, Kishi-sama.
 この『黒曜宮』の底に囚われてしまっている、皆様の魂を……\n解放いたしましょう。=At the bottom of this Obsidian Palace... let us free the souls of all who have been imprisoned.
+
+Player Prompts
 ネネカさんっ！！=Neneka-san!!
 まだ、僕がいる……！=Not yet, I'm still here...!
 ……逃げて、ヴァイオレットさん……！=...Run, Violet...!
 まだ、立ち上がる……！？=He's still standing up...!?
 正義……=Justice...
 それなら……ヴァイオレットさん。=In that case... Violet
+
+New Titlecards
 ニセ似々花=Fake Neneka
+ノウェム=Novem
+
+Cutscene 1
 ククク……=Heheheh...
+はああっ！=Haaah!
 そりゃああっ！=Haaaaah!!
 やああぁぁっ！=Yaaaaah!
 そこだぁっ！=There you are!
 あがっ！=AGAH!!
+ヒヨリ！=Hiyori!
 ──解析完了=...Analysis complete.
 うっ！？=Ugh!?
 これって……！？　動けない、っていうか……！=What's this...!? I can't move, or rather...
 力が、吸い取られるようだ……！=It's like our power's being drained...!
+うぅっ……！=Ugh...!
 お気に召していただけたかな？=I hope it's to your liking?
 対プリンセスフォーム用の試作品だ=It's an Anti-Princess Form prototype I made on the spot
 突貫で組んだ術式だが=It's a program I put together in a rush...
 動きを抑えることは、できているようだね？=Very helpful to keep your agile movements under control, you see?
+ふふんっ♪=Heheh♪
 このくらいじゃ終わらないよ！=This won't be the end of it!
 ああ──行くぞ！=Yeah, let's go!
 ──《アストラル》！=Astral!
@@ -560,6 +588,8 @@ region名称──『ニヴルヘル』。\n古エッダの詩編、暗い国か
 炎よ！=O'Flames!
 いけええーーーーーーっ！！！！=GOOOOOOOOOOOOOO!!!!
 ……ブラヴォー……=...Bravo...
+
+Cutscene 2
 命乞いなら、聞かんが？=If you're trying to beg for your life, I don't care
 いいえ──そのつもりはありません=No, I have no intention of doing that
 王家の装備──=Her royal equipment...
@@ -569,6 +599,8 @@ region名称──『ニヴルヘル』。\n古エッダの詩編、暗い国か
 ──『怠惰』……！=...Acedia ( Sloth )!
 ユック！　ブルッブ！　ヴシュヴーズル！=Yuck! Brub! Vushvour!
 ぬぅっ……=Ngh...
+
+Interlude XIV
 ……まっっったくもー\nウォーロックのやつらイイ歳こいてゲームの中に侵入って暴れるとかさー\nオッサンの冷や水してんじゃねーってのよねー=...Geez, honestly... Those old farts from WARLOCK are beyond in their years to know better, and yet here they are crashing into the game to cause even more chaos. Maybe those gramps need some cold water shoved in their face to wake up.
 てかあんたらも。\nどーにか追い詰めたってのに、あっさり逃げられてんじゃねーってのー\nちゃんとトドメ刺しときなさいよねもー=And you guys, too. Even though you managed to corner them all, you let them run away so easily. Do you even know what a final blow is? Geez.
 んっとにさーぁー？\nあんたらときたら、いっつもいっつも甘ちゃんなんだから……=Truuuuuuuuuly speaking from my heart? You guys are just always so soft...
@@ -625,6 +657,8 @@ region名称──『ニヴルヘル』。\n古エッダの詩編、暗い国か
 ログインサーバーへのアクセスは、わたくしにお任せを。\nこれでも、最低限の手ほどきは受けておりますので。=Leave accessing the login server to me. Though, I've just learned the bare minimum to be able to accomplish that.
 そして、何よりも……=And, what's more...
 お父さまが、国際警察に対する囮を務めてくださいますので。=Father will act as a decoy for us against the International Police.
+
+Player Prompts
 僕の？=Thanks to me?
 もし時間があるなら、やりたい事がある。=If I get the time, I'd like to do something
 この冒険で、たくさんの人に助けられた……=Many people helped me on this adventure...
@@ -637,9 +671,13 @@ region名称──『ニヴルヘル』。\n古エッダの詩編、暗い国か
 その機械が、集団昏睡の原因なら……=If they are the reason behind this mass coma...
 どうしたの、ペコさん？=What's wrong, Peco-san?
 ヴァイオレットさんたちも頑張ってたよ。=Violet and everyone else really did their best
+
+New Titlecards
 元プレイヤー１=Former Player 1
 元プレイヤー２=Former Player 2
 元プレイヤー３=Former Player 3
+
+Substory
 {playername}たちがヴァイオレットを追っていた頃──\nホウオウはジオ・ニヴルヘルの木の上にいた。=While {playername} and the others were chasing Violet, Ho-ou was on top of a tree in Gio Nivlhel.
 もうなんなんですかこの場所は～っ！\nあっちもこっちもゾンビばっかり……\n無礼ですよっ！　あっちへ行きなさ～いっ！=Geez, what in earth's wrong with this place?! It's all zombies here and there... How rude! Go awaaaay!
 キャーーーーーーッ！！=KYAAAAAAAHHHHHHHH!!

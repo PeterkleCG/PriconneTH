@@ -1,9 +1,12 @@
 【美食殿】は新米冒険者の護衛を引き受けることになり、依頼主の【アルターメイデン】に会う。ギルドマスターのリリは、依頼の詳細を尋ねる一同に『世界の裏側』へ連れて行ってほしいと話すのだった。=The Gourmet Guild agrees to escort the novice adventurers and meet their client, the "Alter Maiden". The guild master, Riri, asks the group about the details of the request and requests that they take her to the "Reverse World".
+ンドソル=Landosol
+
 ぅ……=Uh...
 あっ☆\n目が覚めました？　{playername}くん。=Oh☆\n{playername}! Did you just wake up?
 ペコさん……？=Pecorine...?
 はい♪\nおはようございます☆=Yes♪ Good morning☆
 魔物の群れ=A group of monsters
+──グオオオオオッ！=──Guoooo!
 捕まってる──！？=We're caught---!?
 なにがどうなってるの！？=What in the world is happening!?
 あはは……そうですね、\n魔物の群れに、捕まっちゃってます。=Ahaha... Well, we're caught in a horde of monsters.
@@ -158,6 +161,7 @@
 ちゃんと言いくるめなさいよー？　特にあのタヌキメガネ、\nあんたが冒険するって言ったら「ワタクシもご一緒いたしますわ～！」\nって付いてきちゃうかもなんだから。=Make sure you persuade them, okay? Especially that four-eye raccoon girl. If she hears you're going on an adventure, she might say, "I shall accompany you!" and follow along.
 あはは……\n正直、わたしよりもクレジッタさんがいなくなったほうが\n街の経済がやばいかもなんですけどね。=Haha...\nhonestly, I'm more worried that if Creditta is gone, the city's economy might suffer.
 主さま。\n主さまには、必要品のおつかいをお願いしてもよろしいでしょうか？=My Lord.\nMay I ask you to handle the errand for necessary items?
+
 ありがとうございます。\nこちらにメモをご用意いたしました。\n長期の冒険が予想されるため、少々かさばるやもしれませんが……=Thank you. We've prepared a note for you.\nSince a long adventure is anticipated, it might be a bit bulky...
 ほらほら、リリちゃん？\nチャンスですよ……？=Come on, come on, Riri?\nIt's your chance...
 ……は、はいっ……！=...Y-Yes!
@@ -203,6 +207,7 @@
 色々買い込みましたね。\n一つ一つは携行しやすいものを吟味しましたが……=You've bought various things.\nWe carefully selected items that are easy to carry...
 重くない？=Isn't it heavy?
 ま、まだ大丈夫です。\n次はどのお店に行くのでしょうか？=Well, it's still okay. So, which store are we going to next?
+それじゃあ……=In that case...
 いらっしゃーい！\nスペシャルたこ焼き、あつあつだよー！=Welcome!\nOur special takoyaki is piping hot!
 ……（ごくり）=...*gulp*
 行きたいの？=You want it?
@@ -235,9 +240,11 @@
 な、なんですか。\nリアさん。=W-What is it, Ria?
 リリちゃんも、\nお兄さんのこと、愛称で呼んでみたらどうですか？\nそうしたら、みんなお揃いですよ♪=Riri, how about trying to call Onii-san by a nickname too? Then, everyone will be in on it♪
 えっ……で、でも……\nその……\n失礼、なのでは……=Huh...?\nB-But...\num...
+気にしないで。=Don't worry about it.
 どんな呼び方でも大丈夫。=Any way of addressing is fine.
 っ……\nで、では……\n僭越ながら……=W-Well then...\nif I may be so bold...
 兄様……=Nii-sama...
+……ふふっ♪=...Fufu♪
 あっ！\nみなさーんっ！！=Ah!\nEveryoneeee!!
 ちょっとあんたたち！\nノンキにたこ焼きなんか食ってる場合じゃないわよーっ！=Hey you guys!\nNow's not the time to be leisurely eating takoyaki!
 えっ？\nキャル様に、ペコリーヌ様？=Huh?\nMiss Kyaru and Miss Pecorine?
@@ -250,6 +257,7 @@
 りょ。=Rog--
 もしや、ペコリーヌ様の\nご政務の都合がつかなかったのでしょうか……！？=Could it be that Miss Pecorine’s political affairs weren’t convenient for her?!
 いえ、それは全然大丈夫だったんですけど！\nしばらく街を離れるって言ったら、\n行政長官さんが付いてくるって聞かなくって！=No, that was perfectly fine! But when I said I'd leave the city for a while, I didn't expect the Chief Administrator to say she'd come along!
+えっ……！？=Ee...!?
 あいつバカだけど行動力あるから厄介なのよね……！\nしょうがない、コロ助拾って出発するわよあんたたちっ！=She might be an idiot, but she's got a lot of initiative...!\nOh well, we'll just pick up Korosuke and leave, you guys!
 ぺコリーヌたちは野営の準備をしながら今回の依頼内容について話し合い、リリたちには隠し事がありそうだが何か事情があるのだろうと結論付ける。そしてみんなで食卓を囲み、賑やかな夜を過ごすのだった。=While Pecorine and the others prepared for camping, they discussed the details of the current request, concluding that there might be hidden matters with Riri and the others, but there likely are reasons behind it. Then, they all gathered around the table and spent a lively night.
 ああっ！？\nキャルちゃん、裏切っちゃうんですか！？\n最後まで一緒に進もうって、約束したのに……！=Ahh?! Kyaru, are you betraying us?! You promised that we would stick together until the end...
@@ -284,6 +292,7 @@
 こっちにも……！？\nきゃっ！=Over here too...!?\nKyaa!
 リリちゃん、あぶないっ……！\nひゃあっ！=Riri, watch out...!\nHyaa!
 ぷしゅう……=Pshoo...
+──たあぁっ！=Aaah!
 プリンセスストラーイクッ！！=Princess Strike!!
 いたた……\n助かりましたお兄さん、ペコリーヌさん。=Ouch...\nThank you, Onii-san, Pecorine.
 ふぅっ。\nあっちは片付いたわよペコリーヌ！=Phew.\nThings are settled on this end, Pecorine!
@@ -311,6 +320,7 @@
 あっ、キャルちゃん！\nその前に、ちょっとお耳を貸してください！=Ah, Kyaru!\nBefore that, can you lend me your ear for a moment?
 は！？\n嫌よ、どうせまたしゃぶるんでしょ！？=Huh?!\nNo, I don't want to, you're just going to whisper again, right!?
 そうじゃなくって！\n……ごにょごにょ……=No, it's not that!\n...Mumble mumble...
+ん……=Hmm...
 ……すみません、【アルターメイデン】のみなさん！\nごはんの用意は、わたしたちがしておきますので……=...Sorry, everyone from the Alter Maidens!\nWe'll take care of preparing the food, so...
 は、はいっ……=Y-Yes...
 あんたたちは、寝床の準備しときなさい！\nあと、夜中の焚火のための薪集めもね！\nこの辺の魔物は倒してるけど、迂闊に遠くに行くんじゃないわよ！=You guys, prepare your sleeping spots! And also, gather firewood for the midnight campfire! While we've beaten the monsters around here, don't go too far without caution!
@@ -350,20 +360,24 @@
 ん……でも、まだまだ。\nちゃんと使えるわけじゃない。の。\nおなか、すくし。=Hmm... but, still,\nI'm not quite proficient with it.\nAnd I'm hungry.
 誰かに教えを請うたり、\n書物などで理論を学んだわけではないそうなので。\nかなり、力の発現に「むら」があるようなのですが……=Someone who hasn't sought instruction from anyone or learned the theory from books. It seems there's quite a bit of inconsistency in the manifestation of power...
 でも。\nゆめで見た。\nにおいも、かいだよ。=But.\nI smelled it in my dream.\nThe scent.
+夢……？=A dream...?
 制御しきれない千里眼……予知夢とか、そういうのかしら。\n魔法の適正ってやつは、結構個人差があるものだけど……\n依頼を受けるには、ちょっとあやふやな根拠ね。=Uncontrollable clairvoyance... like a precognitive dream, perhaps. Magical aptitude varies greatly among individuals... but taking on a request based on this vague premise feels risky.
 そうでしょうか。\n夢のお告げというのは、\n当てにしても良いものだとわたくしは思いますが……=Is that so?\nI believe that prophetic dreams can be reliable...
 ペコさんはどう思う？=Pecorine, what do you think?
 うーん、そうですね。\n……あの、プレシアちゃん。=Hmm, let me think...\nUm, Precia?
+ん。=Mm.
 夢の中では\nその『世界の裏側』から、どんなにおいがしたんですか？=What kind of smell did you perceive from the "Reverse World" in your dream?
 えっとね。\nあまいにおい。=Well, it was a sweet scent.
 あまくて、とってもとってもおいしそうなにおいだった。\nこれまでに、かいだこと、ないくらい。\nだよ。=It was a very, very delicious and sweet scent.\nLike nothing I've ever smelled before.
 ……まだ、わたしたちの知らない……\n……とってもおいしそうな匂いがする世界……？=...A world with a tremendously delicious scent that we still don't know about...?
+あっ……=Ah...
 ……ペコリーヌ。\n一応聞いておくけど……=...Pecorine.\nJust to be clear...
 ……キャルさま。\nおそらく、聞かずとも……=...Miss Kyaru.\nPerhaps, even without asking...
 ──行きますッッッ！！！=──We're going!!!
 リリちゃん、クリアちゃん、プレシアちゃん！\n実はですねっ！=Riri, Quria, Precia!\nActually, you know!
 は、はいっ。=Y-Yes.
 あなたたちの【アルターメイデン】と同じで、\nわたしたち【美食殿】にも、いつも探してるものがあって！=Just like your Alter Maidens, in our Gourmet, we're also constantly searching for something!
+それは……？=What is it...?
 それはですね！\nまだ味わったことのない美食──\nそして何より、みんなで囲むおいしいごはん！　ですから………=It's this!\nUnexperienced delicious cuisine──\nand above all, a delicious meal shared with everyone! So...
 ギルド【美食殿】は、みなさんの依頼をお受けしますっ！！=The Gourmet Guild will take on your request!!
 ……【アルターメイデン】のみなさまから、\n依頼を受けた際のことを振り返ってみましたが……=...As we look back on when we received a request from the "Alter Maidens"...
@@ -386,6 +400,7 @@
 あー……\nあんた、感激してるとこ悪いけど。\nちゃんと夕飯の内容まで、確認してからにしたほうがいいわよ……=Oh...\nI hate to interrupt your emotion, but it might be better to check the dinner's content before getting carried away...
 あれ？\n珍しいお肉だと思いましたけど、これって……=Hmm?\nI thought the meat looked unusual, but is this...
 まもの？=Monster?
+──えっ？=──Eh?
 はい☆\n新鮮なお肉が、どっさりあったので！\n現地調達したお肉で作った、【美食殿】スペシャルメニューですよ♪=Yes☆\nSince we had a lot of fresh meat available! This is the Gourmet special menu made from "locally-sourced" meat♪
 え、えええっ……！？\n現地調達とは、\nそのような意味だったのですか……！？=W-Wait a moment...\nDoes that mean...?
 大丈夫ですって！\nちゃんと小骨は取ってますし、\n毒抜きも済んでますから♪=It's alright!\nWe've removed the small bones,\nand we've detoxified it as well♪
@@ -399,6 +414,7 @@
 地下洞窟で地割れが発生し、ペコリーヌたちは魔物に捕まってしまう。キャルたちは二人を救出するため突撃を決意し、リリたちに逃げるように伝える。だが３人はみんなを助けるため、隠していた力を解放する。=A crevice opened up in the underground cave, and Pecorine and the others were captured by monsters. Kyaru and the group decided to launch an assault to rescue them and informed Riri's team to escape. However, the three of them released their hidden powers to save everyone.
 『裏世界』を目指す一行はプレシアの先導に従い、\nその麓から地下洞窟へと潜入していたが……=The party aiming for the "Reverse world" followed Precia's lead and infiltrated the underground cave from its foothills.
 ったく！\n洞窟の中は、外よりあったかくてマシだと思ったけど……！=Ugh! I thought it would be warmer inside the cave than outside, but...
+──グオオオオオッ！\n──グオオオオオッ！\n──グオオオオオッ！=──Roooooooooooar!\n──Roooooooooooar!\n──Roooooooooooar!
 あっちもこっちも、魔物だらけですよ～っ！=Both here and there, monsters everywhere!
 倒しても倒しても、キリがありません！\nこの数は、異常でございます……！=No matter how many we defeat, there's no end to them! Their numbers are abnormal!
 ……カリンさまが「ついで」としておっしゃっていた件は、\n事実だったということでしょうか──=So, Miss Karin's "incidentally" remark was true, huh?
@@ -472,6 +488,7 @@
 ……それは……=Well...
 ……ねぇ、カリン。あんたさっき、\n「ついで、と言ってはなんですが」とかぬかしてたわよね。\nまさか……=Hey, Karin. Earlier, you mentioned something like "by the way," right? Don't tell me...
 はい♪\n【アルターメイデン】のみなさんの護衛のついでに、\n魔物たちの動向を調べていただけないかと思いまして……♪=Yes! I thought that, while you all were escorting us, you could also investigate the movements of the monsters...
+ええっ？=Huh?
 厄介そうな話付け足すんじゃないわよクソメガネーーー！！=Don't add troublesome stories to the mix,\nDamn Four-Eyes!!
 魔物たちは、地下に集まってたんだね……=So, the monsters gathered underground...
 地下に集まってたんじゃ、\n【メルクリウス財団】のみなさんが\n飛空艇で上から見ても、いないはずですよね。=If the monsters were gathering underground, even if the members of the Mercurius Foundation observed from the sky with an airship, they couldn't have been able to see them.
@@ -574,6 +591,7 @@
 キャルちゃあ～ん！？=Kyaru-chaaan?!
 リリちゃん、プレシアちゃんっ！=Riri, Precia!
 兄様も……！=Nii-sama too...!
+主さまっ！！=My Lord!!
 ご無事ですか、主さま=Are you all right, my Lord?
 ここはいったい……=What in the world is this place...?
 だれか、くるよ=Someone's coming
@@ -588,6 +606,7 @@
 ご丁寧にありがとうございます、クローチェ様。\nわたくしは【アルターメイデン】の、リリと申します。=Thank you very much for your courtesy, Miss Croce. I am an Alter Maiden, my name is Riri.
 同じく、クリアです。\nよろしくお願いします♪=I'm Quria from Alter Maidens too.\nNice to meet you♪
 プレシア。\nです。=Precia.
+{playername}です。=I'm {playername}.
 主さまの従者の、コッコロと申します。\n先程は主さまをお助けいただいたようで、\n本当にありがとうございました。=I'm my Lord's attendent, Kokkoro. Thank you very much for assisting my Lord earlier, I truly appreciate it.
 どうもありがとう。=Thanks a lot.
 いえいえっ♪\nお怪我がないみたいで、なによりですっ。\nみなさん空から降ってきて、ビックリしちゃいましたよ～！=No worries! It looks like you all are uninjured, so that's great. We were really surprised when you all fell from the sky!
@@ -660,6 +679,7 @@
 んなわけあるかーっ！\nおおらかにもほどがあるでしょうがあんたっ！=There's no way that's true!\nYou're way too carefree, you know!
 そうなんですかっ？\nでもひょっとしたら、話せばわかるかもしれませんしっ──=Is that so?\nBut maybe if we talk, we can understand each other...
 ひゃあっ？！=Hyaa!
+あぶないっ！=Watch out!
 クローチェ様を襲わんとした魔物が、\n弾かれた独楽のように飛んでいってしまいました……=The monster that was about to attack Miss Croce was sent flying like a spinning top...
 ごめんなさ～いっ！=I'm so sorry!
 って、つい言いたくなっちゃうんですけどっ。\nでもでもっ！=I can't help but say this, but... even so!
@@ -763,6 +783,7 @@
 「うんっ」\n「は、はい……！」=Umm.\nY-Yes……！
 ……あっ。\nあれっ……？=......ah!\nHuh......?
 えっと？\nえっと？\n今の魔物さんたちは……=Umm...?\nUmm...?\nThe monsters just now...
+やっつけた。\nよ。=We defeated.\nThem.
 はぁっ！\nわたしったら、また休眠しちゃったんですかねっ！？\nごめんなさい～っ！！=Huh?!\nDid I go into sleep state again!?\nI'm so sorry!
 あたしも、見てるだけだったわ……\n戦わせちゃって悪かったわね、あんたたち。=I was just watching...\nI apologize for letting you all do the fighting.
 大丈夫です♪\nさっきよりも、魔物の数は少なかったですから。=It's alright!\nThere were fewer monsters this time.
@@ -985,6 +1006,7 @@
 ま、多少の軽口は\nご愛嬌ーってことにしてほしいわね。\nだって……=Well, let's just say that some teasing is all in good fun.\nBecause...
 あんたのまわりって、\nあ～～んなにオンナノコだらけなんだもんね？\nてゆか、なんかまた増えたし？=Around you, there are so many girls, right?\nI mean, it feels like there are even more now?
 あんたの印象に残るためには、\nちょっとくらいトンがってなくっちゃ、ね？\n……あたしとしても、ほんとは気が乗らないんだけど……=To leave an impression on you, I have to tease you a little, right? ...Even though, to be honest, I'm not really in the mood...
+そうだったんだ……=Is that so...
 嘘だ。=Lies.
 ……あはっ♪=...Ahaha ♪
 あはははっ♪\nちょっとやめてー？\nんなワケないじゃん、自意識カジョーっていうのよそーゆーの。=Ahahahaha♪\nCan you stop that?\nThere's no way that's true, it's just your self-consciousness exaggerating things.

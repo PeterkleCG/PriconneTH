@@ -1,8 +1,14 @@
-嚮導幼君=ผู้นำทางตัวน้อย
+Arc 3 Chapter 15 Part 1 ( Ch. 1-3 + Side story )
+
+嚮導幼君=Little Guidance
+
+Chapter Names
 悪のプリンセスナイトたち=The Evil Princess Knights
 伏竜=Hidden Dragon
 ミサキ、キレた！！=Misaki Snapped!!
 『嚮導幼君』="Little Guidance"
+
+Chapter 1
 アルシャトがクリアやヴルムを拉致する、少し前のこと──=A short time before Alshat abducted Quria and Wyrm...
 ──あむ。\nはむ、はぐ……=...Amph. Hamph, hamph...
 如何でありんすか？\nコッコロ殿や。=Is the taste to your liking, Lady Kokkoro?
@@ -42,6 +48,7 @@
 ──そして時が経ち、現在。=After that, time passed, and back to the present...
 ジオ・ニヴルヘルにてグレイス、\nそしてヴァイオレットと対決したリーザは、\nエルピス島の上空に浮かぶ竜の城へと帰還していた。=After facing off against Grace and Violet in Gio Nivlhel, Lisa returns to the Dragon Castle floating in the sky above Elpis Island.
 リーザちゃぁん♡\nおかえりなさい♡=Lisa-chaaan♡ Welcome home♡
+……ええ。=...Yes.
 ふふっ……♪\nいま、『ただいま』って言うか、ちょっと迷っちゃいました？=Hehe...♪ Just now... did you have second thoughts on whether to say "I'm home" or not?
 遠慮しなくて、いいんですよぉ♡\nここがリーザちゃんの、新しいおうちなんだから♡\nそれに──=Don't be shy, it's fine♡ This is your new home after all, Lisa-chan♡ And besides...
 王家の装備シリーズの、『強欲』。\nリーザちゃんのカラダに、ピッタリだったみたいですね♡\nよかったぁ♡="Avaritia (Greed)" from the Royal Equipment Series seems to fit you like a glove. Your body has adapted to it perfectly, Lisa-chan♡ I'm so glad♡
@@ -97,10 +104,14 @@
 あぁん♡\nつめた～い♡=Aaahn♡ So cold♡
 ……リーザちゃんも。\nいつでもワタシが、あたためてあげますからね……♡=...You too, Lisa-chan. Anytime you want, I'll be there to warm you up...♡
 ……腹の読みにくい女だこと。\n三魔姫属のほうが、まだマシだったかもね──\n少なくとも、人間関係については。=...What a difficult woman to read. Maybe I was better off within the Three Demons Princesses -- atleast, when it came to human relationships.
+
+New Zone
 竜の神殿～玉座の間～=Dragon Temple - Throne Room
+
+Chapter 2
 一方──\n行方不明の{playername}の手がかりを求め\nエルピス島の調査をしていた【美食殿】。=Meanwhile -- the Gourmet Guild continued their investigation of Elpis Island, seeking clues to the whereabouts of the missing {playername}.
 だが、島の地下から湧き出した強力な魔物の群れの襲撃を受け\nさらにはクリアがアルシャトに拉致されてしまい、\n一行はやむを得ずキャンプ地にまで引き返していた……=However, they were assaulted by a horde of powerful monsters that erupted from beneath the island. Worse still, Quria was abducted by Alshat, leaving the group with no choice but to retreat to their campsite...
-……もう、夜が明けてしまいましたね。\nリリさまとプレシアさまは……大丈夫でしょうか。=...Dawn has already broken. I wonder if Lady Lily and Lady Precia will be fine...
+……もう、夜が明けてしまいましたね。\nリリさまとプレシアさまは……大丈夫でしょうか。=...Dawn has already broken. I wonder if Lady Riri and Lady Precia will be fine...
 行方不明のクリアが、ジオ・ゲヘナで見つかったって連絡が来て……\nあいつら、慌てて飛び出していったけど。\n罠だったかもだし、やっぱもっと、強引に止めるべきだったかしら……=When we received a call that the missing Quria had been found in Gio Gehenna... They rushed out in a panic. It might have been a trap, so perhaps we should have tried to stop them more forcefully...
 王宮からの連絡だと、ジオ・テオゴニアやジオ・ニヴルヘルにも\n黒いドラゴンが出て、大騒ぎになってるって話だし。\nジオ・ゲヘナの妖魔人たちは強い人ばかりだけど、心配よね。=According to reports from the royal palace, black dragons have appeared in Gio Teogonia and Gio Nivlhel, causing a great commotion. The monsterfolk of Gio Gehenna are all strong, but I'm still worried.
 ……はい、シェフィさま。\nわたくしたちも、主さまの行方が分かったとなれば、きっと同じように\nしたでしょう。もちろん、クリアさまのことはとても心配ですが……=...Indeed, Lady Sheffy. Had we learned of my Lord's whereabouts, we would surely have acted the same way. That does not mean we are unconcerned for Lady Quria, of course...
@@ -210,7 +221,11 @@ SLGでなら、よくあることだよ？\nザコを倒した後の、ボスの
 ここって……？=What is this place...?
 ごく小規模ではありますが、原理としては裏世界と同じ。\n他のあらゆる空間から、切り離された閉鎖環境です。\nここならば、邪魔は入りません。=Although it is on a much smaller scale, the principle is the same as the Underworlds. It is a closed environment, separated from all other spaces. Here, we shall suffer no interruptions.
 では──\nお茶にしましょうか。みなさん。=Then... let us have some tea, everyone.
+
+New Titlecards
 シェフィ・コッコロ=Sheffy Kokkoro
+
+Chapter 3
 わたし。=I...
 つよく。なりたい。\nおおきく。なりたい。=Strong. I want to be strong. Big. I want to be big.
 いつも。\nいつも。\nそう、おもってる。=Always. Always. That's what I think.
@@ -303,6 +318,8 @@ SLGでなら、よくあることだよ？\nザコを倒した後の、ボスの
 さぁ、参りましょう主さま。\nどこまでも、どこまでも、わたくしが一緒です。=Come, my Lord. Let us go. Wherever we journey, I shall remain by your side.
 そして、もちろん。\nどのような姿になろうとも、変わることなく──=And, of course... no matter what form I may take, there is one thing that will never change
 愛しておりますよ、主さま。=I love you, my Lord.
+
+Player Prompts
 ……この、歌は……=...This song...
 コッコロちゃん──！？！？=KOKKORO... CHAN~!?!?
 助けてくれてありがとう、コッコロちゃん。=Thanks for saving me, Kokkoro-chan
@@ -310,6 +327,9 @@ SLGでなら、よくあることだよ？\nザコを倒した後の、ボスの
 ど、どなたですか……？=Wh-Who is it...?
 コッコロちゃん！？=Kokkoro-chan!?
 助けてくれてありがとう、嚮導幼君さま。=Thank you for saving me, Little Guidance
+
+Cutscene
+はぁ……はぁ……はぁ……=*pant pant*...
 ──お父、さま……っ！=Father...!
 （……これまで、なのでしょうか……）=(I wonder if this is the end...)
 （主さまとの……旅も……絆も……）=(The end of my journey with my Lord... and my bond with him...)
@@ -319,8 +339,13 @@ SLGでなら、よくあることだよ？\nザコを倒した後の、ボスの
 あ、あああ──っ=Ah-AAHHHHHH~!
 ──……主、さまっ……！！=......My Lord......!!
 ──『創世の槍』よ！　色欲の使いを穿て！=Spear of Creation! Pierce the messenger of lust!
+主さま……=My Lord...
 ただ今参ります……！=I am coming...!
+
+New Zone
 エルピス島北端～巨大な穴～=Northern tip of Elpis Island ～Huge Hole～
+
+Side Story
 ルーセント学院の教室にて。\n二人の少女が顔を見合わせつつ、互いの様子をうかがっていた。=In a classroom at Lucent Academy. Two girls faced one another, carefully gauging each other's reactions.
 …………あの……=...Umm......
 あっ……ご、ごめんなさい……=Ah... I-I'm sorry...
@@ -423,6 +448,8 @@ SLGでなら、よくあることだよ？\nザコを倒した後の、ボスの
 ひえぇっ！？　あ、あの、そのっ……\nあ、あてら、そんなつもりじゃなくって……=EEEEEHHH!? U-Um, well... I-I didn't mean to...
 っ……お、お邪魔して、ごめんなさい……\nし、失礼しますっ……！=...I-I'm sorry for intruding... P-Please excuse me...!
 あぁっ、待ってよ！\nアタシの憧れ、素敵なレディたちーっ！！=Aaah, wait! Wonderful ladies that I admire so muuuuuch!!!!
+
+New Titlecards
 ユキノ・ランファ=Yukino Ranpha
 ルー学の生徒1=Lucent Academy Student 1
 ルー学の生徒2=Lucent Academy Student 2
