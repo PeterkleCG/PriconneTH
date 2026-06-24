@@ -15,6 +15,6 @@ jobs:
   texdup-check:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v7
       - name: สแกนรูป hash ซ้ำ (report-only)
         run: node .github/scripts/texdups.js
