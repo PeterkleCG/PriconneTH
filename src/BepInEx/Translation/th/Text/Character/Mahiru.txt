@@ -1,7 +1,10 @@
 フォークスラッシュ+=ฟอร์คสแลช+
-【物理】中衛で、相手の動きを乱す牧場主。敵前衛をノックバックさせることで、隊列を崩し、他のキャラが使う範囲攻撃の対象に敵を押し込む。=[Physical] A farmer that disrupts enemy movement from the midguard. Knocks foes in the front row back, putting them in range of allies' area attacks.
-r:"^敵単体に(\d+)の物理ダメージ敵単体を一定時間行動不能にする範囲内の敵に(\d+)の物理ダメージ範囲内の敵を混乱させる$"=►Deals $1 P.DMG to an enemy.\n►Inflicts Stun to an enemy for 5s.\n►Knockbacks an enemy by 300 units.\n►Deals $2 P.DMG to enemies in 300 range.\n►Inflicts Confuse to enemies in 300 range for 4s.
-r:"^敵単体に(\d+)の物理ダメージ敵単体を混乱させる$"=►Deals $1 P.DMG to an enemy.\n►Inflicts Confuse to an enemy.
-目の前の敵１キャラに物理大ダメージを与え、スタンさせる。自分の物理攻撃力を大アップする。=Dealt physical damage to a character in front of you and stun them. Additionally, increases your own physical attack power.
-r:"^敵単体に(\d+)の物理ダメージ敵単体を一定時間行動不能にする自分の物理攻撃力を(\d+)アップ$"=Cast Time: 1.4s.\n►Deals $1 P.DMG to an enemy.\n►Inflicts Stun to an enemy for 1s.\n►Boosts own P.ATK by $2 for 12s.
-特濃【牧場】ミルク=Extra-thick [b]Ranch[/b] Milk
+r:"^敵単体に(\d+)の物理ダメージ敵単体を一定時間行動不能にする範囲内の敵に(\d+)の物理ダメージ範囲内の敵を混乱させる$"=►ทำดาเมจกายภาพ $1 ใส่ศัตรูตนเดียว\n►ทำให้ศัตรูตนเดียวติดสถานะชะงักเป็นเวลา 5 วินาที\n►ทำให้ศัตรูตนเดียวกระเด็นไปข้างหลัง 300\n►ทำดาเมจกายภาพ $2 ใส่ศัตรูในระยะ 300\n►ทำให้ศัตรูในระยะ 300 ติดสถานะสับสนเป็นเวลา 4 วินาที
+
+r:"^敵単体に(\d+)の物理ダメージ敵単体を混乱させる$"=►ทำดาเมจกายภาพ $1 ใส่ศัตรูตนเดียว\n►ทำให้ศัตรูตนเดียวติดสถานะสับสน
+
+目の前の敵１キャラに物理大ダメージを与え、スタンさせる。自分の物理攻撃力を大アップする。=ทำดาเมจกายภาพสูงใส่ศัตรูตนเดียวด้านหน้า ทำให้ติดสถานะสตัน และเพิ่มพลังโจมตีกายภาพของตัวเองขึ้นสูง
+
+r:"^敵単体に(\d+)の物理ダメージ敵単体を一定時間行動不能にする自分の物理攻撃力を(\d+)アップ$"=ระยะเวลาร่ายสกิล: 1.4 วินาที\n►ทำดาเมจกายภาพ $1 ใส่ศัตรูตนเดียว\n►ทำให้ศัตรูตนเดียวติดสถานะสตันเป็นเวลา 1 วินาที\n►เพิ่มพลังโจมตีกายภาพของตัวเองขึ้น $2 เป็นเวลา 12 วินาที
+
+特濃【牧場】ミルク=นม [ฟาร์ม] เข้มข้นพิเศษ
