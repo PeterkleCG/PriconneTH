@@ -1,14 +1,34 @@
+
 ノゾミちゃんのおかげで売上が安定\nしてきたのに、臨時休業、痛すぎる\n…ま、ルイちゃんのために\n一肌脱ぐか。行くよイロハ～=Nozomi-chan finally stabilized our sales,\nand now we gotta close temporarily? Brutal...\nAh well, for Louis-chan's sake,\nI'll strip down to help out. Let's roll, Iroha~!
+
 今日はダーリンとの初デート♪\n二人でショッピングして、その後は\n…って私、指名手配されてる！？\nちょ、た…助けてダーリン～！！=First date with Darling today♪\nShopping together, then maybe...\nWait, MY FACE ON A WANTED POSTER!?\nW-w-wait... Save me Darling~!!
+
 ルイちゃんのおばあちゃん優しくて\nいつもにこにこで、イロハ大好き♪\nでも一番好きなのは、角がすっごく\n大きくてかっこいいとこなんだ～♪=Louis-chan's granny's super sweet\nand always smiling - loves Iroha♪\nBut best part? Those MASSIVE\nbadass horns she's rockin'~! 
+
+
+
+##Summary##
 {playername}とのデート（素材の買い出し）に胸を高鳴らせるルイズマリーだが、街に張り出された手配書に載った自分の顔に驚く。訳も分からず焦るルイズマリーを助けたのは、闇医者・ミツキだった。=Louise Marie's heart races during her "date" (supply shopping)with {playername}, only to panic upon seeing her own faceon wanted posters across town. The shadow doctor Mitsukicomes to her aid amidst the confusion.
+
 指名手配の女性はルイズマリーの祖母・マリステラと勘付いたルイズマリーとミツキ。【アルケス錬金堂】、そして、伝説の錬金術師に興味を抱いた【トワイライトキャラバン】はマリステラを止めるため旅立つ。=Louise Marie and Mitsuki deduce the wanted woman is her grandmotherMaristella. [Alces Atelier] and [Twilight Caravan],fascinated by the legendary alchemist,embark to stop Maristella's plans.
+
 件の女性と相対す一行。やはり正体は伝説の錬金術師・マリステラだった。天才すぎて、見た目だけでなく記憶も17歳に戻る秘薬を完成させたマリステラは、孫のルイズマリーのことさえも忘れてしまっていた。=The group confronts the woman - indeed Maristella herself.The genius alchemist Alces Atelier a youth serum regressing bothher appearance and memories to 17, erasing evenknowledge of her granddaughter Louise Marie.
+
 マリステラに散り散りに飛ばされた一行。イロハはルカとエリコと共に、オーエドへと飛ばされる。街で暴れる輩を見つけたイロハたちは、一飯の恩を返すため、花魁になりきり輩のアジトへと潜入する。=Scattered by Maristella's magic, Iroha lands in Oedowith Luca and Eriko. Discovering troublemakersterrorizing the town, they infiltrate the gang's hideoutdisguised as courtesans to repay a favor.
+
 マリステラに散り散りに飛ばされた一行。ソノはアンナとナナカと共に、樹海に飛ばされる。森から抜け出せず諦めたソノだが、アンナとナナカの熱い心に触れ立ち上がり、特大の魔法で森ごとぶっ飛ばした。=Sono appears in the Jukai forest with Anna and Nanakan.Ready to surrender after being lost, she's inspired bytheir determination and unleashes colossal magicto blast through the entire forest.
+
 ルイズマリーは、10年前の嵐の夜に起きた、ミツキとマリステラの過去を聞く。医術と錬金術の対立に端を発した因縁を消化できずにいるミツキ。思いを抱えつつ、結集した一行はマリステラと対峙した。=Louise Marie learns of Mitsuki and Maristella's clashfrom a stormy night decade past - a conflict betweenmedical science and alchemy left unresolved.The reunited group confronts Maristella bearing mixed emotions.
+
 錬金術で防御の土壁を築き、その中で世界を破滅させる究極錬成に取り掛かるマリステラ。単体の攻撃ではびくともしない土壁に焦る一行だが、ルイズマリーは皆の力を混ぜ合わせる究極錬成を思いつく。=Maristella erects impenetrable earthen barrierswhile preparing world-ending alchemy. As conventionalattacks fail, Louise Marie devises "Ultimate Fusion" -combining everyone's powers into one strike.
+
 マリステラの暴走を止めるも、戦闘で重傷を負い意識を失う{playername}。ミツキは自分だけでは救えないと、ルイズマリーに協力を仰ぐ。医術と錬金術の結集により、{playername}は救われた。={playername} stops Maristella's rampage at great cost,falling critically wounded. Mitsuki enlists Louise Marie's help,uniting medicine and alchemy to achievethe impossible rescue.
+
+
+
+
+
+##Battle dialogues
 はあ……こんなえぐい生物を生み出しちゃうなんて、\nさすが伝説の錬金術師と言われてるだけのことあるね……=Creating such a vicious creature...\nOnly to be expected from the legendary alchemist!
 ふんっ、あたり前田のクラッカーよ！\n私は天才錬金術師のマリステラ！\nこの程度の錬金術、よゆーのよっちゃんなんだから！=Hmph! Obviously!\nI'm Maristella the genius alchemist!\nThis level of alchemy is child's play for me!
 わーすごいっ！\nイロハもれんせーせいぶつ欲しい～！=Whoaa amazing!\nIroha wants a homunculus too~!
@@ -25,8 +45,7 @@
 追いかけよう……！\nおばあさまを止められるのは私たちだけだから！=We pursue...!\nOnly we can stop Grandma!
 おお～っ！？\nすごい、土から魔物がボコボコッて出てきたよ！=Whoaa! Monsters\npopping up everywhere!
 これもおばあさまの錬金術ね……\nこんな短時間でこれだけの魔物を。\nさすがおばあさま……天才だわ。=Grandma's alchemy...\nCreating so many monsters this fast.\nTruly genius...
-だね……でもルイちゃん。\n私はマリステラさんよりもすごい天才知ってるよ。\nルイズマリーっていう最高の錬金術師をさ。=True... But Lu-chan,\nI know a greater genius -\nthe best alchemist LUZMARIE!
-イロハもそー思う！\n……だよね？=Iroha agrees too!\n...Right~?
+
 ふふふ！\nさあ、この天才についてきなさい♪=Hehehe!\nNow follow this genius♪
 たああーっ！！=TAAAAKE THIS!!
 ……っ！？\nあれれ、効かないよ！？=...!?\nHuh? No effect!?
@@ -36,14 +55,44 @@
 いや、やめときなって。\n名前的にヤバそうじゃん……！=Don't!\nSounds dangerous...!
 その通りよ。\n強力になる分、自分自身も傷ついちゃうリスキーな秘薬……！=Exactly!\nPower boost but self-damaging...!
 なるほど。つまりここからは耐久力勝負ってわけだ。\n……ってことは私の出番か、めんどいけど。=Endurance battle then.\nMy turn... Ugh.
-いや、ソノさんこの中で一番か弱いじゃん……！\n後ろに下がってなよ！=You're the frailest!\nStay back!
-ま、たしかに紙装甲だけど、我慢強さなら負けないよ。\n……あんたたちみたいなじゃじゃ馬二人との生活。\n耐えられんの私くらいでしょ？=True I'm paper-armored,\nbut my endurance's top-tier.\nLiving with you two wild ones\nmade me tough.
-……ソノさん。\nあははは、ルイちゃん言われてる～♪\nイロハちゃんもだから！=...Sono-san.\nAhaha! Lu-chan got told~♪\nIroha too!
+いや、ソノさんこの中で一番か弱いじゃん……！\n後ろに下がってなよ！=You're the frailest!\nStay back!paper-armored,\nbut my endurance's top-tier.\nLiving with you two wild ones\nmade me tough.
 はあ……ふう……！\nホムちゃんしぶといな～……！=Haa... Phew...!\nHom-chan's persistent~!
 ……ほんと、ここまで攻撃してんのにさ……\nもしかして無敵か……？　これって詰んでる……？=After all our attacks...\nInvincible? Are we done...?
-いえ、攻撃は確実に効いてるわ。\n諦めなければ必ず勝てる。\n錬金術だってなんだって、私に負けや失敗はないもの。=Attacks ARE working!\nNever give up!\nI don't lose at alchemy\nor anything else!
 ……ふふ、そうだね。\n成功するまで、なにがあっても絶対に諦めない。\nそこがルイちゃんの一番すごい所だよ。=Heh, right.\nNever quitting until success -\nthat's Lu-chan's best trait!
 成功するまでやるから失敗はない！\nイロハもルイちゃんのそーいうとこ大好きっ！=No failure if we keep trying!\nIroha LOVES that about you~!
-……ふふ。ふふふ。\nふっふっふ！　分かってるじゃない二人とも！\nそれじゃあみんなで力を合わせて勝ちにいくわよ！\n私に続きな──=Hehe. You get it!\nLet's unite and win!\nFOLLOW MY LEAD--
 「はあぁ……っ！」\n「とりゃーっ！！」="HAAAA!"\n"TAKE THIS!!"
-……あ、\nもう行ってた……？\n……そう。\nふぬぅぅ～っ！！\nこうなりゃやけくそよ～～～っ！！=...They charged ahead?\nFine!\nGRRR!!\nI'LL GO ALL OUT TOOO~~!!
+
+
+
+
+
+
+だね……でもルイちゃん。\n私はマリステラさんよりもすごい天才知ってるよ。=Yeah... But, Rui-chan.\nI know a genius who's even greater than Maristella.
+
+ルイズマリーっていう最高の錬金術師をさ。=The greatest alchemist of all—Louise Marie.
+
+イロハもそー思う！=Iroha thinks so too!
+
+……だよね？=...Right?
+
+ま、たしかに紙装甲だけど、我慢強さなら負けないよ。=Well, I may be squishy, but I won't lose to anyone when it comes to endurance.
+
+……あんたたちみたいなじゃじゃ馬二人との生活。\n耐えられんの私くらいでしょ？=...Living with two wild fillies like you.\nI'm probably the only one who could put up with it, right?
+
+……ソノさん。=...Sono.
+
+あははは、ルイちゃん言われてる～♪=Ahahaha, Rui-chan, she's talking about you~♪
+
+イロハちゃんもだから！=That includes you too, Iroha-chan!
+
+いえ、攻撃は確実に効いてるわ。\n諦めなければ必ず勝てる。=No, our attacks are definitely working.\nAs long as we don't give up, we'll win.
+
+錬金術だってなんだって、私に負けや失敗はないもの。=Whether it's alchemy or anything else, defeat and failure simply aren't in my vocabulary.
+
+……ふふ。ふふふ。=...Hehe. Hehehe.
+
+ふっふっふ！　分かってるじゃない二人とも！\nそれじゃあみんなで力を合わせて勝ちにいくわよ！\n私に続きな──=Heh heh heh! You two really do get it!\nNow then, let's join forces and go claim our victory!\nFollow my lead—
+
+……あ、\nもう行ってた……？\n……そう。=...Oh.\nYou already ran ahead...?\n...I see.
+
+ふぬぅぅ～っ！！\nこうなりゃやけくそよ～～～っ！！=Nnghhh!!\nFine then, I'll just go all out and wing it~~~!!
