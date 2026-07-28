@@ -1,11 +1,14 @@
+##S2##
+最も物理攻撃力が高い敵に魔法中ダメージを与え、スタンさせる。その敵を中心とした範囲内の敵に魔法中ダメージを与える。=ทำดาเมจเวทปานกลางใส่ศัตรูที่มีพลังโจมตีทางกายภาพสูงที่สุด และทำให้ติดสตั้น แล้วทำดาเมจเวทปานกลางใส่ศัตรูในระยะโดยมีศัตรูตัวนั้นเป็นจุดศูนย์กลาง
+
+r:"^敵単体に(\d+)の魔法ダメージ敵単体を一定時間行動不能にする範囲内の敵に(\d+)の魔法ダメージ$"=►ทำดาเมจเวท $1 ใส่ศัตรูตัวเดียว\n►ทำให้ศัตรูตัวเดียวติดสตั้นเป็นระยะเวลาหนึ่ง\n►ทำดาเมจเวท $2 ใส่ศัตรูในระยะ
+
+##UB+##
+物理攻撃を行う敵に魔法大ダメージを与え、魔法防御力を小ダウンさせ、長時間スタンさせる。敵全体に魔法中ダメージを与える。魔法攻撃を行う敵がいない場合、さらに追加で敵全体に魔法中ダメージを与える。=ทำดาเมจเวทสูงใส่ศัตรูที่โจมตีกายภาพ ลดพลังป้องกันเวทลงเล็กน้อย และทำให้ติดสตั้นเป็นเวลานาน ทำดาเมจเวทปานกลางใส่ศัตรูทั้งหมด ในกรณีที่ไม่มีศัตรูที่โจมตีเวท จะทำดาเมจเวทปานกลางใส่ศัตรูทั้งหมดเพิ่มเติม
+
+r:"^物理攻撃をする敵に(\d+)の魔法ダメージ物理攻撃をする敵の魔法防御力を(\d+)ダウン物理攻撃をする敵を一定時間行動不能にする敵全体に(\d+)の魔法ダメージ魔法攻撃をする敵がいない場合、敵全体に(\d+)の魔法ダメージ$"=►ทำดาเมจเวท $1 ใส่ศัตรูที่โจมตีกายภาพ\n►ลดพลังป้องกันเวทของศัตรูที่โจมตีกายภาพลง $2\n►ทำให้ศัตรูที่โจมตีกายภาพติดสตั้นเป็นระยะเวลาหนึ่ง\n►ทำดาเมจเวท $3 ใส่ศัตรูทั้งหมด\n\nหากไม่มีศัตรูที่โจมตีเวท:\n►ทำดาเมจเวท $4 ใส่ศัตรูทั้งหมด
+
+##S1++##
 サイコ☆ブラスト++=ไซโค☆บลาสท์++
-【魔法】後衛の、対物理パーティが得意な超能力ガール。スキルが物理攻撃の敵に対して真価を発揮するため、物理攻撃型の敵パーティを一網打尽にする。=[Magic] A supernatural girl in the backlines who is adept at combating Physical enemies. Her skills gain additional effects when used against enemies that deal Physical damage, letting her defeat an entire team of them in one fell swoop.
-r:"^物理攻撃をする敵に(\d+)の追加魔法ダメージ敵全体に(\d+)の魔法ダメージ$"=►Deals $1 extra M.DMG to enemies that use P.ATK.\n►Deals $1 M.DMG to all enemies.
-##OLD r:"^敵単体に(\d+)の魔法ダメージ敵単体を一定時間行動不能にする$"=►Deals $1 M.DMG to an enemy.\n►Renders an enemy immobile.
-最も物理攻撃力が高い敵１キャラに魔法中ダメージを与え、スタンさせる。さらに、そのキャラを中心とした範囲内の敵すべてに魔法中ダメージを与える。=Deals medium M.DMG to the enemy with the highest P.ATK and stuns them. Additionally, deals medium M.DMG to all enemies in an area centered on that target.
-r:"^敵単体に(\d+)の魔法ダメージ敵単体を一定時間行動不能にする範囲内の敵に(\d+)の魔法ダメージ$"=►Deals $1 M.DMG to a single enemy.\n►Inflicts incapacitation on a single enemy for a period of time.\n►Deals $2 M.DMG to enemies within range.
-##OLD r:"^物理攻撃をする敵に(\d+)の追加魔法ダメージ物理攻撃をする敵の魔法防御力を(\d+)ダウン物理攻撃をする敵を一定時間行動不能にする敵全体に(\d+)の魔法ダメージ$"=►Deals $1 extra M.DMG to all enemies that use P.ATK.\n►Lowers all enemies M.DEF that use P.ATK by $2 for 6s.\n►Renders all enemies immobile that use P.ATK for 6s.\n►Deals $3 M.DMG to all enemies.
-物理攻撃をする敵すべてに魔法大ダメージを与え、魔法防御力を小ダウンさせ長時間スタンさせる。さらに敵全体に魔法中ダメージを与える。魔法攻撃をする敵がいない場合、敵全体に追加の魔法中ダメージを与える。=Deals large M.DMG to all enemies that perform physical attacks, slightly lowers their M.DEF, and stuns them for a long duration. Additionally, deals medium M.DMG to all enemies. If there are no enemies that perform magic attacks, additionally deals extra medium M.DMG to all enemies.
-r:"^物理攻撃をする敵に(\d+)の魔法ダメージ物理攻撃をする敵の魔法防御力を(\d+)ダウン物理攻撃をする敵を一定時間行動不能にする敵全体に(\d+)の魔法ダメージ魔法攻撃をする敵がいない場合、敵全体に(\d+)の魔法ダメージ$"=►Deals $1 M.DMG to enemies that use physical attacks.\n►Lowers M.DEF of enemies that use physical attacks by $2.\n►Inflicts incapacitation on enemies that use physical attacks for a period of time.\n►Deals $3 M.DMG to all enemies.\n\nIf there are no enemies that use magic attacks:\n►Deals $4 M.DMG to all enemies.
-最も物理攻撃力が高い敵１キャラを中心とした範囲内の敵すべてに魔法大ダメージを与え、魔法防御力を小ダウンさせる。魔法攻撃をする敵がいない場合、敵全体に追加の魔法中ダメージを与え、物理攻撃力を大ダウンさせ、自分の魔法攻撃力を特大アップし、ＴＰを大回復する。=Deals large M.DMG to all enemies in an area centered on the enemy with the highest P.ATK, and slightly lowers their M.DEF. If there are no enemies that use magic attacks, additionally deals medium M.DMG to all enemies, greatly lowers their P.ATK, massively boosts own M.ATK, and greatly recovers own TP.
-r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵の魔法防御力を(\d+)ダウン魔法攻撃をする敵がいない場合、以下の効果が発動敵全体に(\d+)の魔法ダメージ敵全体の物理攻撃力を(\d+)ダウン自分の魔法攻撃力を(\d+)アップ自分のＴＰを300回復$"=►Deals $1 M.DMG to enemies within range.\n►Lowers enemies' M.DEF within range by $2.\n\nIf there are no enemies that use magic attacks:\n►Deals $3 M.DMG to all enemies.\n►Lowers all enemies' P.ATK by $4.\n►Boosts own M.ATK by $5.\n►Recovers own TP by 300.
+最も物理攻撃力が高い敵を中心とした範囲内の敵に魔法大ダメージを与え、魔法防御力を小ダウンさせる。魔法攻撃を行う敵がいない場合、さらに追加で敵全体に魔法中ダメージを与え、物理攻撃力を大ダウンさせ、自分の魔法攻撃力を特大アップし、ＴＰを大回復する。=ทำดาเมจเวทสูงใส่ศัตรูในระยะโดยมีศัตรูที่มีพลังโจมตีกายภาพสูงที่สุดเป็นจุดศูนย์กลาง และลดพลังป้องกันเวทลงเล็กน้อย ในกรณีที่ไม่มีศัตรูที่โจมตีเวท จะทำดาเมจเวทปานกลางใส่ศัตรูทั้งหมด ลดพลังโจมตีกายภาพลงสูง เพิ่มพลังโจมตีเวทของตัวเองขึ้นสูงมาก และฟื้นฟู TP ของตัวเองขึ้นสูงเพิ่มเติม
+r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵の魔法防御力を(\d+)ダウン魔法攻撃をする敵がいない場合、以下の効果が発動敵全体に(\d+)の魔法ダメージ敵全体の物理攻撃力を(\d+)ダウン自分の魔法攻撃力を(\d+)アップ自分のＴＰを300回復$"=►ทำดาเมจเวท $1 ใส่ศัตรูในระยะ\n►ลดพลังป้องกันเวทของศัตรูในระยะลง $2\n\nหากไม่มีศัตรูที่โจมตีเวท:\n►ทำดาเมจเวท $3 ใส่ศัตรูทั้งหมด\n►ลดพลังโจมตีกายภาพของศัตรูทั้งหมดลง $4\n►เพิ่มพลังโจมตีเวทของตัวเองขึ้น $5\n►ฟื้นฟู TP ของตัวเอง 300
