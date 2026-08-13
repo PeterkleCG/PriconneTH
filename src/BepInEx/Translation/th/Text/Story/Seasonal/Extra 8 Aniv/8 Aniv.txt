@@ -50,3 +50,4 @@
 はいっ、{playername}くんっ！\n楽しい万博、おいしいごはん、片っ端から楽しんじゃいましょう！=Alright, {playername}!\nLet’s enjoy the fun Expo and all the delicious food, one after another!
 それに……これからもずっと続く、ワクワクの冒険も。\n{playername}くんと一緒に、たくさん楽しんでいきたいですっ♪=And… all the exciting adventures that will continue from here on out.\nI want to enjoy them together with you, {playername}♪
 行こう、ペコさん！=Let’s go, Peco!
+
