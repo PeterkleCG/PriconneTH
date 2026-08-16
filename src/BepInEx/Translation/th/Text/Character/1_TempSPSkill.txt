@@ -1,6 +1,3 @@
-
-
-
 Yori
 オーバーチャージ++=Overcharge++
 自分の残りＨＰの90％を消費して、自分の魔法攻撃力を特大アップし、前方の自分以外の最も近くの味方１キャラと自分のＴＰを大回復させる。消費したＨＰ量に応じて、魔法攻撃力の上昇量とＴＰの回復量が最大３倍までアップする。このスキルによる自分へのダメージでは自分のＴＰは回復しない。=Consumes 90% of own remaining HP to massively boost own M.ATK, and greatly recovers the TP of the nearest ally in front (excluding self) and self. Based on the amount of HP consumed, the M.ATK boost and TP recovery increase, up to a maximum of 3×. Damage dealt to self by this skill does not recover own TP.

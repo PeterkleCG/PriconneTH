@@ -1,8 +1,9 @@
-一括\nLvアップ=Bulk\nLv Up
+一括\nLvアップ=อัป Lv\nทั้งหมด
 
-使用済み=Used
-グレードをSにするスロット=Slot to Set Grade to S
-決定することで即座に反映され、以前のグレードに戻すことはできません。=Once confirmed, the change is applied immediately and cannot be reverted to the previous grade.
-究極錬成に必要なアイテムを受け取ろう=Claim the items required for Ultimate Refinement.
+使用済み=ใช้แล้ว
+グレードをSにするスロット=สล็อตที่จะเปลี่ยนเป็นเกรด S
+決定することで即座に反映され、以前のグレードに戻すことはできません。=ยืนยันแล้วจะมีผลทันที และไม่สามารถเปลี่ยนกลับเป็นเกรดเดิมได้
 
-r:"^「サマーログインボーナス その(\d)」(\d+)日目で獲得したアイテムです。$"=Item obtained on Day $2 of the "Summer Login Bonus Part $1."
+究極錬成に必要なアイテムを受け取ろう=รับไอเท็มที่จำเป็นสำหรับการหลอมขั้นสูงสุด
+
+r:"^「サマーログインボーナス その(\d)」(\d+)日目で獲得したアイテムです。$"=ไอเทมที่ได้จาก 'โบนัสล็อกอินฤดูร้อน ตอนที่ $1' วันที่ $2
