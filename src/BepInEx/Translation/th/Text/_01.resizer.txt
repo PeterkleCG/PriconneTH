@@ -120,3 +120,6 @@ Root/ViewsArea/View/ViewSharedItemList(Clone)/SlideObj/Main/SortButtons/SortFilt
 
 ##Character Story##
 /_Game(Clone)/UI Root/ViewsArea/View/ViewStoryCharacterTop(Clone)/WidgetOff(Clone)/Right/AnchorRight/ScrollContentParent/ScrollContent/ScrollView/WrapContent/PartsStoryCharacterPlate(Clone)/selectObject/GUIGroup_Text/catchCopyLabel=ChangeFontSize(16)
+
+##Friend Approve##
+/_Game(Clone)/UI Root/ViewsArea/View/ViewFriendManagement(Clone)/SlideRight/Other/ScrollViewParent/ScrollContent/ScrollView/WrapContent/PartsFriendListPlate(Clone)/ListNode/UIButtons_Parent/UIButton_Right/Label=ChangeFontSize(20)
