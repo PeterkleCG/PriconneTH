@@ -1,25 +1,14 @@
-8.5 Year Anniversary カウントダウンログインボーナス=8.5 Year Anniversary Countdown Login Bonus
+8.5 Year Anniversary カウントダウンログインボーナス=โบนัสล็อกอินนับถอยหลังฉลองครบรอบ 8.5 ปี
 
-いただきまーすっ♪=Let's dig in! ♪
-うん、ありがとう！=Yeah, thanks!
-《EX》危険な魔物・仙猿=《EX》Dangerous Beast - Immortal Ape
-《EX》危険な魔物・霊王=《EX》Dangerous Beast - Spirit King
+いただきまーすっ♪=จะทานแล้วนะค้า♪
+うん、ありがとう！=อื้อ ขอบใจนะ!
+《EX》危険な魔物・仙猿=《EX》สัตว์อสูรอันตราย - วานรเซียน
+《EX》危険な魔物・霊王=《EX》สัตว์อสูรอันตราย - ราชา วิญญาณ
+有償ジュエル限定！[3C404E]10キャラ目は[FFBB00,CE4F00]選択した★3キャラ確定！=จำกัดเฉพาะเพชรเติม! [3C404E]ตัวละครที่ 10 การันตี[FFBB00,CE4F00]ตัวละคร ★3 ที่เลือก!
 
-特別商品販売開始のお知らせ=Special Offers Now Available
-ショップで期間限定の特別商品の販売が開始されました！=Limited-time special offers are now available in the shop!
-対象ショップ=Available Shops
-アリーナショップ=Arena Shop
-Pアリーナショップ=P. Arena Shop
-クランショップ=Clan Shop
-★3出現率2倍！新キャラ｢ヴァンピィ（サマー）｣登場！=★3 Appearance Rate Doubled! New Character "Vampy (Summer)" Has Arrived!
-有償ジュエル限定！[3C404E]10キャラ目は[FFBB00,CE4F00]選択した★3キャラ確定！=Paid Jewels Only! [3C404E]The 10th character is guaranteed to be the selected [FFBB00,CE4F00]★3 character!
-
-《EX》危険な魔物・老大亀=《EX》Dangerous Beast - Ancient Giant Turtle
-自身を中心に物理ダメージフィールド展開=Creates a Physical Damage Field centered on itself
-特別商品販売中=Special Offers Available
-特別商品=Special Offers
-特別商品の在庫はリセットされません。=Special Offer stock will not be reset.
-一部0:00更新=Some items refresh at 0:00
+《EX》危険な魔物・老大亀=《EX》สัตว์อสูรอันตราย - พญ่าเต่ายักษ์โบราณ
+自身を中心に物理ダメージフィールド展開=กางฟีลด์ทำดาเมจกายภาพโดยมีตัวเองเป็นจุดศูนย์กลาง
+特別商品の在庫はリセットされません。=สต็อกสินค้าพิเศษจะไม่ทำการรีเซ็ต
 
 
 幻境竜后と戦い、一時撤退したプリンセスたちは、\nそれぞれ自身の世界へ帰還。\nライラエルもまた、クローチェとともにジオ・テオゴニアに戻っていた。=After battling the Phantom Dragon Empress, the Princesses temporarily withdrew and returned to their respective worlds.\nLyrael also returned to Geo Theogonía together with Croche.
