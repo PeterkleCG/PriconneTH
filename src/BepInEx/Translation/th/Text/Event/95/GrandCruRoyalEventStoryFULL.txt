@@ -1,5 +1,5 @@
 推奨プレイヤーLv=เลเวลแนะนำ
-アドバンス効果対象キャラ=ตัวละครที่ได้รับเอฟเฟกต์ขั้นสูง
+アドバンス効果対象キャラ=ตัวละครที่ได้รับผลพิเศษ
 ランドソル万博、開幕！=The Landosol Expo Opens!
 プリンセスたちの万博視察=The Princesses' Expo Visit
 忠臣の覚悟と荒療治=Loyal Retainer's Resolve & Drastic Measures
