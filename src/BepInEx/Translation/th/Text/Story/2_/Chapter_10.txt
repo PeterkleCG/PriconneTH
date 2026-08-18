@@ -92,7 +92,7 @@
 そうだ。\n……正確には、仮想の電子データだけどな……=That's right. ...To be precise, it's virtual electronic data...
 そ、そんなにすんなり、信じられないさっ……=I-I can't believe you said it so easily...
 ……だよなぁ。\nごめんな、説明ヘタでさ……=...Yeah. I'm sorry, I'm not very good at explaining....
-……フム。\nフムフム……=...Hmm. Hmm, hmm...
+……フム。\nフムフム……=......ฮืม\nฮืมๆ......
 ……カスミはん？=...Kasumi-san?
 ええと、ノウェムさん。\nあなたの話が正しいなら、この世界は……\nいわば「ぬいぐるみのおうち」みたいなものであって。=Umm, Miss Novem. If what you're saying is true, then this world...is like a stuffed animal house, so to speak.
 その「ぬいぐるみのおうち」の外側の世界に……\n私たちの、本当の身体があると。\nそういうことなのかな。=I wonder if that's what it means to have our real bodies......in the world outside that stuffed animal house.
@@ -107,7 +107,7 @@
 世界を運営する装置というものに、異常が発生してしまって。\nその異常を解決するために、アバターを緊急で用意した。\nそれがエリスだ……と。=There was an abnormality in the device that ran the world. In order to resolve that abnormality, It urgently prepared an avatar. That's Eris...or so I thought.
 ああ。\n世界を運営する装置って、ミネルヴァっていうAI……じゃなくて\nえっと、ホムンクルスみたいなやつのことだろうけど。=Yeah. By device that runs the world, you mean an AI called Minerva... I mean, a homunculus.
 【トゥインクルウィッシュ】と真那が戦ってる最中に、\nミネルヴァは真那に乗っ取られそうになってたはずだから。\nきっと、それでおかしくなっちゃったんだろうな。=Minerva was supposed to have been taken over by Mana while Mana was fighting the Twinkle Wish, so she must have gone crazy because of that.
-う、うぅぅーん……=H-Hmmm...
+う、うぅぅーん……=ฮ-ฮืมมม……
 ああっ、こんがらがってきちまった！\nつまり──ミネルヴァってスゲーやつがいて。\nそいつが覇瞳皇帝にやられかかって……=Aaah, this is getting complicated! In other words, there's a guy named Minerva. He's about to be killed by the Kaiser Insight...
 どうにかしようとして、その場にいたユイと同じ身体を作った。\nそれがおまえらを倒した、エリスだってことか……？=Trying to do something about it, They made the same body as Yui, who was there. Does that mean Eris was the one who defeated you guys...?
 そうそう、そんな感じそんな感じ！=That's right, that's what it feels like!
@@ -623,8 +623,8 @@
 {playername}を狙い、オクトー率いる魔物の群れが\n獣人の国・セントールスへと襲撃をかけてきた。\n【自警団（カォン）】とムイミは、仲間たちを守るため立ちはだかる。=Aiming for {playername}, a swarm of monsters led by Octo attacked Centorus, the land of the beastfolk. The Caon (Kaon) and Muimi stood in their way to protect their comrades.
 ……くそっ！=...Dammit!
 あーもうっ、ぜんぜん攻め込めない！\nアタシの動きのクセが、手の内が、全部読まれちゃってるんだ……！　=Aaah, geez, I can't attack at all! He's reading my moves, my hands, everything...!　
-……くくっ。=...Heh heh.
-……ふふふっ。\nあっはっはっはっはっ！=...Hehehe. Ah ha ha ha!
+……くくっ。=......ฮึ่ยๆ
+……ふふふっ。\nあっはっはっはっはっ！=......ฮุฮุฮุ\nฮ้า~ ฮะฮะฮะฮะฮ่า!
 って、なに笑ってるのさ？\nへんな子だなー=Wait, what are you laughing at? You're such a weird girl!
 ははっ！\nなんで笑ってるのかって？\nそりゃ、おかしいからに決まってるさ！=Haha! Why are you laughing? Of course it's because something's wrong!
 オマエがいくらアタシを忘れたってトボけても！\nオマエは、アタシを、よく知ってる！\nこうして戦ってると、それがよくわかるんだっ！=No matter how much you forget about me, no matter how hard you try to play dumb! You know me very well! When I fight like this, You know exactly what I'm doing!
@@ -1019,9 +1019,9 @@
 あっ。もちろん、騎士さんだけじゃなく。\nユイさんの願いの結果でかわいそうな目に遭っているひとは、\nユイさんのお知り合いにもいーっぱい、いるんですけど……ね？=Oh, not just the Kishi-san, of course. There are a lot of people you know who feel sorry for because of Yui-san's wish... right?
 ……え……、ぇ……？=...Eh... eh...?
 えーっと。\nそうですね、たとえば──=Well, let's see... For example...
-……フフ。=...Heh heh.
-あなたっ……！=You...!
-お、落ち着きなさいシェフィ！=C-Calm down, Sheffy!
+……フフ。=......ฮึๆ
+あなたっ……！=คุณ...!
+お、落ち着きなさいシェフィ！=จะ ใจเย็นๆ ก่อน เชฟี่!
 迂闊に飛び出しちゃ、だめですよっ！\nわたしが言うのもなんですけど！=Don't jump out carelessly! Not that I'm one to talk!
 ごきげんよう、【美食殿】のみなさん──\nまたお会いできて、とてもうれしいですよ。=Good day, everyone at the Gourmet Hall. I'm so happy to see you again.
 ミロク、って言いましたね！\nあなた、ここで何をしてるんですかっ！？=Miroku, you said! What are you doing here?
