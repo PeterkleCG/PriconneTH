@@ -2,6 +2,61 @@
 
 ดูรายละเอียดแต่ละเวอร์ชั่นพร้อมไฟล์ดาวน์โหลดที่ [**Releases**](https://github.com/PeterkleCG/PriconneTH/releases)
 
+## V3.0.0
+
+- เพิ่มคำแปลเนื้อเรื่อง Arc 3 Chapter 17 (Part 3 Final Chapter)
+- เพิ่มคำแปลอีเวนต์ Raid ครบรอบ 8.5 ปี (เนื้อเรื่อง + บทสนทนาตัวละคร + นับถอยหลัง)
+- อัปเดตฟอนต์ + เทกซ์เจอร์ครั้งใหญ่ (แบบอักษร Nunito Bold/ExtraBold, ชุด Atlas เกือบทั้งหมด)
+- อัปเดตคำแปล Gacha, Friend Menu, Special Event, Exhibition+
+
+Full Changelog: [v2.2.9...v3.0.0](https://github.com/PeterkleCG/PriconneTH/compare/v2.2.9...v3.0.0)
+
+## V2.2.9
+
+- เตรียมคำแปลสำหรับอีเวนต์ครบรอบ 8.5 ปี
+
+Full Changelog: [v2.2.8...v2.2.9](https://github.com/PeterkleCG/PriconneTH/compare/v2.2.8...v2.2.9)
+
+## V2.2.8
+
+- ดึงคำแปลใหม่จากต้นฉบับอังกฤษ (v20260814)
+- อัปเดตคำแปลหน้าร้านค้า (Shop)
+
+Full Changelog: [v2.2.7...v2.2.8](https://github.com/PeterkleCG/PriconneTH/compare/v2.2.7...v2.2.8)
+
+## V2.2.7
+
+- อัปเดต BepInEx framework ให้ตรงกับเวอร์ชั่นเกมล่าสุด
+- แก้คำแปล Ex-Skills
+
+Full Changelog: [v2.2.6...v2.2.7](https://github.com/PeterkleCG/PriconneTH/compare/v2.2.6...v2.2.7)
+
+## V2.2.6
+
+- ดึงคำแปลใหม่จากต้นฉบับอังกฤษ (v20260803 + v20260805) + เพิ่มคำแปลสกิล
+- อัปเดตคำแปล Battle Pass และหน้าหลอมอุปกรณ์ + แก้คำแปล Ex-Skills
+
+Full Changelog: [v2.2.5...v2.2.6](https://github.com/PeterkleCG/PriconneTH/compare/v2.2.5...v2.2.6)
+
+## V2.2.5
+
+- ดึงคำแปลใหม่จากต้นฉบับอังกฤษ (v20260718) + เพิ่มคำแปลสกิล
+
+Full Changelog: [v2.2.4...v2.2.5](https://github.com/PeterkleCG/PriconneTH/compare/v2.2.4...v2.2.5)
+
+## V2.2.4
+
+- ดึงคำแปลใหม่จากต้นฉบับอังกฤษ (v20260714 + v20260718) + เพิ่มคำแปลสกิล
+
+Full Changelog: [v2.2.3...v2.2.4](https://github.com/PeterkleCG/PriconneTH/compare/v2.2.3...v2.2.4)
+
+## V2.2.3
+
+- เพิ่มระบบแปลอัตโนมัติสำหรับหน้าหลอมอุปกรณ์ (หลอมอัตโนมัติ)
+- ดึงคำแปลใหม่จากต้นฉบับอังกฤษ (v20260704 + v20260714) + เพิ่มคำแปลสกิล
+
+Full Changelog: [v2.2.2...v2.2.3](https://github.com/PeterkleCG/PriconneTH/compare/v2.2.2...v2.2.3)
+
 ## V2.2.2
 
 - ดึงคำแปลใหม่จากต้นฉบับอังกฤษ (v20260625 + v20260630) + เทกซ์เจอร์อีเวนต์
