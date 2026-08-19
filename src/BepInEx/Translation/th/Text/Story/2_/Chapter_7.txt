@@ -56,12 +56,12 @@
 えっ！？\nそ、その……っ、これは、事情があって……！=Huh?! W-Well... There's a reason for this...!
 えっ？\nあなた……シェフィさん……？\nこ、言葉遣いが……普通ですよ……？=Huh? You're... Sheffy...? Y-You're speaking normally...
 あら？\nキョウカちゃん。\n偶然ね。=Oh? Kyouka. What a coincidence.
-議長！\n【黄金の手】部隊、全員集結しました！=Chairman! All members of the Golden Hand have gathered!
+議長！\n【黄金の手】部隊、全員集結しました！=ท่านประธาน!\nกองกำลัง [หัตถ์ทองคำ] รวมกำลังพลพร้อมทุกนายแล้วครับ!
 我が【リッチモンド商工会】が雇用した\n傭兵たちや冒険者連中も、すべて揃っておりますよ。=The mercenaries and adventurers hired by the Richmond Merchants Guild are all here.
 よろしい！\nこれだけの兵力があれば、\nたとえ相手が前陛下であろうとも恐るるに足らんわ。=Very well! With this many troops, even if the opponent is the former majesty, there is nothing to fear.
-【黄金の手】隊長=[Golden Hand] Captain
-ええ、然様でございますとも。=Yes, that is correct.
-さすがゴウシン議長です！=That's Chairman Gorschin for you!
+【黄金の手】隊長=หัวหน้ากอง [หัตถ์ทองคำ]
+ええ、然様でございますとも。=ครับ ใช่ครับท่าน
+さすがゴウシン議長です！=สมกับเป็นประธานโกชินครับ!
 フッフッフ……\n面従腹背の屈辱も今日限りだ。\nあとほんの数刻で、この国のすべてが吾輩の物に……！=*chuckle*... The humiliation of being so obedient is limited to today. In just a few hours, everything in this country will be mine...!
 議長！\nまもなくユースティアナ陛下が、こちらへ参られる予定です！=Chairman! Her Majesty Eustiana will be coming this way soon!
 【王宮騎士団（NIGHTMARE）】の主力部隊は今朝がたから、\n街道沿いの魔物駆除に向かっています。\n議長を邪魔する者は、何人もありません。=The main force of the Knights of the Royal Palace has been on their way to exterminate the monsters along the highway since this morning. There's no one to get in the way of the chairman.
