@@ -123,3 +123,7 @@ Root/ViewsArea/View/ViewSharedItemList(Clone)/SlideObj/Main/SortButtons/SortFilt
 
 ##Friend Approve##
 /_Game(Clone)/UI Root/ViewsArea/View/ViewFriendManagement(Clone)/SlideRight/Other/ScrollViewParent/ScrollContent/ScrollView/WrapContent/PartsFriendListPlate(Clone)/ListNode/UIButtons_Parent/UIButton_Right/Label=ChangeFontSize(20)
+
+##รายละเอียดตอนกดดูของ##
+/_Game(Clone)/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogPopUp(Clone)/Main/Table/BasePop/ChildTable/Posession/GameObject/title=ChangeFontSize(16)
+/_Game(Clone)/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogPopUp(Clone)/Main/Table/BasePop/ChildTable/Decsription/title=ChangeFontSize(16)

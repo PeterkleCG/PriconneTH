@@ -1,7 +1,6 @@
 羅刹涅槃・絶海+=รากษสนิพพาน มหาสมุทรไร้ขอบเขต+
-【魔法】前衛で己を鼓舞し高めた魔力を放つ蒼海の冥姫。発動の度、攻撃力とクリティカル時ダメージが上昇するＵＢと自己犠牲を払う強力な範囲攻撃技で敵を撃滅する。=[Magic] A dark princess of the Azure Sea who inspires herself to awaken new levels of magical power from the frontlines. Her UB bolsters her M.ATK and M.CRIT damage before unleashing a devastating AoE attack at the cost of her own vitality.
-r:"^範囲内の敵に(\d+)の魔法ダメージ自分の魔法攻撃力を(\d+)アップ自分の魔法攻撃クリティカル時のダメージを2％アップ$"=►Deals $1 M.DMG to enemies in 600 range.\n►Boosts own M.ATK by $2 for 180s.\n►Boosts own M.CRIT DMG by by 2% for 180s.
-r:"^範囲内の敵に(\d+)の魔法ダメージ自分のＴＰ上昇を20アップ自分の残りＨＰの30％を消費$"=►Deals $1 M.DMG to enemies in 600 range.\n►Boosts own TP Boost by 20 for 12s.\n►Consumes 30% of own remaining HP.
 前方範囲内の敵に魔法大ダメージを与え、魔法防御力を小ダウン、魔法攻撃力を特大ダウンさせる。=ทำดาเมจเวทสูงแก่ศัตรูในระยะด้านหน้า และลดพลังป้องกันเวทเล็กน้อย และลดพลังโจมตีเวทสูงมาก
-r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵の魔法防御力を(\d+)ダウン範囲内の敵の魔法攻撃力を(\d+)ダウン$"=►Deals $1 M.DMG to enemies in 600 range.\n►Lowers all enemies' M.DEF in 600 range by $2 for 18s.\n►Lowers all enemies' M.ATK in 600 range by $3 for 18s.
-七界覇王晦冥喝破之装=Supreme Overlord of the Seven Realms: Darkened Roar of Destruction Armor
+r:"^範囲内の敵に(\d+)の魔法ダメージ自分の魔法攻撃力を(\d+)アップ自分の魔法攻撃クリティカル時のダメージを2％アップ$"=►ทำดาเมจเวท $1 ใส่ศัตรูในระยะ 600\n►เพิ่มพลังโจมตีเวทของตัวเอง $2 เป็นเวลา 180 วินาที\n►เพิ่มดาเมจคริติคอลเวทของตัวเอง 2% เป็นเวลา 180 วินาที
+r:"^範囲内の敵に(\d+)の魔法ダメージ自分のＴＰ上昇を20アップ自分の残りＨＰの30％を消費$"=►ทำดาเมจเวท $1 ใส่ศัตรูในระยะ 600\n►เพิ่มอัตราฟื้นฟู TP ของตัวเอง 20 เป็นเวลา 12 วินาที\n►ใช้ HP ที่เหลือของตัวเอง 30%
+r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵の魔法防御力を(\d+)ダウン範囲内の敵の魔法攻撃力を(\d+)ダウン$"=►ทำดาเมจเวท $1 ใส่ศัตรูในระยะ 600\n►ลดพลังป้องกันเวทของศัตรูทั้งหมดในระยะ 600 ลง $2 เป็นเวลา 18 วินาที\n►ลดพลังโจมตีเวทของศัตรูทั้งหมดในระยะ 600 ลง $3 เป็นเวลา 18 วินาที
+七界覇王晦冥喝破之装=ชุดจอมราชันเจ็ดภพสยบความมืดมน
