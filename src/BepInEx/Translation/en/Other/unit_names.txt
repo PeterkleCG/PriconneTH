@@ -79,7 +79,7 @@
 プレシア=Precia;Alter Maiden;Maiden;เพรเชีย
 リリ=Riri;Lili;Lily;Alter Maiden;Maiden;ริริ
 クローチェ=Croce;Croche;Crotch;โคลเช่
-ライラエル=Lyrael;Lailael;Rairael;ไลลาเอล
+ライラエル=Lyrael;Lailael;Rairael;ไลราเอล
 ネビア=Navi;Nebbia;เนเบีย
 ヤマト=Yamato;Bandy;ยามาโตะ
 フブキ=Fubuki;Zako;Bandy;ฟุบุกิ
@@ -286,7 +286,7 @@
 プレシア（サマー）=Precia (Summer);SPrecia;Summer;เพรเชีย (ฤดูร้อน)
 リリ（サマー）=Riri (Summer);Lili (Summer);Lily (Summer);SRiri;SLili;SLily;Summer;Alter Maiden;Maiden;ริริ (ฤดูร้อน)
 クローチェ（サマー）=Croce (Summer);Croche (Summer);Crotch (Summer);SCroce;SCroche;SCrotch;Summer;โคลเช่ (ฤดูร้อน)
-ライラエル（サマー）=Lyrael (Summer);SLyrael;Summer;ไลลาเอล (ฤดูร้อน)
+ライラエル（サマー）=Lyrael (Summer);SLyrael;Summer;ไลราเอล (ฤดูร้อน)
 クルル（サマー）=Kururu (Summer);SKururu;Summer;คุรุรุ (ฤดูร้อน)
 ネビア（サマー）=Navi (Summer);Nebbia (Summer);SNavi;SNebbia;Summer;เนเบีย (ฤดูร้อน)
 ヤマト（サマー）=Yamato (Summer);SYamato;Summer;ยามาโตะ (ฤดูร้อน)
@@ -378,7 +378,7 @@
 プレシア（ハロウィン）=Precia (Halloween);HPrecia;Halloween;เพรเชีย (ฮาโลวีน)
 リリ（ハロウィン）=Riri (Halloween);Lili (Halloween);Lily (Halloween);HRiri;HLili;HLily;Halloween;ริริ (ฮาโลวีน)
 クローチェ（ハロウィン）=Croce (Halloween);Croche (Halloween);Crotch (Halloween);HCroce;HCroche;HCrotch;Halloween;โคลเช่ (ฮาโลวีน)
-ライラエル（ハロウィン）=Lyrael (Halloween);HLyrael;Halloween;ไลลาเอล (ฮาโลวีน)
+ライラエル（ハロウィン）=Lyrael (Halloween);HLyrael;Halloween;ไลราเอล (ฮาโลวีน)
 クルル（ハロウィン）=Kururu (Halloween);HKururu;Halloween;คุรุรุ (ฮาโลวีน)
 ネビア（ハロウィン）=Navi (Halloween);Nebbia (Halloween);HNavi;HNebbia;Halloween;เนเบีย (ฮาโลวีน)
 ヤマト（ハロウィン）=Yamato (Halloween);HYamato;Halloween;ยามาโตะ (ฮาโลวีน)
@@ -466,7 +466,7 @@
 プレシア（クリスマス）=Precia (Holiday);XPrecia;Holiday;Christmas;Xmas;เพรเชีย (คริสต์มาส)
 リリ（クリスマス）=Riri (Holiday);Lili (Holiday);Lily (Holiday);XRiri;XLili;XLily;Holiday;Christmas;Xmas;ริริ (คริสต์มาส)
 クローチェ（クリスマス）=Croce (Holiday);Croche (Holiday);Crotch (Holiday);XCroce;XCroche;XCrotch;Holiday;Christmas;Xmas;โคลเช่ (คริสต์มาส)
-ライラエル（クリスマス）=Lyrael (Holiday);XLyrael;Holiday;Christmas;Xmas;ไลลาเอล (คริสต์มาส)
+ライラエル（クリスマス）=Lyrael (Holiday);XLyrael;Holiday;Christmas;Xmas;ไลราเอล (คริสต์มาส)
 クルル（クリスマス）=Kururu (Holiday);XKururu;Holiday;Christmas;Xmas;คุรุรุ (คริสต์มาส)
 ネビア（クリスマス）=Navi (Holiday);Nebbia (Holiday);XNavi;XNebbia;Holiday;Christmas;Xmas;เนเบีย (คริสต์มาส)
 ヤマト（クリスマス）=Yamato (Holiday);XYamato;Holiday;Christmas;Xmas;ยามาโตะ (คริสต์มาส)
@@ -554,7 +554,7 @@
 プレシア（ニューイヤー）=Precia (New Year);NyPrecia;New Year;Kimono;เพรเชีย (ปีใหม่)
 リリ（ニューイヤー）=Riri (New Year);Lili (New Year);Lily (New Year);NyRiri;NyLili;NyLily;New Year;Kimono;ริริ (ปีใหม่)
 クローチェ（ニューイヤー）=Croce (New Year);Croche (New Year);Crotch (New Year);NyCroce;NyCroche;NyCrotch;New Year;Kimono;โคลเช่ (ปีใหม่)
-ライラエル（ニューイヤー）=Lyrael (New Year);NyLyrael;New Year;Kimono;ไลลาเอล (ปีใหม่)
+ライラエル（ニューイヤー）=Lyrael (New Year);NyLyrael;New Year;Kimono;ไลราเอล (ปีใหม่)
 クルル（ニューイヤー）=Kururu (New Year);NyKururu;New Year;Kimono;คุรุรุ (ปีใหม่)
 ネビア（ニューイヤー）=Navi (New Year);Nebbia (New Year);NyNavi;NyNebbia;New Year;Kimono;เนเบีย (ปีใหม่)
 ヤマト（ニューイヤー）=Yamato (New Year);NyYamato;New Year;Kimono;ยามาโตะ (ปีใหม่)
@@ -624,7 +624,7 @@
 コッコロ（嚮導幼君）=KKRLG;LGKKR;LGKokkoro;LGKokoro;Little GuidanceKokkoro;KokkoroAdult;kokoroLG;mama;LGmama;Kokkoro;korosuke;คกโคโระ (ลิตเติลไกแดนซ์)
 
 ヴァイオレット（イサナミ）=Violet (Isanami);VioletI;Isanami;IViolet;ไวโอเล็ต (อิซานามิ)
-ライラエル（パルフェクト）=Lyrael (Perfect);LyraelP;PLyrael;Perfect;ไลลาเอล (เพอร์เฟกต์)
+ライラエル（パルフェクト）=Lyrael (Perfect);LyraelP;PLyrael;Perfect;ไลราเอล (เพอร์เฟกต์)
 ネフィ＝ネラ（鬼面仏心）=Nefi-Nera(Demon Mask, Buddha Heart);Nefi Nera(Demon Mask, Buddha Heart);Nephi-Nera(;Demon Mask, Buddha Heart);Nephi Nera (Demon Mask, Buddha Heart);BNefi-Nera;BNefi Nera;BNephi-Nera;BNephi Nera;Demon Mask;Buddha Heart;Kimenbushin;yojijukugo;BuddhaNefi;เนฟิ＝เนร่า (คิเม็งบุชชิน)
 ペコリーヌ（アストライア）=Pecorine (Astraea);APecorine;Astraea;Eustiana;เปโกรีน (แอสแทร์)
 
