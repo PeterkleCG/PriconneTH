@@ -413,7 +413,7 @@ Player Prompts
 ……えっと、それって……=...Um, does that mean...
 
 New Titlecards
-幻境竜后=Vision Empress
+幻境竜后=วิชั่นเอมเพรส
 
 Cutscene
 ──ここは、現実です=...This is reality.
