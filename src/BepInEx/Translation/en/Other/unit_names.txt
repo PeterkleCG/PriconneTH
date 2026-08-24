@@ -97,7 +97,7 @@
 イロハ=Iroha;Alces;อิโรฮะ
 ルイズマリー=Louise Marie;Marie;Atelier;Alces;หลุยส์แมรี่
 ソノ=Sono;Atelier;Alces;โซโนะ
-フレイヤ=Freya;เฟรย์ยา
+フレイヤ=Freya;เฟรยา
 アラクネ=Arachne;อารัคเน่
 メドゥーサ=Medusa;Collab;Granblue;เมดูซ่า
 フィオ=Ameth;Ames;Fio;ฟิโอ
