@@ -112,6 +112,15 @@
 ナーナ=Naana;นานะ
 メリッサ=Melissa;เมลิสซ่า
 
+ティア=Tia;เทีย
+アグライア=Aglaia;อักไลอา
+エウロス=Euros;ยูโรส
+
+
+リーザ・フレイヤ=Lisa Freyja;รีซ่า เฟรยา
+アルシャト=Alshat;อัลชาต์
+
+
 カスミ（シスター）=Kasumi (Sister);SiKasumi;Sister;Nun;คาสึมิ (ซิสเตอร์)
 
 カスミ（マジカル）=Kasumi (Magical);MKasumi;MGKasumi;Magical;คาสึมิ (แมจิคัล)
@@ -637,9 +646,9 @@
 
 キャル（覇瞳天星）=Karyl (Hadou Tensei);Kyaru (Hadou Tensei);HKyaru;HKaryl;HTKyaru;HTKaryl;Kaiser Insight;KKyaru;แคล (ฮาโดเท็นเซย์)
 
-ミホ（ガルパン）=Miho(Garupan);GMiho;Garupan;GuP;Colab;มิโฮะ (การุปัง)
-マホ（ガルパン）=Maho(Garupan);GMaho;Garupan;GuP;Colab;มาโฮะ (การุปัง)
-エリカ（ガルパン）=Erika(Garupan);GErika;Garupan;GuP;Colab;เอริกะ (การุปัง)
+ミホ（ガルパン）=Miho(Garupan);GMiho;GPMiho;Garupan;GuP;Colabมิโฮะ (การุปัง)
+マホ（ガルパン）=Maho(Garupan);GMaho;GPMaho;Garupan;GuP;Colab;มาโฮะ (การุปัง)
+エリカ（ガルパン）=Erika(Garupan);GErika;GPErika;Garupan;GuP;Colab;เอริกะ (การุปัง)
 
 クリア（ヴァルキュリア）=Quria (Valkyria);VQuria;Clear;Alter Maiden;Maiden;Valkyria;คุเรีย (วัลคีเรีย)
 プレシア（ヴァルキュリア）=Precia (Valkyria);VPrecia;Alter Maiden;Maiden;Valkyria;เพรเชีย (วัลคีเรีย)
@@ -652,3 +661,7 @@
 ルイズマリー（サマー）=Louise Marie;Marie;Atelier;Alces;SLouise Marie;SMarie;Summer;หลุยส์แมรี่ (ฤดูร้อน)
 ソノ（サマー）=Sono;Atelier;Alces;SSono;Summer;โซโนะ (ฤดูร้อน)
 クレジッタ（サマー）=Creditta;SCreditta;Summer;เครดิตต้า (ฤดูร้อน)
+
+クローチェ（ヴァードラッヘ）=Croce(Wahrdrache);Croche(Wahrdrache);Crotch(Wahrdrache);WCroce;WCroche;WCrotch;โคลเช่ (วาร์ดราคเฮ)
+リンド（ヴァルムドラクッヘ）=Lind(Wyrmdrache);WLind;รินด์ (เวิร์มดราคเฮ)
+ヴルム（ヴァルムドラクッヘ）=Wyrm(Wyrmdrache);Wurm(Wyrmdrache);WWyrm;WWurm;วูร์ม (เวิร์มดราคเฮ)

@@ -1,10 +1,10 @@
 Summer Hatsune Stories
 
 Chapter Names
-夢に見た空=The Sky I Dreamed Of
-姉妹の絆と水着=Sisterly Bonds and Matching Swimsuits
-告白応援大作戦=Operation: Confession Support
-絆をつなぐ声援=Cheers That Connect Hearts
+夢に見た空=ท้องฟ้าที่เห็นในความฝัน
+姉妹の絆と水着=สายสัมพันธ์สองสาวพี่น้องและชุดว่ายน้ำ
+告白応援大作戦=แผนเชียร์การสารภาพรักครั้งใหญ่
+絆をつなぐ声援=เสียงเชียร์เชื่อมสายสัมพันธ์
 
 Chapter 1
 特別赴任中のミサトの近況報告のため\n{playername}がエルフの森を訪れると、\nちょうどハツネとシオリが話しているところだった。={playername} visited the Elven Forest to give everyone an update on Misato's special assignment, and found Hatsune and Shiori chatting together.

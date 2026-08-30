@@ -558,8 +558,8 @@ Player Prompts
 それなら……ヴァイオレットさん。=In that case... Violet
 
 New Titlecards
-ニセ似々花=Fake Neneka
-ノウェム=Novem
+ニセ似々花=เนเนกะตัวปลอม
+ノウェム=โนเวม
 
 Cutscene 1
 ククク……=Heheheh...

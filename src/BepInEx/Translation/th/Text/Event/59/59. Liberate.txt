@@ -1,26 +1,35 @@
-r:"^追想の楽園([0-9\-\(\)\w （）]*)$"=สรวงสวรรค์แห่งความทรงจำ $1
-r:"^追想のデフラグが\n(\d+)個解放されました。$"="ปลดล็อกเศษเสี้ยวความทรงจำ\nจำนวน $1 ชิ้นเรียบร้อยแล้ว"
-追想のデフラグ エピソード解放=ปลดล็อกตอนด้วยเศษเสี้ยวความทรงจำ
-楽園の守護者=ผู้พิทักษ์แห่งสรวงสวรรค์
-久遠の園を象る者=ผู้จำลองสวนแห่งนิรันดร์
-アスラ=อาสุระ
-オクトー=อ็อคโต้
-リベレイト・ジ・エデン　 いつか、また会う未来で【前編】=Liberate the Eden ในอนาคตที่จะได้พบกันอีกครั้งสักวัน [ช่วงต้น]
-リベレイト・ジ・エデン　 いつか、また会う未来で【後編】=Liberate the Eden ในอนาคตที่จะได้พบกันอีกครั้งสักวัน [ช่วงท้าย]
-r:"^(\[[0-9A-F]{6}\])?【前編】イベントクエストを(\d+)回クリアしよう（前後編共通）(\[-\])?$"=$1[ช่วงต้น] เคลียร์เควสต์กิจกรรม $2 ครั้งกันเถอะ (ระดับใดก็ได้) $3
-r:"^(\[[0-9A-F]{6}\])?【後編】イベントクエストを(\d+)回クリアしよう（前後編共通）(\[-\])?$"=$1[ช่วงท้าย] เคลียร์เควสต์กิจกรรม $2 ครั้งกันเถอะ (ระดับใดก็ได้) $3
-r:"^(\[[0-9A-F]{6}\])?【前編】ボスに1回挑戦しよう（前後編の全難易度共通）(\[-\])?$"=$1[ช่วงต้น] ท้าทายบอส 1 ครั้งกันเถอะ (ระดับ/ช่วงใดก็ได้) $2
-r:"^(\[[0-9A-F]{6}\])?【後編】ボスに1回挑戦しよう（前後編の全難易度共通）(\[-\])?$"=$1[ช่วงปลาย] ท้าทายบอส 1 ครั้งกันเถอะ (ระดับ/ช่วงใดก็ได้) $2
-r:"^(\[[0-9A-F]{6}\])?討伐証交換前編の報酬ラインナップを(\d)回リセットしよう(\[-\])?$"=$1รีเซ็ตรายการของแลกตราพิชิต (ช่วงต้น) ครั้งที่ $2 $3
-r:"^(\[[0-9A-F]{6}\])?討伐証交換後編の報酬ラインナップを(\d)回リセットしよう(\[-\])?$"=$1รีเซ็ตรายการของแลกตราพิชิต (ช่วงท้าย) ครั้งที่ $2 $3
-束の間の勝利=ชัยชนะอันแสนสั้น
-r:"^(\[[0-9A-F]{6}\])?チカとツムギのシャドウとお供モンスターを倒そう(\[-\])?$"=$1กำจัดชาโดว์ของจิกะกับสึมุกิ และมอนสเตอร์ผู้ติดตาม$2
-不穏なる兆し=สัญญาณแห่งความไม่สงบ
-奪われた絆の証=สิ่งนำทางแห่งสายสัมพันธ์ที่ถูกแย่งชิง
-祭りを楽しんでいたムイミだったが、突然謎の少女に襲撃されてブローチを奪われてしまう。その少女を捜している最中、次第に様子がおかしくなっていく街の人たちに追われ始めるも、カヤの助けで難を逃れる。=มุอิมิที่กำลังสนุกสนานกับงานเทศกาลจู่ ๆ ก็ถูกเด็กสาวปริศนาโจมตีและแย่งชิงเข็มกลัดไป ในระหว่างที่กำลังตามหาเด็กสาวคนนั้น เธอกลับเริ่มถูกผู้คนในเมืองที่ค่อย ๆ มีท่าทีแปลกไปไล่ล่า แต่ก็ได้คายะช่วยเอาไว้จึงรอดพ้นจากวิกฤตมาได้
-生き残りたちの夜会=งานเลี้ยงยามค่ำคืนของผู้รอดชีวิต
-ムイミと{playername}は、同様にカヤに助けられたペコリーヌ、ノゾミと合流する。街の異変について情報交換するも有効な手立てが見つからず、ムイミのブローチを奪った少女を捜しに行くこととなる。=มุอิมิและ {playername} ได้พบกับเปโกรีนและโนโซมิที่ได้รับการช่วยเหลือจากคายะเช่นเดียวกัน แม้จะแลกเปลี่ยนข้อมูลเกี่ยวกับสิ่งผิดปกติที่เกิดขึ้นในเมืองแต่ก็ยังไม่พบหนทางแก้ไขที่มีประสิทธิภาพ พวกเขาจึงตัดสินใจออกตามหาเด็กสาวที่แย่งชิงเข็มกลัดของมุอิมิไป
-真夜中の決死行=การฝ่าวิกฤตเสี่ยงตายยามเที่ยงคืน
+
+r:"^追想のデフラグが\n(\d+)個解放されました。$"=$1 Reminiscent defrag\nhas been unlocked.
+追想のデフラグ エピソード解放=Reminiscence Defrag Episode has been Unlocked.
+楽園の守護者=Paradise Guardian
+討伐証（前編専用）=Victory Medal (Part 1)
+討伐証（後編専用）=Victory Medal (Part 2)
+
+r:"^追想の楽園([0-9\-\(\)\w （）]*)$"=Reminiscence Paradise $1
+久遠の園を象る者=The One who Sculpts the Garden of Eternity
+アスラ=Asla
+オクトー=Octo
+リベレイト・ジ・エデン　 いつか、また会う未来で【前編】=Liberate the Eden: Someday in the future we will meet again [Part 1]
+リベレイト・ジ・エデン　 いつか、また会う未来で【後編】=Liberate the Eden: Someday in the future we will meet again [Part 2]
+
+r:"^(\[[0-9A-F]{6}\])?【前編】イベントクエストを(\d+)回クリアしよう（前後編共通）(\[-\])?$"=$1【Part 1】 Clear the event quest $2 times (Any Part) $3
+r:"^(\[[0-9A-F]{6}\])?【後編】イベントクエストを(\d+)回クリアしよう（前後編共通）(\[-\])?$"=$1【Part 2】 Clear the event quest $2 times (Any Part) $3
+r:"^(\[[0-9A-F]{6}\])?【前編】ボスに1回挑戦しよう（前後編の全難易度共通）(\[-\])?$"=$1【Part 1】 Battle Boss 1 time (Any Part Any Difficult) $2
+r:"^(\[[0-9A-F]{6}\])?【後編】ボスに1回挑戦しよう（前後編の全難易度共通）(\[-\])?$"=$1【Part 2】 Battle Boss 1 time (Any Part Any Difficult) $2
+後編
+r:"^(\[[0-9A-F]{6}\])?討伐証交換前編の報酬ラインナップを(\d)回リセットしよう(\[-\])?$"=$1Reset the reward lineup (Part 1) of subjugation exchange $2 Time$3
+r:"^(\[[0-9A-F]{6}\])?討伐証交換後編の報酬ラインナップを(\d)回リセットしよう(\[-\])?$"=$1Reset the reward lineup (Part 2) of subjugation exchange $2 Time$3
+
+束の間の勝利=Bundle victory
+r:"^(\[[0-9A-F]{6}\])?チカとツムギのシャドウとお供モンスターを倒そう(\[-\])?$"=$1Defeat Chika and Tsumugi's shadow and companion monsters!$2
+
+
+不穏なる兆し=Signs of disturbing
+奪われた絆の証=Proof of the robbed bond
+祭りを楽しんでいたムイミだったが、突然謎の少女に襲撃されてブローチを奪われてしまう。その少女を捜している最中、次第に様子がおかしくなっていく街の人たちに追われ始めるも、カヤの助けで難を逃れる。=Muimi enjoyed the festival, but suddenly was attacked by a mysterious girl and was deprived of a brooch. While searching for the girl, she begins to be chased by the people in the city, who gradually become crazy, but escapes the difficulties with Kaya.
+生き残りたちの夜会=Survival night party
+ムイミと{playername}は、同様にカヤに助けられたペコリーヌ、ノゾミと合流する。街の異変について情報交換するも有効な手立てが見つからず、ムイミのブローチを奪った少女を捜しに行くこととなる。=Muimi and Onii-Chan join Pecorine and Nozomi, who were also helped by Kaya. Despite exchanging information about the abnormalities of the city, there is no effective way to find it, so he will go to search for a girl who has taken Muii's brooch.
+真夜中の決死行=Midnight death
 ムイミは、カヤたちに古くからの仲間の面影を重ねながら少女の捜索をしていた。再び様子のおかしいチカとツムギと戦闘になったところ、原因不明の不調に陥る。そこへ捜していた少女ミラまでもが現れる。=Muimi was searching for a girl with Kaya and her old friends. When she fought again with the strange chika and a Tsumugi, she fell into an unknown cause. Even the girl Mira who was searching for it appears.
 楽園に抗う金色の解放者=Gold -colored liberator against paradise
 ムイミたちは、ミラの人々を思い出の中に閉じ込め「楽園の住人」にする能力に抵抗する。その時ムイミたちに人々を「楽園」から解放する力が発現し、チカやツムギたちを異変から救うことに成功する。=The Muimi and his colleagues resist the Mira people in their memories and become the "paradise residents". At that time, Muimi and others have the power to release people from "paradise", and succeed in saving Chika and Tsumugi from abnormalities.
@@ -36,6 +45,9 @@ r:"^(\[[0-9A-F]{6}\])?チカとツムギのシャドウとお供モンスター�
 思い出を奪われたムイミだったが、カヤとノゾミの思い、そし\nてオクトーによって復活する。アスラは、ムイミの復活や自身\nの秘密に動揺して暴走する。ムイミたちは、強大な力を前にし\nても諦めず撃破する。=Muimi was deprived of memories, but revived by Kaya and Nozomi and Okto. Asura runs away due to the resurrection of Muimi and her secrets. The Muimi and others defeat without giving up even before the powerful power.
 アスラの消滅に伴い、「楽園」にまつわる異変は全て元に戻\nる。そしてランドソルでは何事もなかったかのように建国祭が\n再開され、事件に関わったムイミたちもそれぞれの未来を胸\nに、前へ進んでいくのだった。=With the extinction of Asura, all the abnormalities related to the paradise return to the beginning. The founding festival was resumed as if nothing had happened in Landosol, and the Muimi and the Muimi, who were involved in the incident, moved forward with their future.
 白紙の未来を金色で染めて=Dyeing a Blank Future with Gold
+
+後編
+
 追想のデフラグ=Reminiscence Defrag
 懐かしき過去の結晶=Nostalgic Crystals of the Past
 懐かしいような不思議な感覚に襲われ、倒れるムイミ。不思議\nな空間で目覚めたムイミは、そこに浮かんでいた不思議な結晶\nに触れる。眩い輝きと共に目の前に広がるのは、記憶の中にあ\nる懐かしい光景であった。=Muimi collapses after being attacked by a strange, nostalgic feeling. She wakes up in a mysterious space, and she touches a mysterious crystal floating there. Along with her dazzling brilliance, what spread out before her eyes was a nostalgic scene in her memory.
@@ -77,7 +89,9 @@ r:"^(\[[0-9A-F]{6}\])?チカとツムギのシャドウとお供モンスター�
 ラジラジの追想　その2=Reminiscence of Rajiraji Part 2
 ラジラジの追想　その3=Reminiscence of Rajiraji Part 3
 ネネカの追想=Reminiscence of Neneka
+
 まだ見ぬ日々に想い馳せて=Reminisce about the days we haven't seen yet
+
 跳躍王のお仕置き=Punishment of the Leaping King
 虎の尾を踏む=Step on the Tiger's Tail
 二人なら絶対だって=If it's Just the Two of Us, then Definitely
@@ -85,31 +99,37 @@ r:"^(\[[0-9A-F]{6}\])?チカとツムギのシャドウとお供モンスター�
 簡単すぎる問題=Too Easy Problem
 魔物使いは語る=The Magician Speaks
 悪党たちの目指す未来=The Future that Villains Aim For
-Onii－chanたちとの戦いに敗れたノウェムとオクトー\n街に戻ってもノウェムは悔しさを爆発させていた。=Knawem, who was defeated in the battle with ONII -CHAN, returned to Okto Street, and Nawem exploded regret.
-Onii－chanたちに負けたことを悔しがるノウェムだが、オク\nトーは全く気にしない。その態度が気に入らないノウェムは勝\n利へのこだわりを示す。そんなノウェムをオクトーは秘かにう\nらやましく思う。=Knowem regrets that ONII -CHAN has lost, but Okto doesn't care at all.\nKnowem, who does not like his attitude, indicates his commitment to victory.\nOkto is secretly envious of such a knowem.
-任務を終えた帰り道。\nノウェムはため息交じりに呟きを漏らす。=On the way back after finishing the mission.\nKnawem sighs and mutters.
-誓約女君について人使いが荒いと愚痴るノウェム。しかし当の\n本人にそれを聞かれていた。オクトーは逃走したため、ノウェ\nムは地獄のように長い時間を過ごすことになるのであった。=A Knowem who complains that the person who is rough about the pledge is rough.\nHowever, the person was asked that.\nOkto escaped, so the knowem spent a long time like hell.
-街道をぶらつきながら、ノウェムはオクトーに話しかける。=Nawem talks to Okto while hanging on the highway.
-オクトーの実力を知りたいノウェムは、足止めをしてダイゴと\n戦わせることに成功する。しかし一撃を入れられるオクトーを\n見たノウェムは、反射的に背後からダイゴに攻撃して気絶させ\nてしまうのだった。=Knowem, who wants to know Okto's ability, succeeds in stopping and fighting Daigo.\nHowever, when he saw Okto, who could hit, he attacked Daigo from behind him and stunned him.
-晶とはどんな人物なのか気になったノウェムは、同じ七冠の誓\n約女君に人柄を尋ねてみる。誓約女君の返答から、晶への絆と\nライバル心をノウェムは感じ取るのだった。=Knowem, who is worried about what Akira is, asks the same seven crown pledge for his personality.\nFrom the reply of the pledge, Knawem felt her bond and rivalry.
-悪と正義、それぞれのこだわりを持って高笑いの練習に励んで\nいるノウェムとマサキ。満足のいく高笑いの実現のため二人は\n協力（？）することになるが、巻き込まれたオクトーはため息\nをつくのだった。=Evil and justice, Knawem and Masaki are working hard to practice high laughter.\nThe two will cooperate (?) To realize a satisfactory laugh, but the involved Okto sighed.
-ノウェムとオクトーは時と場所を選ばず勝負を仕掛けてくるダ\nイゴについて、跳躍王にクレームを入れる。しかし跳躍王にす\nらダイゴは制御不能だと言われ、二人は肩を落とすのであっ\nた。=Nawem and Okto complain to the jumping king about Daigo, who will play the game regardless of time and place.\nHowever, even the jumping king told me that Daigo was unable to control, and they dropped their shoulders.
+
+
+
+
+
+Onii－chanたちとの戦いに敗れたノウェムとオクトー\n街に戻ってもノウェムは悔しさを爆発させていた。=Noemu, who was defeated in the battle with ONII -CHAN, returned to Okto Street, and Noemu exploded regret.
+Onii－chanたちに負けたことを悔しがるノウェムだが、オク\nトーは全く気にしない。その態度が気に入らないノウェムは勝\n利へのこだわりを示す。そんなノウェムをオクトーは秘かにう\nらやましく思う。=Noemu regrets that ONII -CHAN has lost, but Okto doesn't care at all.\nNoemu, who does not like his attitude, indicates his commitment to victory.\nOkto is secretly envious of such a kNoemu.
+任務を終えた帰り道。\nノウェムはため息交じりに呟きを漏らす。=On the way back after finishing the mission.\nNoemu sighs and mutters.
+誓約女君について人使いが荒いと愚痴るノウェム。しかし当の\n本人にそれを聞かれていた。オクトーは逃走したため、ノウェ\nムは地獄のように長い時間を過ごすことになるのであった。=A Noemu who complains that the person who is rough about the pledge is rough.\nHowever, the person was asked that.\nOkto escaped, so the kNoemu spent a long time like hell.
+街道をぶらつきながら、ノウェムはオクトーに話しかける。=Noemu talks to Okto while hanging on the highway.
+オクトーの実力を知りたいノウェムは、足止めをしてダイゴと\n戦わせることに成功する。しかし一撃を入れられるオクトーを\n見たノウェムは、反射的に背後からダイゴに攻撃して気絶させ\nてしまうのだった。=Noemu, who wants to know Okto's ability, succeeds in stopping and fighting Daigo.\nHowever, when he saw Okto, who could hit, he attacked Daigo from behind him and stunned him.
+晶とはどんな人物なのか気になったノウェムは、同じ七冠の誓\n約女君に人柄を尋ねてみる。誓約女君の返答から、晶への絆と\nライバル心をノウェムは感じ取るのだった。=Noemu, who is worried about what Akira is, asks the same seven crown pledge for his personality.\nFrom the reply of the pledge, Noemu felt her bond and rivalry.
+悪と正義、それぞれのこだわりを持って高笑いの練習に励んで\nいるノウェムとマサキ。満足のいく高笑いの実現のため二人は\n協力（？）することになるが、巻き込まれたオクトーはため息\nをつくのだった。=Evil and justice, Noemu and Masaki are working hard to practice high laughter.\nThe two will cooperate (?) To realize a satisfactory laugh, but the involved Okto sighed.
+ノウェムとオクトーは時と場所を選ばず勝負を仕掛けてくるダ\nイゴについて、跳躍王にクレームを入れる。しかし跳躍王にす\nらダイゴは制御不能だと言われ、二人は肩を落とすのであっ\nた。=Noemu and Okto complain to the jumping king about Daigo, who will play the game regardless of time and place.\nHowever, even the jumping king told me that Daigo was unable to control, and they dropped their shoulders.
 ギルドハウス内を捜し回り、=Looking around the Guildhouse,
-張り込み中のノウェムとオクトーは、会話の中で理想のギルド\nハウスの話題になり、やがて自分たちはこのゲームを楽しめて\nはいないのではと気付く。そして、いつか本当に楽しめる日が\n来ることを想い馳せる。=Knawem and Okto, who are in the conversation, become a topic of the ideal Guildhouse in the conversation, and eventually realize that they have not enjoyed this game.\nAnd I will think that someday you can really enjoy it.
-任務に向かうノウェムとオクトーは、出立前に跳躍王の元へと向かう。=Knowem and Okto head for their mission head to the jumping king before leaving.
-任務のために跳躍王から跳躍の力を借りるノウェムとオク\nトー。しかしその能力を買い物などの私用に使っていたことが\nバレてしまい、お仕置きとして極寒の雪山に跳躍させられ、放\n置されてしまうのだった。=Knowem and Okto who borrow the power of jumping from the jumping king for their mission.\nHowever, what I used for private use such as shopping was broken, and I was left to the frigid snowy mountain as a punishment and was left alone.
+張り込み中のノウェムとオクトーは、会話の中で理想のギルド\nハウスの話題になり、やがて自分たちはこのゲームを楽しめて\nはいないのではと気付く。そして、いつか本当に楽しめる日が\n来ることを想い馳せる。=Noemu and Okto, who are in the conversation, become a topic of the ideal Guildhouse in the conversation, and eventually realize that they have not enjoyed this game.\nAnd I will think that someday you can really enjoy it.
+任務に向かうノウェムとオクトーは、出立前に跳躍王の元へと向かう。=Noemu and Okto head for their mission head to the jumping king before leaving.
+任務のために跳躍王から跳躍の力を借りるノウェムとオク\nトー。しかしその能力を買い物などの私用に使っていたことが\nバレてしまい、お仕置きとして極寒の雪山に跳躍させられ、放\n置されてしまうのだった。=Noemu and Okto who borrow the power of jumping from the jumping king for their mission.\nHowever, what I used for private use such as shopping was broken, and I was left to the frigid snowy mountain as a punishment and was left alone.
+ノウェム=Noemu
 教授、ちょっと例のアレ=Professor, a little example
-誓約女君と剣を交えるノウェム。絶対防御を破りたいという彼\n女の思いを聞いてオクトーは逃げようとするが、結局手伝うこ\nとになってしまう。そのまま二人は力を合わせ誓約女君に挑む\nのであった。=Knowem who has a sword with a pledge.\nOkto tries to escape after hearing her desire to break her absolute defense, but she ends up helping.\nThey just worked together and challenged the pledge.
-たまたま出会ったダイゴと世間話をするノウェムとオクトー。\n打ち合わせ一切なしの状態で見事な連携でダイゴの名前を弄\nる。ついにブチ切れて暴れ出したダイゴから、二人は笑いなが\nら逃げ出すのだった。=Nawem and Okto talk with Daigo who happened to meet Daigo.\nWith no meeting at all, play with Daigo's name with a wonderful cooperation.\nFinally, the two fled from Daigo, who were cut off and rampaged.
-暇を持てあましたノウェムとオクトーは、\nたまたま鉢合わせたダイゴに話しかける。=Knawem and Okto, who have spare time, happen to talk to Daigo, a bowl.
-晶の人柄について変貌大妃に尋ねるノウェム。仕事では助け合\nうこともあったが、それでも晶は信用できない怪しい女だと言\nい張る変貌大妃に、ノウェムは思わず本音をこぼしかけたの\nだった。=Knowem asks the great princess of Akira's personality.\nHer work sometimes helped each other, but she still spilled her true intentions to her transformation, claiming that Akira was an unreliable suspicious woman.
-晶のことが気になっているノウェムは、=Knawem who is worried about Akira is
-オクトーに化けてノウェムにイタズラする変貌大妃。しかしノ\nウェムはあっさり正体を見抜いてしまう。深い絆を結んだ者た\nちが相手だと、変化を見抜かれやすいのかもしれないと変貌大\n妃は感心するのだった。=A transformed princess who turns into an okto and mischieves in the knowawem.\nHowever, the knawem easily sees her true identity.\nThe transformed princess was impressed that if those who had a deep bond were the opponent, they could be easily spotted.
-ノウェムは、次の戦いに向けて作戦を立てたいと、=Nawem wants to make a strategy for the next battle
-ノウェムは、オクトーが戦闘をモンスターに任せていることに\n疑問を抱く。オクトーはモンスターの有用性を説くが、扱いの\n難しい一体がいるという。それが自分だと気付いたノウェムは\nオクトーを追いかける。=Knawem questions Okto's battle to monsters.\nOkto preaches the usefulness of monsters, but it is said that there is a difficult one to handle.\nKnowem realizes that it is himself chasing Okto.
-その日、一仕事を終えたノウェムとオクトーは、帰路についていた。=On that day, Konowem and Okto, who finished their work, were on the way home.
+誓約女君と剣を交えるノウェム。絶対防御を破りたいという彼\n女の思いを聞いてオクトーは逃げようとするが、結局手伝うこ\nとになってしまう。そのまま二人は力を合わせ誓約女君に挑む\nのであった。=Noemu who has a sword with a pledge.\nOkto tries to escape after hearing her desire to break her absolute defense, but she ends up helping.\nThey just worked together and challenged the pledge.
+たまたま出会ったダイゴと世間話をするノウェムとオクトー。\n打ち合わせ一切なしの状態で見事な連携でダイゴの名前を弄\nる。ついにブチ切れて暴れ出したダイゴから、二人は笑いなが\nら逃げ出すのだった。=Noemu and Okto talk with Daigo who happened to meet Daigo.\nWith no meeting at all, play with Daigo's name with a wonderful cooperation.\nFinally, the two fled from Daigo, who were cut off and rampaged.
+暇を持てあましたノウェムとオクトーは、\nたまたま鉢合わせたダイゴに話しかける。=Noemu and Okto, who have spare time, happen to talk to Daigo, a bowl.
+晶の人柄について変貌大妃に尋ねるノウェム。仕事では助け合\nうこともあったが、それでも晶は信用できない怪しい女だと言\nい張る変貌大妃に、ノウェムは思わず本音をこぼしかけたの\nだった。=Noemu asks the great princess of Akira's personality.\nHer work sometimes helped each other, but she still spilled her true intentions to her transformation, claiming that Akira was an unreliable suspicious woman.
+晶のことが気になっているノウェムは、=Noemu who is worried about Akira is
+オクトーに化けてノウェムにイタズラする変貌大妃。しかしノ\nウェムはあっさり正体を見抜いてしまう。深い絆を結んだ者た\nちが相手だと、変化を見抜かれやすいのかもしれないと変貌大\n妃は感心するのだった。=A transformed princess who turns into an okto and mischieves in the knowawem.\nHowever, the Noemu easily sees her true identity.\nThe transformed princess was impressed that if those who had a deep bond were the opponent, they could be easily spotted.
+ノウェムは、次の戦いに向けて作戦を立てたいと、=Noemu wants to make a strategy for the next battle
+ノウェムは、オクトーが戦闘をモンスターに任せていることに\n疑問を抱く。オクトーはモンスターの有用性を説くが、扱いの\n難しい一体がいるという。それが自分だと気付いたノウェムは\nオクトーを追いかける。=Noemu questions Okto's battle to monsters.\nOkto preaches the usefulness of monsters, but it is said that there is a difficult one to handle.\nNoemu realizes that it is himself chasing Okto.
+その日、一仕事を終えたノウェムとオクトーは、帰路についていた。=On that day, KoNoemu and Okto, who finished their work, were on the way home.
 激務を終え疲労困憊のムイミとオクトー。だがこれも自由になるためだと\n自分たちに言い聞かせる。そして、自分たちの目標が世界一の悪いヤツら\nになることだと、改めて確認し合うのだった。=Muimi and Okto who are exhausted after finishing hard work.\nBut tell us that this is also free.\nAnd they checked again that their goals would be the worst guys in the world.
-激務を終えたノウェムとオクトーは、やっとの思いで街へと戻ってきた。=Knawem and Okto, who have finished their hard work, have finally returned to the city with their own thoughts.
+激務を終えたノウェムとオクトーは、やっとの思いで街へと戻ってきた。=Noemu and Okto, who have finished their hard work, have finally returned to the city with their own thoughts.
 過去を超える思い出を=Memories beyond the past
 全ての結晶に触れ、懐かしい思い出を見てきたムイミ。楽しかった過去に\n浸りたいという想いを振り切り、ムイミは進むことを決意する。昔の思い\n出を超える未来を作るために、彼女は目を覚ますのであった。=Muimi touched all crystals and saw nostalgic memories.\nShe shakes her desire to immerse him in the fun past, and Muimi decides to go.\nShe woke up to create a future beyond old memories.
 不思議な結晶に触れ、様々な思い出を感じたムイミ。=Muimi touched a mysterious crystal and felt various memories.

@@ -19,6 +19,7 @@
 クリップ数=Number of clips
 水も滴る下心=A heart dripping with water
 商魂、水泡に帰す=The spirit of commerce will vanish like bubbles on water
+
 先生だって頑張る子！=Even teachers work hard!
 どうしたんだ、ユイ？\nあいつのために\nわざわざ弁当作ってきたんだろ？\nとっとと誘えばいいじゃないか。=What's wrong, Yui? You went to the trouble of making a bento for him, right? Why don't you just invite him already?
 買い出しまで手伝ってもらったのに\nごめんね。でも、お弁当の中身、\nちょっと張り切りすぎちゃって…=I'm sorry you helped me with the shopping,\nbut I got a little carried away with the contents of the bento...\n
@@ -159,7 +160,7 @@
 あ、だめ…\n私にもビッグウェーブが…\nた、耐えるのよ、ユカリぃ…=Oh no...\nA big wave is coming towards me too...\nI must endure it, Yukari...
 ふむ…=Hmmm...
 ただ流される、などという\n世の凡夫たちのような行いの\n何が楽しいのかと思っていましたが…=I used to wonder what was enjoyable about just being swept away by actions like the common folks of the world...
-これはこれで乙なものですね…\n今度ノウェムでも連れてきて\n流してみましょうか。=This is interesting in its own way...\nShall we bring it to Novem next time?\nShall we try it out?
+これはこれで乙なものですね…\n今度ノウェムでも連れてきて\n流してみましょうか。=This is interesting in its own way...\nShall we bring it to Noemu next time?\nShall we try it out?
 ぐっふっふ、\nさすがアンナたそ♪=Gufufu,\nAs expected from Anna♪
 ナナカちゃんセレクトの伝説のスク水を\n完璧に着こなしておりますなあ！=Nanaka is perfectly pulling off the legendary select school swimsuit from Nanaka!
 なっ、これは他に持ってないから\n仕方なくだなあ…=Ah, I don't have anything else, so I guess I have no choice...
@@ -235,6 +236,7 @@ STOP！　無許可営業=STOP! Unauthorized business
 誰もいなかったな…\nいや…そこ！=No one was there...\nNo... there!
 やはり誰もいないか。\nだがこの悪寒はなんだ…？\nくっ、まるで狙われる魚の気持ちだよ。=No one here after all.\nBut what is this chill...?\nUgh, it's like being a targeted fish.
 ああ、レイ様の凛々しいお姿を\nこんな近くで見られるなんて\n眼福です～=Oh, to be able to see Miss Rei's dignified figure from up close like this is truly a feast for the eyes~\n
+聖テレサ女学院=St. Theresa Girls' Academy
 あれからどうだ？\nなにか面白い事件や冒険があったなら\nぜひ聞かせてくれ！=How have you been since then? If you've had any interesting events or adventures, please tell me about them!
 （冥風戦記のいいネタに\nなるかもしれないからな！）=(It might become a good material for Dark Wind Chronicles!)
 はい。ありましたよ。\nリゾートビーチで巻き起こる\n様々な霊障…=Yes, there was. \nVarious spiritual disturbances that occur at the resort beach. \n
