@@ -309,7 +309,7 @@
 だってあなたは、覇瞳皇帝の元側近で〜\n今の王女さまとも仲良しで。\nそれに、{playername}くんの仲間なんだもん♪=After all, you're the former aide of the Kaiser Insight, and you are friends with the current princess. Besides, you are a friend of {playername}-kun's♪
 歪んだ坩堝みたいなこの世界、その中心……\nん～、正確には中心から限りなく近いところに、\nあなたはいるんだから。=This warped, crucible-like world, its center... Hmm, to be precise, you're in a place that's infinitely close to the center.
 キャルちゃんたちに興味を持つひとは、\nキャルちゃんたちの想像以上に多いと思っておいたほうが\nいいんじゃないかな？=I think it's best to assume that there are more people interested in Kyaru-chan and the others than you can imagine
-うっ……=Ugh...
+うっ……=อีก……
 まあでも、キャルちゃんだけだったら、\nこうして声はかけてなかったんだけどね～？=Well, if it were just Kyaru, I wouldn't have called out to you like this
 はぁっ？\nなによそれっ……=Huh? What the hell...?
 声をかけた理由は……そっちのあなた。\nあなたのことが、『見えちゃった』からなんだ～=The reason I called out to you......is because I saw you

@@ -100,7 +100,7 @@
 フレイヤ=Freya;เฟรยา
 アラクネ=Arachne;อารัคเน่
 メドゥーサ=Medusa;Collab;Granblue;เมดูซ่า
-フィオ=Ameth;Ames;Fio;ฟิโอ
+フィオ=Ameth;Ames;Fio;ฟิโอ้
 ルルィ=Lului;รูรุย
 ホウオウ=Ho-oh;Hoou;Hooh;Houou;โฮโอ
 カノン=Kanon;คาน่อน
