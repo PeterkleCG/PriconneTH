@@ -80,7 +80,7 @@
 リリ=Riri;Lili;Lily;Alter Maiden;Maiden;ริริ
 クローチェ=Croce;Croche;Crotch;โคลเช่
 ライラエル=Lyrael;Lailael;Rairael;ไลราเอล
-ネビア=Navi;Nebbia;เนเบีย
+ネビア=Navi;Nebbia;เนเวีย
 ヤマト=Yamato;Bandy;ยามาโตะ
 フブキ=Fubuki;Zako;Bandy;ฟุบุกิ
 ワカナ=Wakana;Bandy;วาคานะ
@@ -297,7 +297,7 @@
 クローチェ（サマー）=Croce (Summer);Croche (Summer);Crotch (Summer);SCroce;SCroche;SCrotch;Summer;โคลเช่ (ฤดูร้อน)
 ライラエル（サマー）=Lyrael (Summer);SLyrael;Summer;ไลราเอล (ฤดูร้อน)
 クルル（サマー）=Kururu (Summer);SKururu;Summer;คุรุรุ (ฤดูร้อน)
-ネビア（サマー）=Navi (Summer);Nebbia (Summer);SNavi;SNebbia;Summer;เนเบีย (ฤดูร้อน)
+ネビア（サマー）=Navi (Summer);Nebbia (Summer);SNavi;SNebbia;Summer;เนเวีย (ฤดูร้อน)
 ヤマト（サマー）=Yamato (Summer);SYamato;Summer;ยามาโตะ (ฤดูร้อน)
 フブキ（サマー）=Fubuki (Summer);SFubuki;Summer;ฟุบุกิ (ฤดูร้อน)
 ワカナ（サマー）=Wakana (Summer);SWakana;Summer;วาคานะ (ฤดูร้อน)
@@ -389,7 +389,7 @@
 クローチェ（ハロウィン）=Croce (Halloween);Croche (Halloween);Crotch (Halloween);HCroce;HCroche;HCrotch;Halloween;โคลเช่ (ฮาโลวีน)
 ライラエル（ハロウィン）=Lyrael (Halloween);HLyrael;Halloween;ไลราเอล (ฮาโลวีน)
 クルル（ハロウィン）=Kururu (Halloween);HKururu;Halloween;คุรุรุ (ฮาโลวีน)
-ネビア（ハロウィン）=Navi (Halloween);Nebbia (Halloween);HNavi;HNebbia;Halloween;เนเบีย (ฮาโลวีน)
+ネビア（ハロウィン）=Navi (Halloween);Nebbia (Halloween);HNavi;HNebbia;Halloween;เนเวีย (ฮาโลวีน)
 ヤマト（ハロウィン）=Yamato (Halloween);HYamato;Halloween;ยามาโตะ (ฮาโลวีน)
 フブキ（ハロウィン）=Fubuki (Halloween);HFubuki;Halloween;ฟุบุกิ (ฮาโลวีน)
 ワカナ（ハロウィン）=Navi (Halloween);HWakana;Halloween;วาคานะ (ฮาโลวีน)
@@ -477,7 +477,7 @@
 クローチェ（クリスマス）=Croce (Holiday);Croche (Holiday);Crotch (Holiday);XCroce;XCroche;XCrotch;Holiday;Christmas;Xmas;โคลเช่ (คริสต์มาส)
 ライラエル（クリスマス）=Lyrael (Holiday);XLyrael;Holiday;Christmas;Xmas;ไลราเอล (คริสต์มาส)
 クルル（クリスマス）=Kururu (Holiday);XKururu;Holiday;Christmas;Xmas;คุรุรุ (คริสต์มาส)
-ネビア（クリスマス）=Navi (Holiday);Nebbia (Holiday);XNavi;XNebbia;Holiday;Christmas;Xmas;เนเบีย (คริสต์มาส)
+ネビア（クリスマス）=Navi (Holiday);Nebbia (Holiday);XNavi;XNebbia;Holiday;Christmas;Xmas;เนเวีย (คริสต์มาส)
 ヤマト（クリスマス）=Yamato (Holiday);XYamato;Holiday;Christmas;Xmas;ยามาโตะ (คริสต์มาส)
 フブキ（クリスマス）=Fubuki (Holiday);XFubuki;Holiday;Christmas;Xmas;ฟุบุกิ (คริสต์มาส)
 ワカナ（クリスマス）=Wakana (Holiday);XWakana;Holiday;Christmas;Xmas;วาคานะ (คริสต์มาส)
@@ -565,7 +565,7 @@
 クローチェ（ニューイヤー）=Croce (New Year);Croche (New Year);Crotch (New Year);NyCroce;NyCroche;NyCrotch;New Year;Kimono;โคลเช่ (ปีใหม่)
 ライラエル（ニューイヤー）=Lyrael (New Year);NyLyrael;New Year;Kimono;ไลราเอล (ปีใหม่)
 クルル（ニューイヤー）=Kururu (New Year);NyKururu;New Year;Kimono;คุรุรุ (ปีใหม่)
-ネビア（ニューイヤー）=Navi (New Year);Nebbia (New Year);NyNavi;NyNebbia;New Year;Kimono;เนเบีย (ปีใหม่)
+ネビア（ニューイヤー）=Navi (New Year);Nebbia (New Year);NyNavi;NyNebbia;New Year;Kimono;เนเวีย (ปีใหม่)
 ヤマト（ニューイヤー）=Yamato (New Year);NyYamato;New Year;Kimono;ยามาโตะ (ปีใหม่)
 フブキ（ニューイヤー）=Fubuki (New Year);NyFubuki;New Year;Kimono;ฟุบุกิ (ปีใหม่)
 ワカナ（ニューイヤー）=Wakana (New Year);NyWakana;New Year;Kimono;วาคานะ (ปีใหม่)
