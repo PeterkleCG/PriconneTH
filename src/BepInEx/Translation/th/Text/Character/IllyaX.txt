@@ -1,7 +1,7 @@
 ブラッディソーン+=บลัดดี้โซน+
-【魔法】前衛で、血を対価に敵を攻撃する聖夜の吸血鬼。残りＨＰが低い程ダメージが上昇するスキルと、ＨＰを消費するスキルを組み合わせ、絶大な破壊力を発揮する。=[Magic] A festive vampire who pays a price in blood to deal potent strikes from the front lines. By consuming HP with her skills to fuel attacks that grow more powerful when her health is low, she can output terrifying levels of damage.
-r:"^範囲内の敵すべてに(\d+)の魔法ダメージ自分の魔法攻撃力を(\d+)アップ自分の残りＨＰの20%を消費$"=►Deals $1 M.DMG to all enemies in 615 range.\n►Boosts own M.ATK by $2 for 12s.\n►Consumes 20% of own remaining HP.
-自分の残りＨＰの20％を消費して、自分を一定時間無敵状態にする。さらに自分の魔法攻撃力を特大アップし、前方範囲内の敵すべてに魔法特大ダメージを与え、自分のＴＰを特大回復する。イリヤのＨＰが低い程ダメージがアップする。=Consumes 20% of own remaining HP to become invincible for a certain time. Additionally, massively boosts own M.ATK, deals massive M.DMG to all enemies in a forward area, and greatly recovers own TP. Damage increases the lower Illya’s HP is.
-r:"^自分の残りＨＰの20%を消費一定時間無敵状態になる自分の魔法攻撃力を(\d+)アップ範囲内の敵すべてに(\d+)の魔法ダメージ自分のＴＰを(\d+)回復$"=►Consumes 20% of current HP.\n►Grants Invincibility for 6s.\n►Boosts own M.ATK by $1 for 12s.\n►Deals $2 M.DMG to all enemies whitin 615 range.\n►Recovers own TP by $3.
-r:"^自分の魔法攻撃力を(\d+)アップ敵単体に(\d+)の魔法ダメージ$"=►Boosts own M.ATK by $1 for 180s.\n►Deals $2 M.DMG to an enemy.
-聖夜を統べるマント=Cloak That Rules the Holy Night
+r:"^範囲内の敵すべてに(\d+)の魔法ダメージ自分の魔法攻撃力を(\d+)アップ自分の残りＨＰの20%を消費$"=►ทำดาเมจเวท $1 ใส่ศัตรูทั้งหมดในระยะ 615\n►เพิ่มพลังโจมตีเวทของตัวเอง $2 เป็นเวลา 12 วินาที\n►ใช้ HP ที่เหลือของตัวเอง 20%
+自分のＨＰの20％を消費して、自分を一定時間無敵状態にする。自分の魔法攻撃力を特大アップし、前方範囲内の敵に魔法特大ダメージを与え、自分のＴＰを特大回復する。自分のＨＰが低いほど、ダメージが増加する。=ใช้ HP ของตัวเอง 20% เพื่อทำให้ตัวเองเป็นอมตะชั่วคราว เพิ่มพลังโจมตีเวทของตัวเองสูงมาก ทำดาเมจเวทสูงมากใส่ศัตรูในระยะด้านหน้า และฟื้นฟู TP ของตัวเองสูงมาก ยิ่ง HP ของตัวเองต่ำ ดาเมจจะยิ่งเพิ่มขึ้น
+r:"^自分の残りＨＰの20%を消費一定時間無敵状態になる自分の魔法攻撃力を(\d+)アップ範囲内の敵すべてに(\d+)の魔法ダメージ自分のＴＰを(\d+)回復$"=►ใช้ HP ที่เหลือของตัวเอง 20%\n►ทำให้เป็นอมตะเป็นเวลา 6 วินาที\n►เพิ่มพลังโจมตีเวทของตัวเอง $1 เป็นเวลา 12 วินาที\n►ทำดาเมจเวท $2 ใส่ศัตรูทั้งหมดในระยะ 615\n►ฟื้นฟู TP ของตัวเอง $3
+r:"^自分の魔法攻撃力を(\d+)アップ敵単体に(\d+)の魔法ダメージ$"=►เพิ่มพลังโจมตีเวทของตัวเอง $1 เป็นเวลา 180 วินาที\n►ทำดาเมจเวท $2 ใส่ศัตรูตัวเดียว
+聖夜を統べるマント=ผ้าคลุมปกครองคืนศักดิ์สิทธิ์
+闇よりの誘い=คำเชิญจากความมืด
