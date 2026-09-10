@@ -218,7 +218,7 @@
 もちろん。協力しよう。=Of course. Let's go help her
 魔札、封印。=Magic Card: SEAL
 黙ってレイの手を握る。=I silently take Rei's hand
-ダークエルフ=Dark Elf
+ダークエルフ=ดาร์กเอลฟ์
 ゴブリンレディ=Goblin Lady
 マスターとスレイブしか戦えない結界によって攫われたレイ。自力で助け\n出すと息巻くツムギは、アラクネと組んでカノンに挑んでくる。しかし不\n測の事態により戦いは中断し、ツムギの敗北となるのだった。=Ray was abducted by a barrier that only Masters and Slaves can fight. Tsumugi, who breathes her last when she rescues him on her own, teames up with the arachne to challenge Kanon. However, due to unexpected circumstances, the battle is interrupted, and Tsumugu loses.
 カノンとツムギ。\n二人のスレイブのマスターとなった{playername}。\nしかし二人の相性は最悪であった。=Kanon and Tsumugi. {playername} became the master of two Slaves. However, the compatibility between the two was terrible.
