@@ -1,10 +1,10 @@
 Misato 6 Star Stories
 
 Chapter Names
-育まれる種子たち=Seeds To Be Nurtured
-花束のようにたくさんの=Like A Bouquet of Flowers
-特別で当たり前な日=A Special Yet Ordinary Day
-愛情に包まれて=Wrapped In Love
+育まれる種子たち=เมล็ดพันธุ์ที่ได้รับการบ่มเพาะ
+花束のようにたくさんの=มากมายดั่งช่อดอกไม้
+特別で当たり前な日=วันพิเศษที่แสนธรรมดา
+愛情に包まれて=โอบล้อมด้วยความรัก
 
 Chapter 9
 穏やかなエルフの森の中、\n物語を聞かせるゆっくりとした声が響いていた。=Within the tranquil Elven Forest, a gentle voice echoed softly as it told a story.

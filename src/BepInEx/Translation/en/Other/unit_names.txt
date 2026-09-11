@@ -111,6 +111,7 @@
 サクラ=Sakura;ZombieLandSaga;Collab;ซากุระ
 ナーナ=Naana;นานะ
 メリッサ=Melissa;เมลิสซ่า
+リーザ=Liza;รีซ่า
 
 ティア=Tia;เทีย
 アグライア=Aglaia;อักไลอา
@@ -665,3 +666,4 @@
 クローチェ（ヴァードラッヘ）=Croce(Wahrdrache);Croche(Wahrdrache);Crotch(Wahrdrache);WCroce;WCroche;WCrotch;โคลเช่ (วาร์ดราคเฮ)
 リンド（ヴァルムドラッヘ）=Lind(Wyrmdrache);WLind;รินด์ (เวิร์มดราคเฮ)
 ヴルム（ヴァルムドラッヘ）=Wyrm(Wyrmdrache);Wurm(Wyrmdrache);WWyrm;WWurm;วูร์ม (เวิร์มดราคเฮ)
+
