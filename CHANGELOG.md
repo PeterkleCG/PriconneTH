@@ -2,6 +2,45 @@
 
 ดูรายละเอียดแต่ละเวอร์ชั่นพร้อมไฟล์ดาวน์โหลดที่ [**Releases**](https://github.com/PeterkleCG/PriconneTH/releases)
 
+## V3.1.4
+
+- ดึงคำแปลใหม่จากต้นฉบับอังกฤษ (v20260905)
+- เพิ่มคำแปลตัวละครเนบเบีย + อัปเดตเนื้อเรื่อง
+- แก้คำแปลตัวละครและข้อความหลายจุด
+
+Full Changelog: [v3.1.3...v3.1.4](https://github.com/PeterkleCG/PriconneTH/compare/v3.1.3...v3.1.4)
+
+## V3.1.3
+
+- ดึงคำแปลใหม่จากต้นฉบับอังกฤษ (v20260902) + แก้คำแปล
+- อัปเดตเนื้อเรื่อง + แก้คำแปลตัวละคร
+- อัปเดตชื่ออีเวนต์
+
+Full Changelog: [v3.1.2...v3.1.3](https://github.com/PeterkleCG/PriconneTH/compare/v3.1.2...v3.1.3)
+
+## V3.1.2
+
+- ดึงคำแปลใหม่จากต้นฉบับอังกฤษ (v20260830) + แก้คำแปล
+- แก้คำแปลสกิลและเมนู Clan Navi
+- เพิ่มคำแปลตัวละครไลราเอล + อัปเดตเนื้อเรื่อง
+
+Full Changelog: [v3.1.1...v3.1.2](https://github.com/PeterkleCG/PriconneTH/compare/v3.1.1...v3.1.2)
+
+## V3.1.1
+
+- อัปเดตคำแปลอีเวนต์พิเศษ (Special Event)
+- แก้คำแปลตัวละครและเนื้อเรื่องหลายจุด
+
+Full Changelog: [v3.1.0...v3.1.1](https://github.com/PeterkleCG/PriconneTH/compare/v3.1.0...v3.1.1)
+
+## V3.1.0
+
+- ดึงคำแปลใหม่จากต้นฉบับอังกฤษ (v20260819) + อัปเดตเนื้อเรื่อง
+- แก้คำแปลตัวละครและเนื้อเรื่องหลายจุด
+- อัปเดตเทกซ์เจอร์ Atlas
+
+Full Changelog: [v3.0.0...v3.1.0](https://github.com/PeterkleCG/PriconneTH/compare/v3.0.0...v3.1.0)
+
 ## V3.0.0
 
 - เพิ่มคำแปลเนื้อเรื่อง Arc 3 Chapter 17 (Part 3 Final Chapter)
