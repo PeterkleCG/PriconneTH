@@ -11,3 +11,8 @@ updates:
       prefix: "ci"
     labels:
       - "ci"
+    # Notify HetCreep on every bump PR (assignment fires a "participating" event
+    # regardless of watch level). Patch/minor auto-merge after actionlint passes
+    # (see dependabot-auto-merge.yml); major always waits for a human.
+    assignees:
+      - "HetCreep"
