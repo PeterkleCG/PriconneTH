@@ -84,7 +84,7 @@ r:"^魔蜘の金糸獲得まで　([0-9/])+ \(本日の残り獲得可能数：(
 全プレイヤーでフレイヤを合計500,000回倒そう=Defeat Freyja a total of 500,000 times across all players.
 全プレイヤーでバンディ・シスターズを合計750,000回倒そう=Defeat the Bandy Sisters a total of 750,000 times across all players.
 全プレイヤーでバンディ・シスターズを合計500,000回倒そう=Defeat the Bandy Sisters a total of 500,000 times across all players.
-期間限定=Limited-Time
+期間限定=จำกัดเวลา
 全プレイヤーでフレイヤを合計750,000回倒そう=Defeat Freyja a total of 750,000 times across all players.
 全プレイヤーでフレイヤを合計1,000,000回倒そう=Defeat Freyja a total of 1,000,000 times across all players.
 全プレイヤーでアラクネを合計1,000,000回倒そう=Defeat Arachne a total of 1,000,000 times across all players.
