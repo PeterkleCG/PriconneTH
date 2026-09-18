@@ -127,3 +127,6 @@ Root/ViewsArea/View/ViewSharedItemList(Clone)/SlideObj/Main/SortButtons/SortFilt
 ##รายละเอียดตอนกดดูของ##
 /_Game(Clone)/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogPopUp(Clone)/Main/Table/BasePop/ChildTable/Posession/GameObject/title=ChangeFontSize(16)
 /_Game(Clone)/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogPopUp(Clone)/Main/Table/BasePop/ChildTable/Decsription/title=ChangeFontSize(16)
+
+##EX Equip##
+/_Game(Clone)/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonPartyEdit(Clone)/Main/ButtonGroup_Normal/ButtonExEquip/ExEquipLabel=ChangeFontSize(12)
