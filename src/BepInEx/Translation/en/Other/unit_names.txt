@@ -663,7 +663,7 @@
 ソノ（サマー）=Sono;Atelier;Alces;SSono;Summer;โซโนะ (ฤดูร้อน)
 クレジッタ（サマー）=Creditta;SCreditta;Summer;เครดิตต้า (ฤดูร้อน)
 
-クローチェ（ヴァードラッヘ）=Croce(Wahrdrache);Croche(Wahrdrache);Crotch(Wahrdrache);WCroce;WCroche;WCrotch;โคลเช่ (วาร์ดราคเฮ)
+クローチェ（サブマリン）=Croce(Submarine);Croche(Submarine);Crotch(Submarine);SCroce;SCroche;SCrotch;Submarine;Sukumizu;โคลเช่ (ซับมารีน)
 リンド（ヴァルムドラッヘ）=Lind(Wyrmdrache);WLind;รินด์ (เวิร์มดราคเฮ)
 ヴルム（ヴァルムドラッヘ）=Wyrm(Wyrmdrache);Wurm(Wyrmdrache);WWyrm;WWurm;วูร์ม (เวิร์มดราคเฮ)
 
