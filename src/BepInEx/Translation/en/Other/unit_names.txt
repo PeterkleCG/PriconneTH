@@ -631,7 +631,7 @@
 
 
 
-コッコロ（嚮導幼君）=KKRLG;LGKKR;LGKokkoro;LGKokoro;Little GuidanceKokkoro;KokkoroAdult;kokoroLG;mama;LGmama;Kokkoro;korosuke;คกโคโระ (ลิตเติลไกแดนซ์)
+コッコロ（嚮導幼君）=KKRLG;LGKKR;LGKokkoro;LGKokoro;Little GuidanceKokkoro;KokkoroAdult;kokoroLG;mama;LGmama;Kokkoro;korosuke;คกโคโระ (ลิตเติลไกด์แดนซ์)
 
 ヴァイオレット（イサナミ）=Violet (Isanami);VioletI;Isanami;IViolet;ไวโอเล็ต (อิซานามิ)
 ライラエル（パルフェクト）=Lyrael (Perfect);LyraelP;PLyrael;Perfect;ไลราเอล (เพอร์เฟกต์)
