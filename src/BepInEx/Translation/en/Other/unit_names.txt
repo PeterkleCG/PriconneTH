@@ -116,6 +116,7 @@
 ティア=Tia;เทีย
 アグライア=Aglaia;อักไลอา
 エウロス=Euros;ยูโรส
+ルクバト=Rukbat;รุกบัต
 
 
 リーザ・フレイヤ=Lisa Freyja;รีซ่า เฟรยา
@@ -664,6 +665,8 @@
 クレジッタ（サマー）=Creditta;SCreditta;Summer;เครดิตต้า (ฤดูร้อน)
 
 クローチェ（サブマリン）=Croce(Submarine);Croche(Submarine);Crotch(Submarine);SCroce;SCroche;SCrotch;Submarine;Sukumizu;โครเช่ (ซับมารีน)
-リンド（ヴァルムドラッヘ）=Lind(Wyrmdrache);WLind;รินด์ (เวิร์มดราคเฮ)
-ヴルム（ヴァルムドラッヘ）=Wyrm(Wyrmdrache);Wurm(Wyrmdrache);WWyrm;WWurm;วูร์ม (เวิร์มดราคเฮ)
+リンド（ヴァルムドラッヘ）=Lind(Wyrmdrache);WLind;รินด์ (เวิร์มดราเคอ)
+ヴルム（ヴァルムドラッヘ）=Wyrm(Wyrmdrache);Wurm(Wyrmdrache);WWyrm;WWurm;วูร์ม (เวิร์มดราเคอ)
 
+サレン（ガンナー）=Saren(Gunner);Gsaren;mama;Gunner;ซาเร็น (กันเนอร์);กันเนอร์
+アメス（ガンナー）=Ameth(Gunner);Ames(Gunner);GAmeth;GAmes;Gunner;อาเมส (กันเนอร์);กันเนอร์

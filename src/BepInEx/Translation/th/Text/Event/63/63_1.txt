@@ -1,9 +1,9 @@
 闇に秘されし街=City Hidden in Darkness
-魔物１=Monster 1
-魔物２=Monster 2
-魔物３=Monster 3
-魔物４=Monster 4
-魔物５=Monster 5
+魔物１=ปีศาจ1
+魔物２=ปีศาจ2
+魔物３=ปีศาจ3
+魔物４=ปีศาจ4
+魔物５=ปีศาจ5
 ブラドの案内で赴いた街で、住人の魔族に歓迎されるイリヤたち。力の完全復活に必要な「伝説の吸血鬼としての記憶」を思い出す傍ら、イリヤは王として数多の魔族が住むその地を治めることになる。=Brad guided Illya and the others towards the city, where they are welcomed by its residents of demons. To restore her powers, Illya will need to remember her "Memories of Being the Legendary Vampire”. And to do that, Illya will need to reign over the city as their ruler.
 かつて伝説の吸血鬼が支配していた地。\nそこを目指してイリヤたちは険しい道を進んでいた。=The Land Once Ruled by the Legendary Vampire. Illya and the others are heading there through a rugged path.
 イリヤ様、この先でございます。=Illya-sama, it's just ahead.
@@ -34,7 +34,7 @@
 へぇ、ちゃんとした街だね。\n今のボクのファッションにぴったりな雰囲気じゃないか♪=Wow, what a proper city. And it's just perfect mood for my current fashion. ♪
 ようこそお越しくださいました。\nいえ──おかえりなさいませ、と言うべきですな。=Welcome to the city. Or rather── Welcome back.
 この雰囲気……確かに懐かしいような気はする。\nじゃが、やはりはっきりとは思い出せんな……=This atmosphere... Certainly, it does feel nostalgic. But sure enough, I still can't remember it clearly...
-──グオオオオオッ！=Guoooooooh!
+──グオオオオオッ！=โฮกกกกกกก!
 街の入り口に魔物の群れじゃと！？\nブラド貴様、わらわをたばかりおったか！？=A swarm of monsters in the entrance of the city?! Did you set us up, Brad?!
 滅相もない──彼らはこの街の住民にございます。=Don't be absurd, they are residents of this city.
 住民……魔物たちの街なの？\nそれってボクたちが入って大丈夫？=Residents... Is this a city of monsters? Is it even okay for us to enter?

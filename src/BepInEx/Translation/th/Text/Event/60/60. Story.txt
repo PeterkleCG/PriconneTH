@@ -1,7 +1,7 @@
 守るべき場所ここにあり=Where to protect it here
 良く晴れたある日。\n子どもたちと共に市街地を走り抜けるモニカの姿があった。=One day sunny.\nThere was a figure of Monika running through the city with the children.
 よしっ、捕まえた！=Alright, I caught it!
-男の子=boy
+男の子=เด็กชาย
 あーあ、またモニカ姉ちゃんにつかまっちゃったよ。=Ah, I got caught by Monika sister again.
 Ah, I got caught by Monika sister again.\n姉ちゃん、足速いんだよなー=Ah, I Got CauGht by Monika Sister Again.
 常日頃から鍛錬を重ねているからな！=I'm always training!

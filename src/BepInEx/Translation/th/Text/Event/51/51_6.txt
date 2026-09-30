@@ -92,7 +92,7 @@
 ええっ！\nしばらくキノコが食べられなくなった恨み、晴らさせてもらうわ！=Yes! I'll take revenge for not being able to eat mushrooms for a while!
 キノコの素焼き、大好きなおつまみだったのにーー！！\nえーーーーいっ！！=Grilled mushrooms were my favorite snack!\nEeeeii!!
 この穏やかな休暇中に剣を持たせるとは……\n断じて許さん！　はあっ！=I can't believe you made me hold a sword during this peaceful vacation... I won't forgive you! Haaah!
-──ギャオオオオオッ！\n──ギャオオオオオッ！=──Gyaaoooh!\n──Gyaaoooh!
+──ギャオオオオオッ！\n──ギャオオオオオッ！=──แก๊ววววววว!\n──แก๊ววววววว!
 このまま一気に親玉を狙おう！=Let's go for the boss at once!
 まずい！　また胞子を吐き出し始めるぞ！？=Watch out! It's starting to spit out spores again!?
 させませんっ！\nこのブッシュクラフトで作ったボウガンで……やああっ！！=We won't let you! With this bowgun I made with bushcraft skills... Yaaah!!
@@ -101,7 +101,7 @@
 少年！　このままいくぞ！\nキャンプを取り戻すのだ！=Boy! Let's go like this! Let's take back our campsite!
 うん！=Yeah!
 はあーっ！！=Haaaa!!
-──ギャオオオオオッ！=──Gyaaoooh!
+──ギャオオオオオッ！=──แก๊ววววววว!
 はあ、はあ……\nなんとか、倒せたわね……=Haa, haa... We somehow managed to defeat it...
 ああ……ずっとキノコの幻覚にやられていたせいで、\n体の動きは本調子ではなかったがね……=Yeah... My body wasn't in top shape because I was under the influence of the mushroom hallucination for so long...
 {playername}さん、ありがとうございます……！\n私たちのこと、ずっと守っててくれていたんですよね……？={playername}-san, thank you...! You've been protecting us all this time, haven't you...?
