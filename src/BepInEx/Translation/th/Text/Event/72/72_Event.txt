@@ -1,4 +1,4 @@
-r:"^聖テレサ女学院([0-9\-\(\)\w （）]*)$"=วิทยาลัยสตรีเซนต์เทเรซา $1
+r:"^聖テレサ女学院([0-9\-\(\)\w （）]*)$"=วิทยาลัยสตรีเซนตเทเรซา $1
 奈落の聖女トミヱ=Tomie The Saint of the Abyss
 トミヱ=Tomie
 春と呼ぶにはまだ早い、底冷えのする某日──\n聖テレサ女学院の異端児３人は、かび臭い地下の一室にいた。=One day, too early to call it spring, the three heretics of St. Theresa Girls' School were in a musty underground room.

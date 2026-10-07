@@ -1,10 +1,10 @@
 釘宮理恵=ริเอะ คูงิมิยะ
 ブラッド・ドレイン+=บลัดเดรน+
-スカーレット・リンク+=สการ์เล็ต ลิงก์+
+スカーレット・リンク+=สการเล็ต ลิงก+
 はじめてのおしごと=งานแรกของฉัน
-月下の血戦=ศึกโลหิตใต้แสงจันทร์
+月下の血戦=ศึกโลหิตใตแสงจันทร
 大事ないばしょ=สถานที่สำคัญของฉัน
-べっそーを作ろう！=มาสร้างบ้านพักตากอากาศกันเถอะ!
+べっそーを作ろう！=มาสรางบานพักตากอากาศกันเถอะ!
 
 
 
@@ -16,21 +16,20 @@ r:"^ヴァンピィとベスが再会した後、ヴァンピィは自分の故�
 r:"^ヴァンピィたちを誘拐した黒幕が『伯爵』だと判明。単独で『伯爵』の屋敷へ乗り込んだヴァンピィを追って(.{1,10})はベスと一緒に城へ乗り込み、『伯爵』との決着をつけるのだった。$"="The mastermind behind the kidnapping of Vampies turned out to be the "Count". Following Vampy who had boarded the mansion of "Count" alone, $1 boarded the castle with Beth and settled with "Count"."
 r:"^『伯爵』の供述によって、ヴァンピィの故郷がすでにないことを知る。永い眠りの末、大切な記憶を失ったヴァンピィのために、(.{1,10})とベスはひとつの約束をヴァンピィに伝えるのだった。$"="The statement of "Count" tells us that Vampy's hometown is no longer there. $1 and Beth tell Vampy a promise for Vampy, who lost her precious memory after a long sleep."
 r:"^眠る(.{1,10})の前に現れたヴァンピィは、ぬいぐるみのベスを紹介。『レジェンドオブアストルム』にもベスがいると知ったヴァンピィは、(.{1,10})とゲームで会う約束をするのだった。$"="Vampy, who appeared in front of Sleeping $1, introduced Beth, a stuffed animal. Knowing that Beth is also in Legend of Astrum, Vampy promises to meet $1 in the game."
-目の前の敵１キャラに魔法特大ダメージを与え、自分の魔法攻撃力を大アップし、与ダメージに応じて味方全体のＨＰを回復させる。さらに【竜の実】を初回発動時は５つ、２回目以降は２つ獲得し（最大５つまで）、バトル終了時までベスと共闘状態になる。共闘中のスキル発動時に【竜の実】を１つ消費し、目の前の敵１キャラのＴＰを小ダウンさせ、自分のＴＰを小回復する。=Deals massive magic damage to a single foe, greatly boosts the user’s Magic Attack, and restores all allies’ HP based on damage dealt. Grants 5 [Dragon’s Fruits] on first use and 2 thereafter (max 5), entering Co-op Mode with Beth until battle ends. When you activate a skill while fighting together, one [Dragon Fruit] will be consumed, slightly reducing the TP of one enemy in front of you and slightly recovering your own TP.
-r:"^敵単体に(\d+)の魔法ダメージ敵単体のＴＰを75失わせる自分のＴＰを75回復$"=►Deals $1 M.DMG to an enemy.\n►Reduces an enemy's TP by 75.\n►Recovers own TP by 75.
-このスキルのスキルレベルは「エターナル・フレンドシップ」と連動しています=This skill's level is linked to "Eternal Friendship"
-目の前の敵１キャラに魔法大ダメージを与え、ＴＰを小ダウンさせ、味方全体の魔法攻撃力を大アップさせ、自分のＴＰを小回復する。=Deals large M.DMG to an enemy in front, slightly reduces its TP, greatly boosts all allies' M.ATK, and slightly recovers own TP.
-r:"^敵単体に(\d+)の魔法ダメージ敵単体のＴＰを75失わせる味方全体の魔法攻撃力を(\d+)アップ自分のＴＰを75回復$"=►Deals $1 M.DMG to an enemy.\n►Reduces an enemy's TP by 75.\n►Boosts all allies' M.ATK by $2 for 180s.\n►Recovers own TP by 75.
-目の前の敵１キャラに魔法特大ダメージを与え、魔法防御力を大ダウンさせる。=Deals massive M.DMG to an enemy in front, and greatly lowers its M.DEF.
-ベスちゃん=Beth-chan
-ねぇねぇ、けんぞくぅ～♪\n…えへへ！　なんでもなーい！\nちょっと言ってみたかっただけ♪\n=Hey, hey, Kensoku~♪ ...Ehehe! It's nothing, really! I just wanted to say it for fun♪
+目の前の敵１キャラに魔法特大ダメージを与え、自分の魔法攻撃力を大アップし、与えたダメージに応じて味方全体のＨＰを回復させる。自分に【竜の実】（上限５）を初回発動時は５個、２回目以降は２個付与し、バトル終了時までベスと共闘状態になる。共闘中のスキル発動時に【竜の実】を１個消費し、目の前の敵１キャラのＴＰを小ダウンさせ、自分のＴＰを小回復する。=ทำดาเมจเวทสูงมากใสศัตรูตัวเดียวดานหนา เพิ่มพลังโจมตีเวทของตัวเองสูง และฟนฟู HP ของเพื่อนทั้งหมดตามดาเมจที่ทำได มอบ [ผลไมมังกร] (สูงสุด 5) ใหตัวเอง 5 ในการใชครั้งแรก และ 2 ในครั้งตอๆ ไป และเขาสูสถานะตอสูรวมกับเบธจนจบแบทเทิล ระหวางตอสูรวมกัน เมื่อใชสกิลจะใช [ผลไมมังกร] 1 เพื่อลด TP ของศัตรูตัวเดียวดานหนาเล็กนอย และฟนฟู TP ของตัวเองเล็กนอย
+r:"^敵単体に(\d+)の魔法ダメージ敵単体のＴＰを75失わせる自分のＴＰを75回復$"=►ทำดาเมจเวท $1 ใสศัตรูตัวเดียว\n►ลด TP ของศัตรูตัวเดียว 75\n►ฟนฟู TP ของตัวเอง 75
+目の前の敵１キャラに魔法大ダメージを与え、ＴＰを小ダウンさせ、味方全体の魔法攻撃力を大アップさせ、自分のＴＰを小回復する。=ทำดาเมจเวทสูงใสศัตรูตัวเดียวดานหนา ลด TP เล็กนอย เพิ่มพลังโจมตีเวทของเพื่อนทั้งหมดสูง และฟนฟู TP ของตัวเองเล็กนอย
+r:"^敵単体に(\d+)の魔法ダメージ敵単体のＴＰを75失わせる味方全体の魔法攻撃力を(\d+)アップ自分のＴＰを75回復$"=►ทำดาเมจเวท $1 ใสศัตรูตัวเดียว\n►ลด TP ของศัตรูตัวเดียว 75\n►เพิ่มพลังโจมตีเวทของเพื่อนทั้งหมดขึ้น $2 เปนเวลา 180 วินาที\n►ฟนฟู TP ของตัวเอง 75
+目の前の敵１キャラに魔法特大ダメージを与え、魔法防御力を大ダウンさせる。=ทำดาเมจเวทสูงมากใสศัตรูตัวเดียวดานหนา และลดพลังปองกันเวทสูง
+ベスちゃん=เบธจัง
+ねぇねぇ、けんぞくぅ～♪\n…えへへ！　なんでもなーい！\nちょっと言ってみたかっただけ♪\n=Hey, hey, Kensoku~♪ …Ehehe! It's nothing, really! I just wanted to say it for fun♪
 もーけんぞくは世話が焼けるんですからー\nご主人様として、けんぞくのことは\nヴァンピィちゃんが見ててあげないと！\n=But Kensoku can be quite a handful, you know. As your master, Vampy-chan needs to look after Kensoku!
-…そーだよ？　ヴァンピィちゃんは\nアンタのことすっごく気に入ってるんだから！\n大切に、大切にするんだからね！\n=...That's right, Vampy-chan really likes you! I'll cherish you, I promise!
-ヴァンピィちゃんはアンタのご主人様だし…\nそれに、けんぞくに嫌われちゃうのは\nやっぱりイヤだもん…\n=Vampy-chan is your master... And besides, I don't want Kensoku to dislike me...
-けんぞくっておいしそーな匂いがするねー！\nあっ、でもヴァンピィちゃん、急にがおーって\nおそったりしませんからっ！\n=Kensoku has such a delicious smell! Oh, but don't worry, Vampy-chan won't suddenly... pounce on you!
+…そーだよ？　ヴァンピィちゃんは\nアンタのことすっごく気に入ってるんだから！\n大切に、大切にするんだからね！\n=…That's right, Vampy-chan really likes you! I'll cherish you, I promise!
+ヴァンピィちゃんはアンタのご主人様だし…\nそれに、けんぞくに嫌われちゃうのは\nやっぱりイヤだもん…\n=Vampy-chan is your master… And besides, I don't want Kensoku to dislike me…
+けんぞくっておいしそーな匂いがするねー！\nあっ、でもヴァンピィちゃん、急にがおーって\nおそったりしませんからっ！\n=Kensoku has such a delicious smell! Oh, but don't worry, Vampy-chan won't suddenly… pounce on you!
 けんぞく！　あーん♪\nフルーツ、おいしい？　ベスちゃんも好きなんだよ！\nけんぞくも、もっと大きくなーれ♪\n=Kensoku, ahh~♪ Are the fruits tasty? Beth-chan also likes them! Kensoku, grow even bigger!
-けんぞく、ご主人様のゆーことはちゃんと聞くのよ？\nたとえば…危ないものには近づかないこと！\nヴァンピィちゃんのそばを離れないこと！　分かった？\n=Kensoku, make sure to listen to your master, okay? For example... don't go near dangerous things! Don't leave Vampy-chan's side! Got it?
+けんぞく、ご主人様のゆーことはちゃんと聞くのよ？\nたとえば…危ないものには近づかないこと！\nヴァンピィちゃんのそばを離れないこと！　分かった？\n=Kensoku, make sure to listen to your master, okay? For example… don't go near dangerous things! Don't leave Vampy-chan's side! Got it?
 けんぞくはよわよわなんだから、無理しちゃメッよ？\nどーしてもって時は、ヴァンピィちゃんを呼ぶこと！\n大怪我したら、ヴァンピィちゃん泣いちゃうからね！\n=Since Kensoku is weak, don't overexert yourself, okay? If there's no other way, call for Vampy-chan! If you get seriously hurt, Vampy-chan will cry!
-アンタは、ヴァンピィちゃんのそばにいること！\n…え？　他にはないのか？\nうん！　それだけでいいの！　約束だよ、けんぞくぅ♪\n=You need to stay by Vampy-chan's side! ...Huh? Isn't there anything else? Nope! That's all! It's a promise, Kensoku~♪
-けんぞくを助けたり守るのは、ご主人様のぎむなの！\nだから、困ったときはヴァンピィちゃんに言うのよ？\nそのかわり…\n=It's your duty as a master to help and protect Kensoku! So, when you're in trouble, tell Vampy-chan, okay? In return...
+アンタは、ヴァンピィちゃんのそばにいること！\n…え？　他にはないのか？\nうん！　それだけでいいの！　約束だよ、けんぞくぅ♪\n=You need to stay by Vampy-chan's side! …Huh? Isn't there anything else? Nope! That's all! It's a promise, Kensoku~♪
+けんぞくを助けたり守るのは、ご主人様のぎむなの！\nだから、困ったときはヴァンピィちゃんに言うのよ？\nそのかわり…\n=It's your duty as a master to help and protect Kensoku! So, when you're in trouble, tell Vampy-chan, okay? In return…
 いーい？\nまだ、ほんとーのけーやくは結んでないけど\nアンタはヴァンピィちゃんのけんぞくなんだからね？\n=Alright? We haven't officially made the true contract yet, but since you're Vampy-chan's Kensoku, right?

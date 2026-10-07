@@ -1,8 +1,8 @@
-怜悧で幽愁、オバケでオトボケな守護騎士=อัศวินองครักษ์ผู้ชาญฉลาดแกมเศร้าสร้อย และเป็นผีจอมเปิ่น
-怪奇！　湯煙に浮かぶ影=เรื่องแปลกประหลาด! เงาที่ลอยเหนือไอน้ำร้อน
+怜悧で幽愁、オバケでオトボケな守護騎士=อัศวินองครักษผูชาญฉลาดแกมเศราสรอย และเปนผีจอมเปน
+怪奇！　湯煙に浮かぶ影=เรื่องแปลกประหลาด! เงาที่ลอยเหนือไอน้ำรอน
 恐怖！　アグレッシブ幽霊=ความกลัว! ผีจอมรุกราน
-戦慄！　襲い来る暗黒幽霊=ตัวสั่นสะท้าน! ผีแห่งความมืดที่เข้าโจมตี
-黄金色の未練=ความอาลัยอาวรณ์สีทองอร่าม
+戦慄！　襲い来る暗黒幽霊=ตัวสั่นสะทาน! ผีแหงความมืดที่เขาโจมตี
+黄金色の未練=ความอาลัยอาวรณสีทองอราม
 アラクネとの戦いが終わった後のジオ・ゲヘナ、鬼岩城塞──\nグレイスと{playername}が、\n温泉付近の壁を念入りに調べていた。=Gio Gehenna, after the battle against Lady Arachne, at the Demon's Foot Citadel - Grace and {playername} were carefully examining the walls near the hot spring.
 ……ふむ。\n魔物たちや【バンディ・シスターズ】に破壊された壁は、\nすでに修復されたようですね。=...Hmm. The walls destroyed by those monsters and the Bandy Sisters seems to have been repaired already.
 ジオ・ゲヘナはスピーディな建築技術をお持ちの様で。\nきっと普段から、魔物に壊されることを前提に……\n……ん？　どうかしましたか騎士氏。=This Gio Gehenna... seems to have quite the speedy construction techniques. I'm sure that's because they assume a monster or two might always strike their constructions down... Hm? Is something the matter, Kishi-shi?

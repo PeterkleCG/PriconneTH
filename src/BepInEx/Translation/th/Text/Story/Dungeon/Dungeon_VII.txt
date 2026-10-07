@@ -1,6 +1,6 @@
 
 四彩の霊峰=ยอดเขาวิญญาณสี่ฤดู
-四季彩りし霊狐の仙境=แดนสวรรค์ของจิ้งจอกวิญญาณ\nที่ถูกแต่งแต้มด้วยสีสันแห่งสี่ฤดู
+四季彩りし霊狐の仙境=แดนสวรรคของจิ้งจอกวิญญาณ\nที่ถูกแตงแตมดวยสีสันแหงสี่ฤดู
 妖狐=Youkitsune
 現在はしおりを挟むことができません。=You can't put a bookmark on it right now.
 ダンジョン「四彩の霊峰」のボスバトルでは挑戦するたびに環境効\n果と攻撃パターンが変化します。モンスター詳細を確認して、それ\nぞれのバトルでどう戦うか、しっかり作戦を立ててくださいまし。=In the boss battles of the dungeon "Four-colored Sacred Mountain," the environmental effects and attack patterns change with each challenge. Please check the monster details and carefully strategize how to fight in each battle.

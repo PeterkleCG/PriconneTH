@@ -1,4 +1,4 @@
-三人=Three of them
+三人=ทั้ง 3 คน
 どうして魔物がビーチに……！\nみんなを守らないと……！=Why are there monsters on the beach...?! We have to protect everyone...!
 戦えない人たちが避難するまで、\nあたしたちが頑張らないとだね！=We have to do our best until the people who can't fight evacuate!
 大会を盛り上げるために囚われていたとはいえ、\n今ここで暴れられては困る。早々に立ち去ってもらおう。=Even though they were captured to spice up the tournament, we can't let them rampage here. Let's make them leave quickly.

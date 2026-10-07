@@ -1,4 +1,4 @@
-r:"^夏のオーマ([0-9\-\(\)\w （）]*)$"=โอมะในฤดูร้อน $1
+r:"^夏のオーマ([0-9\-\(\)\w （）]*)$"=โอมะในฤดูรอน $1
 プリンセスの秘密　エピソード解放=Princess's Secret Episode Released
 新しい秘密ブツを\n獲得しました。=Obtained a new secret item.
 復活の白き島クジラ=Resurrected White Island Whale

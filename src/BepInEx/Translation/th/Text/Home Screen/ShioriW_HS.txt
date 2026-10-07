@@ -1,4 +1,4 @@
-獲得済=ได้รับแล้ว
+獲得済=ไดรับแลว
 ガチャ提供期間が終了すると使用できなくなります。=Once the gacha availability period ends, it can no longer be used.
 今日はあなたの誕生日…水着でお祝いするなんて予想外でしたけど…リゾートでお祝いなんて、特別感ありますよね♪=Today is your birthday… I didn’t expect we’d be celebrating it in swimsuits… but celebrating at a resort really does make it feel special, doesn’t it?♪
 リゾートで過ごすホットな冬、思いっきり楽しみたいです…♪慣れないところだけど、尻込みしてたらもったいないですから=I want to fully enjoy this hot winter spent at the resort…♪ It’s not something I’m used to, but it would be a waste to hold back.

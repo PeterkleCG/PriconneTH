@@ -1,4 +1,4 @@
-[FF7C4E,D62146]BGMを設定しなかった場合や、設定後に外した場合は\n次にアプリを起動した際にデータが削除されます。[-]=[FF7C4E,D62146]]หากไม่ได้ตั้งค่า BGM หรือยกเลิกหลังตั้งค่าไว้\nข้อมูลจะถูกลบเมื่อเปิดแอปครั้งถัดไป\n[-]
+[FF7C4E,D62146]BGMを設定しなかった場合や、設定後に外した場合は\n次にアプリを起動した際にデータが削除されます。[-]=[FF7C4E,D62146]]หากไมไดตั้งคา BGM หรือยกเลิกหลังตั้งคาไว\nขอมูลจะถูกลบเมื่อเปดแอปครั้งถัดไป\n[-]
 フェアリーテイルは\n夢の中=Fairy Tail is\nin a dream
 わくわくSUMMER\nTIME！=I'm so excited, SUMMER TIME!
 ランドソル一期一会=Landosol Bucket List
@@ -53,7 +53,7 @@ SAI＊KOUスター\nトダッシュ=SAI＊KOU Star \n Dash
 終炎を司りし魔術師=The Mage Who Rules Over the Final Flame
 理外の力を求めし者=Seeker of Power Beyond Comprehension
 希望を夢見る楽園=A Paradise Dreaming of Hope
-終炎のエリュシオン=เพลิงสุดท้ายแห่งเอลีเซียม
+終炎のエリュシオン=เพลิงสุดทายแหงเอลีเซียม
 甦りし脅威たち=Resurrected Threats
 はつゆきツインアプ\nローチ=First Snow Twin Approach
 はんなり乙女道中=Elegant Maiden Journey

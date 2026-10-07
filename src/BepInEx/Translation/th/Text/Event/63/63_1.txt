@@ -1,9 +1,9 @@
 闇に秘されし街=City Hidden in Darkness
-魔物１=ปีศาจ1
-魔物２=ปีศาจ2
-魔物３=ปีศาจ3
-魔物４=ปีศาจ4
-魔物５=ปีศาจ5
+魔物１=ปศาจ1
+魔物２=ปศาจ2
+魔物３=ปศาจ3
+魔物４=ปศาจ4
+魔物５=ปศาจ5
 ブラドの案内で赴いた街で、住人の魔族に歓迎されるイリヤたち。力の完全復活に必要な「伝説の吸血鬼としての記憶」を思い出す傍ら、イリヤは王として数多の魔族が住むその地を治めることになる。=Brad guided Illya and the others towards the city, where they are welcomed by its residents of demons. To restore her powers, Illya will need to remember her "Memories of Being the Legendary Vampire”. And to do that, Illya will need to reign over the city as their ruler.
 かつて伝説の吸血鬼が支配していた地。\nそこを目指してイリヤたちは険しい道を進んでいた。=The Land Once Ruled by the Legendary Vampire. Illya and the others are heading there through a rugged path.
 イリヤ様、この先でございます。=Illya-sama, it's just ahead.

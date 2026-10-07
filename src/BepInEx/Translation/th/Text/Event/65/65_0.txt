@@ -1,4 +1,4 @@
-非表示=ซ่อน
+非表示=ซอน
 リゾート客１=Resort Guest 1
 リゾート客２=Resort Guest 2
 リゾート客たち=Resort guests

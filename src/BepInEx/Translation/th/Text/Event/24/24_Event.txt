@@ -1,4 +1,4 @@
-r:"^ムーサの町([0-9\-\(\)\w （）]*)$"=เมืองมูซ่า $1
+r:"^ムーサの町([0-9\-\(\)\w （）]*)$"=เมืองมูซา $1
 SPECIALの葛藤のうえきちゃん=Ueki-chan in the Special Conflict
 ラウドラパーン=Laudrapan
 SPECIALのラウドラパーン=Laudrapaan of the Special

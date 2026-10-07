@@ -1,5 +1,5 @@
-r:"^イベントに([0-9]+)日ログインしよう$"=ล็อกอินกิจกรรมให้ครบ $1 วันกันเถอะ
-アストルム、始めます！=แอสทรูม เริ่มต้น!
+r:"^イベントに([0-9]+)日ログインしよう$"=ล็อกอินกิจกรรมใหครบ $1 วันกันเถอะ
+アストルム、始めます！=แอสทรูม เริ่มตน!
 戦車、作ります！=Let's Build Our Tank!
 大洗女子学園の、西住みほです。この世界にやってきたばっかりで、分からないことも多いけど……こんなに素敵な世界で冒険できるなんて、夢みたい……♪みなさんと一緒に戦えるように、一生懸命がんばりますね！そのためにもまずは、魔法を上手に使えるようにならなくちゃ。それから戦車にも乗りたい……けど。まずは、そのっ。よろしく、お願いします……！=I’m Miho Nishizumi from Ōarai Girls’ Academy. I’ve only just arrived in this world, so there’s still a lot I don’t understand… but being able to go on adventures in such a wonderful world feels like a dream…♪ I’ll do my very best so I can fight alongside all of you! First, I need to learn how to use magic properly… and I’d like to ride a tank too… but for now, um… it’s nice to meet you, please take care of me!
 育成ミッションは、特定の条件を達成することで報酬が獲得できる期間限定のミッションでございます。ステップごとに設定されたミッションを全て達成すると、次のステップに進めますよ。=Training Missions are limited-time missions where you can earn rewards by fulfilling specific conditions. Clear all missions in each step to advance to the next one.
