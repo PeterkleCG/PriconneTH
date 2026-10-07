@@ -1,9 +1,6 @@
 Gunner Saren Bonds
 
 Chapter Names
-‘幼馴染と結ばれた世界’=A World Where I Found Love\nWith My Childhood Friend
-昼下がりの完璧な戦術=The Perfect Afternoon Strategy
-危険地帯を突破せよ=Break Through the Danger Zone
 
 Chapter 1
 『風の精霊エウロス』を奪還するため、\nアメスと別行動をすることになった{playername}たちは\nランドソルの街の中心部へと向かっていた。=In order to rescue the Wind Spirit Euros, {playername} and the others had to split up from Ameth and were making their way toward the center of Landosol.
