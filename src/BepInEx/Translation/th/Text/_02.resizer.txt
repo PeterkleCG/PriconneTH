@@ -402,3 +402,13 @@ _Game(Clone)/UI Root/ViewsArea/View/ViewQuestSpecialAndUnitExpand(Clone)/Main/qu
 /_Game(Clone)/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogCommonBig(Clone)/Main/PartsParent/PartsDialogGachaBonusList(Clone)/ExchangePointObjects/common_dt_bg/Label_HaveExchangePointNum=ChangeFontSize(18)
 
 /_Game(Clone)/UI Root/FrontArea/IgnoreBlurLayer/DialogArea/DialogQuestDetail(Clone)/Main/PartsSevenBossQuestDetail(Clone)/contents/PlayerLv/GUIGroup_PlayerLv/Label=ChangeFontSize(15)
+
+
+/_Game(Clone)/UI Root/ViewsArea/View/ViewShop(Clone)/Main/SlideRight/AnchorRight/TabPos/PartsShopTab04(Clone)/MemoryPieceShopTab/TabButton_9/State_Normal/Label=ChangeFontSize(11)
+
+/_Game(Clone)/UI Root/ViewsArea/View/ViewSharedItemList(Clone)/SlideObj/Main/NodeItemDetail/ExEquip/ExEquipStatus/FooterButtonExEquip5/ExEquip5ExceedLimitButton/Label=ChangeFontSize(13)
+/_Game(Clone)/UI Root/ViewsArea/View/ViewSharedItemList(Clone)/SlideObj/Main/NodeItemDetail/ExEquip/ExEquipStatus/FooterButtonExEquip5/AlcesButton/Label=ChangeFontSize(13)
+
+/_Game(Clone)/UI Root/ViewsArea/View/ViewShop(Clone)/Main/SlideRight/AnchorRight/Contents/SubTabRoot/NormalShopCategoryTab/PartsCommonTab(Clone)/REFININIG_STONE/Normal/Text=ChangeFontSize(18)
+
+/_Game(Clone)/UI Root/ViewsArea/View/ViewShop(Clone)/Main/SlideRight/AnchorRight/Contents/SubTabRoot/NormalShopCategoryTab/PartsCommonTab(Clone)/REFININIG_STONE/Active/Text=ChangeFontSize(18)
