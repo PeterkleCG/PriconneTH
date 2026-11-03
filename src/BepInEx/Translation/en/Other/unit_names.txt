@@ -648,7 +648,7 @@
 ワカナ（ウィンター）=Wakana (Winter);WWakana;Winter;Summer;SWakana;Swimsuit;Bandy;วาคานะ (ฤดูหนาว)
 シオリ（ウィンター）=Shiori (Winter);WShiori;Winter;Summer;Swimsuit;SShiori;Bandy;ชิโอริ (ฤดูหนาว)
 グレイス（バニー）=Grace (Bunny);BGrace;Bunny;เกรซ (บันนี่)
-キョウカ（ゴシック）=Kyoka (Gothic);KyokaVillainess;GKyoka;VKyoka;Gothic;Villainess;เคียวกะ (โกธิก)
+キョウカ（ゴシック）=Kyoka (Gothic);Kyouka (Gothic);Villainess;GKyoka;VKyoka;GKyouka;VKyouka;Gothic;Villainess;เคียวกะ (โกธิก)
 
 
 キャル（覇瞳天星）=Karyl (Hadou Tensei);Kyaru (Hadou Tensei);HKyaru;HKaryl;HTKyaru;HTKaryl;Kaiser Insight;KKyaru;แคล (ฮาโดเท็นเซย์)
