@@ -118,10 +118,10 @@
 エウロス=Euros;เอวรอส
 ルクバト=Rukbat;รุกบัต
 
-ラッキーライラック=Lucky Lilac;collab;UmaMusume;ลัคกี้ไลลัค
-アーモンドアイ=Almond Eye;collab;UmaMusume;อัลมอนด์อาย
-ゴールドシップ=Gold Ship;collab;UmaMusume;โกลด์ชิป
-デアリングタクト=Daring Tact;collab;UmaMusume;แดริ่งแทคต์
+ラッキーライラック=Lucky Lilac;Lala;collab;UmaMusume;ลัคกี้ไลลัค
+アーモンドアイ=Almond Eye;Ai;collab;UmaMusume;อัลมอนด์อาย
+ゴールドシップ=Gold Ship;Golshi;collab;UmaMusume;โกลด์ชิป
+デアリングタクト=Daring Tact;Tact;collab;UmaMusume;แดริ่งแทคต์
 
 
 リーザ・フレイヤ=Lisa Freyja;รีซ่า เฟรยา

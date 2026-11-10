@@ -412,3 +412,7 @@ _Game(Clone)/UI Root/ViewsArea/View/ViewQuestSpecialAndUnitExpand(Clone)/Main/qu
 /_Game(Clone)/UI Root/ViewsArea/View/ViewShop(Clone)/Main/SlideRight/AnchorRight/Contents/SubTabRoot/NormalShopCategoryTab/PartsCommonTab(Clone)/REFININIG_STONE/Normal/Text=ChangeFontSize(18)
 
 /_Game(Clone)/UI Root/ViewsArea/View/ViewShop(Clone)/Main/SlideRight/AnchorRight/Contents/SubTabRoot/NormalShopCategoryTab/PartsCommonTab(Clone)/REFININIG_STONE/Active/Text=ChangeFontSize(18)
+
+
+/_Game(Clone)/UI Root/ViewsArea/View/ViewSharedItemList(Clone)/WidgetOff(Clone)/SlideObj/Main/NodeItemDetail/ExEquip/ExEquipStatus/FooterButtonExEquip5/ExEquip5ExceedLimitButton/Label=ChangeFontSize(11)
+/_Game(Clone)/UI Root/ViewsArea/View/ViewSharedItemList(Clone)/WidgetOff(Clone)/SlideObj/Main/NodeItemDetail/ExEquip/ExEquipStatus/FooterButtonExEquip5/AlcesButton/Label=ChangeFontSize(11)
