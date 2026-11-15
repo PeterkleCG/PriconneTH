@@ -1,4 +1,4 @@
-[FF7C4E,D62146]BGMを設定しなかった場合や、設定後に外した場合は\n次にアプリを起動した際にデータが削除されます。[-]=[FF7C4E,D62146]หากไม่ได้ตั้งค่า BGM หรือยกเลิกหลังตั้งค่าไว้\nข้อมูลจะถูกลบเมื่อเปิดแอปครั้งถัดไป\n[-]
+[FF7C4E,D62146]BGMを設定しなかった場合や、設定後に外した場合は\n次にアプリを起動した際にデータが削除されます。[-]=[FF7C4E,D62146]หากไมไดตั้งคา BGM หรือยกเลิกหลังตั้งคาไว\nขอมูลจะถูกลบเมื่อเปดแอปครั้งถัดไป\n[-]
 フェアリーテイルは\n夢の中=Fairy Tale wa\nYume no Naka
 わくわくSUMMER\nTIME！=Waku Waku SUMMER\nTIME!
 ランドソル一期一会=Landosol Ichigo Ichie
@@ -53,7 +53,7 @@ SAI＊KOUスター\nトダッシュ=SAI*KOU Star\nt Dash
 終炎を司りし魔術師=Shuuen wo Tsukasadorishi Majutsushi
 理外の力を求めし者=Rigai no Chikara wo Motomeshi Mono
 希望を夢見る楽園=Kibou wo Yumemiru Rakuen
-終炎のエリュシオン=เพลิงสุดท้ายแห่งเอลีเซียม
+終炎のエリュシオン=เพลิงสุดทายแหงเอลีเซียม
 甦りし脅威たち=Yomigaerishi Kyoui-tachi
 はつゆきツインアプ\nローチ=Hatsuyuki Twin Ap\nproach
 はんなり乙女道中=Hannari Otome Douchuu

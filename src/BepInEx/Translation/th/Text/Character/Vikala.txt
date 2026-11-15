@@ -35,14 +35,14 @@ r:"^範囲内の味方のＴＰを60回復展開中、範囲内の味方のＴ�
 
 
 
-やぁ！　これからどこか楽しい場所に\n案内してくれるかい？\nまだ知り合いが少ないから、きみだけが頼りなんだ！=Hey! Can you show me to a fun place?\nI don't know many people yet,\nso I can only rely on you!
-きみの人望の厚さには本当に驚かされるよ\n何か人に好かれる秘密でもあるのかな？\nまあ、そういうぼくもきみに興味津々なんだけどさ！=I'm really surprised at how popular you are.\nDo you have some kind of secret that makes\n people like you? Well, that's just how I am!
-このあと、どこか遊びにでも行かないかい？\n常に楽しさを忘れないきみの姿勢を\nそばでじっくりと見習わせてほしいんだ！=Why don't we hang out somewhere after this?\nI want you to let me take a good look at\nyour attitude, where you never forget to have fun!
-文化こそトーゴクとは違うけど、幸せや楽しさを求める\n思いに変わりはないね！　特にきみはどんなことも\n楽しんでいて、実にすばらしいよ！=Culture is different from Togoku,\nbut it doesn't change the fact that\nyou want happiness and fun! Especially you,\nwho enjoys everything! It's truly wonderful!
-ランドソルに来てしばらく経ったけど\nようやくここの暮らしにも慣れてきたところさ！\nもちろん、きみのおかげでね！=It's been a while since I came to Landosol,\nbut I've finally gotten used to life here!\nOf course, it's all thanks to you!
-ランドソルの子どもは、みんないい笑顔してるね！\nでも、きみの笑顔が一番輝いてみえるよ！\nこれからもぼくと一緒に笑おう！　せーの、ハハッ！=All the children in Landosol have great smiles!\nBut your smile shines the brightest!\nLet's keep smiling together from now on!\nOne, two, three!
-どんなにいい街でもトラブルは付き物だけど\nきみはいろんな問題を解決してきたらしいね\n女の子たちがきみを頼る気持ち、すっごく分かるよ！=No matter how good the city is, trouble comes with it,\nbut I hear you've solved a lot of problems.\nI understand why girls rely on you so much!
-きみの勤労ぶりは、まったくもってかしこみだね！\nぜひトーゴクでも働いてもらいたいくらいだ！\nその気になったら言ってね？　鼠神宮で待ってるよ！=You're a real hard worker, aren't you?!\nI'd love for you to work at Togoku!\nTell me if you feel like it, okay?\nI'll be waiting for you at Rat Shrine!
-きみと繋いだこの縁、大事にしていきたいな\nこの先も一緒に笑っていよう！\nビッキィとの約束だよ！　ハハッ！=I want to cherish this connection between us.\nLet's keep smiling together from now on!\nIt's a promise with Vicky! Haha!
-そう思えるのは、ひとえにこの街の人たち…\nそしてきみのおかげだよ！\nあの日、きみに声をかけた自分を褒めてあげたいね！=It's all thanks to the people of this city…\nand you that I feel that way!\nI want to praise myself for calling out to you that day!
-トーゴクを離れて遠い異国の地まで行くのには\nちょっとは不安もあったよ。でも、今はランドソルが\nもう一つの故郷のような気さえしてるんだ！=I was a little worried about leaving Togoku\nand going to a faraway land,\nbut now I feel like Landosol is my other home!
+やぁ！　これからどこか楽しい場所に\n案内してくれるかい？\nまだ知り合いが少ないから、きみだけが頼りなんだ！=ไง! ตอจากนี้ชวยพาเรา\nไปที่สนุกๆ สักที่ไดไหม?\nยังมีคนรูจักไมกี่คน ก็เลยพึ่งไดแคนายนี่แหละ!
+きみの人望の厚さには本当に驚かされるよ\n何か人に好かれる秘密でもあるのかな？\nまあ、そういうぼくもきみに興味津々なんだけどさ！=ความเปนที่รักของนายนี่ทำเอาเราทึ่งจริงๆ เลย\nมีเคล็ดลับที่ทำใหคนชอบอะไรรึเปลานะ?\nก็นะ ตัวเราเองก็สนใจนายสุดๆ เหมือนกันนั่นแหละ!
+このあと、どこか遊びにでも行かないかい？\n常に楽しさを忘れないきみの姿勢を\nそばでじっくりと見習わせてほしいんだ！=หลังจากนี้ ไปเที่ยวเลนที่ไหนกันไหม?\nอยากอยูใกลๆ คอยเรียนรูทัศนคติของนาย\nที่ไมเคยลืมความสนุกใหถี่ถวนเลยนะ!
+文化こそトーゴクとは違うけど、幸せや楽しさを求める\n思いに変わりはないね！　特にきみはどんなことも\n楽しんでいて、実にすばらしいよ！=วัฒนธรรมอาจตางจากดินแดนตะวันออก แตความรูสึกที่แสวงหาความสุข\nกับความสนุกนั้นไมตางกันเลย! โดยเฉพาะนายที่สนุก\nไปกับทุกเรื่อง ยอดเยี่ยมจริงๆ!
+ランドソルに来てしばらく経ったけど\nようやくここの暮らしにも慣れてきたところさ！\nもちろん、きみのおかげでね！=มาแลนดโซลไดสักพักแลว\nในที่สุดก็เริ่มชินกับชีวิตที่นี่แลวละ!\nแนนอนวาตองขอบคุณนายดวย!
+ランドソルの子どもは、みんないい笑顔してるね！\nでも、きみの笑顔が一番輝いてみえるよ！\nこれからもぼくと一緒に笑おう！　せーの、ハハッ！=เด็กๆ ในแลนดโซลยิ้มสวยกันทุกคนเลย!\nแตรอยยิ้มของนายดูเปลงประกายที่สุดเลยนะ!\nตอจากนี้ก็มาหัวเราะไปพรอมกับเรานะ! หนึ่ง สอง ฮะฮะ!
+どんなにいい街でもトラブルは付き物だけど\nきみはいろんな問題を解決してきたらしいね\n女の子たちがきみを頼る気持ち、すっごく分かるよ！=ไมวาเมืองจะดีแคไหนก็ตองมีปญหาเปนธรรมดา\nไดยินวานายแกปญหาตางๆ มาเยอะเลยนี่\nเขาใจเลยวาทำไมสาวๆ ถึงพึ่งพานาย!
+きみの勤労ぶりは、まったくもってかしこみだね！\nぜひトーゴクでも働いてもらいたいくらいだ！\nその気になったら言ってね？　鼠神宮で待ってるよ！=ความขยันของนายนี่ คาชิโคมิสุดๆ เลยนะ!\nอยากใหมาทำงานที่ดินแดนตะวันออกดวยซ้ำ!\nถาสนใจก็บอกนะ? เราจะรออยูที่ศาลเจาหนู!
+きみと繋いだこの縁、大事にしていきたいな\nこの先も一緒に笑っていよう！\nビッキィとの約束だよ！　ハハッ！=อยากทะนุถนอมสายสัมพันธที่ไดผูกกับนายนี้ไว\nตอจากนี้ก็หัวเราะไปดวยกันนะ!\nสัญญากับวิคกี้แลวนะ! ฮะฮะ!
+そう思えるのは、ひとえにこの街の人たち…\nそしてきみのおかげだよ！\nあの日、きみに声をかけた自分を褒めてあげたいね！=ที่คิดแบบนั้นได ก็เพราะผูคนในเมืองนี้…\nแลวก็นายนั่นแหละ!\nอยากชมตัวเองในวันนั้นที่ทักนายจัง!
+トーゴクを離れて遠い異国の地まで行くのには\nちょっとは不安もあったよ。でも、今はランドソルが\nもう一つの故郷のような気さえしてるんだ！=ตอนที่ตองจากดินแดนตะวันออกมายังตางแดนไกลโพน\nก็กังวลอยูบางเหมือนกันนะ แตตอนนี้กลับรูสึกวา\nแลนดโซลเปนเหมือนบานเกิดอีกแหงหนึ่งไปแลว!

@@ -559,7 +559,6 @@ Player Prompts
 
 New Titlecards
 ニセ似々花=เนเนกะตัวปลอม
-ノウェム=โนเวม
 
 Cutscene 1
 ククク……=คุกๆๆ……
