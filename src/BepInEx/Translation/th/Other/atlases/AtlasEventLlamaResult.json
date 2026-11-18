@@ -1,0 +1,49 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 66191376387527538
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -277190597121967197
+  },
+  "m_Name": "",
+  "material": {
+    "m_FileID": 0,
+    "m_PathID": 90917581554279195
+  },
+  "mSprites": [
+    {
+      "name": "global_raid_btn_damage_report",
+      "x": 278,
+      "y": 460,
+      "width": 218,
+      "height": 52,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "paddingLeft": 0,
+      "paddingRight": 0,
+      "paddingTop": 0,
+      "paddingBottom": 0
+    },
+    {
+      "name": "global_raid_btn_next",
+      "x": 0,
+      "y": 425,
+      "width": 276,
+      "height": 87,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "paddingLeft": 0,
+      "paddingRight": 0,
+      "paddingTop": 1,
+      "paddingBottom": 0
+    }
+  ],
+  "mPixelSize": 1.0
+}

@@ -1,0 +1,124 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7292756051409523395
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -277190597121967197
+  },
+  "m_Name": "",
+  "material": {
+    "m_FileID": 0,
+    "m_PathID": -2471852817161291458
+  },
+  "mSprites": [
+    {
+      "name": "diary_day_05_BG",
+      "x": 0,
+      "y": 394,
+      "width": 800,
+      "height": 630,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "paddingLeft": 0,
+      "paddingRight": 0,
+      "paddingTop": 0,
+      "paddingBottom": 0
+    },
+    {
+      "name": "diary_day_05_chroe_body",
+      "x": -6,
+      "y": 4,
+      "width": 133,
+      "height": 195,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "paddingLeft": 0,
+      "paddingRight": 0,
+      "paddingTop": 0,
+      "paddingBottom": 0
+    },
+    {
+      "name": "diary_day_05_chroe_head",
+      "x": 0,
+      "y": 201,
+      "width": 243,
+      "height": 191,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "paddingLeft": 0,
+      "paddingRight": 0,
+      "paddingTop": 0,
+      "paddingBottom": 0
+    },
+    {
+      "name": "diary_day_05_chroe_mouth_A",
+      "x": 135,
+      "y": 18,
+      "width": 9,
+      "height": 5,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "paddingLeft": 0,
+      "paddingRight": 0,
+      "paddingTop": 0,
+      "paddingBottom": 0
+    },
+    {
+      "name": "diary_day_05_chroe_mouth_B",
+      "x": 135,
+      "y": 25,
+      "width": 14,
+      "height": 15,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "paddingLeft": 0,
+      "paddingRight": 0,
+      "paddingTop": 0,
+      "paddingBottom": 0
+    },
+    {
+      "name": "diary_day_05_word_A",
+      "x": 128,
+      "y": 164,
+      "width": 206,
+      "height": 35,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "paddingLeft": 0,
+      "paddingRight": 0,
+      "paddingTop": 0,
+      "paddingBottom": 0
+    },
+    {
+      "name": "diary_day_05_word_B",
+      "x": 128,
+      "y": 48,
+      "width": 43,
+      "height": 115,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "paddingLeft": 0,
+      "paddingRight": 0,
+      "paddingTop": 0,
+      "paddingBottom": 0
+    }
+  ],
+  "mPixelSize": 1.0
+}

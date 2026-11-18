@@ -1,0 +1,124 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -956415878242538267
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -277190597121967197
+  },
+  "m_Name": "",
+  "material": {
+    "m_FileID": 0,
+    "m_PathID": -3886622673672081289
+  },
+  "mSprites": [
+    {
+      "name": "guest_font1_01_ka",
+      "x": 0,
+      "y": 360,
+      "width": 195,
+      "height": 152,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "paddingLeft": 4,
+      "paddingRight": 1,
+      "paddingTop": 41,
+      "paddingBottom": 7
+    },
+    {
+      "name": "guest_font1_02_zu",
+      "x": 197,
+      "y": 321,
+      "width": 133,
+      "height": 191,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "paddingLeft": 29,
+      "paddingRight": 38,
+      "paddingTop": 0,
+      "paddingBottom": 9
+    },
+    {
+      "name": "guest_font1_03_ma",
+      "x": 0,
+      "y": 168,
+      "width": 200,
+      "height": 151,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "paddingLeft": 0,
+      "paddingRight": 0,
+      "paddingTop": 42,
+      "paddingBottom": 7
+    },
+    {
+      "name": "guest_font1_04_sa",
+      "x": 0,
+      "y": 11,
+      "width": 170,
+      "height": 155,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "paddingLeft": 16,
+      "paddingRight": 14,
+      "paddingTop": 38,
+      "paddingBottom": 7
+    },
+    {
+      "name": "guest_font2_01_san",
+      "x": 172,
+      "y": 62,
+      "width": 132,
+      "height": 104,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "paddingLeft": 33,
+      "paddingRight": 35,
+      "paddingTop": 73,
+      "paddingBottom": 23
+    },
+    {
+      "name": "guest_font2_02_sen",
+      "x": 202,
+      "y": 184,
+      "width": 198,
+      "height": 135,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "paddingLeft": 2,
+      "paddingRight": 0,
+      "paddingTop": 42,
+      "paddingBottom": 23
+    },
+    {
+      "name": "guest_font2_03_extention",
+      "x": 332,
+      "y": 385,
+      "width": 50,
+      "height": 127,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "paddingLeft": 76,
+      "paddingRight": 74,
+      "paddingTop": 45,
+      "paddingBottom": 28
+    }
+  ],
+  "mPixelSize": 1.0
+}

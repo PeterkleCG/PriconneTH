@@ -1,0 +1,139 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1951576940910613207
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -277190597121967197
+  },
+  "m_Name": "",
+  "material": {
+    "m_FileID": 0,
+    "m_PathID": -226783167924390047
+  },
+  "mSprites": [
+    {
+      "name": "lto_btn_icon_bg_sub",
+      "x": 1807,
+      "y": 1956,
+      "width": 90,
+      "height": 92,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "paddingLeft": 1,
+      "paddingRight": 1,
+      "paddingTop": 0,
+      "paddingBottom": 0
+    },
+    {
+      "name": "lto_btn_icon_skip",
+      "x": 1984,
+      "y": 1987,
+      "width": 40,
+      "height": 26,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "paddingLeft": 0,
+      "paddingRight": 0,
+      "paddingTop": 2,
+      "paddingBottom": 2
+    },
+    {
+      "name": "lto_btn_l_sub_circle",
+      "x": 1899,
+      "y": 1962,
+      "width": 83,
+      "height": 86,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "paddingLeft": 2,
+      "paddingRight": 1,
+      "paddingTop": 0,
+      "paddingBottom": 0
+    },
+    {
+      "name": "lto_candy",
+      "x": 1445,
+      "y": 1739,
+      "width": 360,
+      "height": 309,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "paddingLeft": 0,
+      "paddingRight": 0,
+      "paddingTop": 0,
+      "paddingBottom": 0
+    },
+    {
+      "name": "lto_icon_letter",
+      "x": 1899,
+      "y": 1902,
+      "width": 81,
+      "height": 58,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "paddingLeft": 0,
+      "paddingRight": 0,
+      "paddingTop": 0,
+      "paddingBottom": 0
+    },
+    {
+      "name": "lto_icon_sound",
+      "x": 1984,
+      "y": 2015,
+      "width": 48,
+      "height": 33,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "paddingLeft": 0,
+      "paddingRight": 0,
+      "paddingTop": 1,
+      "paddingBottom": 0
+    },
+    {
+      "name": "lto_letter_01",
+      "x": 0,
+      "y": 1348,
+      "width": 1443,
+      "height": 700,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "paddingLeft": 22,
+      "paddingRight": 75,
+      "paddingTop": 92,
+      "paddingBottom": 28
+    },
+    {
+      "name": "lto_letter_mask",
+      "x": 1982,
+      "y": 1908,
+      "width": 52,
+      "height": 52,
+      "borderLeft": 10,
+      "borderRight": 10,
+      "borderTop": 10,
+      "borderBottom": 10,
+      "paddingLeft": 0,
+      "paddingRight": 0,
+      "paddingTop": 0,
+      "paddingBottom": 0
+    }
+  ],
+  "mPixelSize": 1.0
+}

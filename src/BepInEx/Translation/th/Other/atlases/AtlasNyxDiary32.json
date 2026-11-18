@@ -1,0 +1,124 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3871878640542337194
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -277190597121967197
+  },
+  "m_Name": "",
+  "material": {
+    "m_FileID": 0,
+    "m_PathID": 1056171803956659804
+  },
+  "mSprites": [
+    {
+      "name": "NyxDiary32_1",
+      "x": 0,
+      "y": 435,
+      "width": 199,
+      "height": 123,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "paddingLeft": 0,
+      "paddingRight": 0,
+      "paddingTop": 0,
+      "paddingBottom": 0
+    },
+    {
+      "name": "NyxDiary32_2",
+      "x": 598,
+      "y": 15,
+      "width": 279,
+      "height": 247,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "paddingLeft": 0,
+      "paddingRight": 0,
+      "paddingTop": 0,
+      "paddingBottom": 0
+    },
+    {
+      "name": "NyxDiary32_3",
+      "x": 0,
+      "y": 560,
+      "width": 580,
+      "height": 464,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "paddingLeft": 0,
+      "paddingRight": 0,
+      "paddingTop": 0,
+      "paddingBottom": 0
+    },
+    {
+      "name": "NyxDiary32_4",
+      "x": 879,
+      "y": 209,
+      "width": 26,
+      "height": 53,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "paddingLeft": 0,
+      "paddingRight": 0,
+      "paddingTop": 0,
+      "paddingBottom": 0
+    },
+    {
+      "name": "NyxDiary32_text",
+      "x": 0,
+      "y": 115,
+      "width": 596,
+      "height": 147,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "paddingLeft": 0,
+      "paddingRight": 0,
+      "paddingTop": 0,
+      "paddingBottom": 0
+    },
+    {
+      "name": "yuni_mk201_01",
+      "x": 582,
+      "y": 645,
+      "width": 324,
+      "height": 379,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "paddingLeft": 0,
+      "paddingRight": 0,
+      "paddingTop": 0,
+      "paddingBottom": 0
+    },
+    {
+      "name": "yuni_mk201_02",
+      "x": 582,
+      "y": 264,
+      "width": 323,
+      "height": 379,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "paddingLeft": 0,
+      "paddingRight": 0,
+      "paddingTop": 0,
+      "paddingBottom": 0
+    }
+  ],
+  "mPixelSize": 1.0
+}

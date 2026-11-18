@@ -1,0 +1,109 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4342937538417001102
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -277190597121967197
+  },
+  "m_Name": "",
+  "material": {
+    "m_FileID": 0,
+    "m_PathID": 8360037368422621439
+  },
+  "mSprites": [
+    {
+      "name": "common_badge_voted",
+      "x": 313,
+      "y": 142,
+      "width": 62,
+      "height": 46,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "paddingLeft": 0,
+      "paddingRight": 0,
+      "paddingTop": 4,
+      "paddingBottom": 4
+    },
+    {
+      "name": "common_texticon_interval_orange",
+      "x": 313,
+      "y": 112,
+      "width": 36,
+      "height": 28,
+      "borderLeft": 13,
+      "borderRight": 13,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "paddingLeft": 0,
+      "paddingRight": 0,
+      "paddingTop": 0,
+      "paddingBottom": 0
+    },
+    {
+      "name": "Effect_Spotlight",
+      "x": 0,
+      "y": 512,
+      "width": 256,
+      "height": 512,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "paddingLeft": 0,
+      "paddingRight": 0,
+      "paddingTop": 0,
+      "paddingBottom": 0
+    },
+    {
+      "name": "popularityvote_rank1",
+      "x": 0,
+      "y": 23,
+      "width": 311,
+      "height": 165,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "paddingLeft": 17,
+      "paddingRight": 8,
+      "paddingTop": 7,
+      "paddingBottom": 0
+    },
+    {
+      "name": "popularityvote_rank2",
+      "x": 0,
+      "y": 351,
+      "width": 312,
+      "height": 159,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "paddingLeft": 12,
+      "paddingRight": 12,
+      "paddingTop": 13,
+      "paddingBottom": 0
+    },
+    {
+      "name": "popularityvote_rank3",
+      "x": 0,
+      "y": 190,
+      "width": 312,
+      "height": 159,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "paddingLeft": 12,
+      "paddingRight": 12,
+      "paddingTop": 13,
+      "paddingBottom": 0
+    }
+  ],
+  "mPixelSize": 1.0
+}
