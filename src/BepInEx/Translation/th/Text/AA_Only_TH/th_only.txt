@@ -605,7 +605,7 @@ OK=ตกลง
 光=เเสง
 闇=มืด
 ##メニュー=เมนู
-データ\r\n連携=โอนยายขอมูล
+
 スタミナ\r\n受取対象外=ไมรับสเตมินา
 データ\r\n連携=เชื่อมตอขอมูล
 /_Game(Clone)/UI Root/ViewsArea/PartsFooter(Clone)/SlideBottom/ButtonHome/Normal/Label=font_nunitoextrabold
