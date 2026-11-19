@@ -2,6 +2,140 @@
 
 ดูรายละเอียดแต่ละเวอร์ชั่นพร้อมไฟล์ดาวน์โหลดที่ [**Releases**](https://github.com/PeterkleCG/PriconneTH/releases)
 
+## V5.0.0
+
+- เปลี่ยนเลขเวอร์ชันเป็น v5.0.0
+- แก้ตัวอักษรแปลก (PUA) และปรับคำแปลตัวละคร, Boss, ระบบ Rental party, Schedule book และ Error codes
+
+Full Changelog: [v4.1.4b...v5.0.0](https://github.com/PeterkleCG/PriconneTH/compare/v4.1.4b...v5.0.0)
+
+## V4.1.4
+
+- แปลเนื้อเรื่องตัวละคร (Chara Story) และเนื้อเรื่องเพิ่มเติม
+- ดึงคำแปลใหม่จากต้นฉบับอังกฤษ + ปรับ Framework และแก้หน้า Home Screen
+- จัดชื่อไฟล์ข้อความใหม่และอัปเดตภาพ Texture / แบนเนอร์
+
+Full Changelog: [v4.1.3...v4.1.4](https://github.com/PeterkleCG/PriconneTH/compare/v4.1.3...v4.1.4)
+
+## V4.1.3
+
+- แปลอีเวนต์ Uma (รวมอีเวนต์ 35 และ Almond Eye)
+- เพิ่มภาพแบนเนอร์ภาษาไทย (Banner / Gacha) และอัปเดต Atlas อีเวนต์
+- แก้คำแปลหลายจุด
+
+Full Changelog: [v4.1.2...v4.1.3](https://github.com/PeterkleCG/PriconneTH/compare/v4.1.2...v4.1.3)
+
+## V4.1.2
+
+- เพิ่มโลโก้อีเวนต์ Uma
+- ดึงคำแปลใหม่จากต้นฉบับอังกฤษ + ปรับ Framework
+- อัปเดตคำแปลร้านค้า Caravan และชื่อตัวละคร
+
+Full Changelog: [v4.1.1...v4.1.2](https://github.com/PeterkleCG/PriconneTH/compare/v4.1.1...v4.1.2)
+
+## V4.1.1
+
+- แก้คำแปลอีเวนต์และเนื้อเรื่อง
+- เพิ่มภาพชื่อบัดดี้ Caravan และอัปเดตหน้า Login board
+- ปรับปลั๊กอิน AlphaSwap
+- ดึงคำแปลใหม่จากต้นฉบับอังกฤษ + อัปเดตข้อมูลยูนิต
+
+Full Changelog: [v4.1.0...v4.1.1](https://github.com/PeterkleCG/PriconneTH/compare/v4.1.0...v4.1.1)
+
+## V4.1.0
+
+- เพิ่มปลั๊กอิน AlphaSwap สำหรับสลับภาพ
+- แปลระบบ Caravan และแก้คำแปลเมนู
+- แปลอีเวนต์ 76-84.5 และ 89 + แก้ตัวอักษรแปลก (PUA)
+- แปลเนื้อเรื่อง Arc 4 เพิ่มเติม
+- อัปเดตภาพ Atlas / Texture ภาษาไทยจำนวนมาก
+
+Full Changelog: [v4.0.1...v4.1.0](https://github.com/PeterkleCG/PriconneTH/compare/v4.0.1...v4.1.0)
+
+## V4.0.1
+
+- แก้คำแปลยูนิต (รวมชื่อ Anemone) และเนื้อเรื่อง
+- ดึงคำแปลใหม่จากต้นฉบับอังกฤษ + ปรับ Framework
+- อัปเดตภาพ Atlas / Texture ภาษาไทยเพิ่มเติม
+
+Full Changelog: [v4.0.0...v4.0.1](https://github.com/PeterkleCG/PriconneTH/compare/v4.0.0...v4.0.1)
+
+## V4.0.0
+
+- เปลี่ยนฟอนต์ภาษาไทยใหม่ + แก้ปัญหาวรรณยุกต์ลอย
+- แก้คำแปลสกิลและข้อความจำนวนมากให้สอดคล้องกัน (ปรับกว่า 900 ไฟล์ข้อความ)
+
+Full Changelog: [v3.4.2...v4.0.0](https://github.com/PeterkleCG/PriconneTH/compare/v3.4.2...v4.0.0)
+
+## V3.4.2
+
+- แปลเนื้อเรื่อง Arc 4 (Part 4 Chapter 1) เพิ่มเติม
+- แก้คำแปลเนื้อเรื่อง Arc 2 และ Arc 3
+- เพิ่มคำแปลอีเวนต์ 71 และอัปเดตข้อความระบบ (Synthesis)
+- แก้คำแปลยูนิตและอัปเดต Atlas / Texture
+- ดึงคำแปลใหม่จากต้นฉบับอังกฤษ
+
+Full Changelog: [v3.4.1...v3.4.2](https://github.com/PeterkleCG/PriconneTH/compare/v3.4.1...v3.4.2)
+
+## V3.4.1
+
+- อัปเดตภาพ Atlas ภาษาไทย
+- แปลเนื้อเรื่อง Arc 4 (เนื้อเรื่อง/ระบบ) และอัปเดต Story
+- ดึงคำแปลใหม่จากต้นฉบับอังกฤษ + อัปเดตข้อความตัวละคร
+
+Full Changelog: [v3.4.0...v3.4.1](https://github.com/PeterkleCG/PriconneTH/compare/v3.4.0...v3.4.1)
+
+## V3.4.0
+
+- อัปเดตคำแปลภาษาไทยครั้งใหญ่ + ปรับ Framework
+- เพิ่มข้อมูลเนื้อเรื่องภาษาไทยจำนวนมาก (storydata)
+- เพิ่มและอัปเดตภาพ Texture ภาษาไทย (เช่น ภาพ Battle Skip)
+
+Full Changelog: [v3.3.2...v3.4.0](https://github.com/PeterkleCG/PriconneTH/compare/v3.3.2...v3.4.0)
+
+## V3.3.2
+
+- แปลเนื้อเรื่อง Story Arc 2 ภาษาไทย
+- แก้คำแปลหน้า Labyrinth, Caravan และข้อความอื่น ๆ
+- ดึงคำแปลใหม่จากต้นฉบับอังกฤษ + ปรับ Framework
+- เพิ่มโลโก้ Clan Battle และอัปเดตปลั๊กอินแปลภาษา
+
+Full Changelog: [v3.3.1...v3.3.2](https://github.com/PeterkleCG/PriconneTH/compare/v3.3.1...v3.3.2)
+
+## V3.3.1
+
+- เพิ่มและอัปเดตภาพ Texture ภาษาไทยอีกชุดใหญ่ (ภาพคอมิก ฯลฯ)
+- อัปเดตคำแปลทิป (Tips) และแก้คำแปลหลายจุด
+
+Full Changelog: [v3.3.0...v3.3.1](https://github.com/PeterkleCG/PriconneTH/compare/v3.3.0...v3.3.1)
+
+## V3.3.0
+
+- อัปเดตภาพ Texture ภาษาไทยจำนวนมาก (Atlas และภาพหน้าอีเวนต์)
+- เพิ่มข้อมูลเนื้อเรื่องภาษาไทย (storydata)
+- ดึงคำแปลใหม่จากต้นฉบับอังกฤษ + อัปเดตชื่อยูนิต
+- แก้คำแปลหลายจุด
+
+Full Changelog: [v3.2.1...v3.3.0](https://github.com/PeterkleCG/PriconneTH/compare/v3.2.1...v3.3.0)
+
+## V3.2.1
+
+- อัปเดตคำแปลอีเวนต์
+- แก้คำแปลสกิลและข้อความตัวละคร
+- เพิ่มและอัปเดตภาพ Atlas (เมนูเนื้อเรื่อง, ร้านค้า, เควสต์)
+
+Full Changelog: [v3.2.0...v3.2.1](https://github.com/PeterkleCG/PriconneTH/compare/v3.2.0...v3.2.1)
+
+## V3.2.0
+
+- แปลเนื้อเรื่อง Story Arc 3 (บทที่ 3-15) และอัปเดตเนื้อเรื่องอื่นเพิ่มเติม
+- อัปเดตคำแปลอีเวนต์ (รวมอีเวนต์ 102), Raid Vision และ GuildHouse
+- อัปเดตคำแปลสกิลและข้อมูลยูนิต
+- ดึงคำแปลใหม่จากต้นฉบับอังกฤษ (v20260912) และปรับ Framework
+- อัปเดตภาพ Atlas / Texture ภาษาไทย
+
+Full Changelog: [v3.1.4...v3.2.0](https://github.com/PeterkleCG/PriconneTH/compare/v3.1.4...v3.2.0)
+
 ## V3.1.4
 
 - ดึงคำแปลใหม่จากต้นฉบับอังกฤษ (v20260905)
