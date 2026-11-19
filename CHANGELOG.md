@@ -9,6 +9,21 @@
 
 Full Changelog: [v4.1.4b...v5.0.0](https://github.com/PeterkleCG/PriconneTH/compare/v4.1.4b...v5.0.0)
 
+## V4.1.4b
+
+- แปลเนื้อเรื่องตัวละคร (Chara Story) เพิ่มเติม + เพิ่มชื่อตัวละคร
+- แก้คำแปลภาษาไทยจำนวนมาก (กว่า 1,000 ไฟล์ข้อความ)
+- เพิ่มข้อมูลเนื้อเรื่อง (storydata) และภาพแบนเนอร์ภาษาไทย
+- อัปเดตปลั๊กอิน GoogleTranslate
+
+Full Changelog: [v4.1.4a...v4.1.4b](https://github.com/PeterkleCG/PriconneTH/compare/v4.1.4a...v4.1.4b)
+
+## V4.1.4a
+
+- แก้ข้อความหน้า Settings และ BattleLog
+
+Full Changelog: [v4.1.4...v4.1.4a](https://github.com/PeterkleCG/PriconneTH/compare/v4.1.4...v4.1.4a)
+
 ## V4.1.4
 
 - แปลเนื้อเรื่องตัวละคร (Chara Story) และเนื้อเรื่องเพิ่มเติม
