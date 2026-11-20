@@ -15,12 +15,17 @@ const REPO = process.env.REPO || 'PeterkleCG/PriconneTH';
 const DIR = path.join(__dirname, '..', '..', 'release-notes');
 const OUT = path.join(__dirname, '..', '..', 'CHANGELOG.md');
 
-const files = fs.readdirSync(DIR).filter((f) => /^v\d+\.\d+\.\d+\.md$/.test(f));
+const files = fs.readdirSync(DIR).filter((f) => /^v\d+\.\d+\.\d+[a-z]?\.md$/.test(f));
+const key = (n) => {
+  const m = n.match(/^v(\d+)\.(\d+)\.(\d+)([a-z]?)\.md$/);
+  return [+m[1], +m[2], +m[3], m[4]];
+};
 files.sort((a, b) => {
-  const pa = a.replace(/^v|\.md$/g, '').split('.').map(Number);
-  const pb = b.replace(/^v|\.md$/g, '').split('.').map(Number);
+  const pa = key(a);
+  const pb = key(b);
   for (let i = 0; i < 3; i++) if (pb[i] !== pa[i]) return pb[i] - pa[i];
-  return 0;
+  // letter suffix (v4.1.4a, v4.1.4b) is newer than the bare release; b before a, both before bare
+  return pa[3] < pb[3] ? 1 : pa[3] > pb[3] ? -1 : 0;
 });
 
 let out = `# Changelog\n\nดูรายละเอียดแต่ละเวอร์ชั่นพร้อมไฟล์ดาวน์โหลดที่ [**Releases**](https://github.com/${REPO}/releases)\n\n`;
